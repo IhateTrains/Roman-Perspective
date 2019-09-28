@@ -31,7 +31,7 @@ character_event = {
 			unsafe_religion = catholic
 		}
 		catholic = { set_religion_head = k_papal_state }
-		any_province = {
+		any_province = { #convert provinces
 			limit = { #for testing, can be made more dynamic later
 				religion = orthodox
 				OR = {
@@ -42,7 +42,32 @@ character_event = {
 			}
 			religion = catholic
 		}
-		any_character = {
+		any_mercenary_band = { #convert mercenaries
+			limit = {
+				religion = orthodox
+				capital_scope = {
+					religion = catholic #capital converted to catholic on schism
+				}
+			}
+			religion = catholic
+			holder_scope = {
+				religion = catholic
+			}
+		}
+		any_landed_title = { #convert holy orders
+			limit = {
+				religion = orthodox
+				holy_order = yes
+				capital_scope = {
+					religion = catholic #capital converted to catholic on schism
+				}
+			}
+			religion = catholic
+			holder_scope = {
+				religion = catholic
+			}
+		}
+		any_character = { #convert characters
 			limit = { #for testing, can be made more dynamic later
 				religion = orthodox
 				location = {

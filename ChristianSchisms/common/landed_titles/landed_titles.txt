@@ -944,7 +944,7 @@ d_knights_templar = {
 	culture = frankish
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	# Cannot be held as a secondary title
 	primary = yes
@@ -972,7 +972,7 @@ d_teutonic_order = {
 	mercenary_type = teutonic_order_composition
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	culture = german
 	
@@ -1000,7 +1000,7 @@ k_teutonic_state = {
 	assimilate = no
 
 	# Parent Religion
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 
 	culture = german
 
@@ -1023,7 +1023,7 @@ d_livonian_order = {
 	short_name = yes
 
 	# Parent Religion
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 
 	culture = german
 
@@ -1054,7 +1054,7 @@ d_knights_hospitaler = {
 	culture = occitan
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	# Cannot be held as a secondary title
 	primary = yes
@@ -1545,7 +1545,7 @@ d_knights_santiago = {
 	culture = castillan
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	# Cannot be held as a secondary title
 	primary = yes
@@ -1575,7 +1575,7 @@ d_knights_calatrava = {
 	culture = castillan
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	# Cannot be held as a secondary title
 	primary = yes
@@ -2099,7 +2099,7 @@ d_white_company = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -2140,7 +2140,7 @@ d_great_company = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -2180,7 +2180,7 @@ d_company_of_st_george = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -2220,7 +2220,7 @@ d_star_company = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -2260,7 +2260,7 @@ d_little_hat_company = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -2300,7 +2300,7 @@ d_rose_company = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -2343,7 +2343,7 @@ d_catalan_company = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	culture = catalan
 
 	title = "CONDOTTIERO"
@@ -2387,7 +2387,7 @@ d_navarrese_company = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	culture = basque
 
 	# Always exists
@@ -2423,7 +2423,7 @@ d_swiss_company = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -2463,7 +2463,7 @@ d_breton_company = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	culture = breton
 	
 	mercenary = yes
@@ -2504,7 +2504,7 @@ d_sardinian_company = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	culture = italian
 	
 	mercenary = yes
@@ -2545,7 +2545,7 @@ d_sardinian_band = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	culture = italian
 	
@@ -2595,7 +2595,7 @@ d_victual_brothers = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 	mercenary_type = victual_brothers_composition
@@ -2829,7 +2829,7 @@ d_lombard_band = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -2869,7 +2869,7 @@ d_swiss_band = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -2909,7 +2909,7 @@ d_breton_band = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	culture = breton
 	
@@ -2954,7 +2954,7 @@ d_catalan_band = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	culture = catalan
 
@@ -3002,7 +3002,7 @@ d_saxon_band = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	culture = saxon
 
@@ -3343,7 +3343,7 @@ d_scottish_band = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	culture = scottish
 	
@@ -3378,7 +3378,7 @@ d_irish_band = {
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	culture = irish
 	
@@ -3587,7 +3587,7 @@ d_venetian_navy = { # Now "Adriatic Galleys"
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -3628,7 +3628,7 @@ d_genoese_navy = { # Now "Ligurian Galleys"
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -3669,7 +3669,7 @@ d_hanseatic_navy = { # Now "Baltic Cogs"
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 
@@ -3710,7 +3710,7 @@ d_frisian_navy = { # Now "North Sea Cogs"
 	}
 	
 	# Parent Religion 
-	religion = catholic
+	religion = orthodox #ChristianSchisms mod
 	
 	mercenary = yes
 

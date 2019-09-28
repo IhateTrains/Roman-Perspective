@@ -96,5 +96,7 @@ character_event = {
 				set_government_type = theocracy_government
 			}
 		}
+		
+		set_global_flag = ChristianSchisms_great_schism_happened
 	}
 }

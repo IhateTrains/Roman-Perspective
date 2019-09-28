@@ -1,0 +1,36 @@
+defined_text = {
+	name = GetOrthodoxDesc
+	
+	text = {
+		trigger = {
+			NOT = { has_global_flag = ChristianSchisms_great_schism_happened }
+		}
+		localisation_key = string_orthodox_DESC_1_chalcedonian
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_global_flag = ChristianSchisms_great_schism_happened
+			}
+		}
+		localisation_key = string_orthodox_DESC_2_post_schism_bookmark
+	}
+}
+defined_text = {
+	name = GetOrthodoxName
+	
+	text = {
+		trigger = {
+			NOT = { has_global_flag = ChristianSchisms_great_schism_happened }
+		}
+		localisation_key = String_Chalcedonian
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_global_flag = ChristianSchisms_great_schism_happened
+			}
+		}
+		localisation_key = String_Orthodox
+	}
+}

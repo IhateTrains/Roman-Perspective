@@ -352,6 +352,7 @@
 		}
 		catholic = { set_religion_head = k_papal_state }
 	}
+	set_global_flag = ChristianSchisms_great_schism_happened
 }
 1058.11.2={
 	holder=70540

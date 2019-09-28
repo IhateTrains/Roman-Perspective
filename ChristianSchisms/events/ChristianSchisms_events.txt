@@ -1,0 +1,73 @@
+
+namespace = RevampedSchism
+
+########################
+#
+# Schism events
+#
+########################
+#
+# by IhateTrains
+#
+################################
+
+character_event = {
+	id = RevampedSchism.001
+
+	hide_window = yes
+
+	is_triggered_only = yes
+
+	immediate = {
+		orthodox = { set_religion_head = k_orthodox }
+		k_papal_state = {
+			holder_scope = {
+				set_character_flag = plox_gib_theocracy_after_schism
+				set_government_type = fake_theocracy_government
+				unsafe_religion = catholic
+				clr_character_flag = plox_gib_theocracy_after_schism
+				set_government_type = theocracy_government
+			}
+			unsafe_religion = catholic
+		}
+		catholic = { set_religion_head = k_papal_state }
+		any_province = {
+			limit = { #for testing, can be made more dynamic later
+				religion = orthodox
+				OR = {
+					region = world_europe_south_italy
+					region = world_europe_west
+				}
+				
+			}
+			religion = catholic
+		}
+		any_character = {
+			limit = { #for testing, can be made more dynamic later
+				religion = orthodox
+				location = {
+					OR = {
+						region = world_europe_south_italy
+						region = world_europe_west
+					}
+				}
+				
+			}
+			if = { # change the priests' government before conversion
+				limit = {
+					is_priest = yes
+				}
+				set_character_flag = plox_gib_theocracy_after_schism
+				set_government_type = fake_theocracy_government
+			}
+			unsafe_religion = catholic
+			if = { # restore the priests' government after conversion
+				limit = {
+					has_character_flag = plox_gib_theocracy_after_schism
+				}
+				clr_character_flag = plox_gib_theocracy_after_schism
+				set_government_type = theocracy_government
+			}
+		}
+	}
+}

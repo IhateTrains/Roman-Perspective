@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_mend_chalcedonian_schism"
+		texturefile = "gfx\\interface\\decision_icon_mend_great_schism.dds"
+	}
+	spriteType = {
+		name = "GFX_mend_nestorian_schism"
+		texturefile = "gfx\\interface\\decision_icon_mend_great_schism.dds"
+	}
+}

@@ -5,11 +5,14 @@ String_Chalcedonian;Chalcedonian;;;;;;;;;;;;;;x
 EVTTOOLTIPChalcedonianSchism.001;The Chalcedonian Schism is mended and Christendom reunited.;;;;;;;;;;;;;x
 ChalcedonianSchism.001.title;The Chalcedonian Schism Mended;;;;;;;;;;;;;x
 ChalcedonianSchism.001.desc;At last the Chalcedonian Schism between the Chalcedonian Church and the Oriental Orthodox Churches has been mended. With the spread of recognition of the Council of Chalcedon, the Miaphysite faith now holds little sway over the people. There will be those who still cling to it, but they will be few in number and the united Chalcedonian Church can once more claim universal rule over all of Christendom.;;;;;;;;;;;;;x
-ChalcedonianSchism.002.a;If that's the way the wind is blowing...;Si c'est ainsi que le vent souffle...;Daher also weht der Wind ...;;Si esto es la direcciÃ³n que el viento estÃ¡ soplando ...;;;;;;;;;x
-ChalcedonianSchism.002.b;I will never give up my faith!;Jamais je ne renierai ma foiÂ !;Ich werde meinen Glauben niemals aufgeben!;;Ë‡Nunca abandonarÃ© mi fe!;;;;;;;;;x
-
+ChalcedonianSchism.002.a;If that's the way the wind is blowing...;Si c'est ainsi que le vent souffle...;Daher also weht der Wind ...;;Si esto es la dirección que el viento está soplando ...;;;;;;;;;x
+ChalcedonianSchism.002.b;I will never give up my faith!;Jamais je ne renierai ma foi !;Ich werde meinen Glauben niemals aufgeben!;;¡Nunca abandonaré mi fe!;;;;;;;;;x
 EVTTOOLTIPNestorianSchism.001;The Nestorian Schism is mended and Christendom reunited.;;;;;;;;;;;;;x
 EVTTOOLTIPNestorianSchism.001.title;The Nestorian Schism Mended;;;;;;;;;;;;;x
 EVTTOOLTIPNestorianSchism.001.desc;At last the Nestorian Schism between the Chalcedonian Church and the Church of the East has been mended. With the spread of recognition of the Council of Ephesus and rejection of the teachings of Nestorius, the Nestorian faith now holds little sway over the people. There will be those who still cling to it, but they will be few in number and the united Nicene Church can once more claim universal rule over all of Christendom.;;;;;;;;;;;;;x
-EVTTOOLTIPNestorianSchism.002.a;If that's the way the wind is blowing...;Si c'est ainsi que le vent souffle...;Daher also weht der Wind ...;;Si esto es la direcciÃ³n que el viento estÃ¡ soplando ...;;;;;;;;;x
-EVTTOOLTIPNestorianSchism.002.b;I will never give up my faith!;Jamais je ne renierai ma foiÂ !;Ich werde meinen Glauben niemals aufgeben!;;Ë‡Nunca abandonarÃ© mi fe!;;;;;;;;;x
+EVTTOOLTIPNestorianSchism.002.a;If that's the way the wind is blowing...;Si c'est ainsi que le vent souffle...;Daher also weht der Wind ...;;Si esto es la dirección que el viento está soplando ...;;;;;;;;;x
+EVTTOOLTIPNestorianSchism.002.b;I will never give up my faith!;Jamais je ne renierai ma foi !;Ich werde meinen Glauben niemals aufgeben!;;¡Nunca abandonaré mi fe!;;;;;;;;;x
+mend_chalcedonian_schism;Mend the Chalcedonian Schism;;;;;;;;;;;;;x
+mend_chalcedonian_schism_desc;The Chalcedonian Schism saw the Christian Church divided into two branches, but if some of the Miaphysite centers could be restored under the [GetOrthodoxName] faith, there may be a chance to finally reunite Christendom.;;;;;;;;;;;;;x
+mend_nestorian_schism;Mend the Nestorian Schism;;;;;;;;;;;;;x
+mend_nestorian_schism_desc;The Nestorian Schism saw the Nestorian Church of the East separated from the Mother Church, but if some of the Nestorian centers could be restored under the [GetOrthodoxName] faith, there may be a chance to finally reunite Christendom.;;;;;;;;;;;;;x

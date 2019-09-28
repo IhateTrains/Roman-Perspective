@@ -4,6 +4,14 @@ defined_text = {
 	text = {
 		trigger = {
 			NOT = { has_global_flag = ChristianSchisms_great_schism_happened }
+			has_global_flag = nestorian_schism_mended
+		}
+		localisation_key = string_orthodox_DESC_3_nicene
+	}
+	text = {
+		trigger = {
+			NOT = { has_global_flag = ChristianSchisms_great_schism_happened }
+			NOT = { has_global_flag = nestorian_schism_mended }
 		}
 		localisation_key = string_orthodox_DESC_1_chalcedonian
 	}
@@ -22,14 +30,20 @@ defined_text = {
 	text = {
 		trigger = {
 			NOT = { has_global_flag = ChristianSchisms_great_schism_happened }
+			has_global_flag = nestorian_schism_mended
+		}
+		localisation_key = String_Nicene
+	}
+	text = {
+		trigger = {
+			NOT = { has_global_flag = ChristianSchisms_great_schism_happened }
+			NOT = { has_global_flag = nestorian_schism_mended }
 		}
 		localisation_key = String_Chalcedonian
 	}
 	text = {
 		trigger = {
-			OR = {
-				has_global_flag = ChristianSchisms_great_schism_happened
-			}
+			has_global_flag = ChristianSchisms_great_schism_happened
 		}
 		localisation_key = String_Orthodox
 	}

@@ -1,0 +1,351 @@
+decisions = {
+	mend_chalcedonian_schism = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 24
+		
+		potential = {
+			has_dlc = "Legacy of Rome"
+			is_playable = yes
+			is_adult = yes
+			prisoner = no
+			independent = yes
+			NOT = { trait = incapable }
+			OR = {
+				religion = orthodox
+				religion = paulician
+				religion = monothelite
+				religion = iconoclast
+			}
+			OR = {
+				has_landed_title = e_byzantium
+				has_landed_title = e_roman_empire
+			}
+			is_heretic = no
+			NOT = { has_global_flag = chalcedonian_schism_mended }
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			piety = 2000
+			religion_authority = 0.9
+			completely_controls = c_byzantion
+			b_hagiasophia = {
+				custom_tooltip = { # Custom tooltip to shorten the in-game tooltip
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			completely_controls = c_antiocheia
+			b_antiocheia = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			completely_controls = c_jerusalem
+			b_jerusalem = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			completely_controls = c_alexandria
+			b_alexandria = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			completely_controls = c_roma
+			b_roma = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			#also holds Aksum and Dwin holy sites are held by the Chalcedonians/Orthodox
+			b_aksum = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			b_etchmiadzin = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			narrative_event = { id = ChalcedonianSchism.001 tooltip = EVTTOOLTIPChalcedonianSchism.001}
+			set_global_flag = chalcedonian_schism_mended
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	mend_nestorian_schism = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 24
+		
+		potential = {
+			has_dlc = "Legacy of Rome"
+			is_playable = yes
+			is_adult = yes
+			prisoner = no
+			independent = yes
+			NOT = { trait = incapable }
+			OR = {
+				religion = orthodox
+				religion = paulician
+				religion = monothelite
+				religion = iconoclast
+			}
+			OR = {
+				has_landed_title = e_byzantium
+				has_landed_title = e_roman_empire
+			}
+			is_heretic = no
+			NOT = { has_global_flag = nestorian_schism_mended }
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		allow = {
+			piety = 2000
+			religion_authority = 0.9
+			completely_controls = c_byzantion
+			b_hagiasophia = {
+				custom_tooltip = { # Custom tooltip to shorten the in-game tooltip
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			completely_controls = c_antiocheia
+			b_antiocheia = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			completely_controls = c_jerusalem
+			b_jerusalem = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			completely_controls = c_alexandria
+			b_alexandria = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			completely_controls = c_roma
+			b_roma = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			#also Aksum and Dwin holy sites are held by the Chalcedonians/Orthodox
+			b_aksum = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			b_etchmiadzin = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			#also two Nestorian holy sites are held by Chalcedonians/Orthodox (maybe more should be required?)
+			b_bagdad = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+			b_kaladi = {
+				custom_tooltip = {
+					text = mend_the_schism_holder_religion
+					hidden_tooltip = {
+						holder_scope = {
+							OR = {
+								religion = orthodox
+								religion = paulician
+								religion = monothelite
+								religion = iconoclast
+							}
+							is_heretic = no
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			narrative_event = { id = NestorianSchism.001 tooltip = EVTTOOLTIPNestorianSchism.001 }
+			set_global_flag = nestorian_schism_mended
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

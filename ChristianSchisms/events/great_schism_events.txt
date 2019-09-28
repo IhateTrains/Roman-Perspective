@@ -1,9 +1,9 @@
 
-namespace = RevampedSchism
+namespace = GreatSchism
 
 ########################
 #
-# Schism events
+# Great Schism events
 #
 ########################
 #
@@ -12,7 +12,7 @@ namespace = RevampedSchism
 ################################
 
 character_event = {
-	id = RevampedSchism.001
+	id = GreatSchism.001
 
 	hide_window = yes
 

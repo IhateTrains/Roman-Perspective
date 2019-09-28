@@ -1,0 +1,93 @@
+
+namespace = ChalcedonianSchism
+
+########################
+#
+# Chalcedonian Schism events
+#
+########################
+#
+# by IhateTrains
+#
+################################
+
+### The Chalcedonian Schism Mended
+
+# The Schism Mended
+narrative_event = {
+	id = ChalcedonianSchism.001
+	title = ChalcedonianSchism.001.title
+	desc = ChalcedonianSchism.001.desc
+	
+	picture = GFX_evt_icon
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTALoR.200
+
+		if = {
+			limit = { religion = orthodox }
+			set_parent_religion = { religion = miaphysite parent = orthodox }
+			set_parent_religion = { religion = monophysite parent = orthodox }
+		}
+		if = {
+			limit = { religion = monothelite }
+			set_parent_religion = { religion = miaphysite parent = monothelite }
+			set_parent_religion = { religion = monophysite parent = monothelite }
+		}
+		if = {
+			limit = { religion = iconoclast }
+			set_parent_religion = { religion = miaphysite parent = iconoclast }
+			set_parent_religion = { religion = monophysite parent = iconoclast }
+		}
+		if = {
+			limit = { religion = paulician }
+			set_parent_religion = { religion = miaphysite parent = paulician }
+			set_parent_religion = { religion = monophysite parent = paulician }
+		}
+
+		set_global_flag = chalcedonian_schism_mended
+		give_nickname = nick_the_saint
+		hidden_tooltip = {
+			any_playable_ruler = {
+				limit = {
+					religion = miaphysite
+					controls_religion = no
+				}
+				narrative_event = { id = ChalcedonianSchism.002 }
+			}
+		}
+	}
+}
+
+# Convert or Not?
+narrative_event = {
+	id = ChalcedonianSchism.002
+	title = ChalcedonianSchism.001.title
+	desc = ChalcedonianSchism.001.desc
+	
+	picture = GFX_evt_icon
+	
+	is_triggered_only = yes
+	
+	option = { # Yes
+		name = ChalcedonianSchism.002.a
+		ai_chance = { factor = 75 }
+		religion = FROM
+		any_courtier = {
+			limit = {
+				religion = miaphysite
+				liege = { character = ROOT }
+			}
+			religion = FROM
+		}
+		capital_scope = {
+			religion = FROM
+		}
+	}
+	option = { # No
+		name = ChalcedonianSchism.002.b
+		ai_chance = { factor = 25 }
+	}
+}

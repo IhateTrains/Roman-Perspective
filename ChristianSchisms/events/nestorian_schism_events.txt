@@ -1,0 +1,93 @@
+
+namespace = NestorianSchism
+
+########################
+#
+# Nestorian Schism events
+#
+########################
+#
+# by IhateTrains
+#
+################################
+
+### The Nestorian Schism Mended
+
+# The Schism Mended
+narrative_event = {
+	id = NestorianSchism.001
+	title = NestorianSchism.001.title
+	desc = NestorianSchism.001.desc
+	
+	picture = GFX_evt_icon
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTALoR.200
+
+		if = {
+			limit = { religion = orthodox }
+			set_parent_religion = { religion = nestorian parent = orthodox }
+			set_parent_religion = { religion = messalian parent = orthodox }
+		}
+		if = {
+			limit = { religion = monothelite }
+			set_parent_religion = { religion = nestorian parent = monothelite }
+			set_parent_religion = { religion = messalian parent = monothelite }
+		}
+		if = {
+			limit = { religion = iconoclast }
+			set_parent_religion = { religion = nestorian parent = iconoclast }
+			set_parent_religion = { religion = messalian parent = iconoclast }
+		}
+		if = {
+			limit = { religion = paulician }
+			set_parent_religion = { religion = nestorian parent = paulician }
+			set_parent_religion = { religion = messalian parent = paulician }
+		}
+
+		set_global_flag = nestorian_schism_mended
+		give_nickname = nick_the_saint
+		hidden_tooltip = {
+			any_playable_ruler = {
+				limit = {
+					religion = nestorian
+					controls_religion = no
+				}
+				narrative_event = { id = NestorianSchism.002 }
+			}
+		}
+	}
+}
+
+# Convert or Not?
+narrative_event = {
+	id = NestorianSchism.002
+	title = NestorianSchism.001.title
+	desc = NestorianSchism.001.desc
+	
+	picture = GFX_evt_icon
+	
+	is_triggered_only = yes
+	
+	option = { # Yes
+		name = NestorianSchism.002.a
+		ai_chance = { factor = 75 }
+		religion = FROM
+		any_courtier = {
+			limit = {
+				religion = nestorian
+				liege = { character = ROOT }
+			}
+			religion = FROM
+		}
+		capital_scope = {
+			religion = FROM
+		}
+	}
+	option = { # No
+		name = NestorianSchism.002.b
+		ai_chance = { factor = 25 }
+	}
+}

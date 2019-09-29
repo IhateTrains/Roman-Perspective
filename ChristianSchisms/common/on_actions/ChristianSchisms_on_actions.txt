@@ -1,0 +1,5 @@
+on_host_change = {
+	events = {
+		ChrSchMaintenance.1 # Convert Catholic characters which appear before the Great Schism
+	}
+}

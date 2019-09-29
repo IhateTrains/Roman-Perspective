@@ -1,0 +1,19 @@
+namespace = ChrSchMaintenance
+
+# Convert Catholic characters which appear before the Great Schism
+character_event = {
+	id = ChrSchMaintenance.1
+	
+	hide_window = yes
+	is_triggered_only = yes #on_host_change on-action
+	
+	religion = catholic
+	
+	trigger = {
+		NOT = { has_global_flag = ChristianSchisms_great_schism_happened }
+	}
+	
+	immediate = {
+		religion = orthodox
+	}
+}

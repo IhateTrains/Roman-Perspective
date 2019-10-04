@@ -1,0 +1,1001 @@
+namespace = Plus
+
+################################################
+# SCHISM EVENTS
+# Originally written by Hansol "LumberKing" Lee
+# Adapted/Revised by Rylock
+################################################
+
+################################################
+# CHALCEDONIAN EVENTS
+# Written by Rylock
+# Adapted for Christian Schisms mod by IhateTrains
+################################################
+
+### LEAD UP TO THE SCHISM
+
+# Pope anoints an Emperor as the new Roman Emperor
+narrative_event = {
+	id = Plus.2278
+	title = EVTNAME_Plus_2278
+	desc = EVTDESC_Plus_2278
+	picture = GFX_evt_found_hre
+	border = GFX_event_narrative_frame_religion
+	
+	is_triggered_only = yes
+	hide_from = yes
+	show_ROOT = yes
+	major = yes
+	
+	trigger = {
+		NOT = { has_global_flag = disabled_schism }
+	}
+	
+	option = {
+		name = EVTOPTA_Plus_2278
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_eastern_pentarchs_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTB_Plus_2278
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_pope_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTC_Plus_2278
+		trigger = {
+			religion = orthodox
+			orthodox_not_allegiant_to_pentarchs_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTC_Plus_2278
+		trigger = {
+			NOT = { religion = orthodox }
+			religion_group = christian
+		}
+	}
+	option = {
+		name = EVTOPTD_Plus_2278
+		trigger = {
+			NOT = { religion_group = christian }
+		}
+	}
+}
+
+## Pope-anointed Emperor wars with the Byzantine Empire
+# Hidden start - find papal emperor
+character_event = {
+	id = Plus.5200
+	hide_window = yes
+	
+	only_independent = yes
+	only_playable = yes
+	religion = orthodox
+	has_character_flag = was_byzantine_emperor
+	
+	trigger = {
+		has_landed_title = e_byzantium
+		e_byzantium = { is_primary_holder_title = yes }
+		is_heretic = no
+		OR = {
+			any_war = {
+				defender = { character = ROOT }
+				attacker = {
+					religion = ROOT
+					NOT = { trait = excommunicated }
+					trait = crowned_by_pope
+				}
+			}
+			any_war = {
+				attacker = { character = ROOT }
+				defender = {
+					religion = ROOT
+					NOT = { trait = excommunicated }
+					trait = crowned_by_pope
+				}
+			}
+		}
+		NOR = {
+			trait = excommunicated
+			has_global_flag = attacked_by_papal_emperor
+			has_global_flag = ChristianSchisms_great_schism_happened
+			has_global_flag = disabled_schism
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 30
+	}
+	
+	immediate = {
+		log = "SCHISM LEAD-UP: WAR BETWEEN BYZANTIUM AND POPE'S CHAMPION"
+		random_current_enemy = {
+			limit = { trait = crowned_by_pope }
+			save_event_target_as = papal_emperor
+		}
+		narrative_event = { id = Plus.2279 }
+		character_event = { id = Plus.5201 days = 10 }
+	}
+}
+# Main event
+narrative_event = {
+	id = Plus.2279
+	title = EVTNAME_Plus_2279
+	desc = EVTDESC_Plus_2279
+	picture = GFX_evt_melee
+	border = GFX_event_narrative_frame_religion
+	
+	major = yes
+	hide_from = yes
+	is_triggered_only = yes
+	
+	major_trigger = {
+		religion_group = christian
+	}
+
+	immediate = {
+		set_global_flag = attacked_by_papal_emperor
+		496 = { change_variable = { which = "schism_tracker" value = 1 } }
+	}
+	
+	option = {
+		name = EVTOPTA_Plus_2279
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_eastern_pentarchs_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTB_Plus_2279
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_pope_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTC_Plus_2279
+		trigger = {
+			religion = orthodox
+			orthodox_not_allegiant_to_pentarchs_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTC_Plus_2279
+		trigger = {
+			NOT = { religion = orthodox }
+			religion_group = christian
+		}
+	}
+}
+#Clear event target papal_emperor
+character_event = {
+	id = Plus.5201
+	
+	hide_window = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		clear_event_target = papal_emperor
+	}
+}
+
+# Rome adopts Filioque
+narrative_event = {
+	id = Plus.2280
+	title = EVTNAME_Plus_2280
+	desc = EVTDESC_Plus_2280
+	picture = GFX_evt_pope
+	border = GFX_event_narrative_frame_religion
+	
+	major = yes
+	hide_from = yes
+	show_ROOT = yes
+	
+	only_rulers = yes
+	religion = orthodox
+	
+	trigger = {
+		year = 900
+		has_landed_title = k_papal_state
+		is_heretic = no
+		NOR = {
+			religion_authority = 0.75
+			has_global_flag = filioque_adopted
+			has_global_flag = ChristianSchisms_great_schism_happened
+		}
+	}
+	
+	major_trigger = {
+		religion = orthodox
+	}
+	
+	mean_time_to_happen = {
+		years = 100
+		modifier = {
+			factor = 0.75
+			year = 950
+		}
+		modifier = {
+			factor = 0.5
+			year = 1000
+		}
+		modifier = {
+			factor = 0.5
+			year = 1025
+		}
+		modifier = {
+			factor = 0.25
+			year = 1050
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.45 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.40 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.35 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.30 }
+		}
+	}
+	
+	immediate = {
+		log = "SCHISM LEAD-UP: FILIOQUE ADOPTED"
+		set_global_flag = filioque_adopted
+		496 = { change_variable = { which = "schism_tracker" value = 1 } }
+	}
+	
+	option = {
+		name = EVTOPTA_Plus_2280
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_eastern_pentarchs_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTB_Plus_2280
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_pope_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTC_Plus_2280
+		trigger = {
+			religion = orthodox
+			orthodox_not_allegiant_to_pentarchs_trigger = yes
+		}
+	}
+}
+
+## Jurisdictional dispute over the Balkans
+#Hidden start - locate all characters.
+character_event = {
+	id = Plus.5202
+	
+	hide_window = yes
+	
+	only_rulers = yes
+	religion = orthodox
+	
+	trigger = {
+		has_landed_title = k_papal_state
+		is_heretic = no
+		k_orthodox = {
+			holder_scope = {
+				religion = ROOT
+			}
+		}
+		any_independent_ruler = {
+			religion = ROOT
+			lower_real_tier_than = EMPEROR
+			higher_real_tier_than = COUNT
+			is_playable = yes
+			mercenary = no
+			holy_order = no
+			is_landed = yes
+			capital_scope = {
+				religion = ROOT
+				NOT = { empire = { title = e_byzantium } }
+				kingdom = {
+					OR = {
+						title = k_serbia
+						title = k_croatia
+					}
+				}
+			}
+		}
+		NOR = {
+			has_global_flag = papal_jurisdiction_dispute
+			has_global_flag = ChristianSchisms_great_schism_happened
+			has_global_flag = disabled_schism
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 50
+		modifier = {
+			factor = 0.5
+			year = 950
+		}
+		modifier = {
+			factor = 0.5
+			year = 1000
+		}
+		modifier = {
+			factor = 0.5
+			year = 1050
+		}
+		modifier = {
+			factor = 1.25
+			religion_authority = 0.70
+		}
+		modifier = {
+			factor = 1.25
+			religion_authority = 0.80
+		}
+		modifier = {
+			factor = 1.25
+			religion_authority = 0.90
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.50 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.40 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.30 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.20 }
+		}
+	}
+	
+	immediate = {
+		k_orthodox = {
+			holder_scope = { save_event_target_as = current_patriarch }
+		}
+		random_independent_ruler = {
+			limit = {
+				religion = ROOT
+				lower_real_tier_than = EMPEROR
+				higher_real_tier_than = COUNT
+				is_playable = yes
+				mercenary = no
+				holy_order = no
+				is_landed = yes
+				capital_scope = {
+					religion = ROOT
+					NOT = { empire = { title = e_byzantium } }
+					kingdom = {
+						OR = {
+							title = k_serbia
+							title = k_croatia
+						}
+					}
+				}
+			}
+			primary_title = { save_event_target_as = jurisdiction_realm }
+		}
+		narrative_event = { id = Plus.2281 }
+		character_event = { id = Plus.5203 days = 10 }
+	}
+	
+}
+#Main Event
+narrative_event = {
+	id = Plus.2281
+	title = EVTNAME_Plus_2281
+	desc = EVTDESC_Plus_2281
+	picture = GFX_evt_pope
+	border = GFX_event_narrative_frame_religion
+	
+	major = yes
+	hide_from = yes
+	show_ROOT = yes
+	is_triggered_only = yes
+
+	major_trigger = {
+		religion = orthodox
+	}
+
+	immediate = {
+		set_global_flag = papal_jurisdiction_dispute
+		496 = { change_variable = { which = "schism_tracker" value = 1 } }
+		log = "SCHISM LEAD-UP: PAPAL JURISDICTION DISPUTE OVER [jurisdiction_realm.GetName]"
+	}
+	
+	option = {
+		name = EVTOPTA_Plus_2281
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_eastern_pentarchs_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTB_Plus_2281
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_pope_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTC_Plus_2281
+		trigger = {
+			religion = orthodox
+			orthodox_not_allegiant_to_pentarchs_trigger = yes
+		}
+	}
+}
+#Clear event targets jurisdiction_realm and current_patriarch
+character_event = {
+	id = Plus.5203
+	
+	hide_window = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		clear_event_target = current_patriarch
+		clear_event_target = jurisdiction_realm
+	}
+}
+
+# Conflict over the Eucharist
+narrative_event = {
+	id = Plus.2282
+	title = EVTNAME_Plus_2282
+	picture = GFX_evt_bishop
+	border = GFX_event_narrative_frame_religion
+	
+	desc = {
+		text = EVTDESC_Plus_2282_greek
+		NOT = { orthodox_allegiant_to_pope_trigger = yes }
+	}
+	desc = {
+		text = EVTDESC_Plus_2282_latin
+		orthodox_allegiant_to_pope_trigger = yes
+	}
+	
+	major = yes
+	hide_from = yes
+	show_ROOT = yes
+	
+	only_rulers = yes
+	religion = orthodox
+	min_age = 16
+	capable_only = yes
+	war = no
+	
+	trigger = {
+		year = 900
+		rightful_religious_head = ROOT
+		is_heretic = no
+		NOR = {
+			has_landed_title = k_orthodox
+			has_landed_title = k_papal_state
+		}
+		NOR = {
+			liege = { war = yes }
+			trait = excommunicated
+			is_inaccessible_trigger = yes
+			has_global_flag = eucharist_conflict
+			has_global_flag = ChristianSchisms_great_schism_happened
+			has_global_flag = disabled_schism
+		}
+	}
+	
+	major_trigger = {
+		religion = orthodox
+	}
+	
+	mean_time_to_happen = {
+		years = 50
+		modifier = {
+			factor = 0.5
+			year = 1000
+		}
+		modifier = {
+			factor = 0.5
+			year = 1025
+		}
+		modifier = {
+			factor = 0.5
+			year = 1050
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.45 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.40 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.35 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.30 }
+		}
+	}
+	
+	immediate = {
+		log = "SCHISM LEAD-UP: CONFLICT OVER THE EUCHARIST"
+		set_global_flag = eucharist_conflict
+		496 = { change_variable = { which = "schism_tracker" value = 1 } }
+	}
+	
+	option = {
+		name = EVTOPTA_Plus_2282
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_eastern_pentarchs_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTB_Plus_2282
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_pope_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTC_Plus_2282
+		trigger = {
+			religion = orthodox
+			orthodox_not_allegiant_to_pentarchs_trigger = yes
+		}
+	}
+}
+
+## Wicked Pope or Patriarch
+#Hidden start - find event targets
+character_event = {
+	id = Plus.5204
+	
+	hide_window = yes
+	
+	only_rulers = yes
+	religion = orthodox
+	
+	trigger = {
+		OR = {
+			has_landed_title = k_papal_state
+			has_landed_title = k_orthodox
+		}
+		is_heretic = no
+		trait = bad_priest_christian
+		k_papal_state = {
+			has_holder = yes
+			holder_scope = {
+				religion = ROOT
+				OR = {
+					character = ROOT
+					NOT = { trait = bad_priest_christian }
+				}
+			}
+		}
+		k_orthodox = {
+			has_holder = yes
+			holder_scope = {
+				religion = ROOT
+				OR = {
+					character = ROOT
+					NOT = { trait = bad_priest_christian }
+				}
+			}
+		}
+		NOR = {
+			intrigue = 12
+			496 = { check_variable = { which = "schism_tracker" value = 4 } }
+			has_global_flag = wicked_pope_patriarch
+			has_global_flag = ChristianSchisms_great_schism_happened
+			has_global_flag = disabled_schism
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 10
+		modifier = {
+			factor = 2
+			religion_authority = 0.70
+		}
+		modifier = {
+			factor = 2
+			religion_authority = 0.80
+		}
+		modifier = {
+			factor = 2
+			religion_authority = 0.90
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.50 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.45 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.40 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.35 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.30 }
+		}
+	}
+	
+	immediate = {
+		if = {
+			limit = { has_landed_title = k_papal_state }
+			k_orthodox = {
+				holder_scope = { save_event_target_as = other_patriarch }
+			}
+		}
+		if = {
+			limit = { has_landed_title = k_orthodox }
+			k_papal_state = {
+				holder_scope = { save_event_target_as = other_patriarch }
+			}
+		}
+		narrative_event = { id = Plus.2283 }
+		character_event = { id = Plus.5205 days = 10 }
+	}
+}
+#Main event
+narrative_event = {
+	id = Plus.2283
+	title = EVTNAME_Plus_2283
+	desc = EVTDESC_Plus_2283
+	picture = GFX_evt_pope
+	border = GFX_event_narrative_frame_religion
+	
+	major = yes
+	hide_from = yes
+	show_ROOT = yes
+	is_triggered_only = yes
+	
+	major_trigger = {
+		religion_group = christian
+	}
+	
+	immediate = {
+		log = "SCHISM LEAD-UP: [Root.GetTitledName] IS WICKED"
+		set_global_flag = wicked_pope_patriarch
+		496 = { change_variable = { which = "schism_tracker" value = 1 } }
+	}
+	
+	option = {
+		name = EVTOPTA_Plus_2283
+	}
+}
+#Clear event target other_patriarch
+character_event = {
+	id = Plus.5205
+	
+	hide_window = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		clear_event_target = other_patriarch
+	}
+}
+	
+## Call for Ecumenical Council refused
+#Hidden start - find event targets
+character_event = {
+	id = Plus.5206
+	
+	hide_window = yes
+	
+	only_rulers = yes
+	religion = orthodox
+	
+	trigger = {
+		has_landed_title = k_papal_state
+		is_heretic = no
+		war = no
+		year = 1000
+		496 = { is_variable_equal = { which = "schism_tracker" value = 3 } }
+		k_orthodox = {
+			holder_scope = {
+				war = no
+				religion = ROOT
+				NOT = { trait = excommunicated }
+				NOT = { is_inaccessible_trigger = yes }
+			}
+		}
+		NOR = {
+			trait = excommunicated
+			is_inaccessible_trigger = yes
+			has_global_flag = ecumenical_council_refused
+			has_global_flag = ChristianSchisms_great_schism_happened
+			has_global_flag = disabled_schism
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.5
+			year = 1025
+		}
+		modifier = {
+			factor = 0.5
+			year = 1050
+		}
+		modifier = {
+			factor = 1.5
+			religion_authority = 0.70
+		}
+		modifier = {
+			factor = 1.5
+			religion_authority = 0.80
+		}
+		modifier = {
+			factor = 1.5
+			religion_authority = 0.90
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.50 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.45 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.40 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.35 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.30 }
+		}
+	}
+	
+	immediate = {
+		k_orthodox = {
+			holder_scope = { save_event_target_as = current_patriarch }
+		}
+		narrative_event = { id = Plus.2284 }
+		character_event = { id = Plus.5207 days = 10 }
+	}
+}
+#Main event
+narrative_event = {
+	id = Plus.2284
+	title = EVTNAME_Plus_2284
+	desc = EVTDESC_Plus_2284
+	picture = GFX_evt_rival_rulers
+	border = GFX_event_narrative_frame_religion
+	
+	major = yes
+	hide_from = yes
+	show_ROOT = yes
+	is_triggered_only = yes
+
+	immediate = {
+		log = "SCHISM LEAD-UP: CALL FOR ECUMENICAL COUNCIL REFUSED"
+		set_global_flag = ecumenical_council_refused
+		496 = { change_variable = { which = "schism_tracker" value = 1 } }
+	}
+	
+	option = {
+		name = EVTOPTA_Plus_2284
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_eastern_pentarchs_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTB_Plus_2284
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_pope_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTC_Plus_2284
+		trigger = {
+			religion = orthodox
+			orthodox_not_allegiant_to_pentarchs_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTD_Plus_2284
+		trigger = {
+			NOT = { religion = orthodox }
+			religion_group = christian
+		}
+	}
+}
+#Clear event target current_patriarch
+character_event = {
+	id = Plus.5207
+	
+	hide_window = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		clear_event_target = current_patriarch
+	}
+}
+
+## Byzantium overrun by iconoclast or monothelite
+#Hidden start - find event targets
+character_event = {
+	id = Plus.5208
+	
+	hide_window = yes
+	
+	only_rulers = yes
+	religion = orthodox
+	war = no
+	
+	trigger = {
+		has_landed_title = k_papal_state
+		is_heretic = no
+		year = 850
+		k_orthodox = {
+			holder_scope = {
+				war = no
+				OR = {
+					religion = monothelite
+					religion = iconoclast
+				}
+				top_liege = {
+					tier = EMPEROR
+					religion = PREV
+				}
+				NOT = { trait = excommunicated }
+				NOT = { is_inaccessible_trigger = yes }
+				religion_authority = 0.75
+			}
+		}
+		NOR = {
+			trait = excommunicated
+			is_inaccessible_trigger = yes
+			has_global_flag = byzantium_overrun
+			has_global_flag = ChristianSchisms_great_schism_happened
+			has_global_flag = disabled_schism
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.5
+			year = 900
+		}
+		modifier = {
+			factor = 0.5
+			year = 950
+		}
+		modifier = {
+			factor = 1.5
+			religion_authority = 0.70
+		}
+		modifier = {
+			factor = 1.5
+			religion_authority = 0.80
+		}
+		modifier = {
+			factor = 1.5
+			religion_authority = 0.90
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.50 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.45 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.40 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.35 }
+		}
+		modifier = {
+			factor = 0.75
+			NOT = { religion_authority = 0.30 }
+		}
+	}
+	
+	immediate = {
+		k_orthodox = {
+			holder_scope = { save_event_target_as = current_patriarch }
+		}
+		narrative_event = { id = Plus.2260 }
+		character_event = { id = Plus.5207 days = 10 }
+	}
+}
+#Main event
+narrative_event = {
+	id = Plus.2260
+	title = EVTNAME_Plus_2260
+	desc = EVTDESC_Plus_2260
+	picture = GFX_evt_rival_rulers
+	border = GFX_event_narrative_frame_religion
+	
+	major = yes
+	hide_from = yes
+	show_ROOT = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		log = "SCHISM LEAD-UP: BYZANTIUM OVERRUN"
+		set_global_flag = byzantium_overrun
+		# force schism
+		496 = { change_variable = { which = "schism_tracker" value = 3 } }
+	}
+	
+	option = {
+		name = EVTOPTA_Plus_2260
+		trigger = {
+			OR = {
+				AND = {
+					religion = orthodox
+					orthodox_allegiant_to_eastern_pentarchs_trigger = yes
+				}
+				religion = monothelite
+				religion = iconoclast
+			}
+		}
+	}
+	option = {
+		name = EVTOPTB_Plus_2260
+		trigger = {
+			religion = orthodox
+			orthodox_allegiant_to_pope_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTC_Plus_2260
+		trigger = {
+			religion = orthodox
+			orthodox_not_allegiant_to_pentarchs_trigger = yes
+		}
+	}
+	option = {
+		name = EVTOPTD_Plus_2260
+		trigger = {
+			NOT = {
+				religion = orthodox
+				religion = monothelite
+				religion = iconoclast
+			}
+			religion_group = christian
+		}
+	}
+}

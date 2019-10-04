@@ -1,0 +1,25 @@
+# Root = character
+orthodox_allegiant_to_pope_trigger = {
+	rightful_religious_head_scope = { k_papal_state = { holder_scope = { character = PREVPREV } } }
+}
+
+# Root = character
+orthodox_allegiant_to_eastern_pentarchs_trigger = {
+	OR = {
+		rightful_religious_head_scope = { k_orthodox = { holder_scope = { character = PREVPREV } } }
+		rightful_religious_head_scope = { b_antiocheia = { holder_scope = { character = PREVPREV } } }
+		rightful_religious_head_scope = { b_alexandria = { holder_scope = { character = PREVPREV } } }
+		rightful_religious_head_scope = { b_jerusalem = { holder_scope = { character = PREVPREV } } }
+	}
+}
+
+# Root = character
+orthodox_not_allegiant_to_pentarchs_trigger = {
+	NOR = {
+		rightful_religious_head_scope = { k_papal_state = { holder_scope = { character = PREVPREV } } }
+		rightful_religious_head_scope = { k_orthodox = { holder_scope = { character = PREVPREV } } }
+		rightful_religious_head_scope = { b_antiocheia = { holder_scope = { character = PREVPREV } } }
+		rightful_religious_head_scope = { b_alexandria = { holder_scope = { character = PREVPREV } } }
+		rightful_religious_head_scope = { b_jerusalem = { holder_scope = { character = PREVPREV } } }
+	}
+}

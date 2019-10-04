@@ -60,7 +60,7 @@
 		birth="1074.1.1"
 	}
 	1078.3.31={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	}
 	1095.1.1={
 		death="1095.1.1"
@@ -1442,7 +1442,7 @@
 		add_spouse=4558
 	}
 	1072.8.1={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 		trait="ambitious"
 	}	
 	1074.1.1={
@@ -1515,16 +1515,16 @@
 		birth="1002.1.1"
 	}
 	1071.8.26={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	}
 	1078.1.1={
 		add_spouse=41552
 	}
 	1078.3.31={
-		remove_claim = e_byzantium
+		remove_claim = e_roman_empire
 	}
 	1081.4.1={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	}
 	1081.12.10={
 		death="1081.12.10"
@@ -1558,7 +1558,7 @@
 		trait="midas_touched"
 	}
 	1072.8.1={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	}
 	1078.1.1={
 		add_spouse=1743
@@ -1570,7 +1570,7 @@
 		}
 	}
 	1081.12.10={
-		remove_claim = e_byzantium
+		remove_claim = e_roman_empire
 	}
 	1107.1.1={
 		trait = gout
@@ -1694,7 +1694,7 @@
 		add_spouse=4511
 	}
 	1061.1.1={
-		add_claim="e_byzantium"
+		add_claim="e_roman_empire"
 	}
 	1066.1.1={
 		trait="infirm"
@@ -3940,7 +3940,7 @@
 		add_spouse=232536
 	}
 	1185.11.7={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	} 
 	1186.1.1={
 		death="1186.1.1"
@@ -4305,7 +4305,7 @@
 		birth="1170.1.2"
 	}
 	1204.5.16={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	}
 	1215.1.2={
 		death="1215.1.2"
@@ -4342,7 +4342,7 @@
 	mother=216510
 	1182.1.2={
 		birth="1182.1.2"
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	}
 	1204.1.2={
 		add_spouse=232509
@@ -4958,7 +4958,7 @@
 		birth="1113.1.1"
 	}
 	1143.4.8={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	}
 	1154.1.2={
 		death="1154.1.2"
@@ -7291,7 +7291,7 @@
 		add_spouse = 465554
 	}
 	1319.1.1={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	}
 	1383.6.15={
 		death="1383.6.15"
@@ -11468,7 +11468,7 @@
 		add_spouse=41200
 	}
 	1068.1.1={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	}
 	1082.1.1={
 		death="1082.1.1"
@@ -11486,7 +11486,7 @@
 		birth="1060.1.1"
 	}
 	1068.1.1={
-		add_claim = e_byzantium
+		add_claim = e_roman_empire
 	}
 	1081.10.18={
 		death="1081.10.18"

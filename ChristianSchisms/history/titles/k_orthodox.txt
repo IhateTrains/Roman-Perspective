@@ -1,5 +1,5 @@
 10.1.1={
-	liege="e_byzantium"
+	liege="e_roman_empire"
 }
 38.1.1={
 	holder=70599

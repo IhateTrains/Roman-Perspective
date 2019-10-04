@@ -465,11 +465,11 @@ narrative_event = {
 	
 	desc = {
 		text = EVTDESC_Plus_2282_greek
-		NOT = { orthodox_allegiant_to_pope_trigger = yes }
+		trigger = { NOT = { orthodox_allegiant_to_pope_trigger = yes } }
 	}
 	desc = {
 		text = EVTDESC_Plus_2282_latin
-		orthodox_allegiant_to_pope_trigger = yes
+		trigger = { orthodox_allegiant_to_pope_trigger = yes }
 	}
 	
 	major = yes

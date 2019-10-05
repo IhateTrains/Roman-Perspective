@@ -2,5 +2,5 @@
 - Added a new flag based on the Chi-Rho symbol for the Roman Empire. Integrated from the Project Augustus mod.
 - Added Michael III as the Roman Emperor in vanilla The Old Gods bookmark. Added a new bookmark called The Macedonian which focuses on Basil I. Integrated from the Project Augustus mod.
 - Added relative localisation for the Roman Empire for more immersive gameplay:
-	- If you play as a Catholic, Fraticelli or an Orthodox and your religious head is the Pope of Rome, the Roman Empire gets "Byzantine Empire" localisation.
+	- If you play as a Catholic, Fraticelli or an Orthodox and your religious head is the Pope of Rome, the HRE existed or exists and the Roman Empire's authority in the West is not restored, the Roman Empire gets "Empire of the Greeks" localisation.
 	- If you play as anyone else, the Roman Empire gets "Roman Empire" localisation.

@@ -59,8 +59,9 @@ defined_text = {
 					rightful_religious_head_scope = { k_papal_state = { holder_scope = { character = PREVPREV } } } #Catholic or Orthodox allegiant to the Pope
 					religion = fraticelli
 				}
-				
 			}
+			has_global_flag = charlemagne_hre
+			NOT = { has_global_flag = rome_restored }
 		}
 		localisation_key = String_Byzantine_Empire
 	}

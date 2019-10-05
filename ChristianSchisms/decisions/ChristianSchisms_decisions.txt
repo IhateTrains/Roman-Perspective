@@ -17,10 +17,7 @@ decisions = {
 				religion = monothelite
 				religion = iconoclast
 			}
-			OR = {
-				has_landed_title = e_byzantium
-				has_landed_title = e_roman_empire
-			}
+			has_landed_title = e_roman_empire
 			is_heretic = no
 			NOT = { has_global_flag = chalcedonian_schism_mended }
 			NOT = {
@@ -175,10 +172,7 @@ decisions = {
 				religion = monothelite
 				religion = iconoclast
 			}
-			OR = {
-				has_landed_title = e_byzantium
-				has_landed_title = e_roman_empire
-			}
+			has_landed_title = e_roman_empire
 			is_heretic = no
 			NOT = { has_global_flag = nestorian_schism_mended }
 			NOT = {

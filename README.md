@@ -1,4 +1,49 @@
 # Christian-Schisms
 A mod for Crusader Kings 2.
 
-Credits to @schwarzherz for figuring out how to convert priests without issues.
+Credits:
+- schwarzherz for figuring out how to convert priests without issues
+- CK2Plus team for the Schism lead-up events
+- omega20056 and other Project: Augustus - A Historical Overhaul Mod's creators and collaborators for various features I integrated:
+  - AnaxXiphos
+  - SWMH Team
+  - .Hobbes/DK
+  - WtWSMS Team
+  - Solo_Adhémar
+  - LumberKing
+  - Five_X
+  - warlordJake
+  - Ciccillo Rre
+  - JohnathanCrow
+  - Jorlem
+  - twiggyt13
+  - cybrxkhan
+  - Ordep
+  - Cironian
+  - Taran14
+  - Chlodio
+  - Ofaloaf
+  - Asakhra
+  - KeijiMaeda12
+  - Preacher
+  - tsf4
+  - Rambo
+  - elementium
+  - DingoWally
+  - starwarsfan541
+  - Zarathustra_the
+  - Tom the Knight
+  - miloilgufo
+  - caocao268
+  - TheLunarwolf
+  - Bill Cipher
+  - Gloria Regni
+  - Antak
+  - Kyro
+  - Talvos
+  - xXConquerorXx
+  - Silo
+  - DevilSauron
+  - Ooiue
+  - HandicapdHippo
+  - Hackera88

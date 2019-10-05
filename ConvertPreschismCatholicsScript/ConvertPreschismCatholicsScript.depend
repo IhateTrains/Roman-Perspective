@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569951378 source:c:\users\user\documents\github\christian-schisms\convertpreschismcatholicsscript\main.cpp
+	<stdio.h>
+	<direct.h>
+	<unistd.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	<fstream>
+	<cstdio>
+	<regex>
+

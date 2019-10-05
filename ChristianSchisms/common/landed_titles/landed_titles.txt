@@ -6356,24 +6356,6 @@ e_germany = {
 }
 
 e_roman_empire = {
-	color={ 143 12 100 }
-	color2={ 255 255 20 }
-	
-	capital = 333 # Rome
-	
-	short_name = yes
-	
-	purple_born_heirs = yes
-	
-	culture = roman
-	#religion = orthodox
-	
-	allow = {
-		always = no # Only created through special event
-	}
-}
-
-e_byzantium = {
 	color={ 143 12 125 }
 	color2={ 255 255 20 }
 	
@@ -6393,16 +6375,6 @@ e_byzantium = {
 	purple_born_heirs = yes
 	
 	allow = {
-		conditional_tooltip = {
-			trigger = {
-				e_roman_empire = {
-					has_holder = yes
-				}
-			}
-			e_roman_empire = {
-				has_holder = no
-			}
-		}
 		conditional_tooltip = {
 			trigger = {
 				e_latin_empire = {
@@ -42823,9 +42795,6 @@ e_latin_empire = {
 		OR = {
 			religion = catholic
 			is_heresy_of = catholic
-		}
-		e_byzantium = {
-			has_holder = no
 		}
 		e_roman_empire = {
 			has_holder = no

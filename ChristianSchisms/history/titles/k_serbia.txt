@@ -1,3 +1,9 @@
+100.1.1 = {
+	pentarch = b_roma
+}
+740.1.1 = { #between 733 and 740
+	pentarch = b_hagiasophia
+}
 768.1.1={
 	holder = 167858
 }
@@ -74,6 +80,9 @@
 }
 1196.1.1={
 	holder=218507
+}
+1220.1.1 = {
+	pentarch = 0
 }
 1227.9.24={
 	holder=34100

@@ -1,0 +1,25 @@
+bm_the_macedonian = {
+	name = "BM_THE_MACEDONIAN"
+	desc = "BM_THE_MACEDONIAN_DESC"
+	date = 867.9.24
+	
+	selectable_character = {
+		id = 1700 # Basil I
+		age = 30
+		title = e_roman_empire
+		title_name = e_roman_empire
+		
+		character = {
+			dna = dageigbabbe
+			properties = am0aj0000000
+			religion="orthodox"
+			culture="greek"
+			government = feudal_government
+			dynasty=644
+		}
+	}
+
+	selectable_character = {
+		id = 701224 # Ecgberht
+	}
+}

@@ -190,21 +190,21 @@ bm_the_old_gods = {
 			dynasty=25061
 		}
 	}
-
+	
 	selectable_character = {
-		id = 1700 # Basil I
-		age = 30
-		name = ERA_CHAR_NAME_1700
+		id = 70490 # Michael III
+		age = 26
+		name = ERA_CHAR_NAME_70490
 		title = e_roman_empire
 		title_name = e_roman_empire
 		
-		character = {
-			dna = dageigbabbe
-			properties = am0aj0000000
+		character = { 
+			dna = rchulbdftxl
+			properties = ejua000000
 			religion="orthodox"
 			culture="greek"
 			government = feudal_government
-			dynasty=644
+			dynasty=8642
 		}
 	}
 

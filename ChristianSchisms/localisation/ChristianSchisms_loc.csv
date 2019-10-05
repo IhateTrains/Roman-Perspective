@@ -18,3 +18,6 @@ mend_chalcedonian_schism;Mend the Chalcedonian Schism;;;;;;;;;;;;;x
 mend_chalcedonian_schism_desc;The Chalcedonian Schism saw the Christian Church divided into two branches, but if some of the Miaphysite centers could be restored under the [GetOrthodoxName] faith, there may be a chance to finally reunite Christendom.;;;;;;;;;;;;;x
 mend_nestorian_schism;Mend the Nestorian Schism;;;;;;;;;;;;;x
 mend_nestorian_schism_desc;The Nestorian Schism saw the Nestorian Church of the East separated from the Mother Church, but if some of the Nestorian centers could be restored under the [GetOrthodoxName] faith, there may be a chance to finally reunite Christendom.;;;;;;;;;;;;;x
+ROMAN_EMPIRE_DYNAMIC_NAME;[GetByzantineRomanEmpire];Empire romain;Römisches Reich;;Imperio Romano;;;;;;;;;x
+String_Byzantine_Empire;Byzantine Empire;;;;;;;;;;;;;;x
+String_Roman_Empire;Roman Empire;;;;;;;;;;;;;;x

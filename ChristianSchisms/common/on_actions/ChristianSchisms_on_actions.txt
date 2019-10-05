@@ -3,3 +3,9 @@ on_host_change = {
 		ChrSchMaintenance.1 # Convert Catholic characters which appear before the Great Schism
 	}
 }
+
+on_startup = {
+	events = {
+		GreatSchism.002 # Relative localisation for e_roman_empire
+	}
+}

@@ -100,3 +100,13 @@ character_event = {
 		set_global_flag = ChristianSchisms_great_schism_happened
 	}
 }
+
+character_event = {
+	id = GreatSchism.002
+	hide_window = yes
+	is_triggered_only = yes #on_startup on-action
+
+	immediate = {
+		e_roman_empire = { set_name = ROMAN_EMPIRE_DYNAMIC_NAME }
+	}
+}

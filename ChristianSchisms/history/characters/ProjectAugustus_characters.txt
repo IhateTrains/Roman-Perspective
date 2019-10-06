@@ -20,3 +20,18 @@
 		death=yes
 	}
 }
+1014095 = {
+	name="Stephanos"
+	dynasty=200000
+	religion="orthodox"
+	culture="greek"
+	1024.1.1 = {
+		birth="1024.1.1"
+	}
+	1071.4.1 = {
+		employer = 1734
+	}
+	1085.1.1 = {
+		death="1085.1.1"
+	}
+}

@@ -1,0 +1,6 @@
+#range: 200 000 - 299 999
+200000 = {
+	name = "Pateranos"
+	culture = greek
+	religion = orthodox
+}

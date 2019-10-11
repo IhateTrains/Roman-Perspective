@@ -65,8 +65,18 @@ narrative_event = {
 		trigger = {
 			religion = orthodox
 			OR = {
-				has_global_flag = pope_was_rel_head
-				orthodox_not_allegiant_to_pentarchs_trigger = yes
+				AND = {
+					OR = {
+						independent = yes
+						top_liege = {
+							NOT = { religion = orthodox }
+						}
+					}
+					has_character_flag = pope_was_rel_head
+				}
+				top_liege = {
+					has_character_flag = pope_was_rel_head
+				}
 			}
 		}
 		ai_chance = {
@@ -77,40 +87,56 @@ narrative_event = {
 			}
 		}
 		
-		religion = catholic
-		set_character_flag = schism_decided_side
-		
-		any_realm_province = { #convert provinces
-			limit = { #for testing, can be made more dynamic later
-				religion = orthodox
+		if = {
+			limit = {
+				OR = {
+					independent = yes
+					top_liege = {
+						NOR = {
+							religion = orthodox
+							religion = catholic
+						}
+					}
+				}
 			}
+			
 			religion = catholic
-			set_province_flag = schism_decided_side
-		}
-		any_courtier_or_vassal = { #convert characters
-			limit = { #for testing, can be made more dynamic later
-				is_ruler = no
-				religion = orthodox
-				NOT = {
-					has_character_flag = schism_decided_side
-				}
-			}
-			if = { # change the priests' government before conversion
-				limit = {
-					is_priest = yes
-				}
-				set_character_flag = plox_gib_theocracy_after_schism
-				set_government_type = fake_theocracy_government
-			}
-			unsafe_religion = catholic
-			if = { # restore the priests' government after conversion
-				limit = {
-					has_character_flag = plox_gib_theocracy_after_schism
-				}
-				clr_character_flag = plox_gib_theocracy_after_schism
-				set_government_type = theocracy_government
-			}
 			set_character_flag = schism_decided_side
+			
+			any_realm_province = { #convert provinces
+				limit = { #for testing, can be made more dynamic later
+					religion = orthodox
+					NOT = { has_province_flag = schism_decided_side }
+				}
+				religion = catholic
+				set_province_flag = schism_decided_side
+			}
+			any_character = { #convert characters
+				limit = { #for testing, can be made more dynamic later
+					religion = orthodox
+					independent = no
+					liege = { character = PREVPREV }
+					NOT = {
+						has_character_flag = schism_decided_side
+					}
+				}
+				if = { # change the priests' government before conversion
+					limit = {
+						is_priest = yes
+					}
+					set_character_flag = plox_gib_theocracy_after_schism
+					set_government_type = fake_theocracy_government
+				}
+				unsafe_religion = catholic
+				if = { # restore the priests' government after conversion
+					limit = {
+						has_character_flag = plox_gib_theocracy_after_schism
+					}
+					clr_character_flag = plox_gib_theocracy_after_schism
+					set_government_type = theocracy_government
+				}
+				set_character_flag = schism_decided_side
+			}
 		}
 	}
 	option = {

@@ -29,7 +29,21 @@ narrative_event = {
 	}
 
 	immediate = {
-		orthodox = { set_religion_head = k_orthodox }
+		orthodox = {
+			set_religion_head = k_orthodox
+		}
+		k_orthodox = {
+			holder_scope = { 
+				set_character_flag = schism_decided_side
+			}
+		}
+		any_character = {
+			limit = {
+				religion = orthodox
+				orthodox_allegiant_to_pope_trigger = yes
+			}
+			set_character_flag = pope_was_rel_head
+		}
 		k_papal_state = {
 			holder_scope = {
 				set_character_flag = plox_gib_theocracy_after_schism
@@ -37,6 +51,7 @@ narrative_event = {
 				unsafe_religion = catholic
 				clr_character_flag = plox_gib_theocracy_after_schism
 				set_government_type = theocracy_government
+				set_character_flag = schism_decided_side
 			}
 			unsafe_religion = catholic
 		}
@@ -50,41 +65,35 @@ narrative_event = {
 		trigger = {
 			religion = orthodox
 			OR = {
-				orthodox_allegiant_to_pope_trigger = yes
+				has_global_flag = pope_was_rel_head
 				orthodox_not_allegiant_to_pentarchs_trigger = yes
 			}
 		}
 		ai_chance = {
 			factor = 1
 			modifier = {
-				factor = 0.2
+				factor = 0.3
 				orthodox_not_allegiant_to_pentarchs_trigger = yes
 			}
 		}
 		
+		religion = catholic
+		set_character_flag = schism_decided_side
+		
 		any_realm_province = { #convert provinces
 			limit = { #for testing, can be made more dynamic later
 				religion = orthodox
-				OR = {
-					region = world_europe_south_italy
-					region = world_europe_west
-					region = world_europe_north
-				}
-				
 			}
 			religion = catholic
+			set_province_flag = schism_decided_side
 		}
-		any_realm_character = { #convert characters
+		any_courtier_or_vassal = { #convert characters
 			limit = { #for testing, can be made more dynamic later
+				is_ruler = no
 				religion = orthodox
-				location = {
-					OR = {
-						region = world_europe_south_italy
-						region = world_europe_west
-						region = world_europe_north
-					}
+				NOT = {
+					has_character_flag = schism_decided_side
 				}
-				
 			}
 			if = { # change the priests' government before conversion
 				limit = {
@@ -101,19 +110,17 @@ narrative_event = {
 				clr_character_flag = plox_gib_theocracy_after_schism
 				set_government_type = theocracy_government
 			}
+			set_character_flag = schism_decided_side
 		}
 	}
 	option = {
 		name = EVTOPTB_Plus_2286
 		trigger = {
 			religion = orthodox
+			NOT = { has_character_flag = pope_was_rel_head }
 		}
 		ai_chance = {
-			factor = 1
-			modifier = {
-				factor = 0
-				orthodox_allegiant_to_pope_trigger = yes
-			}
+			factor = 0.7
 		}
 		
 	}
@@ -142,6 +149,7 @@ narrative_event = {
 			religion = catholic
 			holder_scope = {
 				religion = catholic
+				set_character_flag = schism_decided_side
 			}
 		}
 		any_landed_title = { #convert holy orders
@@ -155,6 +163,52 @@ narrative_event = {
 			religion = catholic
 			holder_scope = {
 				religion = catholic
+				set_character_flag = schism_decided_side
+			}
+		}
+		any_province = { #convert provinces
+			limit = { #for testing, can be made more dynamic later
+				religion = orthodox
+				OR = {
+					region = world_europe_south_italy
+					region = world_europe_west
+					region = world_europe_north
+				}
+				owner = {
+					NOT = {
+						religion = orthodox
+					}
+				}
+				NOT = { has_province_flag = schism_decided_side }
+			}
+			religion = catholic
+		}
+		any_character = { #convert characters
+			limit = { #for testing, can be made more dynamic later
+				religion = orthodox
+				has_character_flag = pope_was_rel_head
+				NOT = {
+					has_character_flag = schism_decided_side
+				}
+				NOR = {
+					liege = { religion = orthodox }
+					top_liege = { religion = orthodox }
+				}
+			}
+			if = { # change the priests' government before conversion
+				limit = {
+					is_priest = yes
+				}
+				set_character_flag = plox_gib_theocracy_after_schism
+				set_government_type = fake_theocracy_government
+			}
+			unsafe_religion = catholic
+			if = { # restore the priests' government after conversion
+				limit = {
+					has_character_flag = plox_gib_theocracy_after_schism
+				}
+				clr_character_flag = plox_gib_theocracy_after_schism
+				set_government_type = theocracy_government
 			}
 		}
 	}

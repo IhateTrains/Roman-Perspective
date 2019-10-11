@@ -2093,6 +2093,7 @@ decisions = {
 				entry = CHRONICLE_FOUNDED_HRE
 				picture = GFX_evt_coronation
 			}
+			narrative_event = { id = Plus.2278 }
 		}
 		revoke_allowed = {
 			always = no

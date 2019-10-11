@@ -4,3 +4,13 @@
 	culture = greek
 	religion = orthodox
 }
+200001 = {
+	name = "Aravas" #Greek for Arab, I hope
+	culture = levantine_arabic
+	religion = orthodox
+}
+200002 = {
+	name = "Perenos"
+	culture = levantine_arabic
+	religion = orthodox
+}

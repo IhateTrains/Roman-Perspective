@@ -1,0 +1,12 @@
+1068.1.1 = { #recaptured
+	holder = 1014097 # Leo Perenos
+	liege = e_roman_empire
+}
+1068.7.1 = {
+	liege = c_lecce
+	holder = 0
+}
+
+
+# chronology - done
+# characters - not done

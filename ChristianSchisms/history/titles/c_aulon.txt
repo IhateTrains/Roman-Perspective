@@ -25,7 +25,11 @@ liege="d_dyrrachion"
 {
 holder=20488
 }
-1066.1.1={
+1064.1.1 = { #ChristianSchisms mod
+	holder = 1014097 # Leo Perenos
+}
+1068.1.1 = {
+	holder=20488
 }
 1070.1.1=
 {

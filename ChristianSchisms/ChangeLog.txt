@@ -4,3 +4,7 @@
 - Added relative localisation for the Roman Empire for more immersive gameplay:
 	- If you play as a Catholic, Fraticelli or an Orthodox and your religious head is the Pope of Rome, the HRE existed or exists and the Roman Empire's authority in the West is not restored, the Roman Empire gets "Empire of the Greeks" localisation.
 	- If you play as anyone else, the Roman Empire gets "Roman Empire" localisation.
+- Made the Roman Empire hold Bari until April 1071.
+- Made the Roman Empire hold Brindisi between 1067 and 1070, Taranto in 1067 and Otranto in 1068.
+- Added Stephen Pateranos, Catepan of Italy. Integrated from the Project Augustus mod.
+- Added Abulchares and Leo Perenos, Catepans of Italy.

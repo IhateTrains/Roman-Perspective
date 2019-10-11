@@ -1,0 +1,8 @@
+1067.1.1 = { #recaptured by general Maurex
+	holder = 1014096 # Abulchares
+	liege = e_roman_empire
+}
+1067.7.1 = {
+	liege = c_taranto
+	holder = 0
+}

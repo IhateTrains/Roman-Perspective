@@ -4,13 +4,13 @@ EVTDESC_Plus_2278;[Root.GetTitledName] has invoked the translatio imperii, and b
 EVTOPTA_Plus_2278;The Pope oversteps [k_papal_state.Holder.GetHerHis] bounds;;;;;;;;;;;;;x
 EVTOPTB_Plus_2278;There were two Roman Empires before -- what is the problem?;;;;;;;;;;;;;x
 EVTOPTC_Plus_2278;More divisions amongst righteous Christians?;;;;;;;;;;;;;x
-EVTOPTD_Plus_2278;So the Christians bicker amongst themselves;;;;;;;;;;;;;x
+EVTOPTD_Plus_2278;So the Christians bicker amongst themselves.;;;;;;;;;;;;;x
 EVTNAME_Plus_2279;The Erosion of Christianity;;;;;;;;;;;;;x
 EVTDESC_Plus_2279;With the war currently ongoing between [Root.GetTitledName] and [papal_emperor.GetTitledName], questions have begun to rise about the unity of Chalcedonian Christianity. [papal_emperor.GetTitledFirstName] was crowned by the Pope, was [papal_emperor.GetSheHe] not? Does that not make [papal_emperor.GetHerHim] the Pope's champion? Yet here [papal_emperor.GetSheHe] stands, at war with the [Root.PrimaryTitle.GetRulerTitle] who stands at the center of the eastern Christian faith. Divisions between Latin and Greek Christians have been deepening for years, but this war brings into sharp focus just how bad things have become. More and more, bishops on both sides are talking about a coming schism that could rend Christianity in two.;;;;;;;;;;;;;x
 EVTOPTA_Plus_2279;The [papal_emperor.PrimaryTitle.GetRulerTitle] is clearly to blame for this;;;;;;;;;;;;;x
-EVTOPTB_Plus_2279;The [Root.PrimaryTitle.GetRulerTitle] is clearly to blame for this;;;;;;;;;;;;;x
+EVTOPTB_Plus_2279;The [Root.PrimaryTitle.GetRulerTitle] is clearly to blame for this.;;;;;;;;;;;;;x
 EVTOPTC_Plus_2279;This bodes ill for us all;;;;;;;;;;;;;x
-EVTOPTD_Plus_2279;The coming schism is clearly inevitable;;;;;;;;;;;;;x
+EVTOPTD_Plus_2279;The coming schism is clearly inevitable.;;;;;;;;;;;;;x
 EVTNAME_Plus_2280;Adoption of the Filioque;;;;;;;;;;;;;x
 EVTDESC_Plus_2280;'And in the Holy Spirit, the Lord, the giver of life,\nwho proceeds from the Father and the Son,\nwho with the Father and the Son is adored and glorified.'\n\nThe original Nicene Creed, established at the First Council of Nicaea in 325AD, did not have the phrase 'and the Son' added to 'who proceeds from the Father'. This is referred to as the Filioque, and by the decree of Pope [Root.GetFirstName] it has been added to the creed used by Latin bishops, to underline the importance of the Son in the Trinity...and reoundingly rejected by the vast majority of Greek bishops, who are furious that the Pope did so without calling an ecumenical council. To most, this is yet another example of the growing division between Greek and Latin Christianity.;;;;;;;;;;;;;x
 EVTOPTA_Plus_2280;The Pope oversteps [Root.GetHerHis] bounds once again!;;;;;;;;;;;;;x
@@ -18,7 +18,7 @@ EVTOPTB_Plus_2280;Do they seriously reject the Son's true importance?;;;;;;;;;;;
 EVTOPTC_Plus_2280;Surely some kind of compromise can be reached?;;;;;;;;;;;;;x
 EVTNAME_Plus_2281;Papal Jurisdiction;;;;;;;;;;;;;x
 EVTDESC_Plus_2281;A recent rare meeting between [Root.GetTitledFirstName] and [current_patriarch.GetTitledFirstName] in Constantinople to discuss the ecclesiastical jurisdiction over [jurisdiction_realm.GetName] was said to end in near-chaos, with [Root.GetTitledFirstNameNoRegnal] storming out of the cathedral in a fury. The Pope claims that [jurisdiction_realm.GetName] falls within [Root.GetHerHis] rightful domain, while [current_patriarch.GetTitledFirstNameNoRegnal] claims [jurisdiction_realm.GetName] has never been part of either ecclesiastical realm, and that this is yet another example of the Pope striving to assert primacy where it is not warranted. This latest conflict over papal jurisdiction has left both patriarchs almost unwilling to communicate at all, a fact which has left many of their bishops extremely worried.;;;;;;;;;;;;;x
-EVTOPTA_Plus_2281;[jurisdiction_realm.GetName] is its own domain, clearly;;;;;;;;;;;;;x
+EVTOPTA_Plus_2281;[jurisdiction_realm.GetName] is its own domain, clearly.;;;;;;;;;;;;;x
 EVTOPTB_Plus_2281;So [jurisdiction_realm.GetName] should be left without a proper Patriarch?;;;;;;;;;;;;;x
 EVTOPTC_Plus_2281;This bickering does no-one any good...;;;;;;;;;;;;;x
 EVTNAME_Plus_2282;Conflict Over the Eucharist;;;;;;;;;;;;;x
@@ -34,11 +34,16 @@ EVTNAME_Plus_2284;Call For Council Refused;;;;;;;;;;;;;x
 EVTDESC_Plus_2284;Perhaps fearing the ever-growing rift between the Latin and Greek branches of Christianity, [Root.GetTitledName] issued a call for reconciliation with a new Ecumenical Council in [Root.Capital.GetName]...a call that has been met by [current_patriarch.GetTitledName] with little more than stony silence. For many, this was seen as a last chance to avert what they see as the coming schism. Now all such hope has been quenched, and it is thought to be only a matter of time before the division becomes official.;;;;;;;;;;;;;x
 EVTOPTA_Plus_2284;'Reconciliation', [Root.GetSheHe] calls it? Ha!;;;;;;;;;;;;;x
 EVTOPTB_Plus_2284;If it happens, it is on the Ecumenical Patriarch's head;;;;;;;;;;;;;x
-EVTOPTC_Plus_2284;I suppose we shall have to wait and see;;;;;;;;;;;;;x
+EVTOPTC_Plus_2284;I suppose we shall have to wait and see.;;;;;;;;;;;;;x
 EVTOPTD_Plus_2284;Has it truly become so bad between them?;;;;;;;;;;;;;x
 EVTNAME_Plus_2260;Constantinople Overrun;;;;;;;;;;;;;x
 EVTDESC_Plus_2260;After years of religious conflict in Byzantium, it seems heretics have prevailed against Greek Rite Chalcedonians. Heretic [current_patriarch.GetTitledName] now completely controls the Church in the east and is fully suported by the Greek Emperor. Now, it is no longer possible to avert the coming schism, and it is thought to be only a matter of time before the division becomes official.;;;;;;;;;;;;;x
-EVTOPTA_Plus_2260;There's nothing we can do about it;;;;;;;;;;;;;x
+EVTOPTA_Plus_2260;There's nothing we can do about it.;;;;;;;;;;;;;x
 EVTOPTB_Plus_2260;Cursed heretics!;;;;;;;;;;;;;x
-EVTOPTC_Plus_2260;I suppose we shall have to wait and see;;;;;;;;;;;;;x
+EVTOPTC_Plus_2260;I suppose we shall have to wait and see.;;;;;;;;;;;;;x
 EVTOPTD_Plus_2260;This is none of our concern;;;;;;;;;;;;;x
+EVTDESC_Plus_2286;The inevitable has finally occurred: a delivery of a bull of excommunication to [k_orthodox.Holder.GetTitledName] by [k_papal_state.Holder.GetTitledName] has been responded to in kind. The mutual excommunication follows on the heels of what is reported to be a series of terse letters over Christian doctrine, each building on the growing divisions between Latin and Greek Christianity. While few are treating the event as noteworthy at the moment, the reality of the situation is that Rome and Constantinople have grown apart to the point where any hope of reconciliation has been completely lost. They have, in truth, become two separate faiths operating under their separate religious heads, despite the Pope's and the Ecumenical Patriarch's assurances to the contrary.;;;;;;;;;;;;;x
+EVTOPTA_Plus_2286;We follow the Bishop of Rome.;;;;;;;;;;;;;x
+EVTOPTB_Plus_2286;We follow the Ecumenical Patriarch.;;;;;;;;;;;;;x
+EVTOPTC_Plus_2286;This is of great concern...;;;;;;;;;;;;;x
+EVTOPTD_Plus_2286;So Christianity divides itself yet again.;;;;;;;;;;;;;x

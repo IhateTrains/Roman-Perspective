@@ -11,12 +11,21 @@ namespace = GreatSchism
 #
 ################################
 
-character_event = {
+narrative_event = {
 	id = GreatSchism.001
-
-	hide_window = yes
+	
+	name = GreatSchism.001.name
+	desc = EVTDESC_Plus_2286
+	picture = GFX_evt_great_schism
 
 	is_triggered_only = yes
+	major = yes
+	
+	only_rulers = yes
+	
+	trigger = {
+		has_landed_title = k_papal_state
+	}
 
 	immediate = {
 		orthodox = { set_religion_head = k_orthodox }
@@ -31,7 +40,28 @@ character_event = {
 			unsafe_religion = catholic
 		}
 		catholic = { set_religion_head = k_papal_state }
-		any_province = { #convert provinces
+		
+		set_global_flag = ChristianSchisms_great_schism_happened
+	}
+	
+	option = {
+		name = EVTOPTA_Plus_2286
+		trigger = {
+			religion = orthodox
+			OR = {
+				orthodox_allegiant_to_pope_trigger = yes
+				orthodox_not_allegiant_to_pentarchs_trigger = yes
+			}
+		}
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 0.2
+				orthodox_not_allegiant_to_pentarchs_trigger = yes
+			}
+		}
+		
+		any_realm_province = { #convert provinces
 			limit = { #for testing, can be made more dynamic later
 				religion = orthodox
 				OR = {
@@ -43,32 +73,7 @@ character_event = {
 			}
 			religion = catholic
 		}
-		any_mercenary_band = { #convert mercenaries
-			limit = {
-				religion = orthodox
-				capital_scope = {
-					religion = catholic #capital converted to catholic on schism
-				}
-			}
-			religion = catholic
-			holder_scope = {
-				religion = catholic
-			}
-		}
-		any_landed_title = { #convert holy orders
-			limit = {
-				religion = orthodox
-				holy_order = yes
-				capital_scope = {
-					religion = catholic #capital converted to catholic on schism
-				}
-			}
-			religion = catholic
-			holder_scope = {
-				religion = catholic
-			}
-		}
-		any_character = { #convert characters
+		any_realm_character = { #convert characters
 			limit = { #for testing, can be made more dynamic later
 				religion = orthodox
 				location = {
@@ -96,8 +101,53 @@ character_event = {
 				set_government_type = theocracy_government
 			}
 		}
-		
-		set_global_flag = ChristianSchisms_great_schism_happened
+	}
+	option = {
+		name = EVTOPTB_Plus_2286
+		trigger = {
+			religion = orthodox
+		}
+	}
+	option = {
+		name = EVTOPTC_Plus_2286
+		trigger = {
+			religion_group = christian
+			NOT = { religion = orthodox }
+		}
+	}
+	option = {
+		name = EVTOPTD_Plus_2286
+		trigger = {
+			NOT = { religion_group = christian }
+		}
+	}
+	
+	after = {
+		any_mercenary_band = { #convert mercenaries
+			limit = {
+				religion = orthodox
+				capital_scope = {
+					religion = catholic #capital converted to catholic on schism
+				}
+			}
+			religion = catholic
+			holder_scope = {
+				religion = catholic
+			}
+		}
+		any_landed_title = { #convert holy orders
+			limit = {
+				religion = orthodox
+				holy_order = yes
+				capital_scope = {
+					religion = catholic #capital converted to catholic on schism
+				}
+			}
+			religion = catholic
+			holder_scope = {
+				religion = catholic
+			}
+		}
 	}
 }
 

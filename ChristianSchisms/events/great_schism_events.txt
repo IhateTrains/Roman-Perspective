@@ -14,7 +14,7 @@ namespace = GreatSchism
 narrative_event = {
 	id = GreatSchism.001
 	
-	name = GreatSchism.001.name
+	title = GreatSchism.001.title
 	desc = EVTDESC_Plus_2286
 	picture = GFX_evt_great_schism
 
@@ -25,6 +25,7 @@ narrative_event = {
 	
 	trigger = {
 		has_landed_title = k_papal_state
+		496 = { check_variable = { which = "schism_tracker" value = 4.9 } }
 	}
 
 	immediate = {
@@ -107,6 +108,14 @@ narrative_event = {
 		trigger = {
 			religion = orthodox
 		}
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 0
+				orthodox_allegiant_to_pope_trigger = yes
+			}
+		}
+		
 	}
 	option = {
 		name = EVTOPTC_Plus_2286

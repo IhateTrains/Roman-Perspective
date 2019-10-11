@@ -9,3 +9,9 @@ on_startup = {
 		GreatSchism.002 # Relative localisation for e_roman_empire
 	}
 }
+
+on_five_year_pulse = {
+	events = {
+		GreatSchism.001
+	}
+}

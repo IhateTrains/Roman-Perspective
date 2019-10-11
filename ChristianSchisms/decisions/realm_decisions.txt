@@ -1588,29 +1588,6 @@ decisions = {
 				has_holder = no
 			}
 			
-			OR = { #ChristianSchisms mod
-				e_roman_empire = { holder_scope = { is_female = yes } } #Salic law excuse
-				AND = {
-					k_papal_state = { holder_scope = { religion = catholic } }
-					NOT = {
-						e_roman_empire = { holder_scope = { religion = catholic } }
-					}
-				}
-				AND = {
-					k_papal_state = { holder_scope = { religion = fraticelli } }
-					NOT = {
-						e_roman_empire = { holder_scope = { religion = fraticelli } }
-					}
-				}
-				AND = {
-					k_papal_state = { holder_scope = { religion = orthodox } }
-					NOT = {
-						e_roman_empire = { holder_scope = { religion = orthodox } }
-					}
-				}
-				e_roman_empire = { has_holder = no }
-			}
-			
 			is_alternate_start = no
 		}
 		allow = {
@@ -1620,8 +1597,6 @@ decisions = {
 			prestige = 1000
 			realm_size = 180
 			has_landed_title = k_germany
-			
-			e_roman_empire = { holder_scope = { is_female = yes } } #Salic law excuse #ChristianSchisms mod
 			
 			conditional_tooltip = {
 				limit = {

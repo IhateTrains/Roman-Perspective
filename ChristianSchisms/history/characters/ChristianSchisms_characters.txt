@@ -1,6 +1,6 @@
 1014096 = {
 	name="Abulchares"
-	dynasty=200001
+	dynasty=20000001
 	religion="orthodox"
 	culture="levantine_arabic" #Arab origin
 	1020.1.1 = {
@@ -12,7 +12,7 @@
 }
 1014097 = {
 	name="Leo"
-	dynasty=200002
+	dynasty=20000002
 	religion="orthodox"
 	culture="greek"
 	1020.1.1 = {

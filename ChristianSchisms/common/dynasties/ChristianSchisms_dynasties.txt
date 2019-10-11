@@ -1,15 +1,15 @@
-#range: 200 000 - 299 999
-200000 = {
+#range: 20 000 000 - 29 999 999
+20000000 = {
 	name = "Pateranos"
 	culture = greek
 	religion = orthodox
 }
-200001 = {
+20000001 = {
 	name = "Aravas" #Greek for Arab, I hope
 	culture = levantine_arabic
 	religion = orthodox
 }
-200002 = {
+20000002 = {
 	name = "Perenos"
 	culture = levantine_arabic
 	religion = orthodox

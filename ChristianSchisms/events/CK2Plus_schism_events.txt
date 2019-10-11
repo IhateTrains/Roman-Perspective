@@ -79,8 +79,8 @@ character_event = {
 	has_character_flag = was_byzantine_emperor
 	
 	trigger = {
-		has_landed_title = e_byzantium
-		e_byzantium = { is_primary_holder_title = yes }
+		has_landed_title = e_roman_empire
+		e_roman_empire = { is_primary_holder_title = yes }
 		is_heretic = no
 		OR = {
 			any_war = {
@@ -307,7 +307,7 @@ character_event = {
 			is_landed = yes
 			capital_scope = {
 				religion = ROOT
-				NOT = { empire = { title = e_byzantium } }
+				NOT = { empire = { title = e_roman_empire } }
 				kingdom = {
 					OR = {
 						title = k_serbia
@@ -382,7 +382,7 @@ character_event = {
 				is_landed = yes
 				capital_scope = {
 					religion = ROOT
-					NOT = { empire = { title = e_byzantium } }
+					NOT = { empire = { title = e_roman_empire } }
 					kingdom = {
 						OR = {
 							title = k_serbia

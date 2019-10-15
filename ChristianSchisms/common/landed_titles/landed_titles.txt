@@ -186,7 +186,7 @@ d_papal_guards = {
 
 	strength_growth_per_century = 1.00
 
-	religion = catholic
+	religion = orthodox
 
 	# Cannot be held as a secondary title
 	primary = yes

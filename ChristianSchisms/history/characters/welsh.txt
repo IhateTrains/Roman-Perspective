@@ -5,7 +5,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="mastermind_theologian"
 	trait="just"
@@ -40,7 +40,7 @@
 131702 = {
 	name="Madog" #ap Idnerth
 	dynasty=200067 #Maelienydd
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="tough_soldier"
 	father=8187 #Idnerth ap Madog
@@ -55,7 +55,7 @@
 131703 = {
 	name="Cadwallon" #ap Madog
 	dynasty=200067 #Maelienydd
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=131702
 	1118.1.1={
@@ -76,7 +76,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159312
 	mother=159374
@@ -94,7 +94,7 @@
 	name="Angharad"
 	female = yes
 	dynasty=101905
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=204056 # Gerald de Windsor
 	mother=204057  # Nest ferch Rhys
@@ -110,7 +110,7 @@
 	name="Nest" #ferch Rhys
 	female = yes
 	dynasty=101919 #Dinefrw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="bastard"
 	father=81816 #Rhys ap Tewdr
@@ -129,7 +129,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="tough_soldier"
 	father=205831
@@ -152,7 +152,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="scholarly_theologian"
 	1118.1.2={
@@ -170,7 +170,7 @@
 	name="Dafydd"
 	# AKA: Dafydd ab Owain
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="kinslayer"
 	father=214710 #Owain ap Gruffydd
@@ -194,7 +194,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="deceitful"
 	trait="humble"
@@ -218,7 +218,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="craven"
 	trait="thrifty_clerk"
@@ -241,7 +241,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="chaste"
 	trait="arbitrary"
@@ -264,7 +264,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="brave"
 	trait="tough_soldier"
@@ -282,7 +282,7 @@
 	name="Owain"
 	# AKA: Owain ap Gruffydd
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81031 #Gruffyd ap Cynan
 	mother=214814 #Angharad ferch Owain
@@ -309,7 +309,7 @@
 	# AKA: Gwladys
 	dynasty=101920 #Aberffraw
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=138478 # Llywarch ap Trahaiarn
 	1100.1.1={
@@ -325,7 +325,7 @@
 	name="Iorwerth Drwyndwyn" #flatnose
 	# AKA: Iorwerth ap Owain
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214710 #Owain ap Gruffydd
 	mother=214711 #Gwladys Aberffraw
@@ -345,7 +345,7 @@
 	name="Llywelyn"
 	# AKA: Llywelyn ab Iorwerth
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="charismatic_negotiator"
 	trait="brave"
@@ -380,7 +380,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="brave"
 	trait="diligent"
@@ -400,7 +400,7 @@
 	name="Hywel"
 	# AKA: Hywel ab Owain
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214710 #Owain ap Gruffydd
 	mother=214713
@@ -418,7 +418,7 @@
 	# AKA: Marared ferch Madog
 	female = yes
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214718 #Madog ap Maredudd
 	#mother Susann of Gwynedd
@@ -435,7 +435,7 @@
 	name="Madog"
 	# AKA: Madog ap Maredudd
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6360 #Maredudd ap Bleddyn
 	1070.1.1={
@@ -453,7 +453,7 @@
 	name="Owain Cyfeiliog" #ap Gruffydd
 	# AKA: Owain Cyfelloig
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214722 #Gruffyd ap Maredudd
 	#mother Gwerfyl daughter of Gwrgeno ap Hywel
@@ -473,7 +473,7 @@
 	# AKA: Gwenllian ferch Owain ap Gruffydd
 	female = yes
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214710 # Owain ap Gruffydd
 	trait="bastard"
@@ -489,7 +489,7 @@
 	name="Gruffydd" #Gruffyd ap Maredudd
 	# AKA: Gruffydd ap Madog can't be as he died in 1191
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6360 #Maredudd ap Bleddyn
 	1064.1.1={
@@ -505,7 +505,7 @@
 	name="Madog"
 	# AKA: Gwenwynwyn
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81854 #Gruffydd Maelor ap Madog
 	mother=252368 #Angharad of Gwynedd
@@ -521,7 +521,7 @@
 	name="Rhys"
 	# AKA: Rhys ap Gruffydd
 	dynasty=101919 #Dinefwr
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214810 #Gruffydd ap Rhys
 	mother=214811 #Gwenllian ferch Gruffydd
@@ -541,7 +541,7 @@
 	# AKA: Gwenllian ferch Owain - wrong
 	female = yes
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214718 #Madog ap Maredudd
 	mother=138449 #Susann ferch Gruffydd 
@@ -558,7 +558,7 @@
 	# AKA: Gwenllian ferch Rhys
 	female = yes
 	dynasty=101919 #Dinefwr
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214800 #Rhys ap Gruffydd
 	mother=214801 #Gwenllian ferch Owain
@@ -575,7 +575,7 @@
 	name="Gruffydd"
 	# AKA: Gruffydd ap Rhys
 	dynasty=101919 #Dinefwr
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214800 #Rhys ap Gruffydd
 	mother=214801 #Gwenllian ferch Owain
@@ -594,7 +594,7 @@
 	name="Rhys" #the Hoarse
 	# AKA: Rhys 'Gryg' ap Rhys
 	dynasty=101919 #Dinefwr
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214800
 	mother=214801
@@ -612,7 +612,7 @@
 	# AKA: Nest ferch Rhys
 	female = yes
 	dynasty=101919 #Dinefwr
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214800 #Rhys ap Gruffydd
 	mother=214801 #Gwenllian ferch Owain
@@ -629,7 +629,7 @@
 	# AKA: Catrin ferch Rhys
 	female = yes
 	dynasty=101919 #Dinefwr
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="bastard"
 	father=214800 #Rhys ap Gruffydd
@@ -646,7 +646,7 @@
 	# AKA: Anghared ferch Rhys
 	female = yes
 	dynasty=101919 #Dinefwr
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214800 #Rhys ap Gruffydd
 	mother=214801 #Gwenllian ferch Owain
@@ -664,7 +664,7 @@
 	# AKA: Cristen ferch Goronwy
 	female = yes
 	dynasty=101680 #Tegaingl
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214809 #Gronw ap Owain
 	1118.1.1={
@@ -679,7 +679,7 @@
 	name="Goronwy" #Gronw ab Owain
 	# AKA: Goronwy ab Owain
 	dynasty=101680 #Tegaingl
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214815 #Owain ap Edwin
 	1063.1.1={
@@ -694,7 +694,7 @@
 	name="Gruffydd"
 	# AKA: Gruffydd ap Rhys
 	dynasty=101919 #Dinefrw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81816 #Rhys ap Tewdr
 	mother=40506 #Gwladys ap Rhiwallon
@@ -714,7 +714,7 @@
 	# AKA: Gwenllian ferch Gruffydd
 	female = yes
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81031 #Gruffyd ap Cynan
 	mother=214814 #Angharad ferch Owain
@@ -732,7 +732,7 @@
 	# AKA: Angharad ferch Owain
 	female = yes
 	dynasty=101680 #Tegaingl
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214815 #Owain ap Edwin
 	1065.1.1={
@@ -747,7 +747,7 @@
 214815 = {
 	name="Owain" #ap Edwin
 	dynasty=101680 #Tegaingl
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40508 #Edwin ap Goronwy
 	mother=40505 #Iweryd ap Cynfyn
@@ -766,7 +766,7 @@
 	name="Rhodri"
 	# AKA: Rhodri ab Owain
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="kinslayer"
 	father=214710 #Owain ap Gruffydd
@@ -786,7 +786,7 @@
 	name="Tomas"
 	# AKA: Tomas ap Rhodri
 	dynasty=101920
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=232002 #Rhodri ab Owain
 	1179.1.1={
@@ -801,7 +801,7 @@
 	name="Gruffyd"
 	# AKA: Gruffyd ap Rhodri
 	dynasty=101920
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=232002 #Rhodri ab Owain
 	1180.1.1={
@@ -816,7 +816,7 @@
 	name="Einion"
 	# AKA: Einion ap Rhodri
 	dynasty=101920
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=232002 #Rhodri ab Owain
 	1181.1.1={
@@ -831,7 +831,7 @@
 	name="Maelgwn"
 	# AKA: Maelgwn ap Rhys
 	dynasty=101919
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214800 #Rhys ap Gruffydd
 	mother=214801 #Gwenllian ferch Owain
@@ -881,7 +881,7 @@
 40502 = {
 	name="Gruffydd" #ap Llywelyn
 	dynasty=14278 # Seisyll
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40500 #Llywelyn ap Seisyll of Gwynedd
 	mother=40501 # Angharad Dinefwr
@@ -921,7 +921,7 @@
 40504 = {
 	name="Rhiwallon" #ap Cynfyn
 	dynasty=548 #Mathrafal
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40503 #Cynfyn ap Gwerstan
 	mother=40501 #Angharad of Gwynedd
@@ -939,7 +939,7 @@
 	# AKA: Eferydd
 	female = yes
 	dynasty=548 #Mathrafal
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40503 #Cynfyn ap Gwerstan
 	mother=40501 #Angharad of Gwynedd
@@ -957,7 +957,7 @@
 	# AKA: Gwladys
 	female = yes
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40504 #Rhiwallon ap Cynfyn
 	1049.1.1={
@@ -973,7 +973,7 @@
 	name="Haer" #ferch Cillin
 	female = yes
 	dynasty=20146 #Efionydd
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	#father Cillin ap Yplaidd
 	1030.1.1={
@@ -987,7 +987,7 @@
 40508 = {
 	name="Edwyn" #ap Goronwy
 	dynasty=101680 #Tegaingl
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=138482 #Goronwy ap Einion
 	1014.1.1={
@@ -1061,7 +1061,7 @@
 40513 = {
 	name="Meurig" #ap Hywel
 	dynasty=547 #Morgan
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40512
 	1000.1.1={
@@ -1095,7 +1095,7 @@
 40515 = {
 	name="Gwrgant" #ap Ithel Ddu
 	dynasty=547 #Morgan
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40514 #Ithel Ddu ap Owain
 	1010.1.1={
@@ -1113,7 +1113,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="naive_appeaser"
 	1045.1.2={
@@ -1131,7 +1131,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="thrifty_clerk"
 	father=6376
@@ -1151,7 +1151,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6376
 	mother=40516
@@ -1170,7 +1170,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6376
 	mother=40516
@@ -1189,7 +1189,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6376
 	mother=40516
@@ -1209,7 +1209,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6376
 	mother=40516
@@ -1230,7 +1230,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="amateurish_plotter"
 	father=40515
@@ -1250,7 +1250,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="naive_appeaser"
 	father=40515
@@ -1265,7 +1265,7 @@
 420000 = {
 	name="Gruffydd" #ap Llywelyn
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214714 #Llywelyn ab Iorwerth
 	trait="bastard"
@@ -1280,7 +1280,7 @@
 420001  = {
 	name="Llywelyn" #ap Gruffydd
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420000 #Gruffydd ap Llywelyn
 	1234.1.1={
@@ -1297,7 +1297,7 @@
 420002 = {
 	name="Dafydd" #ap Gruffydd
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420000 #Gruffydd ap Llywelyn
 	1235.1.1={
@@ -1313,7 +1313,7 @@
 	name="Owain Goch" #ap Gruffyd
 	# AKA: Owain Goch
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420000 #Gruffydd ap Llywelyn
 	1221.1.1={
@@ -1329,7 +1329,7 @@
 	name="Rhodri" #ap Gruffyd
 	# AKA: Rhodri ap Llywelyn
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420000 #Gruffydd ap Llywelyn
 	1231.1.1={
@@ -1344,7 +1344,7 @@
 	name="Tomas" 
 	# AKA: Tomas ap Rhodri
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420004 #Rhodri ap Gruffyd
 	1300.1.1={
@@ -1359,7 +1359,7 @@
 	name="Owain"
 	# AKA: Owain Lawgoch
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420005 #Tomas ap Gruffyd
 	1330.1.1={
@@ -1374,7 +1374,7 @@
 	name="Gwenwynwyn"
 	# AKA: Gwenwynwyn ab Owain Cyfelloig
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214720 #Owain Cyfelloig ap Gruffydd 
 	mother=214721 #Gwenllian ferch Owain ap Gruffydd
@@ -1391,7 +1391,7 @@
 	name="Gruffydd"
 	# AKA: Gruffydd ap Gwenwynwyn
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420007 #Gwenwynwyn ab Owain
 	1212.1.1={
@@ -1407,7 +1407,7 @@
 	name="Owain" 
 	# AKA: Owain ap Gruffydd
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420008 #Gruffydd ap Gwenwynwyn
 	1257.1.1={
@@ -1423,7 +1423,7 @@
 	name="Gruffydd"
 	# AKA: Gruffydd ap Owain
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420009 #Owain ap Gruffydd
 	1285.1.1={
@@ -1442,7 +1442,7 @@
 	# AKA: Hawis ferch Owain
 	female = yes
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420009 #Owain ap Gruffydd
 	1290.7.25={
@@ -1457,7 +1457,7 @@
 6358 = {
 	name="Bleddyn" #ap Cynfyn
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40503 #Cynfyn ap Gwerstan
 	mother=40501 #Angharad of Gwynedd
@@ -1490,7 +1490,7 @@
 6360 = {
 	name="Maredudd" #ap Bleddyn
 	dynasty=548 #Mathrafal
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6358 #Bleddyn ap Cynfyn
 	mother=40507 #Haer Efionydd
@@ -1511,7 +1511,7 @@
 6362 = {
 	name="Cadwgan" #ap Meurig
 	dynasty=547 #Morgan
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40513 #Meurig ap Hywel
 	1042.1.1={
@@ -1530,7 +1530,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="slothful"
 	trait="greedy"
@@ -1548,7 +1548,7 @@
 6376 = {
 	name="Iestyn" #ap Gwrgant
 	dynasty=547 #Morgan
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40515 #Gwrgant ap Ithel Ddu 
 	1045.1.1={
@@ -1565,7 +1565,7 @@
 6378 = {
 	name="Cadwgan" #ap Bleddyn
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6358 #Bleddyn ap Cynfyn
 	mother=81849 #Brandwen Nwrcelyn
@@ -1592,7 +1592,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40513 #Meurig ap Hywel
 	trait="diligent"
@@ -1627,7 +1627,7 @@
 81030 = {
 	name="Cynan" #ap Iago
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81825 #Iago ap Idwal
 	1014.1.1={
@@ -1644,7 +1644,7 @@
 81031 = {
 	name="Gruffydd" #ap Cynan
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81030 # Cynan ap Iago
 	mother=1029 #Ragnhild erv Olav
@@ -1669,7 +1669,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="mastermind_theologian"
 	trait="scholar"
@@ -1689,7 +1689,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="diligent"
 	trait="patient"
@@ -1711,7 +1711,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="diligent"
 	trait="honest"
@@ -1728,7 +1728,7 @@
 81814 = {
 	name="Maredudd" #ap Gruffydd
 	dynasty=101919 #Dinefrw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214810 #Gruffydd ap Rhys
 	1130.1.1={
@@ -1742,7 +1742,7 @@
 81815 = {
 	name="Rhys" #ap Owain 
 	dynasty=101919 #Dinefrw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=138494 #Owain ap Edwin
 	1011.1.1={
@@ -1756,7 +1756,7 @@
 81816 = {
 	name="Rhys" # ap Tewdwr
 	dynasty=101919 #Dinefrw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="charitable"
 	father=138488 #Tewdwr ap Cadell
@@ -1774,7 +1774,7 @@
 81817 = {
 	name="Rhirid" #ap Owain
 	dynasty=101680 #Tegaingl
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214815 #Owain ap Edwin ap Goronwy
 	1064.1.1={
@@ -1788,7 +1788,7 @@
 81818 = {
 	name="Tewdwr" #ap Edwin
 	dynasty=101680 #Tegaingl
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40508 #Edwin ap Goronwy
 	1040.1.1={
@@ -2016,7 +2016,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="cynical"
 	trait="thrifty_clerk"
@@ -2037,7 +2037,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="tough_soldier"
 	father=40502
@@ -2058,7 +2058,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="patient"
 	trait="martial_cleric"
@@ -2075,7 +2075,7 @@
 81846 = {
 	name="Caradog" #ap Gruffydd
 	dynasty=1029004 #Gwynllwg
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81862 #Gruffydd ap Rhydderch
 	1046.1.1={
@@ -2089,7 +2089,7 @@
 81847 = {
 	name="Madog" #ap Bleddyn
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6358 #Bleddyn ap Cynfyn
 	1043.1.1={
@@ -2103,7 +2103,7 @@
 81848 = {
 	name="Rhirid" #Rhirid ap Bleddyn
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6358 #Bleddyn ap Cynfyn
 	1043.1.1={
@@ -2133,7 +2133,7 @@
 	name="Hunydd" #ap Bleddyn
 	female = yes
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6358 #Bleddyn ap Cynfyn
 	mother=81849 #Brandwen Nwrcelyn
@@ -2149,7 +2149,7 @@
 	name="Llywelyn" #ap Madog
 	# AKA: Llywarch
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214718 #Madog ap Maredudd
 	#mother Susann of Gwynedd
@@ -2164,7 +2164,7 @@
 81853 = {
 	name="Gwenllian" #Gwenllian ferch Gruffydd
 	female = yes
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	#father Gruffydd ap Cynan
 	1080.1.1={
@@ -2181,7 +2181,7 @@
 	name="Gruffydd Maelor" #ap Madog
 	# AKA: Maelog
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214718 #Madog ap Maredudd
 	#mother Susann of Gwynedd
@@ -2200,7 +2200,7 @@
 81855 = {
 	name="Rhiryd" #ap Iorwerth
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81857 #Iorwerth ap Bleddyn
 	1100.1.1={
@@ -2215,7 +2215,7 @@
 	name="Morien" #ferch Idnerth
 	female=yes
 	dynasty=200067 #Maelienydd
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=8187
 	1036.1.1={
@@ -2229,7 +2229,7 @@
 81857 = {
 	name="Iorwerth" #ap Bleddyn
 	dynasty=548 #Mathrafal
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6358 #Bleddyn ap Cynfyn
 	mother=81856 #Morien Maelienydd
@@ -2245,7 +2245,7 @@
 	name="Meilys" #ap Rhiwallon
 	# AKA: Meilyr
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40504 #Rhiwallon ap Cynfyn
 	1047.1.1={
@@ -2260,7 +2260,7 @@
 	name="Sioned" #verch Rhiwallon
 	female = yes
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=40504 #Rhiwallon ap Cynfyn
 	1048.1.1={
@@ -2279,7 +2279,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="tough_soldier"
 	father=81846
@@ -2298,7 +2298,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="humble"
 	father=81863
@@ -2337,7 +2337,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81863
 	1020.1.2={
@@ -2355,7 +2355,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="patient"
 	trait="temperate"
@@ -2375,7 +2375,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="arbitrary"
 	trait="flamboyant_schemer"
@@ -2395,7 +2395,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="thrifty_clerk"
 	father=81866
@@ -2414,7 +2414,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="honest"
 	trait="tough_soldier"
@@ -2434,7 +2434,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="lustful"
 	trait="tough_soldier"
@@ -2451,7 +2451,7 @@
 	name="Idnerth" #ap Cadwgon
 	dynasty=200067 #Maelienydd
 	father=184126 #Cadwgon ap Elystan
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	1017.1.1={
 		birth="1017.1.1"
@@ -2468,7 +2468,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="tough_soldier"
 	1040.1.2={
@@ -2490,7 +2490,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81871
 	mother=40522
@@ -2520,7 +2520,7 @@
 81911 = {
 	name="Herewallt"
 	dynasty=20191 #Llancarfan
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	1025.1.1={
 		birth="1025.1.1"
@@ -2537,7 +2537,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="patient"
 	trait="scholarly_theologian"
@@ -2557,7 +2557,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="diligent"
 	trait="scholarly_theologian"
@@ -2574,7 +2574,7 @@
 	name="Gwenllian" 
 	female=yes
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6358 #Bleddyn ap Cynfyn
 	mother=81849 #Brandwen Nwrcelyn
@@ -2605,7 +2605,7 @@
 	name="Gwenllian" 
 	female=yes
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214718 #Madog ap Maredudd
 	#mother Susann of Gwynedd
@@ -2621,7 +2621,7 @@
 138446 = {
 	name="Madog" #ap Rhirid
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81848 #Rhirid ap Bleddyn	
 	1075.1.1={
@@ -2642,7 +2642,7 @@
 138448 = {
 	name="Ithel" #ap Rhirid
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81848 #Rhirid ap Bleddyn
 	1076.1.1={
@@ -2657,7 +2657,7 @@
 	name="Susann" #ferch Gruffydd 
 	dynasty=101920 #Aberffraw
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81031 #Gruffyd ap Cynan
 	mother=214814 #Angharad ferch Owain
@@ -2673,7 +2673,7 @@
 138450 = {
 	name="Llywelyn" #ap Cadwgan
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6378 #Cadwgan ap Bleddyn
 	1057.1.1={
@@ -2687,7 +2687,7 @@
 138452 = {
 	name="Owain" #ap Cadwgan
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6378 #Cadwgan ap Bleddyn
 	trait="ambitious"
@@ -2706,7 +2706,7 @@
 138454 = {
 	name="Einon" #ap Cadwgan
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6378 #Cadwgan ap Bleddyn
 	#mother Sanan
@@ -2721,7 +2721,7 @@
 138456 = {
 	name="Madog" #ap Cadwgan
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6378 #Cadwgan ap Bleddyn
 	mother=81853 #Gwenllian ferch Gruffydd
@@ -2736,7 +2736,7 @@
 138458 = {
 	name="Maredudd" #ap Cadwgan
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6378 #Cadwgan ap Bleddyn
 	#Euron daughter of Hoedlyw ap Cadwgan
@@ -2751,7 +2751,7 @@
 138460 = {
 	name="Morgan" #ap Cadwgan
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6378 #Cadwgan ap Bleddyn
 	#Euron daughter of Hoedlyw ap Cadwgan
@@ -2770,7 +2770,7 @@
 138462 = {
 	name="Gruffydd Maelor" #Gruffydd Maelor II
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214724 #Madog ap Gruffydd Maelor ap Madog
 	#mother Angharad of Gwynedd
@@ -2821,7 +2821,7 @@
 138468 = {
 	name="Cadwallon" # ap Gruffydd
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81031 #Gruffydd ap Cynan
 	trait="bastard"
@@ -2836,7 +2836,7 @@
 138470 = {
 	name="Cadwaladr" # ap Gruffydd
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81031 #Gruffyd ap Cynan
 	mother=214814 #Angharad ferch Owain
@@ -2852,7 +2852,7 @@
 138472 = {
 	name="Gruffydd" #ap Iago
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=81825 #Iago ap Idwal
 	1014.1.1={
@@ -2866,7 +2866,7 @@
 138474 = {
 	name="Caradog" #ap Gruffydd
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=138472 #Gruffydd ap Iago
 	1033.1.1={
@@ -2881,7 +2881,7 @@
 138476 = {
 	name="Trahaearn" #ap Caradog
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=138474 #Caradog ap Gruffydd
 	1050.1.1={
@@ -2898,7 +2898,7 @@
 138478 = {
 	name="Llywarch" #ap Trahaiarn
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=138476 # Trahaiarn ap Caradog
 	1070.1.1={
@@ -2940,7 +2940,7 @@
 138486 = {
 	name="Dafydd" #ap Llywelyn
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214714 #Llywelyn ab Iorwerth
 	mother=138451 #Joan of England
@@ -2966,7 +2966,7 @@
 	name="Helen" #ferch Llywelyn
 	female=yes
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214714 #Llywelyn ab Iorwerth
 	mother=138451 #Joan of England
@@ -3040,7 +3040,7 @@
 138496 = {
 	name="Maredudd" #ap Owain 
 	dynasty=101919 #Dinefrw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=138494 #Owain ap Edwin
 	1010.1.1={
@@ -3054,7 +3054,7 @@
 138498 = {
 	name="Anarawd" #ap Gruffyd
 	dynasty=101919 #Dinefrw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214810 #Gruffydd ap Rhys
 	trait="bastard"
@@ -3070,7 +3070,7 @@
 138500 = {
 	name="Cadell" #ap Gruffyd
 	dynasty=101919 #Dinefrw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214810 #Gruffydd ap Rhys
 	trait="bastard"
@@ -4447,7 +4447,7 @@
 159098 = {
 	name="Brochfael" #
 	dynasty=1029003 # Gwerthrynion
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159097
 	995.1.1={
@@ -4460,7 +4460,7 @@
 159099 = {
 	name="Selyf" #
 	dynasty=1029003 # Gwerthrynion
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159098
 	1040.1.1={
@@ -4486,7 +4486,7 @@
 159101 = {
 	name="Gruffydd" #
 	dynasty=1029003 # Gwerthrynion
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159100
 	1015.1.1={
@@ -4500,7 +4500,7 @@
 159102 = {
 	name="Gwyn" #
 	dynasty=1029003 # Gwerthrynion
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159101
 	1050.1.1={
@@ -4514,7 +4514,7 @@
 159103 = {
 	name="Aeddan" #
 	dynasty=1029003 # Gwerthrynion
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159099
 	1075.1.1={
@@ -4528,7 +4528,7 @@
 159104 = {
 	name="Beli" #
 	dynasty=1029003 # Gwerthrynion
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159099
 	1080.1.1={
@@ -4542,7 +4542,7 @@
 159105 = {
 	name="Pasgen" #
 	dynasty=1029003 # Gwerthrynion
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159102
 	1080.1.1={
@@ -4557,7 +4557,7 @@
 	name="Tangwre" #
 	female=yes
 	dynasty=1029003 # Gwerthrynion
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159102
 	1080.10.1={
@@ -4721,7 +4721,7 @@
 	name="Gwladus" #ferch Llywelyn
 	female=yes
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="bastard"
 	father=214714 #Llywelyn ab Iorwerth
@@ -4737,7 +4737,7 @@
 	name="Nest" # ferch Tewdwr
 	dynasty=101919 #Dinefrw
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="charitable"
 	father=138488 #Tewdwr ap Cadell
@@ -4756,7 +4756,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="tough_soldier"
 	father=159291
@@ -4779,7 +4779,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="tough_soldier"
 	father=159292
@@ -4799,7 +4799,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="tough_soldier"
 	father=159293
@@ -4818,7 +4818,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="tough_soldier"
 	father=159293
@@ -4837,7 +4837,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="tough_soldier"
 	father=159293
@@ -5064,7 +5064,7 @@
 159312 = {
 	name="Maenyrch" # of Brycheiniog
 	dynasty=1047020 #Manceinion
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159311
 	mother=159313
@@ -5100,7 +5100,7 @@
 159314 = {
 	name="Blegwrd" # of Brycheiniog
 	dynasty=1042817 #Brycheiniog
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=131704
 	1066.1.1={
@@ -5114,7 +5114,7 @@
 159315 = {
 	name="Gwgon" # of Brycheiniog
 	dynasty=1042817 #Brycheiniog
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159314
 	1086.1.1={
@@ -5128,7 +5128,7 @@
 159231 = { 
 	name="Rhydderch"
 	dynasty=101919
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=138488
 	1000.1.1={
@@ -5145,7 +5145,7 @@
 159232 = { 
 	name="Maredudd"
 	dynasty=101919
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159231
 	mother=81850 #Hunydd ferch Bleddyn
@@ -5160,7 +5160,7 @@
 159233 = { 
 	name="Owain"
 	dynasty=101919
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159231
 	mother=81850 #Hunydd ferch Bleddyn
@@ -5176,7 +5176,7 @@
 	name="Denis" #ferch Bleddyn
 	dynasty=548 #Mathrafal
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=6358 #Bleddyn ap Cynfyn
 	mother=40507 #Haer Efionydd
@@ -5771,7 +5771,7 @@
 159373 = {
 	name="Einion" 
 	dynasty=200068
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159372
 	1000.1.1={
@@ -5785,7 +5785,7 @@
 	name="Elinor" #
 	female = yes
 	dynasty=200068
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159373
 	1020.1.1={
@@ -5820,7 +5820,7 @@
 	diplomacy=3
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159312
 	mother=159374
@@ -5837,7 +5837,7 @@
 	name="Elinor" #ferch Drymbenog
 	female=yes
 	dynasty=1042817
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159519
 	1050.1.1={
@@ -8056,7 +8056,7 @@
 184119 = {
 	name="Iorwerth"
 	dynasty=1047018 #Ternyllwg
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159068 #Tegonwy Gruffyd of Powys
 	740.1.1={
@@ -8170,7 +8170,7 @@
 	dynasty=200067 #Maelienydd
 	father=131703
 #	mother=138445
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	1153.1.1={
 		birth="1153.1.1"
@@ -8186,7 +8186,7 @@
 	name="Maredudd" #ap Maelgwn
 	dynasty=200067 #Maelienydd
 	father=184127
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	1195.1.1={
 		birth="1195.1.1"
@@ -8199,7 +8199,7 @@
 	name="Madog" #ap Maredudd
 	dynasty=200067 #Maelienydd
 	father=184128
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	1250.1.1={
 		birth="1250.1.1"
@@ -8292,7 +8292,7 @@
 184083 = {
 	name="Madog" #Madog II
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=138462 #Gruffydd Maelor II
 	1230.1.1={
@@ -8306,7 +8306,7 @@
 184084 = {
 	name="Gruffydd Fychan"
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=138462 #Gruffydd Maelor II
 	1240.1.1={
@@ -8319,7 +8319,7 @@
 184085 = {
 	name="Madog Crypl"
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=184084 #Gruffydd Fychan
 	1275.1.1={
@@ -8332,7 +8332,7 @@
 184086 = {
 	name="Gruffydd" #of Rhuddallt
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=184085 #Madog Crypl
 	1298.1.1={
@@ -8345,7 +8345,7 @@
 184087 = {
 	name="Gruffydd Fychan" #II
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=184086 #Gruffydd of Rhuddalt
 	1320.1.1={
@@ -8385,7 +8385,7 @@
 	name="Owain" #ap Madog
 	# AKA: Owain Brogyntyn
 	dynasty=1042815 
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214718 #Madog ap Maredudd
 	#mother Susann of Gwynedd
@@ -8401,7 +8401,7 @@
 184092 = {
 	name="Iorwerth" #ap Owain
 	dynasty=1042815 
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=184091 #Owain ap Madog
 	1195.1.1={
@@ -8417,7 +8417,7 @@
 184093 = {
 	name="Madog"
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420007 #Gwenwynwyn ab Owain
 	1201.1.1={
@@ -8431,7 +8431,7 @@
 	name="Efa"
 	female=yes
 	dynasty=548 #Mathrafal (Powys)
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=184093 #Madog
 	1217.1.1={
@@ -8444,7 +8444,7 @@
 184095 = {
 	name="Gruffudd" #ap Iorwerth
 	dynasty=1042815 
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=184092
 	mother=184094
@@ -8458,7 +8458,7 @@
 184096 = {
 	name="Madog" #ap Gruffudd
 	dynasty=1042815 
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=184095
 	1285.1.1={
@@ -8473,7 +8473,7 @@
 	name="Ednyfed"
 	# AKA: Ednyfed Fychan ap Cynwrig
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="quick"
 	trait="diligent"
@@ -8509,7 +8509,7 @@
 	name="Goronwy"
 	# AKA: Goronwy ab Ednyfed Fychan
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="kind"
 	trait="just"
@@ -8534,7 +8534,7 @@
 	name="Tewdwr"
 	# AKA: Tewdwr Hen ap Goronwy
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="strong"
 	trait="brave"
@@ -8552,7 +8552,7 @@
 	name="Goronwy"
 	# AKA: Goronwy ap Tewdwr Hen
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="honest"
 	trait="brave"
@@ -8570,7 +8570,7 @@
 	name="Hywel"
 	# AKA: Hywel ap Goronwy
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="shy"
 	trait="trusting"
@@ -8588,7 +8588,7 @@
 	name="Tewdwr"
 	# AKA: Tewdwr Fychan ap Goronwy
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="wroth"
 	trait="cynical"
@@ -8606,7 +8606,7 @@
 	name="Gruffydd"
 	# AKA: Gruffydd ab Ednyfed Fychan
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="cynical"
 	trait="envious"
@@ -8626,7 +8626,7 @@
 	# AKA: Gwladus ferch Ednyfed Fychan
 	female=yes
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="fair"
 	trait="twin"
@@ -8646,7 +8646,7 @@
 	# AKA: Gwenllian ferch Ednyfed Fychan
 	female=yes
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="fair"
 	trait="twin"
@@ -8665,7 +8665,7 @@
 	name="Tewdwr Gwilltyn"
 	# AKA: Tewdwr Gwilltyn ab Ednyfed Fychan
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="envious"
 	trait="bastard"
@@ -8683,7 +8683,7 @@
 	name="Iorwerth"
 	# AKA: Iorwerth ab Ednyfed Fychan
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="leper"
 	trait="detached_priest"
@@ -8700,7 +8700,7 @@
 	name="Cynwrig"
 	# AKA: Cynwrig ab Ednyfed Fychan
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="craven"
 	trait="misguided_warrior"
@@ -8717,7 +8717,7 @@
 	name="Rhys"
 	# AKA: Rhys ab Ednyfed Fychan
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="diligent"
 	trait="thrifty_clerk"
@@ -8734,7 +8734,7 @@
 	name="Hywel"
 	# AKA: Hywel ab Ednyfed Fychan
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="zealous"
 	trait="scholarly_theologian"
@@ -8751,7 +8751,7 @@
 	name="Llywelyn"
 	# AKA: Llywelyn ab Ednyfed Fychan
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="brave"
 	trait="misguided_warrior"
@@ -8768,7 +8768,7 @@
 	name="Tewdwr"
 	# AKA: Tewdwr ab Ednyfed Fychan
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="quick"
 	trait="charismatic_negotiator"
@@ -8785,7 +8785,7 @@
 	name="Gwilym"
 	# AKA: Gwilym ab Ednyfed Fychan
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="honest"
 	trait="tough_soldier"
@@ -8802,7 +8802,7 @@
 	name="Goronwy"
 	# AKA: Goronwy Fychan ab Goronwy
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="just"
 	trait="thrifty_clerk"
@@ -8819,7 +8819,7 @@
 	name="Hywel"
 	# AKA: Hywel ab Goronwy
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="cynical"
 	trait="indulgent_wastrel"
@@ -8837,7 +8837,7 @@
 	# AKA: Adles ferch Goronwy
 	female=yes
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="kind"
 	trait="misguided_warrior"
@@ -8854,7 +8854,7 @@
 	name="Gruffydd"
 	# AKA: Gruffydd ab Goronwy
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="cruel"
 	trait="greedy"
@@ -8873,7 +8873,7 @@
 	# AKA: Gwerfyl ferch Goronwy
 	female=yes
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="ill"
 	trait="indulgent_wastrel"
@@ -8891,7 +8891,7 @@
 	# AKA: Gwenllian ferch Goronwy
 	female=yes
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="ugly"
 	trait="naive_appeaser"
@@ -8909,7 +8909,7 @@
 	# AKA: Gwenllian ferch Goronwy
 	female=yes
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="craven"
 	trait="amateurish_plotter"
@@ -8926,7 +8926,7 @@
 	name="Hywel"
 	# AKA: Hywel ap Tewdwr Hen
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="cruel"
 	trait="strong"
@@ -8944,7 +8944,7 @@
 	name="Tewdwr"
 	# AKA: Tewdwr Fychan ap Tewdwr Hen
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="wroth"
 	trait="proud"
@@ -8963,7 +8963,7 @@
 	# AKA: Morfydd ferch Tewdwr Hen
 	female=yes
 	dynasty=14259
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	trait="lisp"
 	trait="shy"
@@ -8981,7 +8981,7 @@
 	name="Llywelyn"
 	# AKA: Llywelyn ap Gruffydd
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420008 #Gruffydd ap Gwenwynwyn
 	1258.1.1={
@@ -8997,7 +8997,7 @@
 	# AKA: Margred ferch Gruffydd
 	female = yes
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420008 #Gruffydd ap Gwenwynwyn
 	1255.1.1={
@@ -9012,7 +9012,7 @@
 	name="Ieuan"
 	# AKA: Ieuan ap Gruffydd
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420008 #Gruffydd ap Gwenwynwyn
 	1261.1.1={
@@ -9027,7 +9027,7 @@
 	name="Gwilym"
 	# AKA: Gwilym ap Gruffydd
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420008 #Gruffydd ap Gwenwynwyn
 	1263.1.1={
@@ -9042,7 +9042,7 @@
 	name="Gruffydd"
 	# AKA: Gruffydd ap Gruffydd
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420008 #Gruffydd ap Gwenwynwyn
 	1268.1.1={
@@ -9057,7 +9057,7 @@
 	name="Dafydd"
 	# AKA: Dafydd ap Gruffydd
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=420008 #Gruffydd ap Gwenwynwyn
 	1271.1.1={
@@ -9073,7 +9073,7 @@
 	# AKA: Efa ferch Llywelyn
 	female = yes
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=183190 #Llywelyn ap Gruffydd
 	1288.1.1={
@@ -9088,7 +9088,7 @@
 	name="Gruffydd"
 	# AKA: Gruffydd ap Gwilym
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=183193 #Gwilym ap Gruffydd
 	1292.1.1={
@@ -9103,7 +9103,7 @@
 	name="Gwilym"
 	# AKA: Gwilym ap Gruffydd
 	dynasty=200069
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=183197 #Gruffydd ap Gwilym
 	1332.1.1={
@@ -11530,7 +11530,7 @@
 	# AKA: Angharad ferch Owain ap Gruffydd
 	female = yes
 	dynasty=101920 #Aberffraw
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=214710 # Owain ap Gruffydd
 	trait="bastard"
@@ -11600,7 +11600,7 @@
 252373 = {
 	name="Rhiwallon" #Rhiwallon ap Maenrych
 	dynasty=1042817
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=159312
 	mother=159374
@@ -11614,7 +11614,7 @@
 252374 = {
 	name="Madog" #Madog ap Rhiwallon
 	dynasty=1042817
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=252373
 	1052.1.1={
@@ -11627,7 +11627,7 @@
 252375 = {
 	name="Einion" #Einion ap Madog
 	dynasty=1042817
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=252374
 	1069.1.1={
@@ -11640,7 +11640,7 @@
 252376 = {
 	name="Trahaearn" #Trahaearn Fawr ap Einion
 	dynasty=1042817
-	religion="orthodox"
+	religion="catholic"
 	culture="welsh"
 	father=252375
 	1085.1.1={

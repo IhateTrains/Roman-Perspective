@@ -34,7 +34,7 @@
 	name="Richènda" #de Narbonne
 	female=yes
 	dynasty=280
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40212 #Bérenguier de Narbonne
 	1013.1.1 = {
@@ -50,7 +50,7 @@
 	name="Berenguié" #Bérenger II de Millau
 	# AKA: Berenguie
 	dynasty=22005
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=10032 #Richard II de Millau
 	mother=10033 #Rixinde de Narbonne
@@ -70,7 +70,7 @@
 	# AKA: Ide
 	female=yes
 	dynasty=100227 #de Forez/Lyon
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=20290 #Artaud IV de Forez
 	mother=10039 #Ida de Beauffremont
@@ -86,7 +86,7 @@
 	name="Godafres-Guilhèm" #Geoffroy Guillaume de Forez
 	# AKA: Guilhem
 	dynasty=100227
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=10028 #Geraud de Forez
 	mother=10029 #Alice de Gévaudan
@@ -102,7 +102,7 @@
 	name="Gilbèrt" #Gilbert de Gévaudan/Millau
 	# AKA: Gilbert
 	dynasty=22005
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=10034 #Bérenger II de Millau
 	mother=10035 #Adèle de Sabran?
@@ -200,7 +200,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="diligent"
 	trait="underhanded_rogue"
@@ -220,7 +220,7 @@
 	# AKA: Ermesinda
 	female=yes
 	dynasty=100213 #was 684 de Foix
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40182 #Rogier I de Comminges
 	973.1.1 = {
@@ -237,7 +237,7 @@
 	# AKA: Etiennette
 	female=yes
 	dynasty=7052
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=410
 	mother=403 #Etiennette de Marseille
@@ -281,7 +281,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=127002
 	mother=210505
@@ -297,7 +297,7 @@
 	name="Raimond" #Raymond VII de Toulouse
 	# AKA: Ramond
 	dynasty=727
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205532 #Raymond VI de Toulouse
 	mother=204513 #Joan of England
@@ -325,7 +325,7 @@
 	name="Constància" #Constance de Toulouse
 	dynasty=727
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205532 #Raymond VI de Toulouse
 	mother=205574
@@ -421,7 +421,7 @@
 	# AKA: Adelais
 	dynasty=7052
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=410
 	mother=403 #Etiennette de Marseille
@@ -441,7 +441,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="martial_cleric"
 	father=334
@@ -458,7 +458,7 @@
 	name="Almodis" #de Toulouse
 	dynasty=727
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=334
 	mother=325
@@ -574,7 +574,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205731
 	mother=205732
@@ -595,7 +595,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205731
 	mother=205732
@@ -614,7 +614,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1074.1.1 = {
 		birth="1074.1.1"
@@ -637,7 +637,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1084.1.1 = {
 		birth="1084.1.1"
@@ -654,7 +654,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="bastard"
 	trait="scholarly_theologian"
@@ -677,7 +677,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="bastard"
 	father=205733
@@ -699,7 +699,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="bastard"
 	trait="martial_cleric"
@@ -720,7 +720,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=240
 	mother=221
@@ -741,7 +741,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=240
 	mother=221
@@ -761,7 +761,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=240
 	mother=221
@@ -781,7 +781,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=234
 	mother=275
@@ -817,7 +817,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=223673
 	1138.1.1 = {
@@ -836,7 +836,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=223673
 	1136.1.1 = {
@@ -854,7 +854,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait=bastard
 	father=223673
@@ -873,7 +873,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait=bastard
 	father=223673
@@ -893,7 +893,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="bastard"
 	father=205530
@@ -913,7 +913,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="bastard"
 	father=205530
@@ -932,7 +932,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="bastard"
 	father=205532
@@ -952,7 +952,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="bastard"
 	father=205532
@@ -972,7 +972,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="bastard"
 	father=205532
@@ -987,7 +987,7 @@
 144605 = {
 	name="Archambaut"
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205600
 	1189.1.1 = {
@@ -1000,7 +1000,7 @@
 
 144611  = {
 	name="Bertrand"
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1109.1.1 = {
 		birth="1109.1.1"
@@ -1017,7 +1017,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="cynical"
 	trait="flamboyant_schemer"
@@ -1036,7 +1036,7 @@
 205531 = {
 	name="Alberic" 
 	dynasty=727 #de Toulouse
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205530 #Raymond V de Toulouse
 	mother=205503
@@ -1055,7 +1055,7 @@
 	name="Raimond"#Raymond VI de Toulouse
 	# AKA: Raimond
 	dynasty=727
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205530
 	mother=205503
@@ -1087,7 +1087,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="clubfooted"
 	trait="skilled_tactician"
@@ -1110,7 +1110,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="greedy"
 	trait="flamboyant_schemer"
@@ -1129,7 +1129,7 @@
 	# AKA: Laurence
 	female=yes
 	dynasty=727
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="bastard"
 	father=223673
@@ -1145,7 +1145,7 @@
 205540 = {
 	name="Gaston" #Gaston VI de Béarn
 	dynasty=336  #de Montcada
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205542 #Guilhem II de Montcade
 	mother=205541 #Marie de Béarn/Gabarret
@@ -1168,7 +1168,7 @@
 	name="Guilhèm" #Guilhem II de Montcade
 	# AKA: Guillaume
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205544 #Guilhem-Raymond II de Montcada
 	1120.1.1 = {
@@ -1186,7 +1186,7 @@
 	name="Guilhèm" #Guillem Ramon I de Béarn
 	# AKA: Guillaume
 	dynasty=336 #de Montcada
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205542 #Guilhem II de Montcade
 	mother=205541 #Marie de Béarn/Gabarret
@@ -1202,7 +1202,7 @@
 	name="Guilhèm-Raimond" #Guilhem-Raymond II de Santmenat
 	# AKA: Guillaume
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1090.1.1 = {
 		birth="1090.1.1"
@@ -1220,7 +1220,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="honest"
 	trait="underhanded_rogue"
@@ -1243,7 +1243,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="chaste"
 	trait="proud"
@@ -1264,7 +1264,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205630
 	mother=205645
@@ -1284,7 +1284,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait=fair
 	trait="diligent"
@@ -1315,7 +1315,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="wroth"
 	trait="craven"
@@ -1341,7 +1341,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="lustful"
 	trait="just"
@@ -1364,7 +1364,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="diligent"
 	trait="just"
@@ -1403,7 +1403,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="tough_soldier"
 	father=210502
@@ -1426,7 +1426,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="proud"
 	trait="skilled_tactician"
@@ -1454,7 +1454,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="tough_soldier"
 	father=338
@@ -1477,7 +1477,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="diligent"
 	trait="bastard"
@@ -1549,7 +1549,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="thrifty_clerk"
 	father=238
@@ -1650,7 +1650,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="thrifty_clerk"
 	father=240
@@ -1693,7 +1693,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="greedy"
 	trait="arbitrary"
@@ -1720,7 +1720,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="chaste"
 	trait="just"
@@ -1743,7 +1743,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="flamboyant_schemer"
 	trait="cynical"
@@ -1773,7 +1773,7 @@
 	name="Isarno" #bishop of Riga
 	dynasty=7152 #de Fontiès
 	trait="martial_cleric" 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1250.1.1 = {
 		birth="1250.1.1"
@@ -1786,7 +1786,7 @@
 306 = {
 	name="Robèrt" #Robert II d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40130 #Guillaume V d'Auvergne
 	mother=40261 #Philippa de Gévaudan
@@ -1894,7 +1894,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="tough_soldier"
 	father=332
@@ -1921,7 +1921,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="envious"
 	trait="amateurish_plotter"
@@ -1939,7 +1939,7 @@
 	name="Guilhèm" #Guillaume IV de Toulouse
 	# AKA: Guilhem
 	dynasty=727
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="flamboyant_schemer"
 	father=334
@@ -1958,7 +1958,7 @@
 338 = {
 	name="Raimond" #Raymond IV de Toulouse/Raimond I of Tripoli
 	dynasty=727
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="brave"
 	trait="zealous"
@@ -2044,7 +2044,7 @@
 	name="Bernat" #Bernard II Tumapaler d'Armagnac
 	# AKA: Barnard 'Tempaler'
 	dynasty=100209
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40010 #Géraud I Trencaleon d'Armagnac
 	mother=40011 #Adélaïda de Gascogne
@@ -2062,7 +2062,7 @@
 	name="Arnaut-Bernat"
 	# AKA: Arnaud
 	dynasty=100209
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40012  #Bernard II Tumapaler d'Armagnac
 	1046.1.1 = {
@@ -2078,7 +2078,7 @@
 	# AKA: Azivelle
 	female=yes
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40902 #Odon 2 de Lomagne
 	1050.1.1 = {
@@ -2097,7 +2097,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="humble"
 	trait="temperate"
@@ -2131,7 +2131,7 @@
 	name="Guilhèm" #Guillaume V d'Auvergne
 	# AKA: Guilhem
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40128 #Robert I d'Auvergne
 	mother=40235 #Ermengarde de Toulouse
@@ -2186,7 +2186,7 @@
 	name="Berenguié" #Bérenguier I de Narbonne
 	# AKA: Berenguie
 	dynasty=280
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40210 #Raymond I de Narbonne
 	mother=40255 #Richarde de Rodez
@@ -2319,7 +2319,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="amateurish_plotter"
 	1001.1.2 = {
@@ -2338,7 +2338,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="patient"
 	trait="tough_soldier"
@@ -2362,7 +2362,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="lustful"
 	trait="tough_soldier"
@@ -2385,7 +2385,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="zealous"
 	trait="tough_soldier"
@@ -2407,7 +2407,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="tough_soldier"
 	father=40541
@@ -2428,7 +2428,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="wroth"
 	trait="proud"
@@ -2475,7 +2475,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="patient"
 	trait="thrifty_clerk"
@@ -2497,7 +2497,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="diligent"
 	trait="gluttonous"
@@ -2564,7 +2564,7 @@
 	# AKA: Dulce
 	female=yes
 	dynasty=22005
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=10040 #Gilbert de Gévaudan/Millau
 	mother=409 # Gerberge de Provence
@@ -2584,7 +2584,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="diligent"
 	trait="patient"
@@ -2607,7 +2607,7 @@
 	# AKA: Gerberge
 	female=yes
 	dynasty=7052
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=410
 	mother=403 #Etiennette de Marseille
@@ -2622,7 +2622,7 @@
 410 = {
 	name="Jaufret" #Geoffroy de provence
 	dynasty=7052
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=404
 	mother=273
@@ -2640,7 +2640,7 @@
 420 = {
 	name="Bertrand" #Bertrand de Provence
 	dynasty=7052
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=410
 	mother=403 #Etiennette de Marseille
@@ -2664,7 +2664,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="bastard"
 	father=420
@@ -2686,7 +2686,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=210517
 	mother=213120
@@ -2706,7 +2706,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="tough_soldier"
 	father=210517
@@ -2728,7 +2728,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=210517
 	mother=213120
@@ -2744,7 +2744,7 @@
 	name="Bernat-Ezi"
 	# AKA: Bernard Aiz
 	dynasty=100150
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455631
 	mother=455632
@@ -2769,7 +2769,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="martial_cleric"
 	1265.1.2 = {
@@ -2790,7 +2790,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="inbred"
 	trait="scholarly_theologian"
@@ -2811,7 +2811,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="proud"
 	trait="thrifty_clerk"
@@ -2829,7 +2829,7 @@
 	name="Talesa"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1051.1.1={
@@ -2844,7 +2844,7 @@
 	name="Raimond-Arnaut" #Raymond Arnaud II de Dax
 	# AKA: Raimond
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138358 #Pierre Arnaud Dat de Mixe
 	mother=138355 #Guirande de Dax
@@ -2863,7 +2863,7 @@
 	name="Pèire" #Pierre II de Dax
 	# AKA: Peire
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=71618
 	mother=71614
@@ -2886,7 +2886,7 @@
 	father=71619
 	mother=205562
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1172.1.1={
@@ -2901,7 +2901,7 @@
 	name="Navar" #Navarre de Dax
 	dynasty=8757
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="detached_priest"
 	father=71618
@@ -2919,7 +2919,7 @@
 	# AKA: Beatrice
 	dynasty=8760
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138266 #Bernard IV de Melgueil
 	1124.1.1 = {
@@ -2934,7 +2934,7 @@
 	name="Pèire"
 	# AKA: Raimond Berenguie
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210506
 	mother=210507
@@ -2954,7 +2954,7 @@
 	name="Garcenda" #Gersende de Provence
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=210502 #Alphonse II de Provence
 	mother=205988 #Gersende de Sabran
@@ -2971,7 +2971,7 @@
 	name="Sança"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=210517
 	mother=213120
@@ -2986,7 +2986,7 @@
 71649 = {
 	name="Raimond-Berenguié"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=210517
 	mother=213120
@@ -3002,7 +3002,7 @@
 	name="Joana" #de Foix
 	dynasty=684
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455544 #Gaston I de Foix
 	mother=455545 #Jeanne d'Artois
@@ -3021,7 +3021,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="ambitious"
 	trait="arbitrary"
@@ -3055,7 +3055,7 @@
 	diplomacy=3
 	intrigue=3
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="cynical"
 	trait="wroth"
@@ -3081,7 +3081,7 @@
 	# AKA: Agnes
 	female = yes
 	dynasty=413 #d'aquitaine
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205733
 	mother=7625
@@ -3102,7 +3102,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="flamboyant_schemer"
 	father=336
@@ -3119,7 +3119,7 @@
 	name="Burgondie" #Bourgogne de Rançon
 	female=yes
 	dynasty=327
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1120.1.2 = {
 		birth="1120.1.2"
@@ -3132,7 +3132,7 @@
 32515 = {
 	name="Raimond"
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=20283
 	1075.1.1 = {
@@ -3146,7 +3146,7 @@
 32516 = {
 	name="Bertrand" #Prince of Orange
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32515
 	1115.1.1 = {
@@ -3164,7 +3164,7 @@
 	name="Matelle" #Matelle des Baux
 	female=yes
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32515
 	1125.1.1 = {
@@ -3180,7 +3180,7 @@
 32518 = {
 	name="Ugues"
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32516
 	mother=32539
@@ -3195,7 +3195,7 @@
 32519 = {
 	name="Guilhèm" #Prince of Orange
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32516
 	mother=32539
@@ -3210,7 +3210,7 @@
 32520 = {
 	name="Raimond" #Prince of Orange
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32519
 	1205.1.1 = {
@@ -3224,7 +3224,7 @@
 32521 = {
 	name="Bertrand" #Prince of Orange
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32520
 	1245.1.1 = {
@@ -3237,7 +3237,7 @@
 32522 = {
 	name="Raimond" #Prince of Orange
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32521
 	1270.1.1 = {
@@ -3251,7 +3251,7 @@
 32523 = {
 	name="Barral"
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32518
 	1200.1.1 = {
@@ -3265,7 +3265,7 @@
 32524 = {
 	name="Bertrand" #count of Benevento 1266-1305
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32523
 	1240.1.1 = {
@@ -3279,7 +3279,7 @@
 32525 = {
 	name="Raimond" #count of Benevento 1309-1321
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32524
 	1265.1.1 = {
@@ -3293,7 +3293,7 @@
 32526 = {
 	name="Ugues" 
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32524
 	1267.1.1 = {
@@ -3307,7 +3307,7 @@
 32527 = {
 	name="Barral" 
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32524
 	1274.1.1 = {
@@ -3322,7 +3322,7 @@
 	name="Beatritz" 
 	female=yes
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32524
 	1276.1.1 = {
@@ -3337,7 +3337,7 @@
 	name="Filipa"
 	female=yes
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32525
 	1300.1.1 = {
@@ -3352,7 +3352,7 @@
 	name="Aliç"
 	female=yes
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32525
 	1302.1.1 = {
@@ -3367,7 +3367,7 @@
 	name="Sibilla"
 	female=yes
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32525
 	1304.1.1 = {
@@ -3382,7 +3382,7 @@
 32534 = {
 	name="Rainaut"
 	dynasty=7248
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1045.1.1 = {
 		birth="1045.1.1"
@@ -3396,7 +3396,7 @@
 32535 = {
 	name="Rainaut"
 	dynasty=7248
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32534
 	1066.1.1 = {
@@ -3411,7 +3411,7 @@
 	name="Tiborg"
 	female=yes
 	dynasty=7248
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32535
 	1085.1.1 = {
@@ -3425,7 +3425,7 @@
 32537 = {
 	name="Guilhèm"
 	dynasty=7249
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1090.1.1 = {
 		birth="1090.1.1"
@@ -3441,7 +3441,7 @@
 32538 = {
 	name="Guilhèm"
 	dynasty=7248
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32537
 	mother=32536
@@ -3458,7 +3458,7 @@
 	name="Tiborg"
 	female=yes
 	dynasty=7248
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32537
 	mother=32536
@@ -3478,7 +3478,7 @@
 	intrigue=4
 	stewardship=5
 	dynasty=40021
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40200 #Aton II de Trencavel
 	1010.1.1 = {
@@ -3565,7 +3565,7 @@
 	# AKA: Alix, Amélia, Aina
 	female=yes
 	dynasty=728 #de Montignac
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1005.1.1 = {
 		birth="1005.1.1"
@@ -3579,7 +3579,7 @@
 40076 = {
 	name="Aldebert" #Adalbert II Cadoirac du Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40074 #Boson III du Périgord
  	mother=138048 #Aina du Périgord
@@ -3595,7 +3595,7 @@
 138049 = {
 	name="Alias" #Hélie III du Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40076 #Adalbert II de Périgord
 	1055.1.1 = {
@@ -3609,7 +3609,7 @@
 138050 = {
 	name="Guilhèm" #Talairand de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138049 #Hélie III de Périgord
 	1080.1.1 = {
@@ -3623,7 +3623,7 @@
 138051 = {
 	name="Alias" #Hélie IV de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138050 #Guillaume Talairand de Périgord
 	1098.1.1 = {
@@ -3637,7 +3637,7 @@
 138052 = {
 	name="Alias" #Hélie V Rudel de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138049 #Hélie III de Périgord
 	1084.1.1 = {
@@ -3651,7 +3651,7 @@
 138053 = {
 	name="Aldebert" #Adalbert III de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40076 #Adalbert II Cadoirac du Périgord
 	1090.1.1 = {
@@ -3665,7 +3665,7 @@
 205601 = {
 	name="Boson" #Boson IV de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138053 #Adalbert III de Périgord
 	1110.1.1 = {
@@ -3683,7 +3683,7 @@
 	name="Jordana"
 	female=yes
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205601 #Boson IV de Périgord
 	mother=205556 # Brunichilde de Foix
@@ -3700,7 +3700,7 @@
 205600 = {
 	name="Alias" #Hélie VI de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205601 #Boson IV de Périgord
 	mother=205556 # Brunichilde de Foix
@@ -3716,7 +3716,7 @@
 205602 = {
 	name="Archambaut" #Archambaud I de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205600 #Hélie VI de Périgord
 	1188.1.1 = {
@@ -3730,7 +3730,7 @@
 205603 = {
 	name="Alias" #Hélie VII or V de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205600 #Hélie VI de Périgord
 	1160.1.1 = {
@@ -3747,7 +3747,7 @@
 138058 = {
 	name="Archambaut" #Archambaud II de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205603 #Hélie VII de Périgord
 	1180.1.1 = {
@@ -3761,7 +3761,7 @@
 138059 = {
 	name="Alias" #Hélie VIII de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138058 #Archambaud II de Périgord
 	1210.1.1 = {
@@ -3775,7 +3775,7 @@
 138060 = {
 	name="Archambaut" #Archambaud III de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138059 #Hélie VIII de Périgord
 	1230.1.1 = {
@@ -3792,7 +3792,7 @@
 455561 = {
 	name="Alias" #Hélie IX (fmg) or VII (wiki) du Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138060 #Hélie VIII de Périgord
 	1258.1.1 = {
@@ -3815,7 +3815,7 @@
 455560 = {
 	name="Archambaut" #Archambaud IV du Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455561 #Hélie IX du Périgord
 	mother=455543 #Brunissende de Foix
@@ -3831,7 +3831,7 @@
 455563 = {
 	name="Rogier-Bernat" #de Périgord
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455561 #Hélie IX du Périgord
 	mother=455543 #Brunissende de Foix
@@ -3849,7 +3849,7 @@
 	# AKA: Agnes
 	female = yes
 	dynasty=98
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455561 #Hélie IX du Périgord
 	mother=455543 #Brunissende de Foix
@@ -3884,7 +3884,7 @@
 
 32268 = {
 	name="Ghibbelin" 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="martial_cleric"
 	1045.1.1 = {
@@ -3898,7 +3898,7 @@
 
 32272 = {
 	name="Folquet" 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="martial_cleric"
 	1095.1.1 = {
@@ -3967,7 +3967,7 @@
 	name="Rotberga" #de Rochechouart
 	female=yes
 	dynasty=5001 #was 100147 de Limousin
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40310 #Aymeric II de Rochechouart
 	1020.1.1 = {
@@ -3986,7 +3986,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="just"
 	trait="amateurish_plotter"
@@ -4003,7 +4003,7 @@
 138073 = {
 	name="Amalric" #Aymeric IV de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40312 #Aymeric III de Rochechouart
 	1070.1.1 = {
@@ -4020,7 +4020,7 @@
 138097 = {
 	name="Amalric" #Aymeric V de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138073 #Aymeric IV de Rochechouart
 	1100.1.1 = {
@@ -4037,7 +4037,7 @@
 138099 = {
 	name="Aymeric" #unknown de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138097 #Aymeric V de Rochechouart
 	1150.1.1 = {
@@ -4054,7 +4054,7 @@
 138100 = {
 	name="Amalric" #Aymeric VI de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138097 #Aymeric V de Rochechouart
 	1155.1.1 = {
@@ -4068,7 +4068,7 @@
 138101 = {
 	name="Amalric" #Aymeric VII de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	give_nickname = nick_the_young
 	father=138100 #Aymeric VI de Rochechouart
@@ -4083,7 +4083,7 @@
 138102 = {
 	name="Amalric" #Aymeric VIII de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138101 #Aymeric VII de Rochechouart
 	1210.1.1 = {
@@ -4100,7 +4100,7 @@
 138104 = {
 	name="Amalric" #Aymeric IX de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138102 #Aymeric VIII de Rochechouart
 	mother=138103 #Marguerite de Limoges
@@ -4115,7 +4115,7 @@
 138105 = {
 	name="Amalric" #Aymeric X de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138104 #Aymeric IX de Rochechouart
 	1253.1.1 = {
@@ -4129,7 +4129,7 @@
 138106 = {
 	name="Amalric" #Aymeric XI de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138105 #Aymeric X de Rochechouart
 	1271.1.1 = {
@@ -4143,7 +4143,7 @@
 138107 = { 
 	name="Simon" #Simon I de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138104 #Aymeric IX de Rochechouart
 	1262.1.1 = {
@@ -4157,7 +4157,7 @@
 138108 = {
 	name="Joan" #Jean I de Rochechouart
 	dynasty=5001
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138107 #Simon I de Rochechouart
 	1305.1.1 = {
@@ -4253,7 +4253,7 @@
 40282 = {
 	name="Boson" #Boson I de Turenne
 	dynasty=13100 #was 5098 de Turenne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40280 #Guillaume I de Turenne
 	1015.1.1 = {
@@ -4267,7 +4267,7 @@
 138096 = {
 	name="Raimond" #Raymond I de Turenne
 	dynasty=13100 #was 5098 de Turenne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40282 #Boson I de Turenne
 	1070.1.1 = {
@@ -4312,7 +4312,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="cynical"
 	trait="naive_appeaser"
@@ -4334,7 +4334,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="craven"
 	trait="martial_cleric"
@@ -4354,7 +4354,7 @@
 40288 = {
 	name="Ebles" #Ebles II de Ventadour
 	dynasty=13101 # was 727 de Toulouse
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40286 #Ebles I de Ventadour
 	mother=40303 #Marie de Limoges but probably Almodie de Montbéron
@@ -4373,7 +4373,7 @@
 138076 = {
 	name="Ebles" #Ebles III le Trobador de Ventadour
 	dynasty=13101 # was 727 de Toulouse
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40288 #Ebles II de Ventadour
 	#mother Alix de Montpellier
@@ -4401,7 +4401,7 @@
 138077 = {
 	name="Ebles" #Ebles IV de Ventadour
 	dynasty=13101 # was 727 de Toulouse
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138076 #Ebles III de Ventadour
 	mother=138291 #Adélais de Montpellier
@@ -4417,7 +4417,7 @@
 	name="Margarida" #de Turenne
 	female=yes
 	dynasty=13100 #was 5098 de Turenne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father= 138096 #Raymond I de Turenne
 	1117.1.1={
@@ -4438,7 +4438,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40290 #Bernat de Comborn
 	1066.1.1 = {
@@ -4459,7 +4459,7 @@
 	name="Gui" #Guy IV de Limoges
 	# AKA: Gui
 	dynasty=13100 #de Comborn
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205626 #Archambaud IV de comborn
 	1125.1.1 = {
@@ -4481,7 +4481,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="wroth"
 	trait="honest"
@@ -4509,7 +4509,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="just"
 	trait="scholarly_theologian"
@@ -4534,7 +4534,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205620 #Adhémar V Boson de Limoges
 	mother=204525 #sarah de cornouailles
@@ -4555,7 +4555,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="arbitrary"
 	trait="hunchback"
@@ -4579,7 +4579,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="envious"
 	trait="humble"
@@ -4599,7 +4599,7 @@
  	name="Margarida" #de Limoges
 	female=yes
 	dynasty=13100 #de Comborn
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205620 #Adhémar V Boson de Limoges
 	mother=204525 #sarah de cornouailles
@@ -4620,7 +4620,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="kind"
 	trait="patient"
@@ -4640,7 +4640,7 @@
  	name="Margarida" #de Limoges
 	female=yes
 	dynasty=13100 #de Comborn
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205622 #Guy V de Comborn
 	1208.1.1 = {
@@ -4660,7 +4660,7 @@
 	diplomacy=5
 	intrigue=2
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="honest"
 	trait="kind"
@@ -4680,7 +4680,7 @@
 205628 = {
 	name="Guilhèm" #the pilgrim
 	dynasty=13100 #de Comborn
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="honest"
 	father=205620 #Adhémar V Boson de Limoges
@@ -4700,7 +4700,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="lustful"
 	trait="tough_soldier"
@@ -4720,7 +4720,7 @@
 	name="Guilheumina" #de Comborn
 	female=yes
 	dynasty=13100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205605 #Archambaud V de Comborn 
 	mother=205604 #Jourdaine de Périgord
@@ -4737,7 +4737,7 @@
 138071 = {
 	name="Gui" #Guy VI de Comborn
 	dynasty=13100 #de Comborn
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205622 #Guy V de Comborn
 	1200.1.1 = {
@@ -4753,7 +4753,7 @@
 	name="Maria" #Marie I de Comborn
 	female=yes
 	dynasty=13100 #de Comborn
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138071 #Guy VI de comborn/Limoges
 	1260.1.1 = {
@@ -4768,7 +4768,7 @@
 138084 = {
 	name="Archambaut" #Archambaud VI de Comborn
 	dynasty=13100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205605 #Archambaud V de Comborn 
 	mother=205604 #Jourdaine de Périgord
@@ -4784,7 +4784,7 @@
 138085 = {
 	name="Guichard" #Guichard I de Comborn
 	dynasty=13100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138084 #Archambaud VI de Comborn 
 	1200.1.1 = {
@@ -4799,7 +4799,7 @@
 138087 = {
 	name="Alias" #Hélie I de Comborn
 	dynasty=13100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138085 #Guichard I de Comborn
 	1225.1.1 = {
@@ -4814,7 +4814,7 @@
 138088 = {
 	name="Guichard" #Guichard II de Comborn
 	dynasty=13100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138087 # Hélie I de Comborn 
 	1250.1.1 = {
@@ -4831,7 +4831,7 @@
 138086 = {
 	name="Bernat" #Bernard II de Comborn
 	dynasty=13100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138084 #Archambaud VI de Comborn 
 	1185.1.1 = {
@@ -4846,7 +4846,7 @@
 138089 = {
 	name="Archambaut" #Archambaud VII de Comborn
 	dynasty=13100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138086 #Bernard II de Comborn
 	1220.1.1 = {
@@ -4861,7 +4861,7 @@
 138090 = {
 	name="Gui" #de Comborn
 	dynasty=13100 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138089#Archambaud VII de Comborn
 	1240.1.1 = {
@@ -4879,7 +4879,7 @@
 	name="Maria" # de Comborn de Treignac
 	female=yes
 	dynasty=13100 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138090 #Guy de Comborn
 	mother=138095 #Almodie de Thouars
@@ -4896,7 +4896,7 @@
 138091 = {
 	name="Guichard" #Guichard III de Comborn
 	dynasty=13100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138088 # Guichard II de Comborn 
 	mother=138092 #Marie de Comborn
@@ -4912,7 +4912,7 @@
 138081 = {
 	name="Guichard" #Guichard IV de Comborn
 	dynasty=13100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138091 # Guichard III de Comborn 
 	1313.1.1 = {
@@ -4957,7 +4957,7 @@
 	name="Guiraud" #Géraud II d'armagnac
 	# AKA: Geraud
 	dynasty=100209
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40012 #Bernard II Tumapaler d'Armagnac
 	1045.1.1 = {
@@ -4976,7 +4976,7 @@
 	# AKA: Gisle
 	female = yes
 	dynasty=100209
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father = 40012 #Bernard II Tumapaler d'Armagnac
 	1047.1.1 = {
@@ -4993,7 +4993,7 @@
 	name="Bernat" #Bernard III d'Armagnac
 	# AKA: Barnard
 	dynasty=100209
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40014 #Géraud II d'armagnac
 	mother=40017 #Azivelle de Lomagne
@@ -5009,7 +5009,7 @@
 205671 = {
 	name="Guiraud" #Géraud III d'Armagnac
 	dynasty=100209
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40018 #Bernard III d'Armagnac
 	1106.1.1 = {
@@ -5028,7 +5028,7 @@
 	# AKA: Azaline
 	female=yes
 	dynasty=325 #de Fézensac
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138150 #Astenove II de Fézensac
 	1090.1.1 = {
@@ -5044,7 +5044,7 @@
 	name="Mascaròsa" #d'Armagnac
 	female=yes
 	dynasty=100209
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205671 #Géraud III d'Armagnac
 	mother=205672 #Azelma de Fézensac
@@ -5060,7 +5060,7 @@
 205670 = {
 	name="Bernat" #Bernard IV d'Armagnac
 	dynasty=100209
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205671 #Géraud III d'Armagnac
 	mother=205672 #Azelma de Fézensac
@@ -5075,7 +5075,7 @@
 205673 = {
 	name="Guiraud" #Géraud IV Trencaléon d'armagnac
 	dynasty=100209
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205670 #Bernard IV d'Armagnac
 	give_nickname = nick_the_lion #Cut_lion
@@ -5093,7 +5093,7 @@
 	# AKA: Marie
 	female=yes
 	dynasty=100209
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205670 #Bernard IV d'Armagnac
 	1172.1.1 = {
@@ -5107,7 +5107,7 @@
 40901 = {
 	name="Arnaut" #Arnaud II de Lomagne
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1000.1.1 = {
 		birth="1000.1.1"
@@ -5142,7 +5142,7 @@
 	name="Odon" #Odon II de Lomagne
 	# AKA: Eudes
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40901 #Arnaud II de Lomagne
 	mother=40011 #Adélaïda de Gascogne
@@ -5157,7 +5157,7 @@
 40903 = {
 	name="Odon" # Odon III de Lomagne
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40902 #Odon II de Lomagne
 	1063.1.1 = {
@@ -5171,7 +5171,7 @@
 138117 = {
 	name="Vézian" # Vézian I de Lomagne
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40903 #Odon III de Lomagne
 	1080.1.1 = {
@@ -5185,7 +5185,7 @@
 138119 = {
 	name="Odon" # Odon IV de Lomagne
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138117 #Vézian I de Lomagne
 	1100.1.1 = {
@@ -5199,7 +5199,7 @@
 138123 = {
 	name="Odon" # Othon I de Lomagne
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138119 #Odon IV de Lomagne
 	1135.1.1 = {
@@ -5216,7 +5216,7 @@
 138126 = {
 	name="Vézian" # Vézian II de Lomagne
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138119 #Odon IV de Lomagne
 	1134.1.1 = {
@@ -5230,7 +5230,7 @@
 138137 = {
 	name="Odon" # Odon V de Lomagne
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138126 # Vézian II de Lomagne
 	1165.1.1 = {
@@ -5244,7 +5244,7 @@
 138138 = {
 	name="Arnaut-Odon" # Arnaud III Odon de Lomagne
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138137 # Odon V de Lomagne
 	1210.1.1 = {
@@ -5261,7 +5261,7 @@
 138116 = {
 	name="Bernat" # Bernard I d'Armagnac
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138123 #Othon I de Lomagne
 	mother=138127 #Mascarose d'armagnac
@@ -5277,7 +5277,7 @@
 138118 = {
 	name="Bernat" # Bernard II d'Armagnac
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138116 # Bernard I de Lomagne
 	#Geraldesse de Foix
@@ -5292,7 +5292,7 @@
 138120 = {
 	name="Guiraud" # Géraud V d'Armagnac
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138116 # Bernard I de Lomagne
 	#Geraldesse de Foix
@@ -5307,7 +5307,7 @@
 138122 = {
 	name="Pèire-Guiraud" # Pierre Géraud d'Armagnac
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138120 # Bernard I de Lomagne
 	1210.1.1 = {
@@ -5321,7 +5321,7 @@
 138124 = {
 	name="Bernat" #Bernard V d'armagnac
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138120 # Bernard I de Lomagne
 	1211.1.1 = {
@@ -5336,7 +5336,7 @@
 	name="Mascaròsa" #Mascarose I d'Armagnac
 	female=yes
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138120 # Géraud V d'Armagnac
 	1209.1.1 = {
@@ -5352,7 +5352,7 @@
 	name="Mascaròsa" #Mascarose II d'Armagnac
 	female=yes
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138138 #Arnaud III Odon de Lomagne
 	mother=138125 #Mascarose I d'Armagnac
@@ -5367,7 +5367,7 @@
 138128 = {
 	name="Rogier" #Roger de Lomagne
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138116 # Bernard I de Lomagne
 	1187.1.1 = {
@@ -5382,7 +5382,7 @@
 138130 = {
 	name="Guiraud" #Géraud VI d'Armagnac
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138128 # Roger de Lomagne
 	1220.1.1 = {
@@ -5399,7 +5399,7 @@
 138132 = {
 	name="Amaneus" #Amanieu de Bayonne
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138128 # Roger de Lomagne
 	1230.1.1 = {
@@ -5414,7 +5414,7 @@
 	name="Filipa" #Philippa de Lomagne
 	female=yes
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138130 #Géraud VI d'Armagnac
 	1255.1.1 = {
@@ -5430,7 +5430,7 @@
 	name="Puelle" #Pucelle de Lomagne
 	female=yes
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138130 #Géraud VI d'Armagnac
 	1265.1.1 = {
@@ -5445,7 +5445,7 @@
 455641 = {
 	name="Bernat" #Bernard VI d'Armagnac
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138130
 	1272.1.1 = {
@@ -5464,7 +5464,7 @@
 	name="Cecilia" #Cécile de Rodez
 	female=yes
 	dynasty=91
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138312 #Henri II de Rodez
 	1275.1.1 = {
@@ -5479,7 +5479,7 @@
 455640 = {
 	name="Joan" #Jean I d'armagnac
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455641 #Bernard VI d'Armagnac
 	mother=455715 #Cécile de Rodez
@@ -5497,7 +5497,7 @@
 455646 = {
 	name="Joan" #Jean II d'Armagnac
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455640 #Jean I d'armagnac
 	mother=455725 #Béatrice de Clermont
@@ -5513,7 +5513,7 @@
 455644 = {
 	name="Bernat" #Bernard VII d'Armagnac
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455640 #Jean I d'armagnac
 	mother=455725 #Béatrice de Clermont
@@ -5529,7 +5529,7 @@
 	name="Marta" #Marthe d'Armagnac
 	female=yes
 	dynasty=5100
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455641 #Bernard VI d'Armagnac
 	mother=455715 #Cécile de Rodez
@@ -5587,7 +5587,7 @@
 138146 = {
 	name="Guilhèm" #Guillaume II Astenove de Fézensac
 	dynasty=325
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138144 #Aimeric I de Fézensac
 	1020.1.1 = {
@@ -5601,7 +5601,7 @@
 138148 = {
 	name="Aymeric" #Aimeric II Forton de Fézensac
 	dynasty=325
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138146 #Guillaume II Astenove de Fézensac
 	1040.1.1 = {
@@ -5615,7 +5615,7 @@
 138150 = {
 	name="Astenove" #Astenove II de Fézensac
 	dynasty=325
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138148 #Guillaume II Astenove de Fézensac
 	1060.1.1 = {
@@ -5629,7 +5629,7 @@
 205570 = {
 	name="Rogier" #Roger II de Béziers
 	dynasty=40021
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205571
 	#wrong mother=205575
@@ -5647,7 +5647,7 @@
 205571 = {
 	name="Raimond" #Raymond I Trencavel de Béziers
 	dynasty=40021
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7663
 	mother=422
@@ -5664,7 +5664,7 @@
 	name="Rogier-Raimond" #de Béziers/Trencavel
 	# AKA: Roger
 	dynasty=40021
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205570
 	mother=205534
@@ -5683,7 +5683,7 @@
 	name="Cecilia" #Cécile de Trencavel
 	female=yes
 	dynasty=40021
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205571 #Raymond I Trencavel
 	#mother=205575 #should be Adélaide de Béziers?
@@ -5701,7 +5701,7 @@
 	# AKA: Beatrix
 	female=yes
 	dynasty=40021
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205571
 	# wrong mother=205575
@@ -5732,7 +5732,7 @@
 	name="Rangearde" #de Trencavel
 	female=yes
 	dynasty=40021
-	religion="orthodox"
+	religion="catholic"
 	culture="frankish"
 	father=40202 #Bernard Aton III Trencavel
 	mother=40071 #Rangearde de la marche
@@ -5750,7 +5750,7 @@
 	name="Raimond-Bernat" #Raymond Bernard de Trencavel
 	# AKA: Raimond
 	dynasty=40021
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40202
 	mother=40071
@@ -5769,7 +5769,7 @@
 	name="Bernat-Aton"
 	# AKA: Bernard Ato
 	dynasty=40021
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40204
 	1063.1.1 = {
@@ -5786,7 +5786,7 @@
 205564 = {
 	name="Rogier" #Roger de Couserans
 	dynasty=386 #de Comminges
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205561 #Bernard III Dodon de Comminges/de Samatan
 	mother=205535 #Laurence de Toulouse
@@ -5936,7 +5936,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="amateurish_plotter"
 	father=1078
@@ -5952,7 +5952,7 @@
 	name="Rogier" #Roger I de Foix	
 	# AKA: Peire	
 	dynasty=684	
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"		
 	father=1078 #Bernard Roger I de Carcassonne/Foix		
 	1020.1.1 = {	
@@ -5970,7 +5970,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="arbitrary"
 	trait="martial_cleric"
@@ -5986,7 +5986,7 @@
 40194 = {
 	name="Rogier" #Roger II de Foix
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=6620 #Pierre Bernard I de Foix	
 	1060.1.1 = {
@@ -6011,7 +6011,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=1078
 	1021.1.2 = {
@@ -6025,7 +6025,7 @@
 40188 = {
 	name="Bernat" #Bernard II de Bigorre
 	dynasty=686 #was 684 de Foix
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=1078 #Bernard Roger I de Carcassonne/Foix
 	1010.1.1 = {
@@ -6041,7 +6041,7 @@
 	# AKA: Beatrix
 	female=yes
 	dynasty=686 #was 684 de Foix
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40188 #Bernard II de Bigorre
 	1055.1.1 = {
@@ -6056,7 +6056,7 @@
 	name="Pèire-Raimond" #Pierre-Raymond de Carcassonne
 	# AKA: Peire
 	dynasty=386 #was 684 de Foix
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40184 #Raymond Roger de Carcassonne
 	1010.1.1 = {
@@ -6074,7 +6074,7 @@
 	name="Ermengarda" #de Foix/Comminges
 	female=yes
 	dynasty=386 #was 684 de Foix
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40186 #Pierre-Raymond de Carcassonne
 	mother=40203 #Rangearde de Trencavel
@@ -6090,7 +6090,7 @@
 205551 = {
 	name="Rogier" #Roger III de Foix
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40194 #Roger II de Foix
 	trait="charismatic_negotiator"
@@ -6109,7 +6109,7 @@
 	name="Brunichilde" #Bradimène de Foix
 	female=yes
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205551	#Roger III de Foix
 	#mother=210512	#Jimena de Barcelone or unknown
@@ -6127,7 +6127,7 @@
 	# AKA: Dulce
 	female=yes
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205551	#Roger III de Foix
 	mother=210512	#Jimena de Barcelone
@@ -6143,7 +6143,7 @@
 	name="Rogier-Bernat" #Roger Bernard I de Foix
 	# AKA: Roger
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205551	#Roger III de Foix
 	mother=210512	#Jimena de Barcelone
@@ -6163,7 +6163,7 @@
 	name="Sibilla" #Sybille de Foix
 	female=yes
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205550 #Roger Bernard I de Foix
 	mother=205573 #Cécile de Trencavel
@@ -6197,7 +6197,7 @@
 	name="Raimond-Rogier" #Raymond-Roger de Foix
 	# AKA: Raimond
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205550 #Roger Bernard I de Foix
 	mother=205573 #Cécile de Trencavel
@@ -6219,7 +6219,7 @@
 	# AKA: Cecile
 	female=yes
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205554 #Raymond-Roger de Foix
 	1202.1.1 = {
@@ -6235,7 +6235,7 @@
 	name="Rogier-Bernat" #Roger Bernard II de Foix
 	# AKA: Raimond
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205554 #Raymond-Roger de Foix
 	give_nickname = nick_the_great
@@ -6260,7 +6260,7 @@
 	name="Rogier" #Roger IV de Foix
 	# AKA: Raimond
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138152 #Roger Bernard II de Foix
 	1204.1.1 = {
@@ -6277,7 +6277,7 @@
 	# AKA: Sybille
 	female=yes
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138154 #Roger IV de Foix
 	1233.1.1 = {
@@ -6294,7 +6294,7 @@
 	# AKA: Esclarmonde
 	female=yes
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138154 #Roger IV de Foix
 	1234.1.1 = {
@@ -6310,7 +6310,7 @@
 	name="Rogier-Bernat" #Roger Bernard III de Foix
 	# AKA: Roger
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138154 #Roger IV de Foix
 	trait="poet"
@@ -6331,7 +6331,7 @@
 	name="Brunissenda" #de Foix
 	female=yes
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455542 #Roger Bernard III de Foix
 	1275.1.1 = {
@@ -6347,7 +6347,7 @@
 455544 = {
 	name="Gaston" #Gaston I de Foix
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455542 #Roger Bernard III de Foix
 	1287.1.1 = {
@@ -6370,7 +6370,7 @@
 455540 = {
 	name="Gaston" #Gaston II de Foix
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455544 #Gaston I de Foix
 	mother=455545 #Jeanne d'Artois
@@ -6392,7 +6392,7 @@
 	# AKA: Eleonore
 	female=yes
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455550 #Bernard VII de Comminges
 	1298.1.1 = {
@@ -6407,7 +6407,7 @@
 455541 = {
 	name="Gaston" #Gaston III de Foix
 	dynasty=684
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455540 #Gaston II de Foix
 	mother=455551 #Aliénor de Comminges
@@ -6425,7 +6425,7 @@
 	name="Beatritz" #Béatrice III de Bigorre
 	female=yes
 	dynasty=13105 #was 686 de Bigorre
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138238 #Centulle III de Bigorre
 	mother=32517 #Matelle des Baux
@@ -6498,7 +6498,7 @@
 40000 = {
 	name="Centolh" #Centule IV de Béarn
 	dynasty=337
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	give_nickname=nick_the_old
 	father=138170 #Gaston II de Béarn
@@ -6534,7 +6534,7 @@
 40003 = {
 	name="Centolh" #Centule V de Béarn
 	dynasty=337
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40002 #Gaston III de Béarn
 	give_nickname=nick_the_young
@@ -6558,7 +6558,7 @@
 138172 = {
 	name="Gaston" #Gaston IV de Béarn
 	dynasty=337
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40003 #Centulle V de Béarn
 	mother=40015 #Gisla d'Armagnac
@@ -6579,7 +6579,7 @@
 	name="Guiscarde" #de Béarn
 	female=yes
 	dynasty=337
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138172 #Gaston IV de Béarn
 	1100.1.1 = {
@@ -6594,7 +6594,7 @@
 138174 = {
 	name="Centolh" #Centule VI/VII de Béarn
 	dynasty=337
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138172  #Gaston IV de Béarn
 	1090.1.1 = {
@@ -6609,7 +6609,7 @@
 138176 = {
 	name="Bernat" #Bernard III de Bigorre
 	dynasty=686 #or 337 de Béarn
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40003 #Centulle V de Béarn
 	mother=40189 #Béatrix I de Bigorre
@@ -6624,7 +6624,7 @@
 138178 = {
 	name="Centolh" #Centule II de Bigorre
 	dynasty=686 #or 337 de Béarn
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40003 #Centulle V de Béarn
 	mother=40189 #Béatrix I de Bigorre
@@ -6641,7 +6641,7 @@
 138180 = {
 	name="Pèire" #Pierre II de Gavarret/Gabarret
 	dynasty=13103 #de Gavarret
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	#father Pierre I de Gavarret
 	1090.1.1 = {
@@ -6658,7 +6658,7 @@
 138181 = {
 	name="Pèire" #Pierre I de Béarn
 	dynasty=13103 #de Gavarret
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138180 # Pierre II de Gavarret
 	1118.1.1 = {
@@ -6675,7 +6675,7 @@
 138182 = {
 	name="Gaston" #Gaston V de Béarn
 	dynasty=13103 #de Gavarret
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138181 # Pierre I de Béarn
 	mother=32517 # Matelle des Baux
@@ -6694,7 +6694,7 @@
 	name="Maria" #de Béarn
 	female=yes
 	dynasty=13103 #de Gavarret
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138181 #Pierre I de Béarn
 	1148.1.1 = {
@@ -6710,7 +6710,7 @@
 	name="Guilhèm" #Guilhem II de Béarn
 	# AKA: Guillaume
 	dynasty=336 #de Montcada
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205543 #Guillaume Ramon I de Moncade
 	1185.1.1 = {
@@ -6731,7 +6731,7 @@
 	father=138184 #Guillaume Ramon I de Moncade
 	mother=71647 #Gersenda de Barcelona
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	give_nickname = nick_the_quarreller #Froissard
@@ -6759,7 +6759,7 @@
 	name="Mathe" #de Matha de Bigorre
 	female=yes
 	dynasty=13106
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138235 #Boson de Matha
 	mother=205563 #Pétronille de Comminges
@@ -6776,7 +6776,7 @@
 	name="Constància" #Constance de Béarn
 	female=yes
 	dynasty=336 #de Montcada
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138186 #Gaston VII de Béarn
 	mother=138187 #Mathe de Bigorre
@@ -6793,7 +6793,7 @@
 	name="Margarida" #Marguerite de Béarn
 	female=yes
 	dynasty=336 #de Montcada
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138186 #Gaston VII de Béarn
 	mother=138187 #Mathe de Bigorre
@@ -6810,7 +6810,7 @@
 	name="Mathe" #de Béarn
 	female=yes
 	dynasty=336 #de Montcada
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138186 #Gaston VII de Béarn
 	mother=138187 #Mathe de Bigorre
@@ -6827,7 +6827,7 @@
 	name="Guilheumina" #de Béarn
 	female=yes
 	dynasty=336 #de Montcada
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138186 #Gaston VII de Béarn
 	mother=138187 #Mathe de Bigorre
@@ -6915,7 +6915,7 @@
 138194 = {
 	name="Arnaut" #Arnaud III de Comminges
 	dynasty=386 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138193 #Roger II de Comminges
 	1035.1.1 = {
@@ -6929,7 +6929,7 @@
 138196 = {
 	name="Rogier" #Roger III de Comminges
 	dynasty=386 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138194 #Arnaud III de Comminges
 	1060.1.1 = {
@@ -6943,7 +6943,7 @@
 138198 = {
 	name="Bernat" #Bernard I de Comminges
 	dynasty=386 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138196 #Roger III de Comminges
 	1090.1.1 = {
@@ -6958,7 +6958,7 @@
 	name="Bernate" #Bernarde de Comminges
 	female=yes
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138198 #Bernard I de Comminges
 	1121.1.1 = {
@@ -6973,7 +6973,7 @@
 138200 = {
 	name="Bernat" #Bernard II de Comminges
 	dynasty=386 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138198 #Bernard I de Comminges
 	1119.1.1 = {
@@ -6988,7 +6988,7 @@
 	name="Dodon" #Bernard III Dodon de Comminges/de Samatan
 	# AKA: Dodon
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138198
 	1125.1.1 = {
@@ -7006,7 +7006,7 @@
 205560 = {
 	name="Bernat" #Bernard IV de Comminges
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205561 #Bernard III Dodon de Comminges/de Samatan
 	mother=205535 #Laurence de Toulouse
@@ -7035,7 +7035,7 @@
 	name="Fortaner" #Fortanier de Comminges
 	# AKA: Arnaud
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205561 #Bernard III Dodon de Comminges/de Samatan
 	mother=205535 #Laurence de Toulouse
@@ -7050,7 +7050,7 @@
 205566 = {
 	name="Gui" #Guy de Peguilhan
 	dynasty=386 #de Comminges
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205561 #Bernard III Dodon de Comminges/de Samatan
 	mother=205535 #Laurence de Toulouse
@@ -7065,7 +7065,7 @@
 205567 = {
 	name="Bernat" #Bernard de Couserans
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205564 #Roger de Couserans 
 	mother=205555 #Sybille de Foix
@@ -7080,7 +7080,7 @@
 138202 = {
 	name="Bernat" #Bernard V de Comminges
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205560 #Bernard IV de Comminges
 	1196.1.1 = {
@@ -7097,7 +7097,7 @@
 138204 = {
 	name="Bernat" #Bernard VI de Comminges
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138202 #Bernard V de Comminges
 	mother=138151 #Cécile de Foix
@@ -7114,7 +7114,7 @@
 	name="Mascaròsa" #Mascarose de Comminges
 	female=yes
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138204 #Bernard VI de Comminges
 	1246.6.1 = {
@@ -7129,7 +7129,7 @@
 455550 = {
 	name="Bernat" #Bernard VII de Comminges
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138204 #Bernard VI de Comminges
 	1246.1.1 = {
@@ -7145,7 +7145,7 @@
 	name="Pèire-Raimond" #Pierre-Raymond I de Comminges
 	# AKA: Pierre
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455550 #Bernard VII de Comminges 
 	#mother Laure de Montfort
@@ -7162,7 +7162,7 @@
 	name="Joan-Raimond" #Jean-Raymond de Comminges
 	# AKA: Jean
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455550 #Bernard VII de Comminges
 	#mother Laure de Montfort
@@ -7178,7 +7178,7 @@
 	name="Bernat" #Bernard VIII de Comminges
 	# AKA: Bernard 
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455550 #Bernard VII de Comminges
 	#mother Laure de Montfort
@@ -7201,7 +7201,7 @@
 	name="Mathe" #Mathe de L'isle Jourdain
 	female=yes
 	dynasty=99
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	#father Bernard Jourdain III de l'isle Jourdain
 	1303.1.1 = {
@@ -7217,7 +7217,7 @@
 	# AKA: Cecile
 	female=yes
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455553 #Bernard VIII de Comminges
 	mother=455554 #Mathe de L'isle Jourdain
@@ -7234,7 +7234,7 @@
 	name="Joana" #de Comminges
 	female=yes
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455553 #Bernard VIII de Comminges
 	mother=455554 #Mathe de L'isle Jourdain
@@ -7295,7 +7295,7 @@
 40224 = {		
 	name="Raimond" #Raymond II de Narbonne
 	dynasty=280		
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"
 	father=40212 #Bérenguié I de Narbonne
 	1025.1.1 = {	
@@ -7310,7 +7310,7 @@
 	name="Bernat" #Bernard I Pelet de Narbonne	
 	# AKA: Barnard
 	dynasty=280	
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"	
 	father=40224 #Raymond II de Narbonne		
 	1050.1.1 = {	
@@ -7324,7 +7324,7 @@
 40222 = {
 	name="Raimond" #Raymond I de Narbonne-Pelet	
 	dynasty=280	
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"		
 	father=40214	
 	1075.1.1 = {	
@@ -7343,7 +7343,7 @@
 	name="Rixende" #Rixende de Narbonne-Pelet
 	female=yes	
 	dynasty=280		
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"
 	father=40222 #Raymond I de Narbonne-Pelet	
 	1120.1.1 = {	
@@ -7359,7 +7359,7 @@
 	name="Bernat" #Bernard II de Narbonne-Pelet
 	# AKA: Barnard
 	dynasty=280	
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"	
 	father=40222 #Raymond I de Narbonne-Pelet		
 	1110.1.1 = {	
@@ -7376,7 +7376,7 @@
 138222 = {
 	name="Bertrand" #Betrand I de Narbonne-Pelet
 	dynasty=280	
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"	
 	father=138220 #Bernard II de Narbonne-Pelet
 	mother=71637 #Béatrix de Melgueil	
@@ -7395,7 +7395,7 @@
 	name="Ermessentz" #Hermasinde Pelet de Melgueil	
 	female=yes	
 	dynasty=280 #de Narbonne	
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"	
 	father=138220 #Bernard II de Narbonne-Pelet
 	mother=71637 #Béatrix de Melgueil	
@@ -7413,7 +7413,7 @@
 	name="Bernat-Berenguié" #Bernard-Bérenguier I de Narbonne
 	# AKA: Barnard	
 	dynasty=280	
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"	
 	father=40212 #Berenguié I de Narbonne
 	1030.1.1 = {	
@@ -7431,7 +7431,7 @@
 	name="Aimeric" #Aymeri I de Narbonne
 	# AKA: Barnard	
 	dynasty=280		
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"		
 	father=40216 #Bernard-Bérenguier I de Narbonne	
 	mother=40243 #Fides de Rouergue	
@@ -7448,7 +7448,7 @@
 	name="Aimeric" #Aymeri II de Narbonne
 	# AKA: Barnard	
 	dynasty=280		
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"		
 	father=40218 #Aymeri I de Narbonne
 	1083.1.1 = {	
@@ -7466,7 +7466,7 @@
 	name="Ermengarda" #de Narbonne
 	female=yes	
 	dynasty=280	
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"
 	father=138224 #Aymeri II de Narbonne	
 	mother=138265 #Ermessinde de Melgueil
@@ -7482,7 +7482,7 @@
 	name="Ermessentz" #de Narbonne
 	female=yes	
 	dynasty=280	
-	religion="orthodox"	
+	religion="catholic"	
 	culture="occitan"
 	father=138224 #Aymeri II de Narbonne	
 	mother=138265 #Ermessinde de Melgueil
@@ -7498,7 +7498,7 @@
 138238 = {
 	name="Centolh" #Centule III de Bigorre
 	dynasty=13105
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138240 #Pierre de Marsan
 	mother=138239 #Béatrix II de Bigorre
@@ -7517,7 +7517,7 @@
 	name="Beatritz" #Béatrice II de Bigorre
 	female=yes
 	dynasty=686
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138178 #Centule II de Bigorre
 	1100.1.1 = {
@@ -7533,7 +7533,7 @@
 138240 = {
 	name="Pèire" #Pierre de Marsan/de Lobaner
 	dynasty=13105
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138242 #Loup Aner de Marsan
 	1095.1.1 = {
@@ -7550,7 +7550,7 @@
 138242 = {
 	name="Lop-Aner" #Loup Aner de Marsan
 	dynasty=13105
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138244 #Aner de Marsan
 	1070.1.1 = {
@@ -7564,7 +7564,7 @@
 138244 = {
 	name="Aner" #Aner de Marsan
 	dynasty=13105
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138246 #Raymond de Marsan
 	1045.1.1 = {
@@ -7578,7 +7578,7 @@
 138246 = {
 	name="Raimond" #Raymond de Marsan
 	dynasty=13105
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1015.1.1 = {
 		birth="1015.1.1" 
@@ -7592,7 +7592,7 @@
 	name="Raimonda"
 	dynasty=336
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138184
 	mother=71647
@@ -7608,7 +7608,7 @@
 	name="Sança"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=110550
 	mother=407
@@ -7623,7 +7623,7 @@
 72134 = {
 	name="Garcenda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1090.1.1 = {
 		birth="1090.1.1"
@@ -7636,7 +7636,7 @@
 72135 = {
 	name="Guigues"
 	dynasty=395
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205985
 	mother=72134
@@ -7651,7 +7651,7 @@
 72136 = {
 	name="Guilhèm"
 	dynasty=395
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72135
 	1130.1.1 = {
@@ -7666,7 +7666,7 @@
 	name="Beatritz"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205983
 	1163.1.1 = {
@@ -7681,7 +7681,7 @@
 	name="Cecilia"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205983
 	1165.1.1 = {
@@ -7695,7 +7695,7 @@
 72308 = {
 	name="Guilheumina"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1111.1.1 = {
 		birth="1111.1.1"
@@ -7712,7 +7712,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="flamboyant_schemer"
 	father=205981
@@ -7735,7 +7735,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="honest"
 	trait="gluttonous"
@@ -7761,7 +7761,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="arbitrary"
 	trait="flamboyant_schemer"
@@ -7782,7 +7782,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="diligent"
 	trait="stutter"
@@ -7805,7 +7805,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="wroth"
 	trait="underhanded_rogue"
@@ -7826,7 +7826,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="honest"
 	trait="gluttonous"
@@ -7847,7 +7847,7 @@
 	name="Estefania" #Stéphanie/Etiennette de Marseille
 	female=yes
 	dynasty=13104 #was 100210 de Gévaudan
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1030.1.1 = {
 		birth="1030.1.1"
@@ -7978,7 +7978,7 @@
 	# AKA: Adelaide
 	female=yes
 	dynasty=100219 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138226 #Pons I de Gévaudan
 	1004.1.1 = {
@@ -8012,7 +8012,7 @@
 	name="Aliç" #Alix de Guévaudan
 	female=yes
 	dynasty=100219
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=10030 #Betrand II de Gévaudan
 	1015.1.1 = {
@@ -8056,7 +8056,7 @@
 138236 = {
 	name="Ricard" #Richard I de Rodez
 	dynasty=22005
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=10034 #Bérenger II de Millau
 	mother=10035 #Adèle de Sabran?
@@ -8074,7 +8074,7 @@
 	# AKA: Petronille
 	female=yes
 	dynasty=386 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205560 #Bernard IV de Comminges
 	mother=205562 #Béatrice de Bigorre
@@ -8095,7 +8095,7 @@
 	# AKA: Foy
 	female=yes
 	dynasty=727 #Toulouse
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40242 #Ugues
 	1035.1.1 = {
@@ -8210,7 +8210,7 @@
 138260 = {
 	name="Raimond" #Raymond I de Melgueil
 	dynasty=8760
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138258 #Bernard III de Melgueil
 	1015.1.1 = {
@@ -8226,7 +8226,7 @@
 	name="Judith" #de Melgueil
 	dynasty=8760
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138260 #Raymond I de Melgueil
 	1049.1.1 = {
@@ -8241,7 +8241,7 @@
 206034 = {
 	name="Guilhèm" #Guillaume VI d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="tough_soldier"
 	father=306 #Robert II d'Auvergne
@@ -8264,7 +8264,7 @@
 	name="Ermengarda" #Ermengarde de Melgueil
 	dynasty=8760
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138260 #Raymond I de Melgueil
 	1055.1.1 = {
@@ -8279,7 +8279,7 @@
 138262 = {
 	name="Pèire" #Pierre I de Melgueil
 	dynasty=8760
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138260 #Raymond I de Melgueil
 	1049.1.1 = {
@@ -8296,7 +8296,7 @@
 138264 = {
 	name="Raimond" #Raymond II de Melgueil
 	dynasty=8760
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138262 #Pierre I de Melgueil
 	1070.1.1 = {
@@ -8311,7 +8311,7 @@
 138266 = {
 	name="Bernat" #Bernard IV de Melgueil
 	dynasty=8760
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138264 #Raymond II de Melgueil
 	1091.1.1 = {
@@ -8329,7 +8329,7 @@
 	name="Ermessentz" #Ermessinde de Melgueil
 	dynasty=8760
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138264  #Raymond II de Melgueil
 	1090.1.1 = {
@@ -8344,7 +8344,7 @@
 138268 = {
 	name="Pons" #Pons I de Melgueil
 	dynasty=8760
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138262 #Pierre I de Melgueil
 	1075.1.1 = {
@@ -8359,7 +8359,7 @@
 	name="Ermessentz" #Ermessinde de Melgueil
 	dynasty=8760
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138262 #Pierre I de Melgueil
 	1075.1.1 = {
@@ -8373,7 +8373,7 @@
 
 138270 = {
 	name="Guilhèm" #Bishop Guillaume d'Autignac 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1170.1.1 = {
 		birth="1170.1.1" #unknown
@@ -8386,7 +8386,7 @@
 138272 = {
 	name="Peytavin" #Bishop Pictavin de Montesquiou
 	dynasty=5101
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1300.1.1 = {
 		birth="1300.1.1" #unknown
@@ -8399,7 +8399,7 @@
 
 138274 = {
 	name="Gualhart" #Bishop Gaillard de Saumate 
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1290.1.1 = {
 		birth="1290.1.1" #unknown
@@ -8411,7 +8411,7 @@
 
 138275 = {
 	name="André" #Bishop André de Frédol
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1290.1.1 = {
 		birth="1290.1.1" #unknown
@@ -8423,7 +8423,7 @@
 
 138276 = {
 	name="Joan" #Bishop Jean de Vissec
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1290.1.1 = {
 		birth="1290.1.1" #unknown
@@ -8435,7 +8435,7 @@
 
 138271 = {
 	name="Bernat" #Bishop Bernard de Mèze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1190.1.1 = {
 		birth="1190.1.1" #unknown
@@ -8447,7 +8447,7 @@
 
 138273 = {
 	name="Joan" #Bishop Jean II de Montlaur
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1200.1.1 = {
 		birth="1200.1.1" #unknown
@@ -8459,7 +8459,7 @@
 
 138277 = {
 	name="Rainer" #Bishop Reinier Saccoin
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1200.1.1 = {
 		birth="1200.1.1" #unknown
@@ -8471,7 +8471,7 @@
 
 138278 = {
 	name="Pèire" #Bishop Pierre de Conques
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1200.1.1 = {
 		birth="1200.1.1" #unknown
@@ -8483,7 +8483,7 @@
 
 138279 = {
 	name="Guilhèm" #Bishop Guillaume Christophe
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1220.1.1 = {
 		birth="1220.1.1" #unknown
@@ -8495,7 +8495,7 @@
 
 138280 = {
 	name="Gaucelin" #Bishop Gaucelin de la Garde
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1250.1.1 = {
 		birth="1250.1.1" #unknown
@@ -8508,7 +8508,7 @@
 138281 = {
 	name="Pèire" #Bishop Pierre de Lévis de Mirepoix
 	dynasty=5008
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1250.1.1 = {
 		birth="1250.1.1" #unknown
@@ -8520,7 +8520,7 @@
 
 138282 = {
 	name="Berenguié" #Bishop Bérenger de Frézouls
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1230.1.1 = {
 		birth="1230.1.1" #unknown
@@ -8533,7 +8533,7 @@
 138284 = {
 	name="Raimond-Rogier" #Raymond Roger de Carcassonne
 	dynasty=386
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40186 #Pierre-Raymond de Carcassonne
 	mother=40203 #Rangearde de Trencavel
@@ -8593,7 +8593,7 @@
 	name="Guilhèm" #Guillaume II de Montpellier
 	# AKA: Guillaume
 	dynasty=100220 #was 334
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138287 #Bérenger I de Montpellier
 	1000.1.1={
@@ -8608,7 +8608,7 @@
 	name="Guilhèm" #Guillaume III de Montpellier
 	# AKA: Guillaume
 	dynasty=100220 #was 334
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138286 #Guillaume II de Montpellier
 	1019.1.1={
@@ -8623,7 +8623,7 @@
 	name="Guilhèm" #Bernard Guillaume IV de Montpellier
 	# AKA: Guillaume
 	dynasty=100220 #was 334
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138288 #Guillaume III de Montpellier (or his brother)
 	1055.1.1={
@@ -8638,7 +8638,7 @@
 	name="Guilhèm" #Guillaume V de Montpellier
 	# AKA: Guillaume
 	dynasty=100220 #was 334
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138290 #Guillaume IV de Montpellier
 	1075.1.1={
@@ -8653,7 +8653,7 @@
 	name="Guilhèm" #Guillaume VI de Montpellier
 	# AKA: Guillaume
 	dynasty=100220 #was 334
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138292 #Guillaume V de Montpellier
 	1102.1.1={
@@ -8670,7 +8670,7 @@
 	# AKA: Guillemette
 	dynasty=100220 #was 334
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138292 #Guillaume V de Montpellier
 	1095.1.1={
@@ -8686,7 +8686,7 @@
 	name="Guilhèm" #Guillaume de Montpellier d'Omelas count of orange
 	# AKA: Guillaume
 	dynasty=100220 #was 334
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138292 #Guillaume V de Montpellier
 	1103.1.1={
@@ -8702,7 +8702,7 @@
 	# AKA: Guillemette
 	dynasty=100220 #was 334
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138294 #Guillaume VI de Montpellier
 	1130.1.1={
@@ -8718,7 +8718,7 @@
 	name="Guilhèm" #Guillaume VII de Montpellier
 	# AKA: Guillaume
 	dynasty=100220 #was 334
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138294 #Guillaume VI de Montpellier
 	1135.1.1={
@@ -8737,7 +8737,7 @@
 	# AKA: Alix
 	dynasty=100220 #was 334
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138294 #Guillaume VI de Montpellier
 	1133.1.1={
@@ -8753,7 +8753,7 @@
 	name="Guilhèm" #Guillaume VIII de Montpellier
 	# AKA: Guillaume
 	dynasty=100220 #was 334
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205581
 	mother=205595
@@ -8773,7 +8773,7 @@
 	name="Maria" #Marie I de Montpellier
 	female = yes
 	dynasty=100220 #was 334
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205580 #Guillaume VIII de Montpellier
 	mother=215505 #Eudoxie Comnène
@@ -8791,7 +8791,7 @@
 	name="Ainès" #Agnès de Montpellier
 	dynasty=100220 #was 334
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205580 #Guillaume VIII de Montpellier
 	mother=215505 #Eudoxie Comnène
@@ -8808,7 +8808,7 @@
 	name="Guilhèm" #Guillaume IX de Montpellier
 	# AKA: Guillaume
 	dynasty=100220 #was 334
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205580 #Guillaume VIII de Montpellier
 	mother=215505 #Eudoxie Comnène
@@ -8823,7 +8823,7 @@
 206033 = {
 	name="Guilhèm" #Guillaume "the old" VIII d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="tough_soldier"
 	father=206034 #Guillaume VI d'Auvergne
@@ -8843,7 +8843,7 @@
 138300 = {
 	name="Ugues" #Hugues I de Rodez
 	dynasty=91
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138236 #Richard I de Rodez
 	1090.1.1 = {
@@ -8857,7 +8857,7 @@
 138302 = {
 	name="Ugues" #Hugues II de Rodez
 	dynasty=91
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138300 #Hugues I de Rodez
 	1120.1.1 = {
@@ -8875,7 +8875,7 @@
 	name="Ainès" #Agnès d'Auvergne
 	female=yes
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206033 #Guillaume VII d'Auvergne
 	mother=205716 #Anne de Nevers
@@ -8891,7 +8891,7 @@
 138304 = {
 	name="Ugues" #Hugues III de Rodez
 	dynasty=91
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138302 #Hugues II de Rodez
 	mother=138303 #Agnès d'Auvergne
@@ -8907,7 +8907,7 @@
 138306 = {
 	name="Guilhèm" #Guillaume I de Rodez
 	dynasty=91
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138302 #Hugues II de Rodez
 	mother=138303 #Agnès d'Auvergne
@@ -8922,7 +8922,7 @@
 138308 = {
 	name="Enric" #Henri I de Rodez
 	dynasty=91
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138302 #Hugues II de Rodez
 	trait="bastard"
@@ -8940,7 +8940,7 @@
 138310 = {
 	name="Ugues" #Hugues IV de Rodez
 	dynasty=91
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138308 #Henri I de Rodez
 	1212.1.1 = {
@@ -8956,7 +8956,7 @@
 	name="Algayette" #Algayette de Rodez
 	female=yes
 	dynasty=91
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138310 #Hugues IV de Rodez
 	1240.1.1 = {
@@ -8971,7 +8971,7 @@
 138312 = {
 	name="Enric" #Henri II de Rodez
 	dynasty=91
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138310 #Hugues IV de Rodez
 	1236.1.1 = {
@@ -8989,7 +8989,7 @@
 
 138313 = {
 	name="Guilhèm" #Guillaume I Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1010.1.1 = {
 		birth="1010.1.1" #unknown
@@ -9001,7 +9001,7 @@
 
 138314 = {
 	name="Arnaut" #Arnaud III Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1010.1.1 = {
 		birth="1010.1.1" #unknown
@@ -9013,7 +9013,7 @@
 
 138315 = {
 	name="Alias" #Elie I Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1020.1.1 = {
 		birth="1020.1.1" #unknown
@@ -9025,7 +9025,7 @@
 
 138316 = {
 	name="Donat" #Donat I Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1030.1.1 = {
 		birth="1030.1.1" #unknown
@@ -9037,7 +9037,7 @@
 
 138318 = {
 	name="Guiraud" #Géraud I Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1060.1.1 = {
 		birth="1060.1.1" #unknown
@@ -9049,7 +9049,7 @@
 
 138319 = {
 	name="Isarad" #Isarad I Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1060.1.1 = {
 		birth="1060.1.1" #unknown
@@ -9061,7 +9061,7 @@
 
 138320 = {
 	name="Gausbert" #Gausbert I Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1060.1.1 = {
 		birth="1060.1.1" #unknown
@@ -9073,7 +9073,7 @@
 
 138321 = {
 	name="Aldebert" #Aldebert I Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1080.1.1 = {
 		birth="1080.1.1" #unknown
@@ -9085,7 +9085,7 @@
 
 138322 = {
 	name="Raimond-Bernat" #Raymond-Bernard Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1100.1.1 = {
 		birth="1100.1.1" #unknown
@@ -9097,7 +9097,7 @@
 
 138325 = {
 	name="Bertrand" #Bertrand I de Béceyras/Beceiras Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1150.1.1 = {
 		birth="1150.1.1" #unknown
@@ -9110,7 +9110,7 @@
 138326 = {
 	name="Arnaut" #Arnaud IV de Rovinha/Rovignan Bishop of Agen
 	dynasty=13117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138331 #Henri de Rovignan
 	1160.1.1 = {
@@ -9123,7 +9123,7 @@
 
 138327 = {
 	name="Arnaut" #Arnaud V Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1180.1.1 = {
 		birth="1180.1.1" #unknown
@@ -9135,7 +9135,7 @@
 
 138328 = {
 	name="Girard" #Géraud II Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1180.1.1 = {
 		birth="1180.1.1" #unknown
@@ -9147,7 +9147,7 @@
 
 138329 = {
 	name="Raolf" #Raoul de Peyrines/de La Roche-Aymon Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1190.1.1 = {
 		birth="1190.1.1" #unknown
@@ -9174,7 +9174,7 @@
 138331 = {
 	name="Enric" #Henri (?) de Rovignan - flavor
 	dynasty=13117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1120.1.1 = {
 		birth="1120.1.1" #unknown
@@ -9186,7 +9186,7 @@
 
 138332 = {
 	name="Arnaut" #Arnaud VI de Galard Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1200.1.1 = {
 		birth="1200.1.1" #unknown
@@ -9200,7 +9200,7 @@
 	name="Guilhèm" #Guillaume II d'Agen Bishop of Agen
 	# Patriarch of Jerusalem
 	dynasty=100215
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1220.1.1 = {
 		birth="1220.1.1" #unknown
@@ -9212,7 +9212,7 @@
 
 138335 = {
 	name="Guilhèm" #Guillaume III Bishop of Agen
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1220.1.1 = {
 		birth="1220.1.1" #unknown
@@ -9225,7 +9225,7 @@
 138337 = {
 	name="Arnaut" #Arnaud  VII de Got
 	dynasty=8797
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138343 #Arnaud Garcias de Got
 	1227.1.1 = {
@@ -9238,7 +9238,7 @@
 
 138338 = {
 	name="Joan" #Jean I Jerlandi
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1250.1.1 = {
 		birth="1250.1.1" #unknown
@@ -9252,7 +9252,7 @@
 	name="Bertrand" #Bertrand II de Got
 	#uncle of Pope Clement V
 	dynasty=8797
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138343 #Arnaud Garcias de Got
 	1226.1.1 = {
@@ -9267,7 +9267,7 @@
 	name="Berraut-Garcia" #Berraud Garcias de Got
 	#father of Clement V
 	dynasty=8797
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138343 #Arnaud Garcias de Got
 	1225.1.1 = {
@@ -9281,7 +9281,7 @@
 138343 = {
 	name="Arnaut-Garcia" #Arnaud Garcias de Got
 	dynasty=8797
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1160.1.1 = {
 		birth="1160.1.1" #unknown
@@ -9357,7 +9357,7 @@
 138348 = {
 	name="Raimond-Arnaut" #Raymond Arnaud I de Dax
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138346 #Arnaud II Loup "Fortis" de Dax
 	1010.1.1 = {
@@ -9371,7 +9371,7 @@
 138350 ={
 	name="Navar" #Navarre I de Dax
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	female=yes
 	father=138348 #Raymond Arnaud I de Dax
@@ -9386,7 +9386,7 @@
 138352 = {
 	name="Garcia-Arnaut" #Garcia Arnaud I de Dax
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138346 #Arnaud II Loup "Fortis" de Dax
 	1011.1.1 = {
@@ -9401,7 +9401,7 @@
 138360 = {
 	name="Arnaut" #Arnaud I Garcia de Mixe
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138352 #Garcia Arnaud I de Dax
 	1030.1.1 = {
@@ -9415,7 +9415,7 @@
 138362 = {
 	name="Dat-Arnaut" #Dat Arnaud de Mixe
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138360 #Arnaud I Garcia de Mixe
 	1070.1.1 = {
@@ -9429,7 +9429,7 @@
 138354 = {
 	name="Arnaut" #Arnaud III Raymond de Dax
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138348 #Raymond Arnaud I de Dax
 	1055.1.1 = {
@@ -9443,7 +9443,7 @@
 138356 = {
 	name="Pèire-Arnaut" #Pierre I Arnaud de Dax
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138354 #Arnaud III de Dax
 	1075.1.1 = {
@@ -9458,7 +9458,7 @@
 	name="Guirande" #Guiraude/Guirelda de Dax
 	female=yes
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138354 #Arnaud III de Dax
 	1080.1.1 = {
@@ -9473,7 +9473,7 @@
 138358 = {
 	name="Pèire-Arnaut" #Arnaud Dat de Mixe
 	dynasty=8757
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138362 #Dat Arnaud de Mixe
 	1085.1.1 = {
@@ -9491,7 +9491,7 @@
 	name="Girard" #Bishop Gérard de Viviers
 	# AKA: Gerard
 	dynasty=100223
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1039.1.1 = {
 		birth="1039.1.1" #unknown
@@ -9503,7 +9503,7 @@
 
 138359 = {
 	name="Joan" #Bishop Jean II de Viviers
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1045.1.1 = {
 		birth="1045.1.1" #unknown
@@ -9515,7 +9515,7 @@
 
 138371 = {
 	name="Leodegard" #Bishop Leodegarius de Viviers
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1068.1.1 = {
 		birth="1068.1.1" #unknown
@@ -9527,7 +9527,7 @@
 
 138361 = {
 	name="Aton" #Bishop Atton de Viviers
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1080.1.1 = {
 		birth="1080.1.1" #unknown
@@ -9539,7 +9539,7 @@
 
 138375 = {
 	name="Pèire" #Bishop Pierre I de Viviers
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1090.1.1 = {
 		birth="1090.1.1" #unknown
@@ -9551,7 +9551,7 @@
 
 138379 = {
 	name="Guilhèm" #Bishop Guillaume I de Viviers
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1110.1.1 = {
 		birth="1110.1.1" #unknown
@@ -9564,7 +9564,7 @@
 138365 = {
 	name="Raimond" #Raymond d'Uzès
 	#Bishop de Viviers
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
  	dynasty=13107 #d'Uzès
 	#father Raymond Decaen
@@ -9580,7 +9580,7 @@
 138366 = {
  	name="Robèrt" #Bishop Robert de La Tour du Pin
 	#Bishop of Viviers then Vienne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=57
 	father=138414 #Geraud de la Tour du Pin
@@ -9594,7 +9594,7 @@
 
 138367 = {
 	name="Nicholaus" #Bishop Nicolas de Viviers
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1150.1.1 = {
 		birth="1150.1.1" #unknown
@@ -9606,7 +9606,7 @@
 
 138368 = {
 	name="Burnon" #Bishop Burnon de Viviers
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1150.1.1 = {
 		birth="1150.1.1" #unknown
@@ -9618,7 +9618,7 @@
 
 138369 = {
 	name="Guilhèm" #Bishop Guillaume II de Viviers
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1170.1.1 = {
 		birth="1170.1.1" #unknown
@@ -9630,7 +9630,7 @@
 
 138370 = {
 	name="Bermond" #Bishop Bermond d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138374 #Bernard VII d'Anduze
@@ -9644,7 +9644,7 @@
 
 138372 = {
 	name="Pèire-Bermond" #Pierre Bermond VI d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138374 #Bernard VII d'Anduze
@@ -9661,7 +9661,7 @@
 
 138373 = {
 	name="Sibilla" #Sybille d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	female=yes
 	dynasty=5103
@@ -9677,7 +9677,7 @@
 
 138374 = {
 	name="Bernat" #Bernard VII d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138376 #Bernard VI d'Anduze
@@ -9692,7 +9692,7 @@
 
 138376 = {
 	name="Bernat" #Bernard VI d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	1150.1.1 = {
@@ -9711,7 +9711,7 @@
 
 138378 = {
 	name="Bernat" #Bernard VIII d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138374 #Bernard VII d'Anduze
@@ -9725,7 +9725,7 @@
 
 138380 = {
 	name="Pèire-Bermond" #Pierre Bermond VII d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138372 #Pierre Bermond VI d'Anduze
@@ -9741,7 +9741,7 @@
 
 138382 = {
 	name="Rogier-Bermond" #Roger Bermond d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138380 #Pierre Bermond VII d'Anduze
@@ -9756,7 +9756,7 @@
 
 138384 = {
 	name="Bermond" #Bermond I d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138382 #Roger Bermond d'Anduze
@@ -9771,7 +9771,7 @@
 
 138386 = {
 	name="Bermond" #Bermond II d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138384 #Bermond I d'Anduze
@@ -9787,7 +9787,7 @@
 138388 = {
 	name="Aymar" #Aymar d'Anduze de la Voulte
 	#Bishop of Viviers and Valence
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138386  #Bermond II d'Anduze
@@ -9803,7 +9803,7 @@
 
 138390 = {
 	name="Bermond" #Bermond III d'Anduze
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138386  #Bermond II d'Anduze
@@ -9822,7 +9822,7 @@
 138392 = {
 	name="Aymar" #Aymar d'Anduze 
 	#Bishop of Marseille
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5103
 	father=138390 #Bermond III d'Anduze
@@ -9838,7 +9838,7 @@
 455455 = {
 	name="Aymar" #Aymar V de Poitiers Valentinois
 	dynasty=233
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455471 #Aymar IV de Poitiers Valentinois
 	1268.1.1 = {
@@ -9856,7 +9856,7 @@
 	name="Sibilla" #des Baux
 	female=yes
 	dynasty=5117
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=32524 #Bertrand des Baux
 	1268.1.1 = {
@@ -9872,7 +9872,7 @@
 	name="Aliénor" #Aliénor de Poitiers Valentinois
 	female=yes
 	dynasty=233
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455455  #Aymar V de Poitiers Valentinois
 	mother=455456 #Sybille des Baux
@@ -9888,7 +9888,7 @@
 138393 = {
 	name="Arnaut" #Arnaud de Vogüé, Bishop of Viviers
 	dynasty=5027	
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1200.1.1 = {
 		birth="1200.1.1" #unknown
@@ -9901,7 +9901,7 @@
 138394 = {
 	name="Ugues" #Bishop Hugues de la Tour du Pin de Viviers
 	dynasty=57	
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138406 # Albert III de la Tour du Pin
 	1240.1.1 = {
@@ -9914,7 +9914,7 @@
 
 138395 = {
 	name="Guilhèm" #Guillaume III de Falguières	
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1240.1.1 = {
 		birth="1240.1.1" #unknown
@@ -9926,7 +9926,7 @@
 
 138396 = {
 	name="Aldebert" #Aldebert de Peyre
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1250.1.1 = {
 		birth="1250.1.1" #unknown
@@ -9954,7 +9954,7 @@
 72431 = {
 	name="Adalaïda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1190.1.1={
 		birth="1190.1.1"
@@ -9967,7 +9967,7 @@
 72432 = {
 	name="Amalric"
 	dynasty = 776
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=207542
 	mother=72431
@@ -9986,7 +9986,7 @@
 	name="Ermengarda"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=207542
 	mother=72431
@@ -10002,7 +10002,7 @@
 	name="Margarida"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=207542
 	mother=72431
@@ -10018,7 +10018,7 @@
 	name="Aliç"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="detached_priest"
 	father=207542
@@ -10034,7 +10034,7 @@
 72436 = {
 	name="Guilhèm"
 	dynasty = 12144
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1213.1.1={
 		birth="1213.1.1"
@@ -10051,7 +10051,7 @@
 	name="Margarida"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1203.1.1={
@@ -10065,7 +10065,7 @@
 72438 = {
 	name="Aimeric"
 	dynasty = 776
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=207542
 	mother=72437
@@ -10080,7 +10080,7 @@
 72439 = {
 	name="Filipa"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1213.1.1={
 		birth="1213.1.1"
@@ -10093,7 +10093,7 @@
 72440 = {
 	name="Aimeric"
 	dynasty = 776
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72432
 	mother=72439
@@ -10115,7 +10115,7 @@
 	father=72432
 	mother=72439
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1234.1.1={
@@ -10135,7 +10135,7 @@
 72442 = {
 	name="Guilhèm"
 	dynasty = 776
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="detached_priest"
 	father=72432
@@ -10152,7 +10152,7 @@
 	name="Garcenda"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72432
 	mother=72439
@@ -10168,7 +10168,7 @@
 	name="Margarida"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72432
 	mother=72439
@@ -10183,7 +10183,7 @@
 72446 = {
 	name="Amalric"
 	dynasty = 776
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72440
 	mother=138153
@@ -10202,7 +10202,7 @@
 	name="Margarida"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72440
 	mother=138153
@@ -10217,7 +10217,7 @@
 72452 = {
 	name="Amalric"
 	dynasty = 776
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72446
 	mother=72451
@@ -10232,7 +10232,7 @@
 72453 = {
 	name="Amalric"
 	dynasty = 776
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455621
 	1320.1.1={
@@ -10250,7 +10250,7 @@
 	name="Joana"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72446
 	mother=72451
@@ -10266,7 +10266,7 @@
 	name="Garcenda"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72446
 	mother=72451
@@ -10281,7 +10281,7 @@
 72456 = {
 	name="Guilhèm"
 	dynasty = 776
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72446
 	mother=72451
@@ -10299,7 +10299,7 @@
 72457 = {
 	name="Pèire"
 	dynasty = 776
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="mastermind_theologian"
 	father=72446
@@ -10316,7 +10316,7 @@
 	name="Constància"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72446
 	mother=72451
@@ -10332,7 +10332,7 @@
 	name="Sibilla"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72446
 	mother=72451
@@ -10347,7 +10347,7 @@
 72460 = {
 	name="Dat"
 	dynasty = 12145
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1296.1.1={
 		birth="1296.1.1"
@@ -10363,7 +10363,7 @@
 72463 = {
 	name="Ava"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1294.1.1={
 		birth="1294.1.1"
@@ -10376,7 +10376,7 @@
 72465 = {
 	name="Arnaut"
 	dynasty = 12146
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1308.1.1={
 		birth="1308.1.1"
@@ -10392,7 +10392,7 @@
 72466 = {
 	name="Maria"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1320.1.1={
 		birth="1320.1.1"
@@ -10406,7 +10406,7 @@
 	name="Margarida"
 	dynasty = 776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=72453
 	mother=72466
@@ -10421,7 +10421,7 @@
 72468 = {
 	name="Tiborg"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1306.1.1={
 		birth="1306.1.1"
@@ -10438,7 +10438,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="kind"
 	trait="wroth"
@@ -10472,7 +10472,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="temperate"
 	trait="tough_soldier"
@@ -10492,7 +10492,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="tough_soldier"
 	father=72446
@@ -10512,7 +10512,7 @@
 	name="Sibilla"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455621
 	mother=72468
@@ -10527,7 +10527,7 @@
 138401 = {
 	name="Guilhèm" #Bishop Guillaume VI Durand
 	#Bishop of Mende and Gévaudan
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1275.1.1 = {
 		birth="1275.1.1" #unknown
@@ -10540,7 +10540,7 @@
 138402 = {
 	name="Aldebert" #Bishop Albert Lordet
 	#Bishop of Mende and Gévaudan
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1299.1.1 = {
 		birth="1299.1.1" #unknown
@@ -10558,7 +10558,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="amateurish_plotter"
 	father=406
@@ -10660,7 +10660,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="patient"
 	trait="proud"
@@ -10687,7 +10687,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="tough_soldier"
 	father=223670
@@ -10711,7 +10711,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="charismatic_negotiator"
 	father=223660
@@ -10731,7 +10731,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="scholarly_theologian"
 	father=223671
@@ -10925,7 +10925,7 @@
 32800 = {
 	name="Filip"
 	dynasty=727
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=223670
 	mother=205513
@@ -10941,7 +10941,7 @@
 	name="Ainès"
 	female=yes
 	dynasty=727
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=223670
 	mother=205513
@@ -10958,7 +10958,7 @@
 	female = yes
 	#dynasty=5092
 	#real dynasty unknown	
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1030.1.1={
 		birth="1030.1.1"
@@ -10972,7 +10972,7 @@
 	name="Aliç" #Alix de Beaujeu
 	female=yes
 	dynasty=5092 #was 322 de Méziriac
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1105.1.2 = {
 		birth="1105.1.2"
@@ -11057,7 +11057,7 @@
 	name="Estève" #Etienne II de Thiern
 	# AKA: Etienne
 	dynasty=13113 #was 733 Auvergne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40136 #Guy II de Thiern
 	985.1.1 = {
@@ -11073,7 +11073,7 @@
 	name="Guilhèm" #Guillaume II de Thiern
 	# AKA: Guilhem
 	dynasty=13113 #was 733 Auvergne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40140 #Etienne d'Auvergne
 	1015.1.1 = {
@@ -11091,7 +11091,7 @@
 	name="Guilhèm" #Guillaume III de Thiern
 	# AKA: Guilhem
 	dynasty=13113 #was 733 Auvergne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="tough_soldier"
 	father=40142 #Guillaume II de Thiern
@@ -11108,7 +11108,7 @@
 	name="Gui" #Guy III de Thiern/Chalon
 	# AKA: Guy
 	dynasty=736 #was 733 Auvergne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40142 #Guillaume II de Thiern
 	mother=91148 #Adelais de Chalon
@@ -11123,7 +11123,7 @@
 205691 = {
 	name="Guilhèm" #Guillaume I de Chalon
 	dynasty=736 #was 733 Auvergne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=91149 #Guy III de Thiers	
 	1055.1.1 = {
@@ -11137,7 +11137,7 @@
 205690 = {
 	name="Guilhèm" #Guillaume II de Chalon
 	dynasty=736 #was 733 Auvergne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205691 #Guillaume I de Chalon
 	1120.1.1 = {
@@ -11151,7 +11151,7 @@
 138432 = {
 	name="Guilhèm" #Guillaume III de Chalon
 	dynasty=736 #was 733 Auvergne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205690 #Guillaume II de Chalon
 	1150.1.1 = {
@@ -11169,7 +11169,7 @@
 	name="Beatritz" #Béatrice de Chalon
 	female=yes
 	dynasty=736 #was 733 Auvergne
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138432 #Guillaume III de Chalon
 	mother=212509 #Beatrix von Hohenstaufen
@@ -11248,7 +11248,7 @@
 	# AKA: Philippa
 	female=yes
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40130 #Guillaume V d'Auvergne
 	mother=40261 #Philippa de Gévaudan
@@ -11264,7 +11264,7 @@
 206030 = {
 	name="Robèrt" #Robert IV d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206033 #Guillaume d'Auvergne the Old
 	mother=205716 #Anne de Bachaumont
@@ -11284,7 +11284,7 @@
 	name="Maria" #d'Auvergne
 	female=yes
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206030 #Robert IV d'Auvergne
 	mother=206017 #Mahaut de Bourgogne
@@ -11300,7 +11300,7 @@
 206032 = {
 	name="Robèrt" #Robert de Clermont
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206030 #Robert IV d'Auvergne
 	mother=206017 #Mahaut de Bourgogne
@@ -11315,7 +11315,7 @@
 138427 = {
 	name="Robèrt" #Robert d'Auvergne Bishop of Clermont and Archbishop of Lyon
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206030 #Robert IV d'Auvergne
 	mother=206017 #Mahaut de Bourgogne
@@ -11330,7 +11330,7 @@
 206031 = {
 	name="Guilhèm" #Guillaume IX d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206030 #Robert IV d'Auvergne
 	mother=206017 #Mahaut de Bourgogne
@@ -11345,7 +11345,7 @@
 206036 = {
 	name="Gui" #Guy II d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206030 #Robert IV d'Auvergne
 	mother=206017 #Mahaut de Bourgogne
@@ -11360,7 +11360,7 @@
 7467 = {
 	name="Guilhèm" #Guillaume X d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206036 #Guy II d'Auvergne
 	1195.1.1 = {
@@ -11378,7 +11378,7 @@
 	name="Robèrt" #Robert V d'Auvergne
 	# AKA: Robert
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7467 #Guillaume X d'Auvergne
 	mother=7473 #Adelaide de Brabant
@@ -11393,7 +11393,7 @@
 7469 = {
 	name="Guilhèm" #late Guillaume XI d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7468 #Robert V d'Auvergne
 	1249.1.1 = {
@@ -11407,7 +11407,7 @@
 7470 = {
 	name="Robèrt" #Robert VI d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7468 #Robert V d'Auvergne
 	1250.1.1 = {
@@ -11422,7 +11422,7 @@
 7471 = {
 	name="Robèrt" #Robert VII d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7470 #Robert VI d'Auvergne
 	give_nickname=nick_the_great
@@ -11444,7 +11444,7 @@
 	name="Matilda" #d'Auvergne
 	female=yes
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7471 #Robert VII d'Auvergne
 	mother=138429 #Marie de Flandre
@@ -11459,7 +11459,7 @@
 455821 = {
 	name="Guilhèm" #Guillaume XII d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7471 #Robert VII d'Auvergne
 	mother=7472 #Blanche de Clermont
@@ -11478,7 +11478,7 @@
 	name="Joana" #Countess Jeanne d'Auvergne
 	female=yes
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=455821 #Guillaume XII d'Auvergne
 	mother=455822 #Marguerite d'Evreux
@@ -11493,7 +11493,7 @@
 206038 = {
 	name="Robèrt" #Robert III d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206034 #Guillaume VI d'Auvergne
 	mother=211533 #Emma de Sicile/Hauteville
@@ -11508,7 +11508,7 @@
 206040 = {
 	name="Guilhèm" #Guillaume VII "le jeune" d'Auvergne
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206038 #Robert III d'Auvergne
 	give_nickname=nick_the_young
@@ -11530,7 +11530,7 @@
 	name="Daufin" #(Robert IV) Dauphin d'Auvergne count of Clermont
 	# AKA: Guillaume
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="poet"
 	trait="lustful"
@@ -11553,7 +11553,7 @@
 	name="Daufine" #d'Auvergne
 	female=yes
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206042 #Dauphin d'Auvergne
 	mother=205607 #Guillemette de Comborn
@@ -11568,7 +11568,7 @@
 206044 = {
 	name="Guilhèm" #Guillaume II de Clermont
 	dynasty=733
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=206042 #Dauphin d'Auvergne
 	mother=205607 #Guillemette de Comborn
@@ -11610,7 +11610,7 @@
 40462 = {
 	name="Guigues" #Guigues III the old d'Albon
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40460 #Guigues II d'Albon
 	give_nickname=nick_the_old
@@ -11628,7 +11628,7 @@
 40466 = {
 	name="Ubert" #d'Albon
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40462 #Guigues III the old d'Albon
 	1026.1.1 = {
@@ -11642,7 +11642,7 @@
 212804 = {
 	name="Guigues" #Guigues IV Pinguis d'Albon
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40462 #Guigues III d'Albon
 	give_nickname=nick_the_fat
@@ -11659,7 +11659,7 @@
 212803 = {
 	name="Guigues" #Guigues V d'Albon
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"	
 	father=212804  #Guigues IV Pinguis d'Albon
 	1050.1.2 = {
@@ -11674,7 +11674,7 @@
 40468 = {
 	name="Ubert" #d'Albon
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father= 212803  #Guigues V d'Albon
 	1096.1.1 = {
@@ -11689,7 +11689,7 @@
 	name="Matilda" #d'Albon
 	female=yes
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=212803 #Guigues V d'Albon
 	1112.1.1 = {
@@ -11704,7 +11704,7 @@
 212802 = {
 	name="Guigues" #Guigues VI d'Albon
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=212803  #Guigues V d'Albon
 	trait="tough_soldier"
@@ -11722,7 +11722,7 @@
 212801 = {
 	name="Guigues" #Guigues VII d'Albon
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="hunchback"
 	trait="martial_cleric"
@@ -11743,7 +11743,7 @@
 	name="Beatritz" #Beatrix d'Albon
 	female=yes
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=212801 #Guigues VII d'Albon
 	mother=213522 #Beatrice de Monferrato
@@ -11762,7 +11762,7 @@
 	name="Marquise" #d'Albon
 	female=yes
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=212802 #Guigues VI d'Albon
 	mother=7584 #Clémence de Macon
@@ -11779,7 +11779,7 @@
 	name="Beatritz" #Beatrix d'Albon
 	female=yes
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=212802 #Guigues VI d'Albon
 	mother=7584 #Clémence de Macon
@@ -11796,7 +11796,7 @@
 212805 = {
 	name="Guigues-Raimond" #Guigues dit Raymond d'Albon
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=40462 #Guigues III d'Albon
 	mother=110523 #Agnès de Barcelona
@@ -11814,7 +11814,7 @@
 205681 = {
 	name="Guigues" #Guigues de Lyon et de Forez
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father = 212805 #Guigues IV d'Albon
 	mother = 10036 #Ita de Forez
@@ -11832,7 +11832,7 @@
 205680 = {
 	name="Guigues" #Guigues II de Forez/Lyon
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205681 #Guy d'Albon
 	mother=205682 #Alix de Beaujeu
@@ -11848,7 +11848,7 @@
 205684 = {
 	name="Guigues" #Guigues III de Forez/Lyon
 	dynasty=232 #d'Albon
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205680 #Guigues II de Forez
 	1160.1.2 = {
@@ -11866,7 +11866,7 @@
 205685 = {
 	name="Rainaut" #Renaud d'Albon archbishop of Lyon
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205680#Guigues II de Forez
 	1178.1.1 = {
@@ -11882,7 +11882,7 @@
 	# AKA: Alix
 	female=yes
 	dynasty=232 #d'Albon
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205684  #Guigues III de Forez/Lyon
 	1189.1.1 = {
@@ -11897,7 +11897,7 @@
 7491 = {
 	name="Guigues" #Guigues IV de Forez/Lyon
 	dynasty=232 #d'Albon
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=205684  #Guigues III de Forez/Lyon
 	1199.1.1 = {
@@ -11914,7 +11914,7 @@
 7485 = {
 	name="Rainaut" #Renaud de Forez
 	dynasty=232 #d'Albon
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7491
 	mother=7486
@@ -11930,7 +11930,7 @@
 7489 = {
 	name="Guigues" #Guy VI de Forez
 	dynasty=232 #d'Albon
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7485 #Renaud de Forez
 	1250.1.1 = {
@@ -11947,7 +11947,7 @@
 7490 = {
 	name="Joan" #Jean I de Forez
 	dynasty=232 #d'Albon
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7489 #Guy VI de Forez
 	mother=462141 #Jeanne de Montfort
@@ -11966,7 +11966,7 @@
 455670 = {
 	name="Guigues" #Guy VII de Forez
 	dynasty=232
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7490 #Jean I de Forez
 	mother=7496 #Alix de la Tour du Pins
@@ -11987,7 +11987,7 @@
 	
 	dynasty=57
 	
-	religion="orthodox"
+	religion="catholic"
 	
 	culture="occitan"
 
@@ -12009,7 +12009,7 @@
 138412 = {
 	name="Albert" #Albert I de la Tour du Pin
 	dynasty=57
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138414 #Geraud de la Tour du Pin
 	1130.1.1 = {
@@ -12023,7 +12023,7 @@
 138408 = {
 	name="Albert" #Albert II de la Tour du Pin
 	dynasty=57
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="charitable"
 	father=138412  #Albert I de la Tour du Pin
@@ -12045,7 +12045,7 @@
 138410 = {
 	name="Ugues" #Hugues de la Tour du Pin Bishop of Clermont
 	dynasty=57
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138408  #Albert II de la Tour du Pin
 	mother=206035 #Marie d'Auvergne
@@ -12065,7 +12065,7 @@
 138406 = {
 	name="Albert" #Albert III de la Tour du Pin
 	dynasty=57
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138408  #Albert II de la Tour du Pin
 	mother=206035 #Marie d'Auvergne
@@ -12080,7 +12080,7 @@
 462701 = {
 	name="Ubert" #Humbert I de Viennois
 	dynasty=57 #de la Tour du Pin
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138406  #Albert III de la Tour du Pin
 	1240.1.1 = {
@@ -12097,7 +12097,7 @@
 7497 = {
 	name="Joan" #Jean III de la Tour du Pin
 	dynasty=57 #de la Tour du Pin
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=462701 #Humbert I de Viennois
 	mother=7498
@@ -12116,7 +12116,7 @@
 	name="Aliç" #Alix de la Tour du Pin
 	female=yes 
 	dynasty=57
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=462701 #Humbert I de Viennois
 	mother=7498
@@ -12131,7 +12131,7 @@
 31663 = {
 	name="Enric" #bishop of Metz
 	dynasty=57 #de la Tour du Pin
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="martial_cleric"
 	father=462701 #Humbert I de Viennois
@@ -12149,7 +12149,7 @@
 	# AKA: Marguerite
 	female=yes
 	dynasty=57
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=462701
 	mother=7498
@@ -12166,7 +12166,7 @@
 	# AKA: Catherine
 	female=yes
 	dynasty=57
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=462701
 	mother=7498
@@ -12181,7 +12181,7 @@
 7492 = {
 	name="Ubert" #Humbert I de la Tour du Pin
 	dynasty=57
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7497 
 	mother=7494
@@ -12196,7 +12196,7 @@
 7493 = {
 	name="Guigues" #Guigues VIII/X de Viennois
 	dynasty=57 #de la Tour du Pin
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=7497
 	mother=7494
@@ -12214,7 +12214,7 @@
 138411 = {
 	name="Godafres" #Geoffroy de Vergy Bishop of Lyon/St Jean Baptiste
 	dynasty=5095 #de Vergy
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1000.1.1 = {
 		birth="1000.1.1" #unknown
@@ -12227,7 +12227,7 @@
 138404 = {
 	name="Bérard" #Bishop Bérard de Got of Lyon
 	dynasty=8797
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father="138342" #Berraud Garcias de Got
 	1250.1.1 = {
@@ -12240,7 +12240,7 @@
 
 138407 = {
 	name="Ubert" #Bishop Humbert I of Lyon/St Jean Baptiste
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1030.1.1 = {
 		birth="1030.1.1" #unknown
@@ -12252,7 +12252,7 @@
 
 138413 = {
 	name="Gébuin" #Bishop Gébuin of Lyon/Saint Jubin
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1030.1.1 = {
 		birth="1030.1.1" #unknown
@@ -12264,7 +12264,7 @@
 
 138415 = {
 	name="Josserand" #Bishop Gaucerand of Lyon/Saint Jubin
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1060.1.1 = {
 		birth="1060.1.1" #unknown
@@ -12276,7 +12276,7 @@
 
 138416 = {
 	name="Ubald" #Bishop Humbaud of Lyon/Saint Jubin
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1060.1.1 = {
 		birth="1060.1.1" #unknown
@@ -12288,7 +12288,7 @@
 
 138425 = {
 	name="Raolf" #Bishop Raoul de la Roche Aymon of Lyon/StJeanBaptiste
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=5007
 	1180.1.1 = {
@@ -12301,7 +12301,7 @@
 
 138437 = {
 	name="Aimeric" #Bishop Aymery des Rives of Lyon/StJeanBaptiste
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1190.1.1 = {
 		birth="1190.1.1" #unknown
@@ -12313,7 +12313,7 @@
 
 138438 = {
 	name="Gui" #Bishop Guy II of Lyon/StJeanBaptiste
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	1200.1.1 = {
 		birth="1200.1.1" #unknown
@@ -12326,7 +12326,7 @@
 138440 = {
 	name="Enric" #Bishop Henry I de Villars of Lyon/StJeanBaptiste
 	#uncle of Louis de Villars's father
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=13114
 	trait="zealous"
@@ -12340,7 +12340,7 @@
 
 138441 = {
 	name="Loui" #Bishop Louis I de Villars of Lyon/StJeanBaptiste
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=13114 
 	trait="zealous"
@@ -12355,7 +12355,7 @@
 10028 = {
 	name="Guiraud" #Geraud II de Forez
 	dynasty=100227
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=168242
 	995.1.1 = {
@@ -12373,7 +12373,7 @@
 	name="Ida" #Ide de Forez (?)
 	female = yes
 	dynasty=100227
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=10028 #Geraud de Forez
 	mother=10029 #Alice de Gévaudan
@@ -12388,7 +12388,7 @@
 20290 = {
 	name="Artau" #Artaud IV de Forez
 	dynasty=100227
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=10028 #Geraud de Forez
 	mother=10029  #Alice de Gévaudan
@@ -12406,7 +12406,7 @@
 212806 = {
 	name="Guilhèm" #Guillaume I de Forez
 	dynasty=100227
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=20290 #Artaud IV de Forez
 	mother=10039 #Ida de Beauffremont
@@ -12422,7 +12422,7 @@
 212807 = {
 	name="Guilhèm" #Guillaume II de Forez
 	dynasty=100227
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=212806 #Guillaume I de Forez
 	1080.1.1 = {
@@ -12437,7 +12437,7 @@
 	name="Joan" #Bishop Jean d'Arcy
 	#Bishop of Mende, Autun, Langres and Gévaudan (count bishop) 
 	# also Duke of Langres
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	dynasty=13108 #d'Arcy
 	1285.1.1 = {
@@ -12536,7 +12536,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="honest"
 	trait="amateurish_plotter"
@@ -12555,7 +12555,7 @@
 93806 = {
 	name="Bergon" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=138352 #Garcia Arnaud I de Dax
 	1032.1.1 = {
@@ -12569,7 +12569,7 @@
 93807 = {
 	name="Garcia" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93806
 	1060.1.1 = {
@@ -12583,7 +12583,7 @@
 93808 = {
 	name="Bergon" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93807
 	1080.1.1 = {
@@ -12598,7 +12598,7 @@
 93809 = {
 	name="Vivian" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93808
 	1100.1.1 = {
@@ -12612,7 +12612,7 @@
 93810 = {
 	name="Raimond-Brun" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93809
 	1120.1.1 = {
@@ -12626,7 +12626,7 @@
 93811 = {
 	name="Vivian" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93810
 	1150.1.1 = {
@@ -12640,7 +12640,7 @@
 93812 = {
 	name="Bernard" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93810
 	1152.1.1 = {
@@ -12654,7 +12654,7 @@
 93813 = {
 	name="Brun" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93810
 	1155.1.1 = {
@@ -12668,7 +12668,7 @@
 93814 = {
 	name="Raimond-Brun" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93813
 	1180.1.1 = {
@@ -12682,7 +12682,7 @@
 93815 = {
 	name="Raimond-Brun" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93814
 	1200.1.1 = {
@@ -12696,7 +12696,7 @@
 93816 = {
 	name="Arnaut-Guilhèm" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93813
 	1185.1.1 = {
@@ -12710,7 +12710,7 @@
 93817 = {
 	name="Arnaut-Guilhèm" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93816
 	1205.1.1 = {
@@ -12724,7 +12724,7 @@
 93818 = {
 	name="Auger" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93816
 	1207.1.1 = {
@@ -12738,7 +12738,7 @@
 93819 = {
 	name="Bernard" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93816
 	1209.1.1 = {
@@ -12752,7 +12752,7 @@
 93820 = {
 	name="Arnaut-Guilhèm" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93817
 	1230.1.1 = {
@@ -12766,7 +12766,7 @@
 93821 = {
 	name="Auger" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93817
 	1235.1.1 = {
@@ -12780,7 +12780,7 @@
 93822 = {
 	name="Raimond-Brun" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93820
 	1260.1.1 = {
@@ -12794,7 +12794,7 @@
 93823 = {
 	name="Arnaut-Guilhèm" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93822
 	1285.1.1 = {
@@ -12808,7 +12808,7 @@
 93824 = {
 	name="Brunat" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93822
 	1287.1.1 = {
@@ -12822,7 +12822,7 @@
 93825 = {
 	name="Arnaut-Raimond" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93822
 	1295.1.1 = {
@@ -12836,7 +12836,7 @@
 93826 = {
 	name="Arnaut-Raimond" 
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93825
 	1320.1.1 = {
@@ -12850,7 +12850,7 @@
 93827 = {
 	name="Arnaut-Guilhèm"  
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93825
 	1322.1.1 = {
@@ -12864,7 +12864,7 @@
 93828 = {
 	name="Bernard"  
 	dynasty=5003 #de Gramont
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	father=93825
 	1325.1.1 = {
@@ -13117,7 +13117,7 @@
 	name="Bérilon" 	
 	dynasty=57
 	
-	religion="orthodox"
+	religion="catholic"
 	
 	culture="occitan"
 
@@ -13140,7 +13140,7 @@
 	name="Bérilon" 	
 	dynasty=57
 	
-	religion="orthodox"
+	religion="catholic"
 	
 	culture="occitan"
 
@@ -13469,7 +13469,7 @@
 	father=138184
 	mother=71647
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1223.1.1={
@@ -13487,7 +13487,7 @@
 	father=205564
 	mother=205555
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1182.1.1={
@@ -13508,7 +13508,7 @@
 	father=200110
 	mother=72083
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1207.1.1={
@@ -13529,7 +13529,7 @@
 	name="Sibilla"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1233.1.1={
@@ -13547,7 +13547,7 @@
 	father=200111
 	mother=200112
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1251.1.1={
@@ -13565,7 +13565,7 @@
 	father=200111
 	mother=200112
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1253.1.1={
@@ -13587,7 +13587,7 @@
 	father=200111
 	mother=200112
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1255.1.1={
@@ -13606,7 +13606,7 @@
 	father=200111
 	mother=200112
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1257.1.1={
@@ -13625,7 +13625,7 @@
 	father=200114
 	mother=200121
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1275.1.1={
@@ -13644,7 +13644,7 @@
 	father=200114
 	mother=200121
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1277.1.1={
@@ -13663,7 +13663,7 @@
 	father=200114
 	mother=200121
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1279.1.1={
@@ -13681,7 +13681,7 @@
 	father=205580
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1183.1.1={
@@ -13703,7 +13703,7 @@
 	father=7663
 	mother=422
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1117.1.1={
@@ -13721,7 +13721,7 @@
 
 	father=138152
 
-	religion=orthodox
+	religion=catholic
 	culture=occitan
 
 	1233.1.1={

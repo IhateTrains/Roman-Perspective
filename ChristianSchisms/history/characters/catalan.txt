@@ -2,7 +2,7 @@
 	name="Isabel"
 	female = yes
 	dynasty=395
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="flamboyant_schemer"
 	father=110560
@@ -23,7 +23,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="deceitful"
 	trait="brave"
@@ -54,7 +54,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="skilled_tactician"
 	father=110520
@@ -75,7 +75,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="charitable"
 	trait="honest"
@@ -102,7 +102,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="wroth"
 	trait="stutter"
@@ -125,7 +125,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="kind"
 	trait="proud"
@@ -179,7 +179,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="thrifty_clerk"
 	father=110530
@@ -241,7 +241,7 @@
 110550 = {
 	name="Ermengol"
 	dynasty=395
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="proud"
 	trait="clubfooted"
@@ -265,7 +265,7 @@
 110560 = {
 	name="Ermengol"
 	dynasty=395
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="flamboyant_schemer"
 	father=110570
@@ -294,7 +294,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="wroth"
 	trait="envious"
@@ -319,7 +319,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="tough_soldier"
 	father=110560
@@ -342,7 +342,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="tough_soldier"
 	father=110560
@@ -366,7 +366,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="arbitrary"
 	trait="cynical"
@@ -436,7 +436,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="tough_soldier"
 	father=110590
@@ -459,7 +459,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="arbitrary"
 	trait="misguided_warrior"
@@ -483,7 +483,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="flamboyant_schemer"
 	father=110580
@@ -507,7 +507,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="cynical"
 	trait="charismatic_negotiator"
@@ -526,7 +526,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="thrifty_clerk"
 	father=110582
@@ -546,7 +546,7 @@
 	father=110582
 	mother=110583
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1060.1.1={
@@ -570,7 +570,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="skilled_tactician"
 	father=110580
@@ -591,7 +591,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="cynical"
 	trait="harelip"
@@ -614,7 +614,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="flamboyant_schemer"
 	father=110580
@@ -635,7 +635,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="charitable"
 	trait="amateurish_plotter"
@@ -682,7 +682,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="martial_cleric"
 	father=110590
@@ -705,7 +705,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="skilled_tactician"
 	father=110620
@@ -725,7 +725,7 @@
 	name="Adelaida"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1012.1.1={
@@ -743,7 +743,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="ill"
 	trait="misguided_warrior"
@@ -765,7 +765,7 @@
 	name="Estefania"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1036.1.1={
@@ -783,7 +783,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="tough_soldier"
 	father=110612
@@ -807,7 +807,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="honest"
 	trait="wroth"
@@ -829,7 +829,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="gluttonous"
 	trait="thrifty_clerk"
@@ -869,7 +869,7 @@
 	name="Beliarda"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	986.1.1={
@@ -884,7 +884,7 @@
 	name="Guisla"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1011.1.1={
@@ -902,7 +902,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="thrifty_clerk"
 	father=110650
@@ -928,7 +928,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="honest"
 	trait="tough_soldier"
@@ -950,7 +950,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="charitable"
 	trait="flamboyant_schemer"
@@ -1010,7 +1010,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="underhanded_rogue"
 	father=110650
@@ -1037,7 +1037,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="slothful"
 	trait="deceitful"
@@ -1082,7 +1082,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="just"
 	trait="scholarly_theologian"
@@ -1104,7 +1104,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="cynical"
 	trait="amateurish_plotter"
@@ -1126,7 +1126,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="patient"
 	trait="charismatic_negotiator"
@@ -1142,7 +1142,7 @@
 
 144613  = {
 	name="Arnau"
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1110.1.1 = {
 		birth="1110.1.1"
@@ -1160,7 +1160,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="chaste"
 	trait="patient"
@@ -1196,7 +1196,7 @@
 210501 = {
 	name="Pere" #AKA: Pere 'el Catòlic'
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="zealous"
 	trait="tough_soldier"
@@ -1220,7 +1220,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="tough_soldier"
 	father=210500
@@ -1244,7 +1244,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="thrifty_clerk"
 	father=210500
@@ -1266,7 +1266,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="thrifty_clerk"
 	father=210500
@@ -1287,7 +1287,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210500
 	mother=207504
@@ -1307,7 +1307,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="diligent"
 	trait="patient"
@@ -1334,7 +1334,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="humble"
 	trait="gluttonous"
@@ -1364,7 +1364,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="honest"
 	trait="proud"
@@ -1387,7 +1387,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="charismatic_negotiator"
 	father=210508 #Ramon Berenguer
@@ -1408,7 +1408,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="craven"
 	trait="thrifty_clerk"
@@ -1429,7 +1429,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="patient"
 	trait="tough_soldier"
@@ -1459,7 +1459,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210514
 	mother=210515
@@ -1481,7 +1481,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="scholarly_theologian"
 	1137.1.2={
@@ -1499,7 +1499,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72086
 	mother=72087
@@ -1525,7 +1525,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210571
 	mother=205557
@@ -1547,7 +1547,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210572
 	mother=210573
@@ -1569,7 +1569,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="tough_soldier"
 	father=210576
@@ -1596,7 +1596,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="amateurish_plotter"
 	father=210572
@@ -1616,7 +1616,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="tough_soldier"
 	father=110550
@@ -1635,7 +1635,7 @@
 31225 = {
 	name="Roger" 
 	dynasty=7206
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1275.1.1={
 		birth="1275.1.1"
@@ -1653,7 +1653,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="humble"
 	trait="amateurish_plotter"
@@ -1672,7 +1672,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="diligent"
 	trait="patient"
@@ -1698,7 +1698,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="amateurish_plotter"
 	father=460600
@@ -1719,7 +1719,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="lustful"
 	trait="diligent"
@@ -1741,7 +1741,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="diligent"
 	trait="bastard"
@@ -1770,7 +1770,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="greedy"
 	trait="temperate"
@@ -1796,7 +1796,7 @@
 	diplomacy=4
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460011
 	mother=460012
@@ -1815,7 +1815,7 @@
 	father=72320
 	mother=200122
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1282.1.1={
@@ -1833,7 +1833,7 @@
 	name="Sibila"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1282.1.1={
@@ -1847,7 +1847,7 @@
 460022 = {
 	name="Arnau"
 	dynasty=10027
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="wroth"
 	trait="brave"
@@ -1870,7 +1870,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="proud"
 	trait="cynical"
@@ -1888,7 +1888,7 @@
 460024 = {
 	name="Ramon"
 	dynasty=10027
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="lustful"
 	trait="just"
@@ -1913,7 +1913,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="gluttonous"
 	trait="slothful"
@@ -1935,7 +1935,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="kind"
 	trait="humble"
@@ -1957,7 +1957,7 @@
 	diplomacy=9
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="craven"
 	trait="cynical"
@@ -1979,7 +1979,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="lustful"
 	trait="arbitrary"
@@ -1999,7 +1999,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="honest"
 	trait="tough_soldier"
@@ -2020,7 +2020,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="proud"
 	trait="thrifty_clerk"
@@ -2041,7 +2041,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="charitable"
 	trait="martial_cleric"
@@ -2062,7 +2062,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="wroth"
 	trait="tough_soldier"
@@ -2080,7 +2080,7 @@
 	name="Elionor"
 	female = yes
 	dynasty=10027
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="just"
 	trait="thrifty_clerk"
@@ -2101,7 +2101,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460024
 	mother=460030
@@ -2121,7 +2121,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="patient"
 	trait="flamboyant_schemer"
@@ -2143,7 +2143,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="greedy"
 	trait="hunchback"
@@ -2177,7 +2177,7 @@
 	stewardship=8
 	father=72230
 	mother=72229
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1300.1.1={
 		birth=yes
@@ -2196,7 +2196,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="lustful"
 	trait="zealous"
@@ -2221,7 +2221,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="wroth"
 	trait="brave"
@@ -2244,7 +2244,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="ill"
 	trait="tough_soldier"
@@ -2266,7 +2266,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="cynical"
 	trait="temperate"
@@ -2288,7 +2288,7 @@
 	father=460590
 	mother=462515
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	martial=5
@@ -2330,7 +2330,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="greedy"
 	trait="patient"
@@ -2350,7 +2350,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="envious"
 	trait="honest"
@@ -2383,7 +2383,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="gluttonous"
 	trait="honest"
@@ -2406,7 +2406,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="diligent"
 	trait="naive_appeaser"
@@ -2428,7 +2428,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="charitable"
 	trait="amateurish_plotter"
@@ -2450,7 +2450,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="patient"
 	trait="gluttonous"
@@ -2473,7 +2473,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="chaste"
 	trait="just"
@@ -2497,7 +2497,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="intricate_webweaver"
 	father=460560
@@ -2520,7 +2520,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="tough_soldier"
 	father=460570
@@ -2540,7 +2540,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460570
 	mother=71761
@@ -2560,7 +2560,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460570
 	mother=71761
@@ -2579,7 +2579,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="honest"
 	trait="kind"
@@ -2604,7 +2604,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="just"
 	trait="ambitious"
@@ -2633,7 +2633,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="arbitrary"
 	trait="naive_appeaser"
@@ -2656,7 +2656,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="deceitful"
 	trait="brave"
@@ -2680,7 +2680,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="brilliant_strategist"
 	father=210501
@@ -2720,7 +2720,7 @@
 #	diplomacy=4
 #	intrigue=4
 #	stewardship=4
-#	religion="orthodox"
+#	religion="catholic"
 #	culture="catalan"
 #	trait="envious"
 #	trait="proud"
@@ -2742,7 +2742,7 @@
 	father=460600
 	mother=98030
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	martial=5
@@ -2770,7 +2770,7 @@
 	father=460602
 	mother=138155
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1276.8.1={
@@ -2788,7 +2788,7 @@
 	father=460602
 	mother=138155
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	martial=8
@@ -2817,7 +2817,7 @@
 
 	father=460602
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1278.1.1={
@@ -2839,7 +2839,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="brave"
 	trait="martial_cleric"
@@ -2858,7 +2858,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="wroth"
 	father=460605
@@ -2877,7 +2877,7 @@
 	father=460602
 	mother=138155
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	trait=scholarly_theologian
@@ -2898,7 +2898,7 @@
 	father=460602
 	mother=138155
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1280.1.1={
@@ -2917,7 +2917,7 @@
 	father=460602
 	mother=138155
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1285.1.1={
@@ -2936,7 +2936,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460600
 	mother=98030
@@ -2956,7 +2956,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="honest"
 	trait="zealous"
@@ -2977,7 +2977,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="deceitful"
 	trait="tough_soldier"
@@ -3001,7 +3001,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	father=460620
@@ -3025,7 +3025,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="honest"
 	trait="thrifty_clerk"
@@ -3045,7 +3045,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="underhanded_rogue"
 	father=70234
@@ -3065,7 +3065,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="greedy"
 	trait="flamboyant_schemer"
@@ -3087,7 +3087,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="gluttonous"
 	trait="hunchback"
@@ -3108,7 +3108,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	trait="flamboyant_schemer"
@@ -3136,7 +3136,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="craven"
 	trait="content"
@@ -3158,7 +3158,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="duelist"
 	trait="slothful"
@@ -3230,7 +3230,7 @@
 70163 = {
 	name="Ramon"
 	dynasty=10019
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="cynical"
 	trait="deceitful"
@@ -3252,7 +3252,7 @@
 	name="Adelaida"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1036.1.1={
@@ -3270,7 +3270,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="diligent"
 	trait="brave"
@@ -3298,7 +3298,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="ill"
 	trait="drunkard"
@@ -3320,7 +3320,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="scholar"
 	trait="temperate"
@@ -3342,7 +3342,7 @@
 	diplomacy=3
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="hedonist"
 	trait="homosexual"
@@ -3364,7 +3364,7 @@
 	diplomacy=3
 	intrigue=3
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="celibate"
 	trait="wroth"
@@ -3426,7 +3426,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="proud"
 	trait="hunter"
@@ -3448,7 +3448,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="duelist"
 	trait="greedy"
@@ -3475,7 +3475,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="gregarious"
 	trait="proud"
@@ -3497,7 +3497,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="scholar"
 	trait="charitable"
@@ -3519,7 +3519,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="diligent"
 	trait="poet"
@@ -3541,7 +3541,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="impaler"
 	trait="zealous"
@@ -3564,7 +3564,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="cynical"
 	trait="brave"
@@ -3586,7 +3586,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="hedonist"
 	trait="hunter"
@@ -3608,7 +3608,7 @@
 	diplomacy=6
 	intrigue=3
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	trait="mystic"
@@ -3680,7 +3680,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="charitable"
 	trait="falconer"
@@ -3708,7 +3708,7 @@
 	diplomacy=3
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="proud"
 	trait="just"
@@ -3733,7 +3733,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="content"
 	trait="ill"
@@ -3755,7 +3755,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="mystic"
 	trait="gardener"
@@ -3777,7 +3777,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="arbitrary"
 	trait="gluttonous"
@@ -3797,7 +3797,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="harelip"
 	trait="ill"
@@ -3820,7 +3820,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="wroth"
 	trait="ill"
@@ -3842,7 +3842,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="shy"
 	trait="brave"
@@ -3868,7 +3868,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="fair"
 	trait="kind"
@@ -3890,7 +3890,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="misguided_warrior"
 	father=460010
@@ -3943,7 +3943,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="deceitful"
 	trait="flamboyant_schemer"
@@ -3965,7 +3965,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="hunter"
 	trait="greedy"
@@ -3990,7 +3990,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="hedonist"
 	trait="arbitrary"
@@ -4009,7 +4009,7 @@
 	name="València"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1045.1.1={
@@ -4028,7 +4028,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="patient"
 	trait="craven"
@@ -4047,7 +4047,7 @@
 	name="Estefania"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210576
 	mother=107646
@@ -4062,7 +4062,7 @@
 71593 = {
 	name="Guillem-Jordà"
 	dynasty=10019
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70165
 	mother=110524
@@ -4077,7 +4077,7 @@
 71594 = {
 	name="Bernat"
 	dynasty=10019
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70165
 	mother=110524
@@ -4092,7 +4092,7 @@
 71595 = {
 	name="Ermengol"
 	dynasty=10019
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70165
 	trait="bastard"
@@ -4108,7 +4108,7 @@
 	name="Almodis"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110522
 	mother=1121
@@ -4123,7 +4123,7 @@
 71597 = {
 	name="Bernat-Amat"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72304
 	mother=72302
@@ -4141,7 +4141,7 @@
 71598 = {
 	name="Guillem"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71597
 	mother=71596
@@ -4156,7 +4156,7 @@
 71599 = {
 	name="Ramon-Folc"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71597
 	mother=71596
@@ -4174,7 +4174,7 @@
 71600 = {
 	name="Berenguer"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=71597
@@ -4190,7 +4190,7 @@
 71601 = {
 	name="Pere"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71597
 	mother=71596
@@ -4205,7 +4205,7 @@
 71602 = {
 	name="Guillem"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71601
 	1127.1.1={
@@ -4219,7 +4219,7 @@
 71603 = {
 	name="Ramon-Folc"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71599
 	mother=72308
@@ -4237,7 +4237,7 @@
 71604 = {
 	name="Guillem"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71603
 	mother=72142
@@ -4259,7 +4259,7 @@
 	name="Elisenda"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71604
 	mother=72309
@@ -4275,7 +4275,7 @@
 	name="Anglesa"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71603
 	mother=72142
@@ -4290,7 +4290,7 @@
 71607 = {
 	name="Bertran"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71597
 	trait="bastard"
@@ -4305,7 +4305,7 @@
 71608 = {
 	name="Arnau"
 	dynasty=8756
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1160.1.1={
 		birth="1160.1.1"
@@ -4322,7 +4322,7 @@
 	name="Ermessenda"
 	dynasty=8756
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71608
 	1187.1.1={
@@ -4336,7 +4336,7 @@
 71610 = {
 	name="Ramon"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72062
 	mother=72067
@@ -4355,7 +4355,7 @@
 	name="València"
 	dynasty=10028
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71610
 	mother=71606
@@ -4371,7 +4371,7 @@
 	name="Ximena"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210508
 	mother=210509
@@ -4386,7 +4386,7 @@
 71613 = {
 	name="Bernat"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210508
 	mother=40806
@@ -4402,7 +4402,7 @@
 	name="Estefania"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210508
 	mother=40806
@@ -4418,7 +4418,7 @@
 	name="Mahalta"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210508
 	mother=40806
@@ -4434,7 +4434,7 @@
 	name="Almodis"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210508
 	mother=40806
@@ -4449,7 +4449,7 @@
 71617 = {
 	name="Guillem"
 	dynasty=10010
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1110.1.1={
 		birth="1110.1.1"
@@ -4465,7 +4465,7 @@
 71622 = {
 	name="Ponç"
 	dynasty=8758
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1104.1.1={
 		birth="1104.1.1"
@@ -4482,7 +4482,7 @@
 	name="Algaburga"
 	dynasty=8758
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71622
 	1130.1.1={
@@ -4496,7 +4496,7 @@
 71624 = {
    name="Hug"
    dynasty=8758
-   religion="orthodox"
+   religion="catholic"
    culture="catalan"
    father=71622
    mother=71616
@@ -4514,7 +4514,7 @@
 71625 = {
 	name="Ponç"
 	dynasty=8758
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71622
 	mother=71616
@@ -4529,7 +4529,7 @@
 71626 = {
 	name="Berenguer"
 	dynasty=8758
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71622
 	mother=71616
@@ -4545,7 +4545,7 @@
 	name="Gaia"
 	dynasty=8758
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71622
 	mother=71616
@@ -4560,7 +4560,7 @@
 71628 = {
 	name="Ramon"
 	dynasty=8759
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1140.1.1={
 		birth="1140.1.1"
@@ -4576,7 +4576,7 @@
 71629 = {
 	name="Pere"
 	dynasty=8758
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71625
 	1178.1.1={
@@ -4591,7 +4591,7 @@
 	name="Agnès"
 	dynasty=8758
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71629
 	1203.1.1={
@@ -4606,7 +4606,7 @@
 	name="Dolça"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=40808
 	mother=221529
@@ -4621,7 +4621,7 @@
 71639 = {
 	name="Pere"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210506
 	mother=210507
@@ -4637,7 +4637,7 @@
 	name="Sança"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210514
 	mother=210515
@@ -4652,7 +4652,7 @@
 71642 = {
 	name="Guerau"
 	dynasty=8761
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1180.1.1={
 		birth="1180.1.1"
@@ -4668,7 +4668,7 @@
 71643 = {
 	name="Ramon-Berenguer"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	trait="detached_priest"
@@ -4684,7 +4684,7 @@
 71644 = {
 	name="Ramon-Berenguer"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210500
 	mother=207504
@@ -4699,7 +4699,7 @@
 71645 = {
 	name="Ferran"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=210500
@@ -4716,7 +4716,7 @@
 	name="Dolça"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=210500
@@ -4733,7 +4733,7 @@
 	name="Sança"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210501
 	mother=205582
@@ -4748,7 +4748,7 @@
 71651 = {
 	name="Pere"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	add_trait="bastard"
 	add_trait="detached_priest"
@@ -4765,7 +4765,7 @@
 	name="Constança"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210501
 	trait="bastard"
@@ -4781,7 +4781,7 @@
 	name="Maria"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210501
 	trait="bastard"
@@ -4796,7 +4796,7 @@
 71654 = {
 	name="Hug-Jofré"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72248
 	mother=72250
@@ -4814,7 +4814,7 @@
 71655 = {
 	name="Guillem-Ramon"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71771
 	1175.1.1={
@@ -4837,7 +4837,7 @@
 71656 = {
 	name="Pere"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71655
 	mother=71652
@@ -4852,7 +4852,7 @@
 71657 = {
 	name="Pere"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71656
 	1235.1.1={
@@ -4867,7 +4867,7 @@
 	name="Constança"
 	dynasty=336
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71656
 	1236.1.1={
@@ -4882,7 +4882,7 @@
 	name="Sibila"
 	dynasty=336
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71656
 	1237.1.1={
@@ -4897,7 +4897,7 @@
 	name="Aurembaix"
 	dynasty=336
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71656
 	1238.1.1={
@@ -4911,7 +4911,7 @@
 71661 = {
 	name="Ott"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71657
 	1276.1.1={
@@ -4928,7 +4928,7 @@
 71662 = {
 	name="Guillem-Ramon"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71657
 	1274.1.1={
@@ -4946,7 +4946,7 @@
 	name="Elisenda"
 	dynasty=336
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71657
 	1280.1.1={
@@ -4960,7 +4960,7 @@
 71664 = {
 	name="Ott"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71661
 	mother=71666
@@ -4975,7 +4975,7 @@
 71665 = {
 	name="Guillem-Ramon"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71664
 	1325.1.1={
@@ -4990,7 +4990,7 @@
 	name="Gausfredina"
 	dynasty=7050
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71703
 	mother=71013
@@ -5005,7 +5005,7 @@
 71667 = {
 	name="Guillem-Ramon"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71662
 	mother=31411
@@ -5020,7 +5020,7 @@
 71668 = {
 	name="Mateu"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71667
 	1316.1.1={
@@ -5035,7 +5035,7 @@
 	name="Alfons"
 	dynasty=100204
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 	father=460600
 	mother=460614
@@ -5059,7 +5059,7 @@
 	father=460604
 	mother=200108
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1311.1.1={
@@ -5074,7 +5074,7 @@
 	name="Violant"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460604
 	trait="bastard"
@@ -5090,7 +5090,7 @@
 	name="Esclaramunda"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460604
 	trait="bastard"
@@ -5106,7 +5106,7 @@
 	name="Saura"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460602
 	trait="bastard"
@@ -5121,7 +5121,7 @@
 71674 = {
 	name="Pere"
 	dynasty=8765
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1270.1.1={
 		birth="1270.1.1"
@@ -5137,7 +5137,7 @@
 71675 = {
 	name="Pere"
 	dynasty=8765
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71674
 	mother=71673
@@ -5155,7 +5155,7 @@
 71677 = {
 	name="Bernat"
 	dynasty=8765
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71675
 	mother=71676
@@ -5170,7 +5170,7 @@
 71678 = {
 	name="Berenguer"
 	dynasty=8767
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1285.1.1={
 		birth="1285.1.1"
@@ -5187,7 +5187,7 @@
 	name="Constança"
 	dynasty=8767
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71678
 	1310.1.1={
@@ -5201,7 +5201,7 @@
 71680 = {
 	name="Berenguer"
 	dynasty=8767
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71678
 	mother=71673
@@ -5217,7 +5217,7 @@
 	name="Violant"
 	dynasty=8767
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71678
 	mother=71673
@@ -5233,7 +5233,7 @@
 	name="Isabel"
 	dynasty=8767
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71678
 	mother=71673
@@ -5248,7 +5248,7 @@
 71683 = {
 	name="Sanç"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460605
 	trait="bastard"
@@ -5266,7 +5266,7 @@
 71684 = {
 	name="Ferran"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460605
 	trait="bastard"
@@ -5281,7 +5281,7 @@
 71685 = {
 	name="Pagan"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460605
 	trait="bastard"
@@ -5297,7 +5297,7 @@
 	name="Esclaramunda"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	trait="detached_priest"
@@ -5313,7 +5313,7 @@
 71687 = {
 	name="Laura"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1300.1.1={
 		birth="1300.1.1"
@@ -5327,7 +5327,7 @@
 	name="Constança"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71683
 	mother=71687
@@ -5343,7 +5343,7 @@
 	name="Esclaramunda"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71683
 	mother=71687
@@ -5358,7 +5358,7 @@
 71690 = {
 	name="Joan"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460620
 	trait="bastard"
@@ -5374,7 +5374,7 @@
 	name="Constança"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460620
 	trait="bastard"
@@ -5389,7 +5389,7 @@
 71692 = {
 	name="Ferran"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460600
 	mother=98030
@@ -5405,7 +5405,7 @@
 	name="Sança"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460600
 	mother=98030
@@ -5421,7 +5421,7 @@
 	name="Maria"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=460600
@@ -5437,7 +5437,7 @@
 71695 = {
 	name="Sanç"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=460600
@@ -5454,7 +5454,7 @@
 	name="Elionor"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460600
 	mother=98030
@@ -5469,7 +5469,7 @@
 71698 = {
 	name="Alfons"
 	dynasty=7050
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70234
 	mother=71702
@@ -5490,7 +5490,7 @@
 	female=yes
 	father=72332
 	mother=71722
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1310.1.1={
 		birth="1310.1.1"
@@ -5507,7 +5507,7 @@
 	father=71698
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1330.1.1={
@@ -5522,7 +5522,7 @@
 	name="Teresa"
 	dynasty=8762
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70234
 	mother=71702
@@ -5538,7 +5538,7 @@
 	name="Margarida"
 	dynasty=7050
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71703
 	mother=71013
@@ -5553,7 +5553,7 @@
 71705 = {
 	name="Roger"
 	dynasty=7050
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71703
 	mother=71013
@@ -5568,7 +5568,7 @@
 71706 = {
 	name="Angarina"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1280.1.1={
 		birth="1280.1.1"
@@ -5581,7 +5581,7 @@
 71707 = {
 	name="Carles"
 	dynasty=7050
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71703
 	mother=71706
@@ -5597,7 +5597,7 @@
 	name="Angarina"
 	dynasty=7050
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71703
 	mother=71706
@@ -5612,7 +5612,7 @@
 71709 = {
 	name="Francesc" #AKA: Roger (II) de Lauria
 	dynasty=7050
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71703
 	mother=71706
@@ -5630,7 +5630,7 @@
 71710 = {
 	name="Pere"
 	dynasty=8769
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460600
 	mother=71697
@@ -5650,7 +5650,7 @@
 	name="Blanca"
 	dynasty=8769
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71710
 	1304.1.1={
@@ -5664,7 +5664,7 @@
 71712 = {
 	name="Pere"
 	dynasty=8769
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71710
 	1306.1.1={
@@ -5682,7 +5682,7 @@
 	name="Teresa"
 	dynasty=8769
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71710
 	1308.1.1={
@@ -5696,7 +5696,7 @@
 71714 = {
 	name="Jaume"
 	dynasty=8769
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71710
 	1312.1.1={
@@ -5711,7 +5711,7 @@
 	name="Constança"
 	dynasty=8769
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71712
 	mother=71717
@@ -5727,7 +5727,7 @@
 	name="Maria"
 	dynasty=8769
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71712
 	mother=71717
@@ -5742,7 +5742,7 @@
 71718 = {
 	name="Guillem"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71662
 	mother=31411
@@ -5760,7 +5760,7 @@
 71720 = {
 	name="Ferran"
 	dynasty=8771
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460600
 	trait="bastard"
@@ -5775,7 +5775,7 @@
 71721 = {
 	name="Felip"
 	dynasty=8771
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71720
 	1266.1.1={
@@ -5792,7 +5792,7 @@
 71723 = {
 	name="Felip"
 	dynasty=8771
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71721
 	mother=71722
@@ -5811,7 +5811,7 @@
 	name="Elionor"
 	dynasty=8771
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71723
 	mother=71190
@@ -5826,7 +5826,7 @@
 71725 = {
 	name="Felip"
 	dynasty=8771
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71723
 	mother=71190
@@ -5841,7 +5841,7 @@
 71726 = {
 	name="Ramon"
 	dynasty=8772
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72291
 	mother=72288
@@ -5860,7 +5860,7 @@
 	name="Aldonça"
 	dynasty=8771
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71721
 	mother=71722
@@ -5875,7 +5875,7 @@
 71728 = {
 	name="Pere"
 	dynasty=8773
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460600
 	trait="bastard"
@@ -5896,7 +5896,7 @@
 71729 = {
 	name="Teresa"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1250.1.1={
 		birth="1250.1.1"
@@ -5909,7 +5909,7 @@
 71730 = {
 	name="Pere"
 	dynasty=8773
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71728
 	mother=71563
@@ -5924,7 +5924,7 @@
 71731 = {
 	name="Alfons"
 	dynasty=8773
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71730
 	1302.1.1={
@@ -5942,7 +5942,7 @@
 	name="Marquesa"
 	dynasty=8773
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71730
 	1304.1.1={
@@ -5956,7 +5956,7 @@
 71733 = {
 	name="Pere"
 	dynasty=8773
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71731
 	mother=71734
@@ -5971,7 +5971,7 @@
 71737 = {
 	name="Pere"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460600
 	add_trait="bastard"
@@ -5991,7 +5991,7 @@
 	father=460600
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	trait=detached_priest
@@ -6011,7 +6011,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="greedy"
 	trait="trusting"
@@ -6036,7 +6036,7 @@
 	father=460590
 	mother=462515
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1275.1.1={
@@ -6053,7 +6053,7 @@
 71741 = {
 	name="Jaume"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460590
 	trait="bastard"
@@ -6069,7 +6069,7 @@
 	name="Constança"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71741
 	1284.1.1={
@@ -6083,7 +6083,7 @@
 71744 = {
 	name="Ferran"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460590
 	trait="bastard"
@@ -6098,7 +6098,7 @@
 71745 = {
 	name="Pere"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460590
 	trait="bastard"
@@ -6113,7 +6113,7 @@
 71746 = {
 	name="Pere"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71745
 	1305.1.1={
@@ -6127,7 +6127,7 @@
 71747 = {
 	name="Ferran"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71745
 	1307.1.1={
@@ -6142,7 +6142,7 @@
 	name="Constança"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71745
 	1309.1.1={
@@ -6157,7 +6157,7 @@
 	name="Teresa"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71745
 	1311.1.1={
@@ -6171,7 +6171,7 @@
 71750 = {
 	name="Sanç"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=460590
@@ -6188,7 +6188,7 @@
 	name="Teresa"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460590
 	trait="bastard"
@@ -6203,7 +6203,7 @@
 71760 = {
 	name="Joan"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=460560
@@ -6220,7 +6220,7 @@
 	name="Joana"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460580
 	mother=461715
@@ -6236,7 +6236,7 @@
 	name="Blanca"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460580
 	mother=461715
@@ -6251,7 +6251,7 @@
 71764 = {
 	name="Sanç"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460560
 	trait="bastard"
@@ -6266,7 +6266,7 @@
 71765 = {
 	name="Jaume"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460560
 	trait="bastard"
@@ -6281,7 +6281,7 @@
 71766 = {
 	name="Napoleó"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460560
 	trait="bastard"
@@ -6296,7 +6296,7 @@
 71767 = {
 	name="Alfons"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460510
 	mother=460511
@@ -6312,7 +6312,7 @@
 	name="Isabel"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460510
 	mother=460511
@@ -6327,7 +6327,7 @@
 71769 = {
 	name="Frederic"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460510
 	mother=460511
@@ -6342,7 +6342,7 @@
 71770 = {
 	name="Sanç"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460510
 	mother=460511
@@ -6357,7 +6357,7 @@
 71771 = {
 	name="Ramon"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=205544
 	1136.1.1={
@@ -6371,7 +6371,7 @@
 71772 = {
 	name="Ramon"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71771
 	1170.1.1={
@@ -6385,7 +6385,7 @@
 71773 = {
 	name="Berenguer"
 	dynasty=336
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=205544
 	1125.1.1={
@@ -6399,7 +6399,7 @@
 71774 = {
 	name="Joan"
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460590
 	trait="bastard"
@@ -6415,7 +6415,7 @@
 	name="Beatriu"
 	dynasty=100204
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=460590
 	trait="bastard"
@@ -6435,7 +6435,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="lustful"
 	trait="deceitful"
@@ -6467,7 +6467,7 @@
 	name="Almodis"
 	dynasty=10019
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70166
 	1077.1.1={
@@ -6482,7 +6482,7 @@
 	name="Ricarda"
 	dynasty=10028
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70281
 	mother=70282
@@ -6497,7 +6497,7 @@
 72057 = {
 	name="Pere"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70283
 	mother=70285
@@ -6512,7 +6512,7 @@
 72058 = {
 	name="Bernat"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70283
 	mother=70285
@@ -6530,7 +6530,7 @@
 72059 = {
 	name="Toda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1078.1.1={
 		birth="1078.1.1"
@@ -6544,7 +6544,7 @@
 	name="Dolça"
 	dynasty=10028
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72058
 	mother=72059
@@ -6559,7 +6559,7 @@
 72061 = {
 	name="Arnau"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70283
 	mother=70285
@@ -6580,7 +6580,7 @@
 72062 = {
 	name="Arnau-Miró"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72061
 	mother=72055
@@ -6604,7 +6604,7 @@
 72063 = {
 	name="Adelaida"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1080.1.1={
 		birth="1080.1.1"
@@ -6617,7 +6617,7 @@
 72064 = {
 	name="Ramon"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72061
 	mother=72063
@@ -6632,7 +6632,7 @@
 72065 = {
 	name="Ramon"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72064
 	1130.1.1={
@@ -6646,7 +6646,7 @@
 72066 = {
 	name="Berenguer"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72061
 	mother=72063
@@ -6661,7 +6661,7 @@
 72067 = {
 	name="Òria"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1130.1.1={
 		birth="1130.1.1"
@@ -6674,7 +6674,7 @@
 72068 = {
 	name="Arnau"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72062
 	mother=72067
@@ -6689,7 +6689,7 @@
 72069 = {
 	name="Ramon"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70183
 	mother=70182
@@ -6704,7 +6704,7 @@
 72070 = {
 	name="Tetbald"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72069
 	1050.1.1={
@@ -6719,7 +6719,7 @@
 	name="Eldionda"
 	dynasty=10028
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70183
 	mother=70182
@@ -6734,7 +6734,7 @@
 72072 = {
 	name="Guitard"
 	dynasty=12119
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1020.1.1={
 		birth="1020.1.1"
@@ -6750,7 +6750,7 @@
 72074 = {
 	name="Artau"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=70185
 	mother=72073
@@ -6768,7 +6768,7 @@
 72075 = {
 	name="Agnès"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1100.1.1={
 		birth="1100.1.1"
@@ -6781,7 +6781,7 @@
 72076 = {
 	name="Artau"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72074
 	mother=72075
@@ -6800,7 +6800,7 @@
 	name="Agnès"
 	dynasty=10028
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72074
 	mother=72075
@@ -6815,7 +6815,7 @@
 72078 = {
 	name="Ramon"
 	dynasty=12120
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1116.1.1={
 		birth="1116.1.1"
@@ -6831,7 +6831,7 @@
 72079 = {
 	name="Guillem"
 	dynasty=12120
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72078
 	mother=72077
@@ -6850,7 +6850,7 @@
 	name="Guillelma"
 	dynasty=12120
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72079
 	mother=72083
@@ -6865,7 +6865,7 @@
 72081 = {
 	name="Guillelma"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1129.1.1={
 		birth="1129.1.1"
@@ -6878,7 +6878,7 @@
 72082 = {
 	name="Bernat"
 	dynasty=10028
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72076
 	mother=72081
@@ -6894,7 +6894,7 @@
 	name="Guillelma"
 	dynasty=10028
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72076
 	mother=72081
@@ -6909,7 +6909,7 @@
 72084 = {
 	name="Ponç"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110581
 	mother=110564
@@ -6927,7 +6927,7 @@
 72085 = {
 	name="Brunisenda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1093.1.1={
 		birth="1093.1.1"
@@ -6940,7 +6940,7 @@
 72086 = {
 	name="Hug"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72084
 	mother=72085
@@ -6960,7 +6960,7 @@
 	female=yes
 	dynasty=74
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1118.1.1={
@@ -6978,7 +6978,7 @@
 	father=72086
 	mother=72087
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1140.1.1={
@@ -6995,7 +6995,7 @@
 72089 = {
 	name="Sibila"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1146.1.1={
 		birth="1146.1.1"
@@ -7012,7 +7012,7 @@
 	father=72088
 	mother=72089
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1163.1.1={
@@ -7030,7 +7030,7 @@
 	father=72088
 	mother=72089
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1165.1.1={
@@ -7049,7 +7049,7 @@
 	father=72088
 	mother=72089
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1167.1.1={
@@ -7063,7 +7063,7 @@
 72093 = {
 	name="Adelaida"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1150.1.1={
 		birth="1150.1.1"
@@ -7076,7 +7076,7 @@
 72094 = {
 	name="Ermessenda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1171.1.1={
 		birth="1171.1.1"
@@ -7089,7 +7089,7 @@
 72095 = {
 	name="Hug"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210560
 	mother=72093
@@ -7107,7 +7107,7 @@
 72096 = {
 	name="Maria"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1180.1.1={
 		birth="1180.1.1"
@@ -7120,7 +7120,7 @@
 72097 = {
 	name="Ponç"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72095
 	mother=72096
@@ -7142,7 +7142,7 @@
 	name="Guillelma"
 	dynasty=393
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72095
 	mother=72096
@@ -7157,7 +7157,7 @@
 72099 = {
 	name="Hug"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72097
 	mother=72521
@@ -7175,7 +7175,7 @@
 72100 = {
 	name="Ponç-Hug"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72097
 	mother=72521
@@ -7191,7 +7191,7 @@
 	name="Sibila"
 	dynasty=393
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72097
 	mother=72521
@@ -7207,7 +7207,7 @@
 	name="Maior"
 	dynasty=393
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72097
 	mother=72521
@@ -7226,7 +7226,7 @@
 	father=72312
 	mother=72324
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1220.1.1={
@@ -7247,7 +7247,7 @@
 	name="Sibila"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72103
 	mother=72101
@@ -7262,7 +7262,7 @@
 72105 = {
 	name="Hug"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72103
 	mother=72101
@@ -7277,7 +7277,7 @@
 72106 = {
 	name="Sibila"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1248.1.1={
 		birth="1248.1.1"
@@ -7290,7 +7290,7 @@
 72107 = {
 	name="Ponç"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72099
 	mother=72106
@@ -7308,7 +7308,7 @@
 72108 = {
 	name="Ramon-Folc"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72099
 	mother=72106
@@ -7323,7 +7323,7 @@
 72109 = {
 	name="Hug"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72099
 	mother=72106
@@ -7341,7 +7341,7 @@
 72110 = {
 	name="Hug"
 	dynasty=12121
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72108
 	trait="bastard"
@@ -7356,7 +7356,7 @@
 72112 = {
 	name="Violant"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1280.1.1={
 		birth="1280.1.1"
@@ -7369,7 +7369,7 @@
 72113 = {
 	name="Hug"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72107
 	mother=72192
@@ -7384,7 +7384,7 @@
 72114 = {
 	name="Ponç"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72107
 	mother=72192
@@ -7403,7 +7403,7 @@
 	name="Marquesa"
 	dynasty=393
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72114
 	mother=461565
@@ -7418,7 +7418,7 @@
 72116 = {
 	name="Berenguer"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110610
 	mother=110611
@@ -7433,7 +7433,7 @@
 72117 = {
 	name="Sunyer"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110610
 	mother=110611
@@ -7449,7 +7449,7 @@
 	name="Arsenda"
 	dynasty=393
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110610
 	mother=110611
@@ -7464,7 +7464,7 @@
 72119 = {
 	name="Agnès"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1060.1.1={
 		birth="1060.1.1"
@@ -7481,7 +7481,7 @@
 	father=110612
 	mother=110613
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1085.1.1={
@@ -7502,7 +7502,7 @@
 	father=72120
 	mother=200137
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1134.1.1={
@@ -7516,7 +7516,7 @@
 72122 = {
 	name="Guislabert"
 	dynasty=393
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72120
 	trait=bastard
@@ -7531,7 +7531,7 @@
 72125 = {
 	name="Agnès"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1117.1.1={
 		birth="1117.1.1"
@@ -7544,7 +7544,7 @@
 72130 = {
 	name="Sibila"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1139.1.1={
 		birth="1139.1.1"
@@ -7558,7 +7558,7 @@
 	name="Teresa"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210576
 	mother=107646
@@ -7574,7 +7574,7 @@
 	name="Aurembaix"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210570
 	mother=207543
@@ -7590,7 +7590,7 @@
 	name="Marquesa"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210571
 	mother=205557
@@ -7606,7 +7606,7 @@
 	name="Miraglia"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210571
 	mother=205557
@@ -7622,7 +7622,7 @@
 	name="Isabel-Sibila"
 	female=yes
 	dynasty=395
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210572
 	mother=210573
@@ -7638,7 +7638,7 @@
 	name="Estefania"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210572
 	mother=210573
@@ -7653,7 +7653,7 @@
 72144 = {
 	name="Bernat"
 	dynasty=12122
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1120.1.1={
 		birth="1120.1.1"
@@ -7673,7 +7673,7 @@
 	name="Arsenda"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210572
 	mother=210573
@@ -7688,7 +7688,7 @@
 72146 = {
 	name="Guillem"
 	dynasty=12123
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1116.1.1={
 		birth="1116.1.1"
@@ -7704,7 +7704,7 @@
 72147 = {
 	name="Guillem"
 	dynasty=12123
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72146
 	mother=72145
@@ -7723,7 +7723,7 @@
 	father=210572
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1118.1.1={
@@ -7741,7 +7741,7 @@
 	father=210572
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1120.1.1={
@@ -7756,7 +7756,7 @@
 	name="Maria"
 	dynasty=395
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=210572
 	trait=bastard
@@ -7771,7 +7771,7 @@
 72151 = {
 	name="Bernat"
 	dynasty=12122
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72144
 	mother=72150
@@ -7799,7 +7799,7 @@
 72153 = {
 	name="Ponç"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72152
 	1028.1.1={
@@ -7819,7 +7819,7 @@
 72154 = {
 	name="Beatriu"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1030.1.1={
 		birth="1030.1.1"
@@ -7832,7 +7832,7 @@
 72155 = {
 	name="Letgarda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1050.1.1={
 		birth="1050.1.1"
@@ -7845,7 +7845,7 @@
 72156 = {
 	name="Guerau"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72153
 	mother=72155
@@ -7863,7 +7863,7 @@
 72157 = {
 	name="Ponç"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=72153
@@ -7879,7 +7879,7 @@
 72158 = {
 	name="Pere"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=72153
@@ -7896,7 +7896,7 @@
 	name="Beatriu"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72153
 	mother=72155
@@ -7911,7 +7911,7 @@
 72160 = {
 	name="Estefania"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1082.1.1={
 		birth="1082.1.1"
@@ -7924,7 +7924,7 @@
 72161 = {
 	name="Ponç"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72156
 	mother=72160
@@ -7945,7 +7945,7 @@
 72162 = {
 	name="Guerau"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72156
 	mother=72160
@@ -7960,7 +7960,7 @@
 72163 = {
 	name="Bernat"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72156
 	mother=72160
@@ -7976,7 +7976,7 @@
 	name="Marquesa"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72162
 	1129.1.1={
@@ -7990,7 +7990,7 @@
 72165 = {
 	name="Pere"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72156
 	mother=72160
@@ -8005,7 +8005,7 @@
 72166 = {
 	name="Gombau"
 	dynasty=12126
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1120.1.1={
 		birth="1120.1.1"
@@ -8021,7 +8021,7 @@
 72183 = {
 	name="Guerau"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72161
 	mother=72167
@@ -8039,7 +8039,7 @@
 72184 = {
 	name="Berenguera"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1140.1.1={
 		birth="1140.1.1"
@@ -8052,7 +8052,7 @@
 72185 = {
 	name="Ponç"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72183
 	mother=72184
@@ -8070,7 +8070,7 @@
 72186 = {
 	name="Guerau"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72185
 	mother=72140
@@ -8088,7 +8088,7 @@
 72187 = {
 	name="Ponç"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72185
 	mother=72140
@@ -8103,7 +8103,7 @@
 72188 = {
 	name="Guerau"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72186
 	mother=72390
@@ -8121,7 +8121,7 @@
 72190 = {
 	name="Guerau"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72188
 	mother=72189
@@ -8139,7 +8139,7 @@
 72191 = {
 	name="Sança"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1247.1.1={
 		birth="1247.1.1"
@@ -8153,7 +8153,7 @@
 	name="Marquesa"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72190
 	mother=72191
@@ -8169,7 +8169,7 @@
 	name="Gueraua"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72190
 	mother=72191
@@ -8185,7 +8185,7 @@
 	name="Margarida"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72188
 	mother=72189
@@ -8201,7 +8201,7 @@
 	name="Gueraua"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72188
 	mother=72189
@@ -8216,7 +8216,7 @@
 72196 = {
 	name="Guillem"
 	dynasty=12127
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1240.1.1={
 		birth="1240.1.1"
@@ -8232,7 +8232,7 @@
 72197 = {
 	name="Ramon"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72188
 	mother=72189
@@ -8250,7 +8250,7 @@
 72198 = {
 	name="Alamanda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1280.1.1={
 		birth="1280.1.1"
@@ -8263,7 +8263,7 @@
 72199 = {
 	name="Bernat"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72197
 	mother=72198
@@ -8281,7 +8281,7 @@
 72200 = {
 	name="Arnau"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72197
 	mother=72198
@@ -8296,7 +8296,7 @@
 72201 = {
 	name="Ramon-Berenguer"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72197
 	mother=72198
@@ -8314,7 +8314,7 @@
 72203 = {
 	name="Bernat"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72199
 	mother=72202
@@ -8332,7 +8332,7 @@
 72204 = {
 	name="Timbor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1318.1.1={
 		birth="1318.1.1"
@@ -8345,7 +8345,7 @@
 72205 = {
 	name="Ponç"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72203
 	mother=72204
@@ -8360,7 +8360,7 @@
 72206 = {
 	name="Bernat"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72203
 	mother=72204
@@ -8376,7 +8376,7 @@
 	name="Ramona"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72199
 	mother=72202
@@ -8392,7 +8392,7 @@
 	name="Gueraua"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72199
 	mother=72202
@@ -8407,7 +8407,7 @@
 72209 = {
 	name="Bertran"
 	dynasty=12128
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1310.1.1={
 		birth="1310.1.1"
@@ -8424,7 +8424,7 @@
 	name="Alamanda"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72186
 	mother=72390
@@ -8439,7 +8439,7 @@
 72131 = {
 	name="Guillem"
 	dynasty=12129
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1215.1.1={
 		birth="1215.1.1"
@@ -8455,7 +8455,7 @@
 72218 = {
 	name="Ponç"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72186
 	mother=72390
@@ -8473,7 +8473,7 @@
 72219 = {
 	name="Ponç"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72218
 	mother=73014
@@ -8488,7 +8488,7 @@
 72220 = {
 	name="Ermengol"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72218
 	mother=73014
@@ -8504,7 +8504,7 @@
 	name="Elionor"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72218
 	mother=73014
@@ -8520,7 +8520,7 @@
 	name="Marquesa"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72218
 	mother=73014
@@ -8539,7 +8539,7 @@
 	father=72218
 	mother=73014
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1239.1.1={
@@ -8559,7 +8559,7 @@
 72224 = {
 	name="Guerau"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72218
 	mother=73014
@@ -8577,7 +8577,7 @@
 72225 = {
 	name="Constança"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1273.1.1={
 		birth="1273.1.1"
@@ -8591,7 +8591,7 @@
 	name="Isabel"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72224
 	mother=72225
@@ -8607,7 +8607,7 @@
 	name="Elionor"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72223
 	mother=71658
@@ -8622,7 +8622,7 @@
 72228 = {
 	name="Sanç"
 	dynasty=12130
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1250.1.1={
 		birth="1250.1.1"
@@ -8639,7 +8639,7 @@
 	name="Constança"
 	dynasty=12130
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72228
 	mother=72227
@@ -8657,7 +8657,7 @@
 
 	father=200126
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1250.1.1={
@@ -8675,7 +8675,7 @@
 	name="Urraca"
 	dynasty=74
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72230
 	mother=72229
@@ -8694,7 +8694,7 @@
 	father=72223
 	mother=200138
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1260.1.1={
@@ -8719,7 +8719,7 @@
 	father=72223
 	mother=200138
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1262.1.1={
@@ -8737,7 +8737,7 @@
 	father=72223
 	mother=200138
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1264.1.1={
@@ -8754,7 +8754,7 @@
 72236 = {
 	name="Toda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1064.1.1={
 		birth="1064.1.1"
@@ -8767,7 +8767,7 @@
 72237 = {
 	name="Berenguer-Renard"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110585
 	mother=72236
@@ -8782,7 +8782,7 @@
 72238 = {
 	name="Jofré"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110585
 	mother=72236
@@ -8801,7 +8801,7 @@
 	name="Ermessenda"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110585
 	mother=72236
@@ -8816,7 +8816,7 @@
 72240 = {
 	name="Guillem"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110585
 	mother=72236
@@ -8832,7 +8832,7 @@
 	name="Toda"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110585
 	mother=72236
@@ -8847,7 +8847,7 @@
 72242 = {
 	name="Berenguer"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=110585
@@ -8863,7 +8863,7 @@
 72243 = {
 	name="Pere"
 	dynasty=12131
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1077.1.1={
 		birth="1077.1.1"
@@ -8879,7 +8879,7 @@
 72244 = {
 	name="Ermessenda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1082.1.1={
 		birth="1082.1.1"
@@ -8892,7 +8892,7 @@
 72245 = {
 	name="Dalmau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72238
 	mother=72244
@@ -8911,7 +8911,7 @@
 	name="Ermessenda"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72238
 	mother=72244
@@ -8926,7 +8926,7 @@
 72247 = {
 	name="Arnaua"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1113.1.1={
 		birth="1113.1.1"
@@ -8939,7 +8939,7 @@
 72248 = {
 	name="Jofré"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72245
 	mother=72247
@@ -8957,7 +8957,7 @@
 72249 = {
 	name="Ramon"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait=detached_priest
 	father=72245
@@ -8973,7 +8973,7 @@
 72250 = {
 	name="Maria"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1141.1.1={
 		birth="1141.1.1"
@@ -8986,7 +8986,7 @@
 72251 = {
 	name="Dalmau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72248
 	mother=72250
@@ -9004,7 +9004,7 @@
 72252 = {
 	name="Ramon"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=72245
@@ -9020,7 +9020,7 @@
 72253 = {
 	name="Arsenda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1190.1.1={
 		birth="1190.1.1"
@@ -9033,7 +9033,7 @@
 72254 = {
 	name="Jofré"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72251
 	mother=72253
@@ -9051,7 +9051,7 @@
 72255 = {
 	name="Guerau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72251
 	mother=72253
@@ -9066,7 +9066,7 @@
 72256 = {
 	name="Renard"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72251
 	mother=72253
@@ -9081,7 +9081,7 @@
 72257 = {
 	name="Arnau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72251
 	mother=72253
@@ -9096,7 +9096,7 @@
 72258 = {
 	name="Benet"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait=detached_priest
 	father=72251
@@ -9113,7 +9113,7 @@
 	name="Sibila"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72251
 	mother=72253
@@ -9128,7 +9128,7 @@
 72260 = {
 	name="Constança"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1220.1.1={
 		birth="1220.1.1"
@@ -9141,7 +9141,7 @@
 72261 = {
 	name="Dalmau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72254
 	mother=72260
@@ -9165,7 +9165,7 @@
 72262 = {
 	name="Guerau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72254
 	mother=72260
@@ -9180,7 +9180,7 @@
 72263 = {
 	name="Jofré"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72254
 	mother=72260
@@ -9195,7 +9195,7 @@
 72264 = {
 	name="Ermessenda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1239.1.1={
 		birth="1239.1.1"
@@ -9208,7 +9208,7 @@
 72265 = {
 	name="Jofré"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72261
 	mother=72264
@@ -9226,7 +9226,7 @@
 72266 = {
 	name="Pere"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=72261
@@ -9242,7 +9242,7 @@
 72267 = {
 	name="Galcerà"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72261
 	mother=72264
@@ -9257,7 +9257,7 @@
 72268 = {
 	name="Guerau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72261
 	mother=72264
@@ -9276,7 +9276,7 @@
 	name="Alamanda"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72261
 	mother=72264
@@ -9291,7 +9291,7 @@
 72270 = {
 	name="Saura"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1265.1.1={
 		birth="1265.1.1"
@@ -9304,7 +9304,7 @@
 72271 = {
 	name="Gausbert"
 	dynasty=12132
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1253.1.1={
 		birth="1253.1.1"
@@ -9320,7 +9320,7 @@
 72272 = {
 	name="Blanca"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1242.1.1={
 		birth="1242.1.1"
@@ -9334,7 +9334,7 @@
 	name="Elisenda"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72261
 	mother=72272
@@ -9350,7 +9350,7 @@
 	name="Beatriu"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72261
 	mother=72272
@@ -9365,7 +9365,7 @@
 72275 = {
 	name="Ponç"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72261
 	mother=72272
@@ -9383,7 +9383,7 @@
 72276 = {
 	name="Dalmau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72261
 	mother=72272
@@ -9398,7 +9398,7 @@
 72277 = {
 	name="Ramon"
 	dynasty=12133
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1268.1.1={
 		birth="1268.1.1"
@@ -9414,7 +9414,7 @@
 72278 = {
 	name="Margarida"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1275.1.1={
 		birth="1275.1.1"
@@ -9427,7 +9427,7 @@
 72279 = {
 	name="Guillelma"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1260.1.1={
 		birth="1260.1.1"
@@ -9441,7 +9441,7 @@
 	name="Constança"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=72261
@@ -9458,7 +9458,7 @@
 	name="Marquesa"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=72261
@@ -9474,7 +9474,7 @@
 72282 = {
 	name="Guillem"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=72261
@@ -9490,7 +9490,7 @@
 72283 = {
 	name="Dalmau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="martial_cleric"
 	father=72261
@@ -9506,7 +9506,7 @@
 72284 = {
 	name="Dalmau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72265
 	mother=72234
@@ -9524,7 +9524,7 @@
 72285 = {
 	name="Guerau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=72265
@@ -9541,7 +9541,7 @@
 	name="Galceranda"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=72265
@@ -9558,7 +9558,7 @@
 	name="Alamanda"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="detached_priest"
 	father=72265
@@ -9575,7 +9575,7 @@
 	name="Gueraua"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72265
 	mother=72234
@@ -9590,7 +9590,7 @@
 72289 = {
 	name="Jofré"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="martial_cleric" #Knight of Saint John of Jerusalem
 	father=72265
@@ -9609,7 +9609,7 @@
 72290 = {
 	name="Bernat-Hug"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72265
 	mother=72234
@@ -9624,7 +9624,7 @@
 72291 = {
 	name="Guillem"
 	dynasty=8772
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1280.1.1={
 		birth="1280.1.1"
@@ -9641,7 +9641,7 @@
 	name="Beatriu"
 	dynasty=12134
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1285.1.1={
 		birth="1285.1.1"
@@ -9654,7 +9654,7 @@
 72293 = {
 	name="Jofré"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72284
 	mother=72292
@@ -9672,7 +9672,7 @@
 72294 = {
 	name="Guillem-Galcerà"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72284
 	mother=72292
@@ -9691,7 +9691,7 @@
 	name="Timbor"
 	dynasty=392
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72284
 	mother=72292
@@ -9707,7 +9707,7 @@
 	name="Elisenda"
 	dynasty=336
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71661
 	mother=71666
@@ -9722,7 +9722,7 @@
 72297 = {
 	name="Felip-Dalmau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72293
 	mother=72296
@@ -9737,7 +9737,7 @@
 72298 = {
 	name="Benet"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72293
 	mother=72296
@@ -9752,7 +9752,7 @@
 72299 = {
 	name="Joan-Guerau"
 	dynasty=392
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72293
 	mother=72296
@@ -9767,7 +9767,7 @@
 72300 = {
 	name="Ramon-Folc"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1030.1.1={
 		birth="1030.1.1"
@@ -9783,7 +9783,7 @@
 72301 = {
 	name="Ermessenda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1033.1.1={
 		birth="1033.1.1"
@@ -9797,7 +9797,7 @@
 	name="Ermessenda"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72300
 	mother=72301
@@ -9813,7 +9813,7 @@
 	name="Guisla"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72300
 	mother=72301
@@ -9828,7 +9828,7 @@
 72304 = {
 	name="Deodat"
 	dynasty=12135
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1050.1.1={
 		birth="1050.1.1"
@@ -9844,7 +9844,7 @@
 72305 = {
 	name="Guillem"
 	dynasty=12135
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72304
 	mother=72302
@@ -9859,7 +9859,7 @@
 72306 = {
 	name="Pere"
 	dynasty=12135
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72304
 	mother=72302
@@ -9874,7 +9874,7 @@
 72307 = {
 	name="Ramon-Folc"
 	dynasty=12135
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72304
 	mother=72302
@@ -9889,7 +9889,7 @@
 72309 = {
 	name="Gueraua"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1158.1.1={
 		birth="1158.1.1"
@@ -9903,7 +9903,7 @@
 	name="Sibila"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71604
 	mother=72309
@@ -9919,7 +9919,7 @@
 	name="Guillelma"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71604
 	mother=72309
@@ -9934,7 +9934,7 @@
 72312 = {
 	name="Ramon-Folc"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71604
 	mother=72309
@@ -9952,7 +9952,7 @@
 72313 = {
 	name="Guillem"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71604
 	mother=72309
@@ -9968,7 +9968,7 @@
 	name="Caterina"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71604
 	mother=72309
@@ -9983,7 +9983,7 @@
 72315 = {
 	name="Bernat"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71604
 	mother=72309
@@ -9998,7 +9998,7 @@
 72316 = {
 	name="Guillem"
 	dynasty=12136
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1145.1.1={
 		birth="1145.1.1"
@@ -10014,7 +10014,7 @@
 72317 = {
 	name="Hug"
 	dynasty=10027
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1170.1.1={
 		birth="1170.1.1"
@@ -10030,7 +10030,7 @@
 72318 = {
 	name="Arnau"
 	dynasty=10027
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72317
 	mother=72311
@@ -10046,7 +10046,7 @@
 72319 = {
 	name="Artau"
 	dynasty=10027
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72318
 	1227.1.1={
@@ -10063,7 +10063,7 @@
 
 	father=72319
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1263.1.1={
@@ -10080,7 +10080,7 @@
 72321 = {
 	name="Agnès"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1198.1.1={
 		birth="1198.1.1"
@@ -10093,7 +10093,7 @@
 72322 = {
 	name="Ramon-Folc"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71604
 	trait=bastard
@@ -10108,7 +10108,7 @@
 72323 = {
 	name="Pere"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=71604
 	trait=bastard
@@ -10123,7 +10123,7 @@
 72324 = {
 	name="Agnès"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1196.1.1={
 		birth="1196.1.1"
@@ -10137,7 +10137,7 @@
 	name="Sibila"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72312
 	mother=72324
@@ -10153,7 +10153,7 @@
 	name="Gueraua"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72312
 	mother=72324
@@ -10173,7 +10173,7 @@
 	father=72312
 	mother=72324
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1216.1.1={
@@ -10187,7 +10187,7 @@
 72328 = {
 	name="Guerau"
 	dynasty=12137
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1209.1.1={
 		birth="1209.1.1"
@@ -10207,7 +10207,7 @@
 	father=72103
 	mother=138155
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1242.1.1={
@@ -10229,7 +10229,7 @@
 	father=72103
 	mother=138155
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1247.1.1={
@@ -10247,7 +10247,7 @@
 	father=72103
 	mother=138155
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1252.1.1={
@@ -10265,7 +10265,7 @@
 	father=72103
 	mother=138155
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1259.5.26={
@@ -10285,7 +10285,7 @@
 72333 = {
 	name="Guerau"
 	dynasty=12129
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72131
 	mother=72210
@@ -10303,7 +10303,7 @@
 72334 = {
 	name="Constança"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1246.1.1={
 		birth="1246.1.1"
@@ -10317,7 +10317,7 @@
 	name="Sibila"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72329
 	mother=72334
@@ -10332,7 +10332,7 @@
 72336 = {
 	name="Ramon"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72329
 	mother=72334
@@ -10351,7 +10351,7 @@
 	name="Constança"
 	dynasty=10029
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72329
 	mother=72334
@@ -10366,7 +10366,7 @@
 72338 = {
 	name="Guislabert"
 	dynasty=12138
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1261.1.1={
 		birth="1261.1.1"
@@ -10382,7 +10382,7 @@
 72339 = {
 	name="Pere-Amat"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72103
 	mother=72101
@@ -10397,7 +10397,7 @@
 72340 = {
 	name="Ramon"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72103
 	mother=72101
@@ -10412,7 +10412,7 @@
 72341 = {
 	name="Guillem"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72103
 	mother=72101
@@ -10427,7 +10427,7 @@
 72343 = {
 	name="Ramon-Folc"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72332
 	mother=71722
@@ -10442,7 +10442,7 @@
 72344 = {
 	name="Hug"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72332
 	mother=71722
@@ -10461,7 +10461,7 @@
 	name="Flor"
 	dynasty=12139
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1290.1.1={
 		birth="1290.1.1"
@@ -10474,7 +10474,7 @@
 72346 = {
 	name="Guillem"
 	dynasty=12139
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	father=72332
@@ -10490,7 +10490,7 @@
 72347 = {
 	name="Berenguer"
 	dynasty=12139
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	father=72332
@@ -10507,7 +10507,7 @@
 	name="Constança"
 	dynasty=12139
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	father=72332
@@ -10523,7 +10523,7 @@
 72349 = {
 	name="Ramon"
 	dynasty=12139
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	father=72332
@@ -10540,7 +10540,7 @@
 	name="Sibila"
 	dynasty=12139
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	father=72332
@@ -10557,7 +10557,7 @@
 	name="Brunisenda"
 	dynasty=12139
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	father=72332
@@ -10573,7 +10573,7 @@
 72352 = {
 	name="Pere"
 	dynasty=12139
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="bastard"
 	father=72332
@@ -10589,7 +10589,7 @@
 72353 = {
 	name="Beatriu"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1310.1.1={
 		birth="1310.1.1"
@@ -10602,7 +10602,7 @@
 72354 = {
 	name="Hug"
 	dynasty=10029
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72344
 	mother=72353
@@ -10622,7 +10622,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	trait="honest"
 	trait="just"
@@ -10644,7 +10644,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72156
 	mother=72160
@@ -10660,7 +10660,7 @@
 72430 = {
 	name="Guillelma"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1180.1.1={
 		birth="1180.1.1"
@@ -10673,7 +10673,7 @@
 72461 = {
 	name="Gausbert"
 	dynasty = 12132
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72462
 	mother=72463
@@ -10691,7 +10691,7 @@
 72462 = {
 	name="Guillem"
 	dynasty = 12132
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=72271
 	mother=72269
@@ -10709,7 +10709,7 @@
 72610 = {
 	name="Ramon"
 	dynasty = 12151
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1220.1.1={
 		birth="1220.1.1"
@@ -10728,7 +10728,7 @@
 72678 = {
 	name="Ramon-Berenguer"
 	dynasty = 12154
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	1190.1.1={
 		birth="1190.1.1"
@@ -10746,7 +10746,7 @@
 	# Ines de Barcelona
 	female = yes
 	dynasty=100204
-	religion="orthodox"
+	religion="catholic"
 	culture="catalan"
 	father=110520 #Ramon Berenguer I de Barcelona
 	mother=325 #Almodis de la Marche
@@ -10767,7 +10767,7 @@
 	father=72909
 	mother=72908
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1161.1.1={
@@ -10781,7 +10781,7 @@
 	name="Ponç"
 	dynasty=12166
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1130.1.1={
@@ -10803,7 +10803,7 @@
 	father=72909
 	mother=72908
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1157.1.1={
@@ -10821,7 +10821,7 @@
 	father=72909
 	mother=72908
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1159.1.1 = {
@@ -10838,7 +10838,7 @@
 	father=72079
 	mother=72083
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1168.1.1={
@@ -10855,7 +10855,7 @@
 
 	father=200117
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1192.1.1={
@@ -10872,7 +10872,7 @@
 
 	father=200118
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1219.1.1={
@@ -10889,7 +10889,7 @@
 
 	father=200119
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1243.1.1={
@@ -10910,7 +10910,7 @@
 	father=200125
 	mother=72092
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1200.1.1={
@@ -10927,7 +10927,7 @@
 
 	father=200126
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1246.1.1={
@@ -10944,7 +10944,7 @@
 
 	father=200126
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1248.1.1={
@@ -10961,7 +10961,7 @@
 
 	father=200126
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1252.1.1={
@@ -10979,7 +10979,7 @@
 
 	father=200126
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1254.1.1={
@@ -10997,7 +10997,7 @@
 	father=72230
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1290.1.1={
@@ -11015,7 +11015,7 @@
 	father=72230
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1292.1.1={
@@ -11034,7 +11034,7 @@
 	father=72230
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1294.1.1={
@@ -11051,7 +11051,7 @@
 
 	father=200131
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1316.1.1={
@@ -11069,7 +11069,7 @@
 
 	father=200131
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1318.1.1={
@@ -11086,7 +11086,7 @@
 
 	father=200129
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1277.1.1={
@@ -11104,7 +11104,7 @@
 
 	father=200136
 
-	religion=orthodox
+	religion=catholic
 	culture=catalan
 
 	1300.1.1={

@@ -376,7 +376,7 @@
 	stewardship = 9
 	intrigue = 3
 	learning = 6
-	religion = orthodox
+	religion = catholic
 	culture = slovieni
 	trait="just"
 	trait="midas_touched"

@@ -6,7 +6,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=4409
@@ -78,7 +78,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="just"
 	trait="tough_soldier"
@@ -101,7 +101,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="brave"
 	trait="skilled_tactician"
@@ -124,7 +124,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="amateurish_plotter"
 	father=20357
@@ -143,7 +143,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="wroth"
 	trait="deceitful"
@@ -167,7 +167,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="kind"
 	trait="tough_soldier"
@@ -191,7 +191,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="clubfooted"
@@ -214,7 +214,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="temperate"
 	trait="flamboyant_schemer"
@@ -238,7 +238,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="underhanded_rogue"
@@ -258,7 +258,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="underhanded_rogue"
@@ -279,7 +279,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="stutter"
 	trait="tough_soldier"
@@ -301,7 +301,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="craven"
@@ -347,7 +347,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="underhanded_rogue"
 	1024.1.1 = {
@@ -369,7 +369,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="wroth"
 	trait="charismatic_negotiator"
@@ -394,7 +394,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="tough_soldier"
@@ -417,7 +417,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="detached_priest"
@@ -437,7 +437,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="charitable"
@@ -460,7 +460,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="honest"
 	trait="diligent"
@@ -482,7 +482,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="cynical"
@@ -508,7 +508,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="underhanded_rogue"
@@ -529,7 +529,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="skilled_tactician"
@@ -548,7 +548,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="wroth"
@@ -569,7 +569,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="temperate"
 	trait="scholarly_theologian"
@@ -589,7 +589,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=93654
@@ -609,7 +609,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="just"
 	trait="proud"
@@ -630,7 +630,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="amateurish_plotter"
@@ -650,7 +650,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="underhanded_rogue"
@@ -670,7 +670,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="cynical"
 	trait="temperate"
@@ -691,7 +691,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	1150.1.1 = {
@@ -710,7 +710,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="deceitful"
 	trait="proud"
@@ -732,7 +732,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="martial_cleric"
 	1150.1.1 = {
@@ -751,7 +751,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="thrifty_clerk"
 	1150.1.1 = {
@@ -769,7 +769,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="greedy"
 	trait="tough_soldier"
@@ -789,7 +789,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="zealous"
 	trait="brave"
@@ -810,7 +810,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	1150.1.1 = {
@@ -829,7 +829,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="craven"
 	trait="martial_cleric"
@@ -849,7 +849,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="flamboyant_schemer"
 	1150.1.1 = {
@@ -867,7 +867,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="humble"
@@ -889,7 +889,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="flamboyant_schemer"
 	1150.1.1 = {
@@ -907,7 +907,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="wroth"
 	trait="fortune_builder"
@@ -927,7 +927,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="greedy"
@@ -948,7 +948,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="slothful"
 	trait="gluttonous"
@@ -968,7 +968,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="greedy"
@@ -989,7 +989,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="thrifty_clerk"
 	father=219510
@@ -1029,7 +1029,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=219500
@@ -1053,7 +1053,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="wroth"
 	trait="honest"
@@ -1085,7 +1085,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="cynical"
 	trait="martial_cleric"
@@ -1107,7 +1107,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="martial_cleric"
 	father=219500
@@ -1128,7 +1128,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="temperate"
@@ -1151,7 +1151,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="kind"
 	trait="brave"
@@ -1180,7 +1180,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="craven"
 	trait="martial_cleric"
@@ -1211,7 +1211,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="deceitful"
@@ -1234,7 +1234,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="arbitrary"
 	trait="harelip"
@@ -1256,7 +1256,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="inbred"
 	trait="flamboyant_schemer"
@@ -1278,7 +1278,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="temperate"
 	trait="martial_cleric"
@@ -1300,7 +1300,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="gluttonous"
 	trait="cynical"
@@ -1323,7 +1323,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="deceitful"
 	trait="cynical"
@@ -1347,7 +1347,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="deceitful"
 	trait="cynical"
@@ -1376,7 +1376,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="envious"
 	trait="wroth"
@@ -1402,7 +1402,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="scholarly_theologian"
 	father=219531
@@ -1422,7 +1422,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="wroth"
 	trait="martial_cleric"
@@ -1442,7 +1442,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="zealous"
 	trait="humble"
@@ -1465,7 +1465,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="just"
@@ -1495,7 +1495,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="bastard"
 	trait="gregarious"
@@ -1523,7 +1523,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="thrifty_clerk"
@@ -1548,7 +1548,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="flamboyant_schemer"
 	father=470
@@ -1569,7 +1569,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="just"
@@ -1593,7 +1593,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="elusive_shadow"
 	1039.1.1 = {
@@ -1612,7 +1612,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="charismatic_negotiator"
 	1040.1.1 = {
@@ -1631,7 +1631,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="thrifty_clerk"
 	1025.1.1 = {
@@ -1651,7 +1651,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="temperate"
 	trait="thrifty_clerk"
@@ -1673,7 +1673,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="honest"
 	trait="tough_soldier"
@@ -1698,7 +1698,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="thrifty_clerk"
 	father=4371
@@ -1718,7 +1718,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="ambitious"
 	trait="mastermind_theologian"
@@ -1742,7 +1742,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="martial_cleric"
 	father=20378
@@ -1763,7 +1763,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=20378
@@ -1783,7 +1783,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="bastard"
 	father=20378
@@ -1844,7 +1844,7 @@
 	diplomacy=6
 	intrigue=3
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="cynical"
 	trait="scholarly_theologian"
@@ -1864,7 +1864,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="amateurish_plotter"
@@ -1883,7 +1883,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="slothful"
 	trait="indulgent_wastrel"
@@ -1903,7 +1903,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=20364
@@ -1923,7 +1923,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="martial_cleric"
 	father=20364
@@ -1944,7 +1944,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="humble"
@@ -1967,7 +1967,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="flamboyant_schemer"
@@ -1986,7 +1986,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="kind"
 	trait="naive_appeaser"
@@ -2008,7 +2008,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="charitable"
 	trait="thrifty_clerk"
@@ -2029,7 +2029,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="martial_cleric"
@@ -2049,7 +2049,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="wroth"
 	trait="tough_soldier"
@@ -2073,7 +2073,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="arbitrary"
 	trait="martial_cleric"
@@ -2093,7 +2093,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="grey_eminence"
 	1036.1.1 = {
@@ -2113,7 +2113,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="flamboyant_schemer"
 	father=4406
@@ -2134,7 +2134,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="envious"
 	trait="arbitrary"
@@ -2179,7 +2179,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="flamboyant_schemer"
 	trait="proud"
@@ -2203,7 +2203,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="underhanded_rogue"
@@ -2223,7 +2223,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="brave"
 	trait="tough_soldier"
@@ -2246,7 +2246,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="charismatic_negotiator"
@@ -2269,7 +2269,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="slothful"
 	trait="indulgent_wastrel"
@@ -2291,7 +2291,7 @@
 	diplomacy=4
 	intrigue=3
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="thrifty_clerk"
 	father=4410
@@ -2311,7 +2311,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="charitable"
 	trait="zealous"
@@ -2336,7 +2336,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="fortune_builder"
@@ -2357,7 +2357,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="envious"
@@ -2379,7 +2379,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="cynical"
 	trait="martial_cleric"
@@ -2398,7 +2398,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="greedy"
@@ -2423,7 +2423,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="honest"
 	trait="naive_appeaser"
@@ -2444,7 +2444,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="underhanded_rogue"
 	1018.1.1 = {
@@ -2462,7 +2462,7 @@
 	diplomacy=4
 	intrigue=3
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="wroth"
 	trait="amateurish_plotter"
@@ -2486,7 +2486,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="deceitful"
 	trait="flamboyant_schemer"
@@ -2505,7 +2505,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=4435
@@ -2527,7 +2527,7 @@
 	diplomacy=3
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="arbitrary"
 	trait="temperate"
@@ -2550,7 +2550,7 @@
 	diplomacy=9
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="detached_priest"
@@ -2572,7 +2572,7 @@
 	diplomacy=3
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="zealous"
@@ -2593,7 +2593,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="greedy"
 	trait="cynical"
@@ -2637,7 +2637,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="flamboyant_schemer"
@@ -2761,7 +2761,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="patient"
@@ -2789,7 +2789,7 @@
 	intrigue=6
 	stewardship=6
 	trait="bastard"
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470
 	1062.1.1 = {
@@ -2811,7 +2811,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="diligent"
@@ -2838,7 +2838,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="proud"
@@ -2863,7 +2863,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="charitable"
 	trait="tough_soldier"
@@ -2882,7 +2882,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="charitable"
 	trait="humble"
@@ -2902,7 +2902,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="charitable"
@@ -2930,7 +2930,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="flamboyant_schemer"
 	1299.1.2 = {
@@ -2949,7 +2949,7 @@
 	diplomacy=4
 	intrigue=2
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="brave"
 	trait="proud"
@@ -2972,7 +2972,7 @@
 	diplomacy=6
 	intrigue=3
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="zealous"
@@ -2995,7 +2995,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="deceitful"
 	trait="tough_soldier"
@@ -3017,7 +3017,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=470040
@@ -3038,7 +3038,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="thrifty_clerk"
 	father=470040
@@ -3059,7 +3059,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470040
 	mother=470042
@@ -3078,7 +3078,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=10
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="envious"
 	trait="charitable"
@@ -3098,7 +3098,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="envious"
 	trait="humble"
@@ -3120,7 +3120,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="proud"
@@ -3141,7 +3141,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="deceitful"
 	trait="tough_soldier"
@@ -3161,7 +3161,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="temperate"
 	trait="slothful"
@@ -3183,7 +3183,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="slothful"
@@ -3207,7 +3207,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="charitable"
@@ -3228,7 +3228,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="patient"
@@ -3253,7 +3253,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="harelip"
@@ -3274,7 +3274,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470062
 	mother=470063
@@ -3293,7 +3293,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470062
 	mother=470063
@@ -3313,7 +3313,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="just"
@@ -3338,7 +3338,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="just"
@@ -3366,7 +3366,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="thrifty_clerk"
@@ -3386,7 +3386,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="arbitrary"
 	trait="charitable"
@@ -3407,7 +3407,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="just"
 	trait="lustful"
@@ -3428,7 +3428,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="martial_cleric"
@@ -3450,7 +3450,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="slothful"
@@ -3476,7 +3476,7 @@
 	diplomacy=2
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="patient"
@@ -3499,7 +3499,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="just"
 	trait="gluttonous"
@@ -3520,7 +3520,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=470076
@@ -3541,7 +3541,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470076
 	mother=470078
@@ -3560,7 +3560,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	1180.1.1 = {
@@ -3578,7 +3578,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="flamboyant_schemer"
 	father=470090
@@ -3597,7 +3597,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="flamboyant_schemer"
 	father=470090
@@ -3617,7 +3617,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=470090
@@ -3637,7 +3637,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="intricate_webweaver"
 	father=93651
@@ -3656,7 +3656,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="intricate_webweaver"
 	father=470094
@@ -3675,7 +3675,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="flamboyant_schemer"
 	father=470094
@@ -3694,7 +3694,7 @@
 	diplomacy=4
 	intrigue=2
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="thrifty_clerk"
 	father=470094
@@ -3713,7 +3713,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="just"
 	trait="stutter"
@@ -3735,7 +3735,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=470095
@@ -3755,7 +3755,7 @@
 	diplomacy=2
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="harelip"
 	trait="arbitrary"
@@ -3776,7 +3776,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="charitable"
 	trait="gluttonous"
@@ -3798,7 +3798,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="gluttonous"
@@ -3819,7 +3819,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="craven"
 	trait="flamboyant_schemer"
@@ -3840,7 +3840,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="lustful"
@@ -3861,7 +3861,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="brave"
@@ -3883,7 +3883,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="just"
 	trait="charitable"
@@ -3904,7 +3904,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=470106
@@ -3923,7 +3923,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=470092
@@ -3946,7 +3946,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="detached_priest"
 	1261.1.2 = {
@@ -3964,7 +3964,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="bastard"
@@ -3986,7 +3986,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="patient"
@@ -4009,7 +4009,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="ill"
 	trait="temperate"
@@ -4034,7 +4034,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="just"
@@ -4057,7 +4057,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="brave"
@@ -4079,7 +4079,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=470113
@@ -4099,7 +4099,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470113
 	1333.1.2 = {
@@ -4117,7 +4117,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="misguided_warrior"
 	father=470093
@@ -4137,7 +4137,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="brave"
 	trait="tough_soldier"
@@ -4161,7 +4161,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="brave"
 	trait="tough_soldier"
@@ -4181,7 +4181,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="wroth"
 	trait="proud"
@@ -4203,7 +4203,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="gluttonous"
@@ -4224,7 +4224,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="just"
@@ -4247,7 +4247,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="just"
@@ -4270,7 +4270,7 @@
 	diplomacy=3
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="zealous"
 	trait="just"
@@ -4293,7 +4293,7 @@
 	diplomacy=1
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="envious"
 	trait="ill"
@@ -4315,7 +4315,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="arbitrary"
@@ -4338,7 +4338,7 @@
 	diplomacy=8
 	intrigue=2
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=470120
@@ -4357,7 +4357,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="charitable"
 	trait="gluttonous"
@@ -4377,7 +4377,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="temperate"
@@ -4397,7 +4397,7 @@
 	diplomacy=5
 	intrigue=2
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=93662
@@ -4416,7 +4416,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=470130
@@ -4435,7 +4435,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="tough_soldier"
@@ -4455,7 +4455,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="zealous"
 	trait="temperate"
@@ -4476,7 +4476,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="tough_soldier"
@@ -4496,7 +4496,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="slothful"
@@ -4517,7 +4517,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="wroth"
 	trait="proud"
@@ -4538,7 +4538,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="detached_priest"
@@ -4558,7 +4558,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="ill"
 	trait="proud"
@@ -4579,7 +4579,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="diligent"
@@ -4600,7 +4600,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="diligent"
@@ -4621,7 +4621,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="zealous"
 	trait="martial_cleric"
@@ -4641,7 +4641,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="honest"
 	trait="thrifty_clerk"
@@ -4660,7 +4660,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="tough_soldier"
@@ -4680,7 +4680,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="humble"
@@ -4705,7 +4705,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="envious"
@@ -4727,7 +4727,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="zealous"
 	trait="brave"
@@ -4754,7 +4754,7 @@
 	diplomacy=6
 	intrigue=2
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="thrifty_clerk"
@@ -4774,7 +4774,7 @@
 	diplomacy=4
 	intrigue=2
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="envious"
 	trait="tough_soldier"
@@ -4794,7 +4794,7 @@
 	diplomacy=2
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="zealous"
 	trait="greedy"
@@ -4814,7 +4814,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="envious"
@@ -4835,7 +4835,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="patient"
@@ -4861,7 +4861,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="charitable"
@@ -4882,7 +4882,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="zealous"
 	trait="chaste"
@@ -4905,7 +4905,7 @@
 	diplomacy=2
 	intrigue=2
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="brave"
 	trait="misguided_warrior"
@@ -4927,7 +4927,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="chaste"
 	trait="scholarly_theologian"
@@ -4949,7 +4949,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="zealous"
 	trait="lustful"
@@ -4973,7 +4973,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="lustful"
@@ -4996,7 +4996,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="lustful"
@@ -5017,7 +5017,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="craven"
 	trait="temperate"
@@ -5041,7 +5041,7 @@
 	diplomacy=7
 	intrigue=3
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="charitable"
 	trait="proud"
@@ -5065,7 +5065,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470192
 	mother=470187
@@ -5084,7 +5084,7 @@
 	diplomacy=4
 	intrigue=3
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="honest"
@@ -5104,7 +5104,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="martial_cleric"
 	father=93642
@@ -5124,7 +5124,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="scholarly_theologian"
@@ -5145,7 +5145,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="deceitful"
 	trait="lustful"
@@ -5168,7 +5168,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="charitable"
@@ -5190,7 +5190,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="humble"
 	trait="charitable"
@@ -5211,7 +5211,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="charitable"
@@ -5232,7 +5232,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="tough_soldier"
 	father=470203
@@ -5251,7 +5251,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="brave"
@@ -5271,7 +5271,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="brave"
@@ -5293,7 +5293,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="cynical"
 	trait="slothful"
@@ -5315,7 +5315,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="greedy"
 	trait="brave"
@@ -5337,7 +5337,7 @@
 	diplomacy=1
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="arbitrary"
@@ -5359,7 +5359,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="proud"
@@ -5382,7 +5382,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="slothful"
 	trait="proud"
@@ -5405,7 +5405,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="proud"
 	trait="charitable"
@@ -5428,7 +5428,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="patient"
 	trait="diligent"
@@ -5450,7 +5450,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="kind"
 	trait="chaste"
@@ -5478,7 +5478,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="honest"
 	trait="thrifty_clerk"
@@ -5503,7 +5503,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="diligent"
 	trait="just"
@@ -5532,7 +5532,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="gluttonous"
 	trait="elusive_shadow"
@@ -5553,7 +5553,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="cynical"
 	trait="tough_soldier"
@@ -5583,7 +5583,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="gluttonous"
 	trait="scholarly_theologian"
@@ -5605,7 +5605,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="arbitrary"
 	trait="tough_soldier"
@@ -5630,7 +5630,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="hunchback"
 	trait="scholarly_theologian"
@@ -5733,7 +5733,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="bastard"
 	trait="diligent"
@@ -5846,7 +5846,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="kind"
 	trait="wroth"
@@ -5917,7 +5917,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="envious"
@@ -5983,7 +5983,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="envious"
 	trait="impaler"
@@ -6013,7 +6013,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="slothful"
 	trait="proud"
@@ -6039,7 +6039,7 @@
 	diplomacy=1
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="ill"
 	trait="amateurish_plotter"
@@ -6063,7 +6063,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="temperate"
 	trait="brave"
@@ -6088,7 +6088,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="greedy"
 	trait="envious"
@@ -6115,7 +6115,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="lustful"
 	trait="hedonist"
@@ -6140,7 +6140,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="duelist"
 	trait="gregarious"
@@ -6166,7 +6166,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="slow"
 	trait="craven"
@@ -6189,7 +6189,7 @@
 	diplomacy=3
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="trusting"
 	trait="zealous"
@@ -6212,7 +6212,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="content"
 	trait="gregarious"
@@ -6235,7 +6235,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470
 	mother=763
@@ -6255,7 +6255,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=219531
 	mother=219532
@@ -6275,7 +6275,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=98000
 	mother=221513
@@ -6295,7 +6295,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=219510
 	mother=222573
@@ -6315,7 +6315,7 @@
 	diplomacy=2
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait = legit_bastard
 	father=219511
@@ -6337,7 +6337,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=219502
 	mother=212946
@@ -6357,7 +6357,7 @@
 	diplomacy=8
 	intrigue=2
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=219502
 	mother=212946
@@ -6377,7 +6377,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=219502
 	mother=212946
@@ -6400,7 +6400,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=219502
 	mother=212946
@@ -6424,7 +6424,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=219502
 	mother=98024
@@ -6444,7 +6444,7 @@
 	diplomacy=8
 	intrigue=2
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=474
 	mother=1399
@@ -6464,7 +6464,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="charismatic_negotiator"
 	father=219517
@@ -6483,7 +6483,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="thrifty_clerk"
 	father=219517
@@ -6503,7 +6503,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="zealous"
 	trait="mastermind_theologian"
@@ -6525,7 +6525,7 @@
 	diplomacy=6
 	intrigue=2
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="fortune_builder"
 	father=98003
@@ -6546,7 +6546,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="fortune_builder"
 	father=98003
@@ -6567,7 +6567,7 @@
 	diplomacy=8
 	intrigue=2
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="fortune_builder"
 	father=98003
@@ -6588,7 +6588,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=1
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=98003
 	mother=98033
@@ -6608,7 +6608,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=1
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="mastermind_theologian"
 	father=98003
@@ -6628,7 +6628,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	trait="mastermind_theologian"
 	father=98003
@@ -6652,7 +6652,7 @@
 	diplomacy=3
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=98004
 	mother=98042
@@ -6672,7 +6672,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=98004
 	mother=98042
@@ -6692,7 +6692,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=98004
 	mother=98042
@@ -6711,7 +6711,7 @@
 	diplomacy=2
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=98004
 	mother=98042
@@ -6731,7 +6731,7 @@
 	diplomacy=2
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=98004
 	mother=98042
@@ -6746,7 +6746,7 @@
 32637 = {
 	name="Babonjeg" 
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	1200.1.1 = {
 		birth="1200.1.1"
@@ -6759,7 +6759,7 @@
 32638 = {
 	name="Babonjeg" 
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32637
 	1230.1.1 = {
@@ -6773,7 +6773,7 @@
 32639 = {
 	name="István" #ban of Slavonia 1310-1316
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32638
 	1255.1.1 = {
@@ -6787,7 +6787,7 @@
 32640 = {
 	name="István" 
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32637
 	1232.1.1 = {
@@ -6801,7 +6801,7 @@
 32641 = {
 	name="István" #Ban of Slavonia 1278-1300
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32640
 	1255.1.1 = {
@@ -6815,7 +6815,7 @@
 32642 = {
 	name="Radoszló" 
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32640
 	1256.1.1 = {
@@ -6829,7 +6829,7 @@
 32643 = {
 	name="István" 
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32641
 	1290.1.1 = {
@@ -6843,7 +6843,7 @@
 32644 = {
 	name="László" 
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32641
 	1288.1.1 = {
@@ -6857,7 +6857,7 @@
 32645 = {
 	name="János" #ban of Slavonia 
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32638
 	1260.1.1 = {
@@ -6871,7 +6871,7 @@
 32646 = {
 	name="Ottó"
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32638
 	1262.1.1 = {
@@ -6885,7 +6885,7 @@
 32647 = {
 	name="Radoszló"
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32638
 	1264.1.1 = {
@@ -6899,7 +6899,7 @@
 32648 = {
 	name="Miklós"
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32647
 	1286.1.1 = {
@@ -6913,7 +6913,7 @@
 32649 = {
 	name="Duim"
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32647
 	1292.1.1 = {
@@ -6927,7 +6927,7 @@
 32650 = {
 	name="György"
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32639
 	1295.1.1 = {
@@ -6941,7 +6941,7 @@
 32651 = {
 	name="János"
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32639
 	1297.1.1 = {
@@ -6955,7 +6955,7 @@
 32652 = {
 	name="Dénes"
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32639
 	1300.1.1 = {
@@ -6969,7 +6969,7 @@
 32653 = {
 	name="Pál"
 	dynasty=19007
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32639
 	1305.1.1 = {
@@ -6984,7 +6984,7 @@
 	name="Katalin"
 	female=yes
 	dynasty=19007 #Blagai
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=32639
 	1305.1.1 = {
@@ -6998,7 +6998,7 @@
 93551 = {
 	name="Hont"
 	dynasty=19053
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=20369
 	1095.1.1={
@@ -7012,7 +7012,7 @@
 93552 = {
 	name="Martin"
 	dynasty=19053
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93551
 	1145.1.1={
@@ -7027,7 +7027,7 @@
 	name="Márton"
 	#placeholder
 	dynasty=101570
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=4412
 	1060.1.1={
@@ -7042,7 +7042,7 @@
 	name="Márton"
 	#placeholder
 	dynasty=101570
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93624
 	1085.1.1={
@@ -7057,7 +7057,7 @@
 	name="Miska"
 	#placeholder
 	dynasty=101570
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93625
 	1110.1.1={
@@ -7072,7 +7072,7 @@
 	name="Kupán"
 	#placeholder
 	dynasty=101570
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93626
 	1130.1.1={
@@ -7087,7 +7087,7 @@
 	name="Ottó"
 	#placeholder
 	dynasty=101568
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=4397
 	1080.1.1={
@@ -7103,7 +7103,7 @@
 	name="Tamás"
 	#placeholder
 	dynasty=101568
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93628
 	1110.1.1={
@@ -7118,7 +7118,7 @@
 	name="Ipoly"
 	#placeholder
 	dynasty=101568
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93629
 	1150.1.1={
@@ -7133,7 +7133,7 @@
 	name="Imre"
 	#placeholder
 	dynasty=101568
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93630
 	1190.1.1={
@@ -7148,7 +7148,7 @@
 	name="Miklós"
 	#placeholder
 	dynasty=101568
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93631
 	1230.1.1={
@@ -7163,7 +7163,7 @@
 	name="Bény"
 	#placeholder
 	dynasty=101568
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93632
 	1270.1.1={
@@ -7177,7 +7177,7 @@
 93634 = {
 	name="Sebes"
 	dynasty=19061
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	1180.1.1 = {
 		birth="1180.1.1"
@@ -7190,7 +7190,7 @@
 93635 = {
 	name="Ábrahám"
 	dynasty=19061
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93634
 	1200.1.1 = {
@@ -7204,7 +7204,7 @@
 93636 = {
 	name="Tamás"
 	dynasty=19061
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93635
 	1230.1.1 = {
@@ -7218,7 +7218,7 @@
 93637 = {
 	name="Tamás"
 	dynasty=19061
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470190
 	1270.1.1 = {
@@ -7233,7 +7233,7 @@
 	name="Imre"
 	# Placeholder
 	dynasty=100537
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	1112.1.1 = {
 		birth="1112.1.1"
@@ -7246,7 +7246,7 @@
 93639 = {
 	name="Miklós"
 	dynasty=19062
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	1206.1.1 = {
 		birth="1206.1.1"
@@ -7259,7 +7259,7 @@
 93640 = {
 	name="Miklós"
 	dynasty=19062
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93639
 	1230.1.1 = {
@@ -7273,7 +7273,7 @@
 93641 = {
 	name="István"
 	dynasty=19062
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93639
 	1235.1.1 = {
@@ -7287,7 +7287,7 @@
 93642 = {
 	name="András"
 	dynasty=19062
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93639
 	1240.1.1 = {
@@ -7301,7 +7301,7 @@
 93643 = {
 	name="György"
 	dynasty=19062
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93642
 	1260.1.1 = {
@@ -7315,7 +7315,7 @@
 93644 = {
 	name="Benedek"
 	dynasty=19062
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93642
 	1265.1.1 = {
@@ -7330,7 +7330,7 @@
 	name="Benedek"
 	# placeholder
 	dynasty=101563
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=4358
 	1070.1.1 = {
@@ -7345,7 +7345,7 @@
 	name="György"
 	# placeholder
 	dynasty=101563
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93645
 	1110.1.1 = {
@@ -7360,7 +7360,7 @@
 	name="Belenik"
 	# placeholder
 	dynasty=101563
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93646
 	1150.1.1 = {
@@ -7375,7 +7375,7 @@
 	name="Imre"
 	# placeholder
 	dynasty=101563
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93647
 	1190.1.1 = {
@@ -7390,7 +7390,7 @@
 	name="Lampert"
 	# placeholder
 	dynasty=101563
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93647
 	1200.1.1 = {
@@ -7404,7 +7404,7 @@
 93650 = {
 	name="János"
 	dynasty=19059
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470101
 	1326.1.1 = {
@@ -7418,7 +7418,7 @@
 93651 = {
 	name="Beled"
 	dynasty=19058
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470090
 	1210.1.1 = {
@@ -7433,7 +7433,7 @@
 	name="Kálmán"
 	# placeholder
 	dynasty=100450
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	1077.1.1 = {
 		birth="1077.1.1"
@@ -7447,7 +7447,7 @@
 	name="Dávid"
 	# placeholder
 	dynasty=100450
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93652
 	1110.1.1 = {
@@ -7462,7 +7462,7 @@
 	name="László"
 	# placeholder
 	dynasty=100450
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93653
 	1130.1.1 = {
@@ -7476,7 +7476,7 @@
 93655 = {
 	name="Elek" #real name unknown
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=4386
 	1070.1.1 = {
@@ -7490,7 +7490,7 @@
 93656 = {
 	name="Imre" #real name unknown
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93655
 	1100.1.1 = {
@@ -7504,7 +7504,7 @@
 93657 = {
 	name="Fülöp" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93656
 	1130.1.1 = {
@@ -7518,7 +7518,7 @@
 93658 = {
 	name="Benedek" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93656
 	1135.1.1 = {
@@ -7532,7 +7532,7 @@
 93659 = {
 	name="Bogyoszló" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93656
 	1140.1.1 = {
@@ -7546,7 +7546,7 @@
 93660 = {
 	name="Kelemen" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93658
 	1160.1.1 = {
@@ -7560,7 +7560,7 @@
 93661 = {
 	name="Waffa" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93658
 	1163.1.1 = {
@@ -7574,7 +7574,7 @@
 93662 = {
 	name="Pongrácz"
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93660
 	1185.1.1 = {
@@ -7588,7 +7588,7 @@
 93663 = {
 	name="Izsák"
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93660
 	1187.1.1 = {
@@ -7602,7 +7602,7 @@
 93664 = {
 	name="Elek"
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93660
 	1189.1.1 = {
@@ -7616,7 +7616,7 @@
 93665 = {
 	name="Csömör"
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93660
 	1191.1.1 = {
@@ -7630,7 +7630,7 @@
 93666 = {
 	name="László"
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93662
 	1235.1.1 = {
@@ -7644,7 +7644,7 @@
 93667 = {
 	name="Makó"
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93663
 	1217.1.1 = {
@@ -7658,7 +7658,7 @@
 93668 = {
 	name="Csanád" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93661
 	1193.1.1 = {
@@ -7672,7 +7672,7 @@
 93669 = {
 	name="Dénes" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93668
 	1223.1.1 = {
@@ -7686,7 +7686,7 @@
 93670 = {
 	name="Gergely" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93668
 	1228.1.1 = {
@@ -7700,7 +7700,7 @@
 93671 = {
 	name="István" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93669
 	1253.1.1 = {
@@ -7714,7 +7714,7 @@
 93672 = {
 	name="Pál" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93669
 	1260.1.1 = {
@@ -7728,7 +7728,7 @@
 93673 = {
 	name="Dénes" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93669
 	1265.1.1 = {
@@ -7742,7 +7742,7 @@
 93674 = {
 	name="Pál" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93671
 	1290.1.1 = {
@@ -7756,7 +7756,7 @@
 93675 = {
 	name="Péter" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93671
 	1292.1.1 = {
@@ -7770,7 +7770,7 @@
 93676 = {
 	name="Dénes" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93674
 	1323.1.1 = {
@@ -7784,7 +7784,7 @@
 93677 = {
 	name="Pál" 
 	dynasty=101566
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93674
 	1325.1.1 = {
@@ -7798,7 +7798,7 @@
 93678 = {
 	name="Szabolcs" #real name unknown
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	mother=4436
 	1090.1.1 = {
@@ -7812,7 +7812,7 @@
 93679 = {
 	name="István" #real name unknown
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93678
 	1130.1.1 = {
@@ -7826,7 +7826,7 @@
 93680 = {
 	name="Máté" #real name unknown
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93679
 	1150.1.1 = {
@@ -7840,7 +7840,7 @@
 93681 = {
 	name="Ugrin" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93680
 	1170.1.1 = {
@@ -7854,7 +7854,7 @@
 93682 = {
 	name="Miklós" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93680
 	1180.1.1 = {
@@ -7868,7 +7868,7 @@
 93683 = {
 	name="Máté" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93680
 	1185.1.1 = {
@@ -7882,7 +7882,7 @@
 93684 = {
 	name="Izsák" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93682
 	1196.1.1 = {
@@ -7896,7 +7896,7 @@
 93685 = {
 	name="Lörinc" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93682
 	1210.1.1 = {
@@ -7910,7 +7910,7 @@
 93686 = {
 	name="Lörinc" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93685
 	1240.1.1 = {
@@ -7924,7 +7924,7 @@
 93687 = {
 	name="János" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93686
 	1270.1.1 = {
@@ -7938,7 +7938,7 @@
 93688 = {
 	name="János" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93682
 	1215.1.1 = {
@@ -7952,7 +7952,7 @@
 93689 = {
 	name="Domokos" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93688
 	1245.1.1 = {
@@ -7966,7 +7966,7 @@
 93690 = {
 	name="Ugrin" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93688
 	1247.1.1 = {
@@ -7980,7 +7980,7 @@
 93691 = {
 	name="János" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93688
 	1250.1.1 = {
@@ -7994,7 +7994,7 @@
 93692 = {
 	name="Egyed" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93689
 	1265.1.1 = {
@@ -8008,7 +8008,7 @@
 93693 = {
 	name="János" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93689
 	1270.1.1 = {
@@ -8022,7 +8022,7 @@
 93694 = {
 	name="Pál" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93690
 	1277.1.1 = {
@@ -8036,7 +8036,7 @@
 93695 = {
 	name="István" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93694
 	1300.1.1 = {
@@ -8050,7 +8050,7 @@
 93696 = {
 	name="Miklós" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93694
 	1302.1.1 = {
@@ -8064,7 +8064,7 @@
 93697 = {
 	name="János" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93694
 	1304.1.1 = {
@@ -8078,7 +8078,7 @@
 93698 = {
 	name="Péter" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93697
 	1334.1.1 = {
@@ -8092,7 +8092,7 @@
 93699 = {
 	name="Márk" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93683
 	1205.1.1 = {
@@ -8106,7 +8106,7 @@
 93700 = {
 	name="István" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93683
 	1210.1.1 = {
@@ -8120,7 +8120,7 @@
 93701 = {
 	name="Máté" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93683
 	1215.1.1 = {
@@ -8134,7 +8134,7 @@
 93702 = {
 	name="István" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93699
 	1235.1.1 = {
@@ -8148,7 +8148,7 @@
 93703 = {
 	name="Péter" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93699
 	1240.1.1 = {
@@ -8162,7 +8162,7 @@
 93704 = {
 	name="Péter" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93702
 	1265.1.1 = {
@@ -8176,7 +8176,7 @@
 93705 = {
 	name="Márk" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93702
 	1267.1.1 = {
@@ -8190,7 +8190,7 @@
 93706 = {
 	name="István" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93702
 	1269.1.1 = {
@@ -8204,7 +8204,7 @@
 93707 = {
 	name="Domokos" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93704
 	1295.1.1 = {
@@ -8218,7 +8218,7 @@
 93708 = {
 	name="László" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93704
 	1297.1.1 = {
@@ -8232,7 +8232,7 @@
 93709 = {
 	name="Péter" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93704
 	1299.1.1 = {
@@ -8246,7 +8246,7 @@
 93710 = {
 	name="László" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93707
 	1325.1.1 = {
@@ -8260,7 +8260,7 @@
 93711 = {
 	name="Máté" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470163
 	1252.1.1 = {
@@ -8274,7 +8274,7 @@
 93712 = {
 	name="Máté" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93711
 	1280.1.1 = {
@@ -8288,7 +8288,7 @@
 93713 = {
 	name="Máté" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93712
 	1315.1.1 = {
@@ -8302,7 +8302,7 @@
 93714 = {
 	name="Jakab" 
 	dynasty=19010
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93712
 	1318.1.1 = {
@@ -8316,7 +8316,7 @@
 93715 = {
 	name="Synk"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	1150.1.1 = {
 		birth="1150.1.1"
@@ -8329,7 +8329,7 @@
 93716 = {
 	name="Detre"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93715
 	1180.1.1 = {
@@ -8343,7 +8343,7 @@
 93717 = {
 	name="Mikó"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93716
 	1198.1.1 = {
@@ -8357,7 +8357,7 @@
 93718 = {
 	name="Miklós"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93716
 	1200.1.1 = {
@@ -8371,7 +8371,7 @@
 93719 = {
 	name="Detre"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93716
 	1202.1.1 = {
@@ -8385,7 +8385,7 @@
 93720 = {
 	name="Biter"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93717
 	1230.1.1 = {
@@ -8399,7 +8399,7 @@
 93721 = {
 	name="János"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93717
 	1250.1.1 = {
@@ -8413,7 +8413,7 @@
 93722 = {
 	name="Miklós"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93717
 	1260.1.1 = {
@@ -8427,7 +8427,7 @@
 93723 = {
 	name="Péter"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93717
 	1265.1.1 = {
@@ -8441,7 +8441,7 @@
 93724 = {
 	name="Mihály"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93717
 	1270.1.1 = {
@@ -8455,7 +8455,7 @@
 93725 = {
 	name="György"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93722
 	1280.1.1 = {
@@ -8469,7 +8469,7 @@
 93726 = {
 	name="Miklós"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93723
 	1295.1.1 = {
@@ -8483,7 +8483,7 @@
 93727 = {
 	name="János"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93723
 	1300.1.1 = {
@@ -8497,7 +8497,7 @@
 93728 = {
 	name="György"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93723
 	1305.1.1 = {
@@ -8513,7 +8513,7 @@
 	name="Anics"
 	female=yes
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93723
 	1306.1.1 = {
@@ -8527,7 +8527,7 @@
 93730 = {
 	name="László"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93726
 	1320.1.1 = {
@@ -8541,7 +8541,7 @@
 93731 = {
 	name="Balász"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93726
 	1325.1.1 = {
@@ -8555,7 +8555,7 @@
 93732 = {
 	name="János"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93726
 	1330.1.1 = {
@@ -8569,7 +8569,7 @@
 93733 = {
 	name="Mikó"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93726
 	1335.1.1 = {
@@ -8583,7 +8583,7 @@
 93734 = {
 	name="Péter"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93718
 	1230.1.1 = {
@@ -8597,7 +8597,7 @@
 93735 = {
 	name="Demeter"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93718
 	1232.1.1 = {
@@ -8611,7 +8611,7 @@
 93736 = {
 	name="János"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93734
 	1255.1.1 = {
@@ -8625,7 +8625,7 @@
 93737 = {
 	name="Doncs"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93734
 	1256.1.1 = {
@@ -8639,7 +8639,7 @@
 93738 = {
 	name="Detrik"
 	dynasty=19060
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93734
 	1257.1.1 = {
@@ -8654,7 +8654,7 @@
 	name="Klára"
 	female=yes
 	dynasty=12002
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93741
 	1308.1.1 = {
@@ -8668,7 +8668,7 @@
 93748 = {
 	name="János"
 	dynasty=12002
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93745
 	1328.1.1 = {
@@ -8682,7 +8682,7 @@
 93749 = {
 	name="László"
 	dynasty=12002
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93745
 	1330.1.1 = {
@@ -8696,7 +8696,7 @@
 93750 = {
 	name="Sebestyen"
 	dynasty=12002
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93746
 	1330.1.1 = {
@@ -8710,7 +8710,7 @@
 93751 = {
 	name="Gyula"
 	dynasty=7378
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	1175.1.1 = {
 		birth="1175.1.1"
@@ -8723,7 +8723,7 @@
 93752 = {
 	name="László"
 	dynasty=7378
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93751
 	1205.1.1 = {
@@ -8737,7 +8737,7 @@
 93753 = {
 	name="Gyula"
 	dynasty=7378
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93751
 	1200.1.1 = {
@@ -8751,7 +8751,7 @@
 93754 = {
 	name="László"
 	dynasty=7378
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93752
 	1250.1.1 = {
@@ -8765,7 +8765,7 @@
 93755 = {
 	name="Móricz"
 	dynasty=19057
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93756
 	1230.1.1 = {
@@ -8779,7 +8779,7 @@
 93756 = {
 	name="Móricz"
 	dynasty=19057
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	1200.1.1 = {
 		birth="1200.1.1"
@@ -8793,7 +8793,7 @@
 	name="Sámuel"
 	# placeholder
 	dynasty=19000
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=20376
 	1085.1.1 = {
@@ -8808,7 +8808,7 @@
 	name="János"
 	# placeholder
 	dynasty=19000
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93757
 	1115.1.1 = {
@@ -8823,7 +8823,7 @@
 	name="Domoszló"
 	# placeholder
 	dynasty=19000
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93758
 	1150.1.1 = {
@@ -8838,7 +8838,7 @@
 	name="Géza"
 	# placeholder
 	dynasty=19000
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93759
 	1180.1.1 = {
@@ -8852,7 +8852,7 @@
 93761 = {
 	name="Dávid"
 	dynasty=19000
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93760
 	1200.1.1 = {
@@ -8866,7 +8866,7 @@
 93762 = {
 	name="Amadé"
 	dynasty=19000
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93761
 	1240.1.1 = {
@@ -8880,7 +8880,7 @@
 93763 = {
 	name="Fintá"
 	dynasty=19000
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93761
 	1245.1.1 = {
@@ -8894,7 +8894,7 @@
 93765 = {
 	name="Hencz"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93764
 	1140.1.1 = {
@@ -8908,7 +8908,7 @@
 93766 = {
 	name="Mihály"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93765
 	1165.1.1 = {
@@ -8922,7 +8922,7 @@
 93767 = {
 	name="Henrik"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93765
 	1175.1.1 = {
@@ -8936,7 +8936,7 @@
 93768 = {
 	name="Henrik"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93767
 	1210.1.1 = {
@@ -8950,7 +8950,7 @@
 93769 = {
 	name="Miklós"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93768
 	1240.1.1 = {
@@ -8964,7 +8964,7 @@
 93770 = {
 	name="János"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93768
 	1245.1.1 = {
@@ -8978,7 +8978,7 @@
 93771 = {
 	name="Péter"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93768
 	1250.1.1 = {
@@ -8992,7 +8992,7 @@
 93772 = {
 	name="Miklós"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93769
 	1275.1.1 = {
@@ -9006,7 +9006,7 @@
 93773 = {
 	name="János"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93769
 	1280.1.1 = {
@@ -9020,7 +9020,7 @@
 93774 = {
 	name="János"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93772
 	1300.1.1 = {
@@ -9034,7 +9034,7 @@
 93775 = {
 	name="László"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93772
 	1302.1.1 = {
@@ -9048,7 +9048,7 @@
 93776 = {
 	name="Henrik"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93772
 	1310.1.1 = {
@@ -9062,7 +9062,7 @@
 93777 = {
 	name="Miklós"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93776
 	1330.1.1 = {
@@ -9076,7 +9076,7 @@
 93778 = {
 	name="András"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93776
 	1335.1.1 = {
@@ -9090,7 +9090,7 @@
 93779 = {
 	name="János"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470150
 	1295.1.1 = {
@@ -9104,7 +9104,7 @@
 93780 = {
 	name="Miklós"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93779
 	1315.1.1 = {
@@ -9118,7 +9118,7 @@
 93781 = {
 	name="Péter"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93779
 	1317.1.1 = {
@@ -9132,7 +9132,7 @@
 93782 = {
 	name="Henrik"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93779
 	1319.1.1 = {
@@ -9146,7 +9146,7 @@
 93783 = {
 	name="Miklós"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470150
 	1302.1.1 = {
@@ -9160,7 +9160,7 @@
 93784 = {
 	name="Péter"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=470151
 	mother=470152
@@ -9175,7 +9175,7 @@
 93785 = {
 	name="Gergely"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93770
 	1265.1.1 = {
@@ -9189,7 +9189,7 @@
 93786 = {
 	name="János"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93770
 	1270.1.1 = {
@@ -9203,7 +9203,7 @@
 93787 = {
 	name="Miklós"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93785
 	1285.1.1 = {
@@ -9217,7 +9217,7 @@
 93788 = {
 	name="András"
 	dynasty=19032
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93785
 	1290.1.1 = {
@@ -9231,7 +9231,7 @@
 93789 = {
 	name="Tamás" #real name unknown
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	1190.1.1 = {
 		birth="1190.1.1"
@@ -9244,7 +9244,7 @@
 93790 = {
 	name="Barnabás"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93789
 	1210.1.1 = {
@@ -9258,7 +9258,7 @@
 93791 = {
 	name="György"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93789
 	1215.1.1 = {
@@ -9272,7 +9272,7 @@
 93792 = {
 	name="Tamás"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93790
 	1230.1.1 = {
@@ -9286,7 +9286,7 @@
 93793 = {
 	name="János"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93790
 	1232.1.1 = {
@@ -9300,7 +9300,7 @@
 93794 = {
 	name="Loránd"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93792
 	1250.1.1 = {
@@ -9314,7 +9314,7 @@
 93795 = {
 	name="István"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93792
 	1255.1.1 = {
@@ -9328,7 +9328,7 @@
 93796 = {
 	name="Jakab"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93792
 	1260.1.1 = {
@@ -9342,7 +9342,7 @@
 93797 = {
 	name="László"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93792
 	1262.1.1 = {
@@ -9356,7 +9356,7 @@
 93798 = {
 	name="Beke"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93792
 	1264.1.1 = {
@@ -9370,7 +9370,7 @@
 93799 = {
 	name="János"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93792
 	1266.1.1 = {
@@ -9384,7 +9384,7 @@
 93800 = {
 	name="István"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93794
 	1275.1.1 = {
@@ -9398,7 +9398,7 @@
 93801 = {
 	name="János"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93794
 	1280.1.1 = {
@@ -9412,7 +9412,7 @@
 93802 = {
 	name="László"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93794
 	1285.1.1 = {
@@ -9426,7 +9426,7 @@
 93803 = {
 	name="István"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93795
 	1280.1.1 = {
@@ -9440,7 +9440,7 @@
 93804 = {
 	name="István"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93795
 	1280.1.1 = {
@@ -9454,7 +9454,7 @@
 93805 = {
 	name="Bekcs"
 	dynasty=19009
-	religion="orthodox"
+	religion="catholic"
 	culture="hungarian"
 	father=93796
 	1285.1.1 = {

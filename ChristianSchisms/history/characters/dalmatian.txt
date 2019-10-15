@@ -69,7 +69,7 @@
 260396 = {
 	name = "Maroe"
 	dynasty = 1062128
-	religion = orthodox
+	religion = catholic
 	culture = dalmatian
 	1041.1.1 = {
 		birth = yes
@@ -80,7 +80,7 @@
 }
 260397 = {
 	name = "Gervasius"
-	religion = orthodox
+	religion = catholic
 	culture = dalmatian
 	dynasty = 1062085
 	1082.1.1 = {
@@ -92,7 +92,7 @@
 }
 260398 = {
 	name = "Jugno"
-	religion = orthodox
+	religion = catholic
 	culture = dalmatian
 	dynasty = 1062086
 	1138.1.1 = {

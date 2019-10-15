@@ -4,7 +4,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="wroth"
 	trait="greedy"
@@ -26,7 +26,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="deceitful"
 	trait="kind"
@@ -46,7 +46,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="humble"
 	trait="zealous"
@@ -66,7 +66,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="arbitrary"
 	trait="flamboyant_schemer"
@@ -85,7 +85,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="tough_soldier"
 	1034.1.1={
@@ -103,7 +103,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="deceitful"
 	trait="kind"
@@ -120,7 +120,7 @@
 221510 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221515
 	mother=221519
@@ -136,7 +136,7 @@
 	name="Ryksa"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221515
 	mother=221519
@@ -152,7 +152,7 @@
 	name="Dobroniega"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221515
 	mother=221519
@@ -168,7 +168,7 @@
 	name="Judyta"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221515
 	mother=221519
@@ -184,7 +184,7 @@
 	name="Agnieszka"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221515
 	mother=221519
@@ -203,7 +203,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="ambitious"
 	father=764
@@ -229,7 +229,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221515
 	mother=221519
@@ -252,7 +252,7 @@
 	name="Maria"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221520
 	mother=221521
@@ -267,7 +267,7 @@
 221524 = {
 	name="Leszek"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221520
 	mother=221521
@@ -285,7 +285,7 @@
 221525 = {
 	name="Konrad"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221520
 	mother=221521
@@ -304,7 +304,7 @@
 	name="Richeza"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221531
 	mother=212545
@@ -319,7 +319,7 @@
 221530 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	#give_nickname="nick_the_tall"
 	father=221531
@@ -341,7 +341,7 @@
 221531 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221515
 	mother=222781
@@ -366,7 +366,7 @@
 221532 = {
 	name="Jaroslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="martial_cleric"
 	father=221530
@@ -383,7 +383,7 @@
 	name="Olga"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221530
 	mother=125068
@@ -398,7 +398,7 @@
 221534 = {
 	name="Konrad"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221530
 	mother=221541
@@ -413,7 +413,7 @@
 221535 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221530
 	mother=221541
@@ -428,7 +428,7 @@
 221536 = {
 	name="Jan"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221530
 	mother=221541
@@ -443,7 +443,7 @@
 221537 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221530
 	mother=221541
@@ -461,7 +461,7 @@
 221538 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221530
 	mother=221541
@@ -477,7 +477,7 @@
 	name="Berta"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221530
 	mother=221541
@@ -493,7 +493,7 @@
 	name="Adelajda"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221530
 	mother=221541
@@ -508,7 +508,7 @@
 221550 = {
 	name="Mieszko"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221531
 	mother=212545
@@ -526,7 +526,7 @@
 221555 = {
 	name="Kazimierz"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221550
 	mother=221551
@@ -541,7 +541,7 @@
 221560 = {
 	name="Mieszko"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221515
 	mother=221519
@@ -565,7 +565,7 @@
 221561 = {
 	name="Odon"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221560
 	mother=219505
@@ -584,7 +584,7 @@
 	name="Wierzchoslawa"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221560
 	mother=219505
@@ -600,7 +600,7 @@
 	name="Elzbieta"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221560
 	mother=219505
@@ -616,7 +616,7 @@
 	name="Judyta"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221560
 	mother=219505
@@ -631,7 +631,7 @@
 221565 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221560
 	mother=222826
@@ -646,7 +646,7 @@
 221566 = {
 	name="Mieszko"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221560
 	mother=222826
@@ -662,7 +662,7 @@
 	name="Zwinislawa"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221560
 	mother=222826
@@ -678,7 +678,7 @@
 	name="Anastazja"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221560
 	mother=222826
@@ -694,7 +694,7 @@
 	name="Salomea"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221560
 	mother=222826
@@ -709,7 +709,7 @@
 221570 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221560
 	mother=222826
@@ -731,7 +731,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="fortune_builder"
 	father=221760
@@ -751,7 +751,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="harelip"
 	trait="martial_cleric"
@@ -771,7 +771,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="greedy"
 	trait="humble"
@@ -797,7 +797,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="patient"
 	trait="deceitful"
@@ -822,7 +822,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="just"
 	trait="underhanded_rogue"
@@ -838,7 +838,7 @@
 	name="Swietopelk" #Swietopelk I
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=221750
@@ -854,7 +854,7 @@
 	name="Swietopelk" #Swietopelk II
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=221755
@@ -872,7 +872,7 @@
 	name="Wartislaw" #Wartislaw I
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=221755
@@ -890,7 +890,7 @@
 	name="Sambor" #Sambor II
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=221755
@@ -911,7 +911,7 @@
 	name="Ratibor"
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=221755
@@ -930,7 +930,7 @@
 	female=yes
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=221755
@@ -949,7 +949,7 @@
 	female=yes
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=221755
@@ -968,7 +968,7 @@
 	female=yes
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=221755
@@ -986,7 +986,7 @@
 	name="Mszczuj" #Mszczuj II
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=30451
@@ -1008,7 +1008,7 @@
 	name="Wartislaw" #Wartislaw II
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=30451
@@ -1026,7 +1026,7 @@
 	name="Jan"
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=30451
@@ -1045,7 +1045,7 @@
 	female=yes
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=30451
@@ -1064,7 +1064,7 @@
 	female=yes
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=30458
@@ -1082,7 +1082,7 @@
 	name="Subislaw"
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=30453
@@ -1101,7 +1101,7 @@
 	female=yes
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=30453
@@ -1121,7 +1121,7 @@
 	female=yes
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=30453
@@ -1140,7 +1140,7 @@
 	female=yes
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=30453
@@ -1159,7 +1159,7 @@
 	female=yes
 	dynasty=175
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	
 	father=30453
@@ -1182,7 +1182,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="charitable"
 	trait="amateurish_plotter"
@@ -1205,7 +1205,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="proud"
 	trait="temperate"
@@ -1227,7 +1227,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="genius"
 	trait="midas_touched"
@@ -1249,7 +1249,7 @@
 	name="Elzbieta"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471510
 	mother=471555
@@ -1265,7 +1265,7 @@
 	name="Kunegunda"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471510
 	mother=471555
@@ -1281,7 +1281,7 @@
 	name="Elzbieta"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471500
 	mother=471503
@@ -1297,7 +1297,7 @@
 	name="Kunegunda"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471500
 	mother=471503
@@ -1316,7 +1316,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="ambitious"
 	trait="charismatic_negotiator"
@@ -1336,7 +1336,7 @@
 471515 = {
 	name="Trojden"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125990
 	mother=125313
@@ -1358,7 +1358,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="chaste"
 	trait="skilled_tactician"
@@ -1379,7 +1379,7 @@
 	name="Eufemia"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471515
 	mother=471516
@@ -1394,7 +1394,7 @@
 471520 = {
 	name="Kazimierz"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 221525
 	mother=125073
@@ -1418,7 +1418,7 @@
 471521 = {
 	name="Kazimierz"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471515
 	mother=471516
@@ -1433,7 +1433,7 @@
 471530 = {
 	name="Siemomysl"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471520
 	mother=125907
@@ -1451,7 +1451,7 @@
 471533 = {
 	name="Przemyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471530
 	mother=30469
@@ -1466,7 +1466,7 @@
 471534 = {
 	name="Leszek"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471530
 	mother=30469
@@ -1481,7 +1481,7 @@
 471535 = {
 	name="Kazimierz"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471530
 	mother=30469
@@ -1496,7 +1496,7 @@
 471536 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471535
 	1327.1.2={
@@ -1514,7 +1514,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="proud"
 	trait="thrifty_clerk"
@@ -1530,7 +1530,7 @@
 	name="Elzbieta"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471535
 	1308.1.2={
@@ -1545,7 +1545,7 @@
 	name="Eufrozyna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221555
 	1228.1.2={
@@ -1559,7 +1559,7 @@
 471550 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	give_nickname="nick_the_pious"
 	father=7689
@@ -1579,7 +1579,7 @@
 	name="Jadwiga"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471550
 	mother=98038
@@ -1598,7 +1598,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="tough_soldier"
 	father=471570
@@ -1620,7 +1620,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="chaste"
 	trait="patient"
@@ -1642,7 +1642,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="lustful"
 	trait="tough_soldier"
@@ -1661,7 +1661,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="diligent"
 	trait="arbitrary"
@@ -1683,7 +1683,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="amateurish_plotter"
 	1261.1.2={
@@ -1701,7 +1701,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="honest"
 	trait="proud"
@@ -1721,7 +1721,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="envious"
 	trait="craven"
@@ -1742,7 +1742,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="diligent"
 	trait="skilled_tactician"
@@ -1763,7 +1763,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="proud"
 	trait="cynical"
@@ -1780,7 +1780,7 @@
 471652 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125905
 	mother=96042
@@ -1805,7 +1805,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="lustful"
 	trait="proud"
@@ -1822,7 +1822,7 @@
 471700 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="tough_soldier"
 	father=471710
@@ -1838,7 +1838,7 @@
 471710 = {
 	name="Bernard"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471735
 	mother=33740
@@ -1856,7 +1856,7 @@
 471720 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471722
 	mother=471723
@@ -1875,7 +1875,7 @@
 	name="Elzbieta"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471710
 	mother=471502
@@ -1890,7 +1890,7 @@
 471722 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471724
 	mother=125980
@@ -1908,7 +1908,7 @@
 471723 = {
 	name="Grzymislawa"
 	female = yes
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1260.1.2={
 		birth="1260.1.2"
@@ -1921,7 +1921,7 @@
 471724 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221555
 	1225.1.2={
@@ -1938,7 +1938,7 @@
 471725 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471720
 	mother=471721
@@ -1953,7 +1953,7 @@
 471726 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471720
 	mother=471721
@@ -1969,7 +1969,7 @@
 	name="Euphemia"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471732
 	mother=471733
@@ -1984,7 +1984,7 @@
 471730 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="charitable"
 	father=471732
@@ -2006,7 +2006,7 @@
 471732 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471734
 	mother=125997
@@ -2033,7 +2033,7 @@
 	name="Elzbieta"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471550
 	mother=98038
@@ -2048,7 +2048,7 @@
 471734 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125905
 	mother=96042
@@ -2069,7 +2069,7 @@
 471735 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="just"
 	trait="envious"
@@ -2090,7 +2090,7 @@
 471736 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471732
 	mother=471733
@@ -2111,7 +2111,7 @@
 471737 = {
 	name="Waclaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471730
 	mother=96061
@@ -2126,7 +2126,7 @@
 471738 = {
 	name="Ludwik"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="just"
 	father=471730
@@ -2143,7 +2143,7 @@
 	name="Katarzyna"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471730
 	mother=96061
@@ -2158,7 +2158,7 @@
 471740 = {
 	name="Kazimierz"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471741
 	1280.1.2={
@@ -2175,7 +2175,7 @@
 471741 = {
 	name="Mieszko"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471724
 	mother=125980
@@ -2190,7 +2190,7 @@
 471742 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471740
 	mother=471519
@@ -2205,7 +2205,7 @@
 471743 = {
 	name="Przemyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471740
 	mother=471519
@@ -2220,7 +2220,7 @@
 472900 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471515
 	mother=471516
@@ -2243,7 +2243,7 @@
 	name="Eudoxia"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 221525
 	mother=125073
@@ -2422,7 +2422,7 @@
 760 = {
 	name="Kazimierz"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	give_nickname="nick_the_restorer"
 	father=758
@@ -2442,7 +2442,7 @@
 	name="Gertruda"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=758
 	mother=427
@@ -2464,7 +2464,7 @@
 	intrigue=7
 	stewardship=8
 	learning=7
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="strong"
 	trait="diligent"
@@ -2512,7 +2512,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="infirm"
 	trait="greedy"
@@ -2540,7 +2540,7 @@
 	name="Swietoslawa"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=760
 	mother=13501
@@ -2574,7 +2574,7 @@
 	diplomacy=5
 	intrigue=10
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="flamboyant_schemer"
 	1044.1.2={
@@ -2588,7 +2588,7 @@
 7689 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221561
 	mother=222509
@@ -2603,7 +2603,7 @@
 7690 = {
 	name="Przemyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=7689
 	1220.6.5={
@@ -2621,7 +2621,7 @@
 	name="Konstancja"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=7690
 	mother=125927
@@ -2640,7 +2640,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="scholarly_theologian"
 	1020.1.2={
@@ -2655,7 +2655,7 @@
 	name="Adelajda"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=764
 	mother=1476
@@ -2670,7 +2670,7 @@
 125901 = {
 	name="Mieszko"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=762
 	mother=161257
@@ -2689,7 +2689,7 @@
 	name="Zofia"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=764
 	mother=1476
@@ -2704,7 +2704,7 @@
 125903 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221537
 	mother=212943
@@ -2719,7 +2719,7 @@
 125904 = {
 	name="Konrad"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221537
 	mother=212943
@@ -2734,7 +2734,7 @@
 125905 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221537
 	mother=212943
@@ -2757,7 +2757,7 @@
 	name="Gertruda"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125905
 	mother=96042
@@ -2773,7 +2773,7 @@
 	name="Konstancja"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125905
 	mother=96042
@@ -2788,7 +2788,7 @@
 125908 = {
 	name="Mieszko"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125905
 	mother=96042
@@ -2803,7 +2803,7 @@
 125909 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="honest"
 	father=471652
@@ -2828,7 +2828,7 @@
 125910 = {
 	name="Konrad"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125905
 	mother=96042
@@ -2850,7 +2850,7 @@
 	name="Anna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125910
 	mother=125979
@@ -2865,7 +2865,7 @@
 125912 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125910
 	mother=125979
@@ -2883,7 +2883,7 @@
 125913 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125912
 	mother=125998
@@ -2902,7 +2902,7 @@
 	name="Jadwiga"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="scholarly_theologian"
 	father=125913
@@ -2918,7 +2918,7 @@
 125915 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	give_nickname="nick_the_ironside"
 	father=125913
@@ -2935,7 +2935,7 @@
 	name="Salomea"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125913
 	mother=33746
@@ -2951,7 +2951,7 @@
 	name="Agnieszka"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125913
 	mother=33746
@@ -2966,7 +2966,7 @@
 125918 = {
 	name="Konrad"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125912
 	mother=125998
@@ -2987,7 +2987,7 @@
 125919 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125912
 	mother=125998
@@ -3003,7 +3003,7 @@
 	name="Agnieszka"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125912
 	mother=125998
@@ -3018,7 +3018,7 @@
 125921 = {
 	name="Jan"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125912
 	mother=125998
@@ -3037,7 +3037,7 @@
 	name="Katarzyna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125912
 	mother=125998
@@ -3052,7 +3052,7 @@
 125923 = {
 	name="Przemyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125912
 	mother=125998
@@ -3070,7 +3070,7 @@
 125924 = {
 	name="Konrad"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="scholarly_theologian"
 	father=125910
@@ -3087,7 +3087,7 @@
 	name="Eufemia"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125910
 	mother=125979
@@ -3102,7 +3102,7 @@
 125926 = {
 	name="Przemyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125910
 	mother=125979
@@ -3118,7 +3118,7 @@
 	name="Elzbieta"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125905
 	mother=96042
@@ -3133,7 +3133,7 @@
 125928 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="scholarly_theologian"
 	father=125905
@@ -3150,7 +3150,7 @@
 	name="Agnieszka"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471734
 	mother=125997
@@ -3166,7 +3166,7 @@
 	name="Hedwig"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471732
 	mother=471733
@@ -3181,7 +3181,7 @@
 125931 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="charitable"
 	trait="just"
@@ -3205,7 +3205,7 @@
 	name="Elzbieta"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125931
 	mother=125999
@@ -3221,7 +3221,7 @@
 	name="Eufemia"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125931
 	mother=125999
@@ -3237,7 +3237,7 @@
 	name="Jadwiga"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471734
 	mother=125997
@@ -3253,7 +3253,7 @@
 	name="Judyta"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471735
 	mother=33740
@@ -3269,7 +3269,7 @@
 	name="Anna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471735
 	mother=33740
@@ -3285,7 +3285,7 @@
 	name="Konstancja"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471710
 	mother=471502
@@ -3300,7 +3300,7 @@
 125938 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471710
 	mother=471502
@@ -3315,7 +3315,7 @@
 125939 = {
 	name="Henryk"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471735
 	mother=33740
@@ -3333,7 +3333,7 @@
 125940 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471735
 	mother=33740
@@ -3351,7 +3351,7 @@
 125941 = {
 	name="Mikolaj"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125940
 	mother=462144
@@ -3366,7 +3366,7 @@
 125942 = {
 	name="Bernard"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471734
 	mother=125997
@@ -3381,7 +3381,7 @@
 125943 = {
 	name="Konrad"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221531
 	mother=212545
@@ -3396,7 +3396,7 @@
 125944 = {
 	name="Mieszko"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="gluttonous"
 	give_nickname="nick_the_fat"
@@ -3418,7 +3418,7 @@
 125946 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471741
 	1275.1.2={
@@ -3435,7 +3435,7 @@
 125947 = {
 	name="Jan"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="scholarly_theologian"
 	father=125946
@@ -3452,7 +3452,7 @@
 	name="Anna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125946
 	mother=125995
@@ -3468,7 +3468,7 @@
 	name="Anna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471740
 	mother=471519
@@ -3484,7 +3484,7 @@
 	name="Jolanta"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471740
 	mother=471519
@@ -3499,7 +3499,7 @@
 125951 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471740
 	mother=471519
@@ -3515,7 +3515,7 @@
 	name="Elzbieta"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
     trait="fair"
 	father=471741
@@ -3530,7 +3530,7 @@
 125953 = {
 	name="Kazimierz"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471724
 	mother=125980
@@ -3545,7 +3545,7 @@
 125954 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125953
 	1276.1.2={
@@ -3559,7 +3559,7 @@
 125955 = {
 	name="Wladyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125953
 	1277.1.2={
@@ -3576,7 +3576,7 @@
 125956 = {
 	name="Kazimierz"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125955
 	1312.1.2={
@@ -3591,7 +3591,7 @@
 	name="Eufemia"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125955
 	1313.1.2={
@@ -3606,7 +3606,7 @@
 	name="Agnieszka"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125955
 	mother=451987
@@ -3622,7 +3622,7 @@
 	name="Katarzyna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125955
 	mother=451987
@@ -3637,7 +3637,7 @@
 125960 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125955
 	mother=451987
@@ -3653,7 +3653,7 @@
 	name="Beata"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125955
 	mother=451987
@@ -3669,7 +3669,7 @@
 	name="Maria"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125953
 	1282.1.2={
@@ -3683,7 +3683,7 @@
 125963 = {
 	name="Siemowit"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125953
 	1292.1.2={
@@ -3697,7 +3697,7 @@
 125964 = {
 	name="Mieszko"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125953
 	1305.1.2={
@@ -3711,7 +3711,7 @@
 125965 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471722
 	mother=471723
@@ -3729,7 +3729,7 @@
 125966 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125965
 	mother=125933
@@ -3744,7 +3744,7 @@
 125967 = {
 	name="Waclaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125965
 	mother=125933
@@ -3759,7 +3759,7 @@
 125968 = {
 	name="Albert"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471722
 	mother=471723
@@ -3775,7 +3775,7 @@
 	name="Konstancja"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471724
 	mother=125980
@@ -3790,7 +3790,7 @@
 125970 = {
 	name="Przemyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471724
 	mother=125980
@@ -3808,7 +3808,7 @@
 125971 = {
 	name="Leszek"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125970
 	mother=125989
@@ -3827,7 +3827,7 @@
 	name="Anna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125970
 	mother=125989
@@ -3842,7 +3842,7 @@
 125973 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221515
 	mother=221519
@@ -3860,7 +3860,7 @@
 125974 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125973
 	mother=222823
@@ -3875,7 +3875,7 @@
 125975 = {
 	name="Leszek"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125973
 	1162.1.1={
@@ -3890,7 +3890,7 @@
 	name="Jadwiga"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=7689
 	1218.1.1={
@@ -3904,7 +3904,7 @@
 125977 = {
 	name="Przemyslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=7690
 	mother=125927
@@ -3929,7 +3929,7 @@
 	name="Ryksa Elzbieta"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125977
 	mother=126001
@@ -3945,7 +3945,7 @@
 	name="Salomea"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=7689
 	1225.1.1={
@@ -3960,7 +3960,7 @@
 	name="Eufemia"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=7689
 	1230.1.1={
@@ -3975,7 +3975,7 @@
 	name="Salomea"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221524
 	mother=125134
@@ -3990,7 +3990,7 @@
 125982 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="chaste"
 	give_nickname="nick_the_chaste"
@@ -4010,7 +4010,7 @@
 125983 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221525
 	mother=125073
@@ -4031,7 +4031,7 @@
 125984 = {
 	name="Leszek"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471520
 	mother=125907
@@ -4049,7 +4049,7 @@
 125985 = {
 	name="Siemowit"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471520
 	mother=471540
@@ -4068,7 +4068,7 @@
 	name="Eufemia"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471520
 	mother=471540
@@ -4083,7 +4083,7 @@
 125987 = {
 	name="Siemowit"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 221525
 	mother=125073
@@ -4101,7 +4101,7 @@
 125988 = {
 	name="Konrad"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 125987
 	mother=125124
@@ -4120,7 +4120,7 @@
 	name="Anna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 125988
 	mother=125934
@@ -4135,7 +4135,7 @@
 125990 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 125987
 	mother=125124
@@ -4156,7 +4156,7 @@
 125991 = {
 	name="Siemowit"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 125990
 	mother=125313
@@ -4171,7 +4171,7 @@
 125992 = {
 	name="Waclaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 125990
 	mother=96050
@@ -4189,7 +4189,7 @@
 125993 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 125992
 	mother=125319
@@ -4205,7 +4205,7 @@
 	name="Anna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 125992
 	mother=125319
@@ -4221,7 +4221,7 @@
 	name="Eufrozyna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 125990
 	mother=96050
@@ -4237,7 +4237,7 @@
 	name="Judyta"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 221525
 	mother=125073
@@ -4276,7 +4276,7 @@
 
 96075 = {
 	name="Marcin"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1043.1.1={
 		birth="1043.1.1"
@@ -4288,7 +4288,7 @@
 
 96076 = {
 	name="Jakub"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1074.1.1={
 		birth="1074.1.1"
@@ -4301,7 +4301,7 @@
 96077 = {
 	name="Janislaw"
 	dynasty=21012
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1099.1.1={
 		birth="1099.1.1"
@@ -4313,7 +4313,7 @@
 
 96079 = {
 	name="Bogumil"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1125.1.1={
 		birth="1125.1.1"
@@ -4325,7 +4325,7 @@
 
 96080 = {
 	name="Piotr"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1125.1.1={
 		birth="1125.1.1"
@@ -4337,7 +4337,7 @@
 
 96081 = {
 	name="Henryk"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1150.1.1={
 		birth="1150.1.1"
@@ -4349,7 +4349,7 @@
 
 96082 = {
 	name="Wincenty"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1176.1.1={
 		birth="1176.1.1"
@@ -4362,7 +4362,7 @@
 96083 = {
 	name="Pelka"
 	dynasty=21016
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1181.1.1={
 		birth="1181.1.1"
@@ -4374,7 +4374,7 @@
 
 96084 = {
 	name="Janusz"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1203.1.1={
 		birth="1203.1.1"
@@ -4386,7 +4386,7 @@
 
 96085 = {
 	name="Marcin"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="scholarly_theologian"
 	1225.1.1={
@@ -4399,7 +4399,7 @@
 
 96086 = {
 	name="Jakub"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="mastermind_theologian"
 	1247.1.1={
@@ -4412,7 +4412,7 @@
 
 96087 = {
 	name="Borzyslaw"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1256.1.1={
 		birth="1256.1.1"
@@ -4424,7 +4424,7 @@
 
 96088 = {
 	name="Janislaw"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1279.1.1={
 		birth="1279.1.1"
@@ -4437,7 +4437,7 @@
 96089 = {
 	name="Krystyn"
 	dynasty=21010
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="tough_soldier"
 	1049.1.1={
@@ -4451,7 +4451,7 @@
 96090 = {
 	name="Krystyn"
 	dynasty=21010
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=96089
 	1083.1.1={
@@ -4465,7 +4465,7 @@
 96091 = {
 	name="Maciej"
 	dynasty=11114
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1043.1.1={
 		birth="1043.1.1"
@@ -4478,7 +4478,7 @@
 96092 = {
 	name="Andrzej"
 	dynasty=11114
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=96091
 	1075.1.1={
@@ -4492,7 +4492,7 @@
 96093 = {
 	name="Wlost"
 	dynasty=10111
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1045.1.1={
 		birth="1045.1.1"
@@ -4505,7 +4505,7 @@
 96094 = {
 	name="Piotr"
 	dynasty=10111
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="charitable"
 	father=96093
@@ -4523,7 +4523,7 @@
 96096 = {
 	name="Wszebor"
 	dynasty=10111
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=96094
 	mother=96095
@@ -4538,7 +4538,7 @@
 96097 = {
 	name="Swietoslaw"
 	dynasty=10111
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=96094
 	mother=96095
@@ -4552,7 +4552,7 @@
 
 96098 = {
 	name="Lambert"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1005.1.1={
 		birth="1005.1.1"
@@ -4564,7 +4564,7 @@
 
 96099 = {
 	name="Lambert"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1035.1.1={
 		birth="1035.1.1"
@@ -4576,7 +4576,7 @@
 
 96100 = {
 	name="Czeslaw"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1047.1.1={
 		birth="1047.1.1"
@@ -4588,7 +4588,7 @@
 
 96105 = {
 	name="Mateusz"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1099.1.1={
 		birth="1099.1.1"
@@ -4600,7 +4600,7 @@
 
 96106 = {
 	name="Gedko"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1127.1.1={
 		birth="1127.1.1"
@@ -4612,7 +4612,7 @@
 
 96107 = {
 	name="Pelka"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1127.1.1={
 		birth="1127.1.1"
@@ -4624,7 +4624,7 @@
 
 96108 = {
 	name="Wincenty"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="mastermind_theologian"
 	1160.1.1={
@@ -4638,7 +4638,7 @@
 96109 = {
 	name="Iwo"
 	dynasty=21021
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="humble"
 	1163.1.1={
@@ -4651,7 +4651,7 @@
 
 96110 = {
 	name="Wieslaw"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1174.1.1={
 		birth="1174.1.1"
@@ -4664,7 +4664,7 @@
 96111 = {
 	name="Prendota"
 	dynasty=21021
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1200.1.1={
 		birth="1200.1.1"
@@ -4677,7 +4677,7 @@
 96112 = {
 	name="Pawel"
 	dynasty=21023
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1226.1.1={
 		birth="1226.1.1"
@@ -4689,7 +4689,7 @@
 
 96114 = {
 	name="Jan"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1250.1.1={
 		birth="1250.1.1"
@@ -4701,7 +4701,7 @@
 
 96115 = {
 	name="Jan"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1279.1.1={
 		birth="1279.1.1"
@@ -4713,7 +4713,7 @@
 
 96116 = {
 	name="Jan"
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1283.1.1={
 		birth="1283.1.1"
@@ -4726,7 +4726,7 @@
 96117 = {
 	name="Przemyslaw"
 	dynasty=21025
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1046.1.1={
 		birth="1046.1.1"
@@ -4739,7 +4739,7 @@
 96118 = {
 	name="Jerzy"
 	dynasty=21025
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=96117
 	1074.1.1={
@@ -4754,7 +4754,7 @@
 	name="Hedwig"
 	female=yes
 	dynasty=175
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=30451
 	1212.1.1={
@@ -4769,7 +4769,7 @@
 	name="Beatrycza" # Beatrycza of Schweidnitz
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125912
 	mother=125998
@@ -4941,7 +4941,7 @@
 82241 = {
 	name="Swietobor"
 	dynasty=9122
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=82240
 	1023.1.1={
@@ -5022,7 +5022,7 @@
 	name="Wlodzimierz"
 	dynasty=9121
 	father=82245
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	983.1.1={
 		birth="983.1.1"
@@ -5038,7 +5038,7 @@
 	name="Warcislaw"
 	dynasty=9121
 	father=82246
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1044.1.1={
 		birth="1044.1.1"
@@ -5135,7 +5135,7 @@
 	dynasty=9123
 	father=82252
 	culture="polish"
-	religion="orthodox"
+	religion="catholic"
 	972.1.1={
 		birth="972.1.1"
 	}
@@ -5152,7 +5152,7 @@
 	dynasty=9123
 	father=82253
 	culture="polish"
-	religion="orthodox"
+	religion="catholic"
 	1020.1.1={
 		birth="1020.1.1"
 	}
@@ -5204,7 +5204,7 @@
 	name="Lutoslaw"
 	dynasty=9123
 	father=82256
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1014.1.1={
 		birth="1014.1.1"
@@ -5331,7 +5331,7 @@
 	name="Mscigniew"
 	dynasty=9124
 	father=82264
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1022.1.1={
 		birth="1022.1.1"
@@ -5581,7 +5581,7 @@
 	name="Odolan"
 	dynasty=9127
 	father=82302
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1000.1.1={
 		birth="1000.1.1"
@@ -5734,7 +5734,7 @@
 	name="Dargorad"
 	dynasty=9128
 	father=82311
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1029.1.1={
 		birth="1029.1.1"
@@ -5888,7 +5888,7 @@
 	name="Tatomir"
 	dynasty=9129
 	father=82320
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	1025.1.1={
 		birth="1025.1.1"
@@ -6100,7 +6100,7 @@
 	name="Swietopelk"
 	father=82333
 	dynasty=9130
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	990.1.1={
 		birth="990.1.1"
@@ -6206,7 +6206,7 @@
 170096 = {
 	name="Boleslaw"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221520
 	mother=221521
@@ -6222,7 +6222,7 @@
 	name="Matylda"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221515
 	mother=222781
@@ -6237,7 +6237,7 @@
 170108 = {
 	name="Zbigniew"
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	trait="bastard"
 	father=764
@@ -6275,7 +6275,7 @@
 	name="Anna"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471732
 	mother=471733
@@ -6291,7 +6291,7 @@
 	name="Elisabeth"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471732
 	mother=471733
@@ -6307,7 +6307,7 @@
 	name="Helena"
 	female = yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=471732
 	mother=471733
@@ -6323,7 +6323,7 @@
 	name="Anna"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father = 125990
 	mother=125313
@@ -6339,7 +6339,7 @@
 	name="Malgorzata"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125931
 	mother=125999
@@ -6355,7 +6355,7 @@
 	name="Alenta"
 	female=yes
 	dynasty=175
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=30453
 	mother=30470
@@ -6371,7 +6371,7 @@
 	name="Agnes"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221537
 	mother=212943
@@ -6387,7 +6387,7 @@
 	name="Gertrud"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=221537
 	mother=212943
@@ -6403,7 +6403,7 @@
 	name="Ryksa"
 	female=yes
 	dynasty=699
-	religion="orthodox"
+	religion="catholic"
 	culture="polish"
 	father=125973
 	mother=222823

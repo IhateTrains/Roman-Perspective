@@ -28,7 +28,7 @@
 		religion="orthodox"
 	}
 	1251.1.1={
-		religion="orthodox"
+		religion="catholic"
 	}
 	1263.9.12={
 		death="1263.9.12"
@@ -109,7 +109,7 @@
 	add_spouse=125011
 	}
 	1250.1.1={
-	religion="orthodox"
+	religion="catholic"
 	}
 	1264.1.2={
 		death="1264.1.2"
@@ -222,7 +222,7 @@
 		birth="1260.1.1"
 	}
 	1279.1.1={
-	religion="orthodox"
+	religion="catholic"
 	}
 	1288.1.1={
 		death="1288.1.1"
@@ -499,7 +499,7 @@
 		birth="1309.1.2"
 	}
 	1325.1.2={
-	religion="orthodox"
+	religion="catholic"
 	}
 	1339.1.2={
 		death="1339.1.2"
@@ -619,7 +619,7 @@
 		birth="1316.1.2"
 	}
 	1331.1.2={
-	religion="orthodox"
+	religion="catholic"
 	}
 	1342.1.2={
 		death="1342.1.2"
@@ -847,7 +847,7 @@
 	name="Elzbieta"
 	female=yes
 	dynasty=11
-	religion="orthodox"
+	religion="catholic"
 	culture="lithuanian"
 	father=473500
 	mother=473502

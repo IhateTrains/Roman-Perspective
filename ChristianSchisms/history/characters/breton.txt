@@ -2,7 +2,7 @@
 	name="Oanez"
 	female = yes
 	dynasty=311
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="gluttonous"
 	trait="lustful"
@@ -21,7 +21,7 @@
 	name="Alan"
 	# AKA: Alan 'Caignart'
 	dynasty=311
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="misguided_warrior"
 	father=159678
@@ -45,7 +45,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="charismatic_negotiator"
 	father=10056
@@ -66,7 +66,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	trait="thrifty_clerk"
@@ -87,7 +87,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	trait="flamboyant_schemer"
@@ -104,7 +104,7 @@
 	name="Alan" #Alan Niger
 	# AKA: Alan the Black
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	trait="envious"
@@ -123,7 +123,7 @@
 10048 = {
 	name="Derrien" #Lord of the Roche-Derrien
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="temperate"
 	trait="tough_soldier"
@@ -141,7 +141,7 @@
 10051 = {
 	name="Budic"
 	dynasty=311
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=10042
 	mother=10043
@@ -157,7 +157,7 @@
 	name="Guérech"
 	# AKA: Guerech
 	dynasty=311
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="temperate"
 	trait="arbitrary"
@@ -176,7 +176,7 @@
 	name="Bernez"
 	# AKA: Benead
 	dynasty=311
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="lisp"
 	trait="just"
@@ -198,7 +198,7 @@
 	name="Hodierne"
 	female = yes
 	dynasty=311
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="humble"
 	trait="martial_cleric"
@@ -264,7 +264,7 @@
 	name="Guihomarch"
 	# AKA: Guiomarc'h
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=159679 
 	990.1.1={
@@ -279,7 +279,7 @@
 	name="Morvan"
 	# AKA: Alan or Alan
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91213 #common father with Morvan
 	1030.1.1={
@@ -294,7 +294,7 @@
 	name="Guimarc'h"
 	# AKA: Guiomarc'h
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91244 
 	1056.1.1={
@@ -313,7 +313,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="charismatic_negotiator"
 	father=10042
@@ -337,7 +337,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=178
 	mother=347
@@ -355,7 +355,7 @@
 144155 = {
 	name="Jafrez"
 	dynasty=312
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=40909
 	1067.1.1 = {
@@ -369,7 +369,7 @@
 144156 = {
 	name="Alan"
 	dynasty=312
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=40909
 	1085.1.1 = {
@@ -389,7 +389,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="flamboyant_schemer"
 	father=205802
@@ -410,7 +410,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="martial_cleric"
 	father=205802
@@ -430,7 +430,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="chaste"
 	trait="wroth"
@@ -455,7 +455,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="patient"
 	trait="proud"
@@ -477,7 +477,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="scholarly_theologian"
 	1105.1.2={
@@ -574,7 +574,7 @@
 346 = {
 	name="Edouarzh"
 	dynasty=317
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=342
 	mother=257
@@ -597,7 +597,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="wroth"
 	trait="flamboyant_schemer"
@@ -615,7 +615,7 @@
 	name="Jafrez" #Jafrez I Boterel
 	# AKA: Jafrez 'Boterel'
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=346 #Éon I de Penthièvre
 	mother=10041 #Oanez de Cornouaille
@@ -630,7 +630,7 @@
 354 = {
 	name="Briac"
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=346
@@ -647,7 +647,7 @@
 	name="Alan"
 	# AKA: Alan 'Rufus'
 	dynasty=317
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=346
 	mother=10041
@@ -666,7 +666,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=178
 	mother=347
@@ -762,7 +762,7 @@
 91159 = {
 	name="Konan" #Konan III le Gros, duke of Britanny
 	dynasty=311 #House of Cornouaille
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="gluttonous"
 	father=180 #Alan IV de Bretagne
@@ -788,7 +788,7 @@
 91161 = {
 	name="Jafrez" #Jafrez II de Penthièvre
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205744 #Stefen I de Penthièvre
 	mother=205745 #Hawiz de Guingamp
@@ -804,7 +804,7 @@
 91162 = {
 	name="Rivallon" #Rivallon de Penthièvre
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91161 #Jafrez II de Penthièvre
 	#Hawise, d. of Jean de Dol
@@ -820,7 +820,7 @@
 91163 = {
 	name="Stefen" #Stefen II de Penthièvre
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91161 #Jafrez II de Penthièvre
 	#Hawise, d. of Jean de Dol
@@ -835,7 +835,7 @@
 91164 = {
 	name="Jafrez" #Jafrez III de Penthièvre
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91162 #Rivallon de Penthièvre
 	#Hawise, d. of Jean de Dol
@@ -850,7 +850,7 @@
 91165 = {
 	name="Herri" #Henry II d'Avaugour
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205742 #Alan I de Penthièvre
 	#Pétronille de Beaumont-au-Maine
@@ -879,7 +879,7 @@
 91168 = {
 	name="Hoël" #Hoël III de Bretagne
 	dynasty=311 #House of Cornouaille
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91159 #Konan III le Gros, duke of Britanny
 	mother=31399 #Maud Fitzroy, bastard of Harry I Beauclerc
@@ -898,7 +898,7 @@
 91169 = {
 	name="Alan" #Alan II d'Avaugour
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91165 #Harry II d'Avaugour
 	#Marguerite de Mayenne
@@ -915,7 +915,7 @@
 	name="Konstanza" #Constance, duchess of Brittany
 	female = yes
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="elusive_shadow"
 	trait="proud"
@@ -936,7 +936,7 @@
 205741 = {
 	name="Konan" #Konan IV le Petit
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="dwarf"
 	father=205751 #Alan de Penthièvre
@@ -955,7 +955,7 @@
 205744 = {
 	name="Stefen"
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=346 #Eudes de Penthièvre
 	mother=10041 #Oanez de Cornouaille
@@ -976,7 +976,7 @@
 	dynasty=317 #House of Penthièvre
 	father=205751 #Alan le Noir
 	mother=205825 #Berthe de Bretagne
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	1140.1.1={
 		birth="1140.1.1"
@@ -990,7 +990,7 @@
 205751 = {
 	name="Alan" #de Bretagne
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205744 #Stefen I de Penthièvre
 	mother=205745 #Hawiz de Guingamp
@@ -1032,7 +1032,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="envious"
 	trait="just"
@@ -1053,7 +1053,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="gluttonous"
 	trait="proud"
@@ -1074,7 +1074,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="gluttonous"
 	trait="slothful"
@@ -1092,7 +1092,7 @@
 	name="Janed" #Jeanne d'Avaugour
 	female = yes
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91258 #Harry IV d'Avaugour
 	#Jeanne d'Harcourt
@@ -1108,7 +1108,7 @@
 455581 = {
 	name="Herri" #I assume he is Henry III d'Avaugour
 	dynasty=317 #House of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91169 #Alan II d'Avaugour
 	#Clémence de Beaufort, lady of Dinan
@@ -1130,7 +1130,7 @@
 	intrigue=7
 	stewardship=8
 	learning=5
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="patient"
 	trait="brave"
@@ -1154,7 +1154,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="craven"
 	trait="tough_soldier"
@@ -1174,7 +1174,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="deceitful"
 	trait="just"
@@ -1208,7 +1208,7 @@
 91215 = {
 	name="Huiarnviu" #Huiarnviu II
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=10060 #Guimarc'h II
 	1080.1.1={
@@ -1222,7 +1222,7 @@
 91216 = {
 	name="Hamon" #Hamon
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91215 #Huiarnviu II
 	1131.1.1={
@@ -1236,7 +1236,7 @@
 91217 = {
 	name="Huiarnviu" #Huiarnviu
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=10060 #Guimarc'h II
@@ -1251,7 +1251,7 @@
 91218 = {
 	name="Guimarc'h" #Guimarc'h de Léon
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205787 #Huiarnviu
 	1200.1.1={
@@ -1265,7 +1265,7 @@
 91219 = {
 	name="Huiarnviu" #Huiarnviu III de Léon
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91218 #Guimarc'h de Léon
 	1220.1.1={
@@ -1279,7 +1279,7 @@
 91220 = {
 	name="Huiarnviu" #Huiarnviu IV de Léon
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91219 #Huiarnviu III de Léon
 	#Marguerite
@@ -1294,7 +1294,7 @@
 	name="Ame" #Ame de Léon
 	dynasty=20017 #La Marck
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91220 #Huiarnviu IV de Léon
 	1260.1.1={
@@ -1309,7 +1309,7 @@
 	name="Ame" #Ame de Léon
 	dynasty=20017 #La Marck
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91219 #Huiarnviu III de Léon
 	#Marguerite
@@ -1325,7 +1325,7 @@
 91223 = {
 	name="Huiarnviu" #Huiarnviu de Léon
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91220 #Huiarnviu IV de Léon
 	1265.1.1={
@@ -1338,7 +1338,7 @@
 91224 = {
 	name="Huiarnviu" #Huiarnviu de Léon
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91223 #Huiarnviu IV de Léon
 	1285.1.1={
@@ -1353,7 +1353,7 @@
 91214 = {
 	name="Edouarzh" #Ehuarn
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=10059 #Morvan, viscount of LÈon
 	1050.1.1={
@@ -1367,7 +1367,7 @@
 91245 = {
 	name="Alfred"
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=10058 #Guimarc'h I
 	1015.1.1={
@@ -1500,7 +1500,7 @@
 91254 ={
 	name="Alan"
 	dynasty=22006 #Rennes
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=340 #Konan le Tort
@@ -1530,7 +1530,7 @@
 91256 = {
 	name="Alan" 
 	dynasty=22006 #Rennes
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=340 #Konan le Tort
@@ -1545,7 +1545,7 @@
 91257 = {
 	name="Konan"
 	dynasty=22006 #Rennes
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=340 #Konan le Tort
@@ -1575,7 +1575,7 @@
 91261 = {
 	name="Gwilherm" #Guillaume de Bretagne
 	dynasty=317#Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=346 #Eudes de Bretagne
 	mother=10041 #Oanez de Cornouaille
@@ -1590,7 +1590,7 @@
 91262 = {
 	name="Roparzh" #Robert de Bretagne
 	dynasty=317#Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=346 #Eudes de Bretagne
 	mother=10041 #Oanez de Cornouaille
@@ -1605,7 +1605,7 @@
 91263 = {
 	name="Richard" #Richard de Bretagne
 	dynasty=317#Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=346 #Eudes de Bretagne
 	mother=10041 #Oanez de Cornouaille
@@ -1620,7 +1620,7 @@
 91264 = {
 	name="Bodin"
 	dynasty=317#Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=346 #Eudes de Bretagne
@@ -1635,7 +1635,7 @@
 91265 = {
 	name="Ribald"
 	dynasty = 317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=346 #Eudes de Bretagne
@@ -1650,7 +1650,7 @@
 91266 = {
 	name="Bardulf"
 	dynasty=317 #Rennes house of Penthièvre-Ravensworth
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=346 #Eudes de Bretagne
@@ -1665,7 +1665,7 @@
 91267 = {
 	name="Arnald"
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=346 #Eudes de Bretagne
@@ -1681,7 +1681,7 @@
 	name = "Elina" #bastard daughter
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=346 #Eudes de Bretagne
@@ -1696,7 +1696,7 @@
 91269 = {
 	name="Konan"
 	dynasty=317#Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=350 #Jafrez Boretel
 	#unknow mother
@@ -1711,7 +1711,7 @@
 91270 = {
 	name="Acarias"
 	dynasty=317 #Rennes house of Penthièvre-Ravensworth
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91266 #Bardulf
 	1065.1.1={
@@ -1725,7 +1725,7 @@
 91271 = {
 	name="Scolland"
 	dynasty=317 #Rennes house of Penthièvre-Ravensworth
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91266 #Bardulf
 	1070.1.1={
@@ -1739,7 +1739,7 @@
 91272 = { 
 	name="Huiarnviuy"
 	dynasty=317 #Rennes house of Penthièvre-Ravensworth
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91270 #Acarias
 	1090.1.1={
@@ -1753,7 +1753,7 @@
 91273 = {
 	name="Walter"
 	dynasty=317 #Rennes house of Penthièvre-Ravensworth
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91270 #Acarias
 	1092.1.1={
@@ -1767,7 +1767,7 @@
 91274 = {
 	name="Harscoit"
 	dynasty=317 #Rennes house of Penthièvre-Ravensworth
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91270 #Acarias
 	1095.1.1={
@@ -1781,7 +1781,7 @@
 91275 = {
 	name="Herri"
 	dynasty=317 #Rennes house of Penthièvre-Ravensworth
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91270 #Acarias
 	1096.1.1={
@@ -1796,7 +1796,7 @@
 	name="Mathilde" #Mathilde de Penthièvre
 	female=yes
 	dynasty=317#Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205744 #Stefen de Bretagne
 	mother=205745 #Havise de Gingamp
@@ -1812,7 +1812,7 @@
 	name="Tiphaine" #Tiphaine de Penthièvre
 	female=yes
 	dynasty=317#Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205744 #Stefen de Bretagne
 	mother=205745 #Havise de Gingamp
@@ -1828,7 +1828,7 @@
 	name="Gonnor" #Gonnor de Penthièvre
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205744 #Stefen de Bretagne
 	mother=205745 #Havise de Gingamp
@@ -1843,7 +1843,7 @@
 	name="Olive"
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205744 #Stefen de Bretagne
 	mother=205745 #Havise de Gingamp
@@ -1858,7 +1858,7 @@
 91280 = {
 	name="Stefen" #Stefen de Penthièvre
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91162 #Rivallon de Penthièvre
 	#? de Dol
@@ -1873,7 +1873,7 @@
 	name="Elina" #Elina de Penthièvre
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91162 #Rivallon de Penthièvre
 	#? de Dol
@@ -1889,7 +1889,7 @@
 	name="Enoguen" #Enoguen de Penthièvre
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205751 #Alan le Noir
 	mother=205825 #Berthe de Bretagne
@@ -1904,7 +1904,7 @@
 91283 = {
 	name="Roparzh" #Robert Brito
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="bastard"
 	father=205751 #Alan le Noir
@@ -1919,7 +1919,7 @@
 91284 = {
 	name="Herri" #Harry de Penthièvre
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205743 #Harry de Bretagne
 	mother=205760 #Mathilde de Vendôme
@@ -1934,7 +1934,7 @@
 91285 = {
 	name="Stefen" #Stefen de Penthièvre
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205743 #Harry de Bretagne
 	mother=205760 #Mathilde de Vendôme
@@ -1950,7 +1950,7 @@
 	name="Juhaël"
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91165 #Harry
 	#Marguerite de Mayenne
@@ -1965,7 +1965,7 @@
 91287 = {
 	name="Herri" #lord of Goello
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91165 #Harry
 	#Marguerite de Mayenne
@@ -1982,7 +1982,7 @@
 	name="Mari" #Marie de Penthièvre
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91165 #Harry
 	#Marguerite de Mayenne
@@ -1998,7 +1998,7 @@
 	name="Janed" #Jeanne d'Avalgor
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91165 #Harry
 	#Marguerite de Mayenne
@@ -2013,7 +2013,7 @@
 91290 = {
 	name="Jafrez" #Jafrez Borotel
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205742 #Alan, comte de Penthièvre
 	#Adélaïde
@@ -2030,7 +2030,7 @@
 	name="Hawiz" #Haoys d'Avaugour
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91169 #Alan d'Avaugour
 	#Clémence de Dinan
@@ -2047,7 +2047,7 @@
 	name="Konstanza"
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91169 #Alan d'Avaugour
 	#Clémence de Dinan
@@ -2062,7 +2062,7 @@
 91293 = {
 	name="Yann" #Jean, bishop of Saint-Brieue
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="detached_priest"
 	father=455581 #Harry III d'Avaugour
@@ -2078,7 +2078,7 @@
 91294 = { 
 	name="Gwilherm"
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=455581 #Harry III d'Avaugour
 	#Marie de Beaumont-Brienne, d. of Louis of Brienne & Oanez of Beaumont.
@@ -2093,7 +2093,7 @@
 	name="Blanche" #Blanche d'Avaugour
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=455581 #Harry III d'Avaugour
 	#Marie de Beaumont-Brienne, d. of Louis of Brienne & Oanez of Beaumont.
@@ -2110,7 +2110,7 @@
 	name="Marc'harit" #Marguerite d'Avaugour
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=455581 #Harry III d'Avaugour
 	#Marie de Beaumont-Brienne, d. of Louis of Brienne & Oanez of Beaumont.
@@ -2126,7 +2126,7 @@
 91258 = {
 	name="Herri" #Harry IV d'Avaugour
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=455581 #Harry III d'Avaugour
 	#Marie de Beaumont-Brienne, d. of louis de Brienne & Oanez de Beaumont.
@@ -2143,7 +2143,7 @@
 	name="Isabelle"
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91258 #Harry IV d'Avaugour
 	#Marie de Beaumont-Brienne, d. of louis de Brienne & Oanez de Beaumont.
@@ -2160,7 +2160,7 @@
 	name="Marc'harit"
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91258 #Harry IV d'Avaugour
 	1295.1.1={
@@ -2177,7 +2177,7 @@
 	name="Mari"
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91258 #Harry IV d'Avaugour
 	1296.1.1={
@@ -2191,7 +2191,7 @@
 91300 = {
 	name="Alan" #Alan, vicomte de Tonquedec
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205747 #Geslin de Penthièvre
 	1175.1.1={
@@ -2205,7 +2205,7 @@
 91301 = {
 	name="Herri"
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205747 #Geslin de Penthièvre
 	1180.1.1={
@@ -2219,7 +2219,7 @@
 91302 = {
 	name="Hoël"
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205747 #Geslin de Penthièvre
 	1185.1.1={
@@ -2233,7 +2233,7 @@
 91303 = {
 	name="Roland" #Roland de Tonquedec
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91300 #Alan, viscount of Tonquedec
 	#Constance de Vitré
@@ -2248,7 +2248,7 @@
 91304 = {
 	name="Prigent" #Prigent de Coëtmen
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91303 #Roland de Tonquedec
 	1220.1.1={
@@ -2263,7 +2263,7 @@
 91306 = { 
 	name="Guy"
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91304 #Prigent de Coëtmen
 	1240.1.1={
@@ -2278,7 +2278,7 @@
 	name="Janed"
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91306 #Guy
 	1260.1.1={
@@ -2292,7 +2292,7 @@
 91309 = {
 	name="Ralph"
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91265 #Ribald
 	1060.1.1={
@@ -2306,7 +2306,7 @@
 91310 = {
 	name="Huiarnviu" #Huiarnviu Taillebois
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91265 #Ribald
 	1062.1.1={
@@ -2320,7 +2320,7 @@
 91311 = {
 	name="Raynaud" #Raynaud Taillebois
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91265 #Ribald
 	1065.1.1={
@@ -2334,7 +2334,7 @@
 91312 = {
 	name="Gwilherm" #William Taillebois
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91265 #Ribald
 	1066.1.1={
@@ -2348,7 +2348,7 @@
 91313 = {
 	name="Roparzh"
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91309 #Ralph
 	1080.1.1={
@@ -2362,7 +2362,7 @@
 91314 = {
 	name="Walran"
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91313 #Robert
 	1150.1.1={
@@ -2376,7 +2376,7 @@
 91315 = {
 	name="Ralph"
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91313 #Robert
 	1155.1.1={
@@ -2390,7 +2390,7 @@
 91316 = {
 	name="Randulf"
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91313 #Robert
 	1160.1.1={
@@ -2404,7 +2404,7 @@
 91317 = {
 	name="Ralph"
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91316 #Randulf
 	1200.1.1={
@@ -2419,7 +2419,7 @@
 	name="Berthildis"
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91316 #Randulf
 	1205.1.1={
@@ -2433,7 +2433,7 @@
 91319 = {
 	name="Randulf"
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91316 #Randulf
 	1210.1.1={
@@ -2448,7 +2448,7 @@
 	name="Mari"
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91317 #Ralph
 	1240.1.1={
@@ -2463,7 +2463,7 @@
 	name="Janed"
 	female=yes
 	dynasty=317 #Rennes house of Penthièvre-Middleham
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91317 #Ralph
 	1245.1.1={
@@ -2477,7 +2477,7 @@
 205780 = {
 	name="Guimarc'h"
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=91215 #Huiarnviu II
 	1130.1.1={
@@ -2495,7 +2495,7 @@
 205781 = {
 	name="Guimarc'h"
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205780 #Guimarc'h III
 	#mother=205746 #Nobilis
@@ -2513,7 +2513,7 @@
 205782 = {
 	name="Huiarnviu"
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205780 #Guimarc'h III
 	#mother=205746 #Nobilis
@@ -2533,7 +2533,7 @@
 	#AKA Eléonore or Léonore (?)
 	female = yes
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205780 #Guimarc'h III
 	#mother=205746 #Nobilis
@@ -2548,7 +2548,7 @@
 205784 = { #who is he?
 	name="Adam"
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205780
 	mother=205746
@@ -2564,7 +2564,7 @@
 	name="Ennougen"
 	female = yes
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205780
 	#mother=205746
@@ -2580,7 +2580,7 @@
 #	name="Berthe"
 #	female = yes
 #	dynasty=20017 #La Marck
-#	religion="orthodox"
+#	religion="catholic"
 #	culture="breton"
 #	father=205780
 #	mother=205746
@@ -2595,7 +2595,7 @@
 205787 = {
 	name="Huiarnviu"
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205781
 	mother=205800
@@ -2611,7 +2611,7 @@
 	name="Azenor"
 	female = yes
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205782
 	mother=205801
@@ -2626,7 +2626,7 @@
 205789 = {
 	name="Huiarnviu"
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205782
 	mother=205801
@@ -2642,7 +2642,7 @@
 	name="Konstanza"
 	female = yes
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205782
 	mother=205801
@@ -2658,7 +2658,7 @@
 	name="Emma"
 	female = yes
 	dynasty=20017 #La Marck
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=205830
 	mother=205785
@@ -2715,7 +2715,7 @@
 	name="Konan"
 	# AKA: Konan
 	dynasty=22006 #Rennes
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	trait="flamboyant_schemer"
 	trait="strong"
@@ -2833,7 +2833,7 @@
 203041 = {
 	name="Alan"
 	dynasty=3134
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=180049
 	martial=5
@@ -2855,7 +2855,7 @@
 161281 = {
 	name="Cadoc"
 	dynasty=1029042
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=161282
 	
@@ -2874,7 +2874,7 @@
 161282 = {
 	name="Cador"
 	dynasty=1029042 #
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father= 159741
 	
@@ -2892,7 +2892,7 @@
 	name="Marguarite"
 	female=yes
 	dynasty=0
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	
 	1041.1.1={
@@ -2909,7 +2909,7 @@
 	name="Rioantdrec"
 	female=yes
 	dynasty=1029042
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=161281
 	mother=161283
@@ -2929,7 +2929,7 @@
 	name="Enoguen"
 	female=yes
 	dynasty=1029042
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=161281
 	mother=161283
@@ -2945,7 +2945,7 @@
 161286 = {
 	name="Dumnarth"
 	dynasty=1029042
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=161282
 	
@@ -2964,7 +2964,7 @@
 	name="Tanetbiu"
 	dynasty=0
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	
 	1040.1.1={
@@ -2978,7 +2978,7 @@
 161288 = {
 	name="Conan"
 	dynasty=1029042
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=161286
 	mother=161287
@@ -2993,7 +2993,7 @@
 161289 = {
 	name="Alan"
 	dynasty=1029042
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=161286
 	mother=161287
@@ -3009,7 +3009,7 @@
 161290 = {
 	name="Hoël"
 	dynasty=1029042
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=161286
 	mother=161287
@@ -3026,7 +3026,7 @@
 	name="Janed"
 	female=yes
 	dynasty=1029042
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=161286
 	mother=161287
@@ -3042,7 +3042,7 @@
 161427 = {
 	name="Harduin"
 	dynasty=559
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=5650
 	1042.1.1 = {
@@ -3059,7 +3059,7 @@
 161428 = {
 	name="Gwilherm"
 	dynasty=559
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=5652
 	1070.1.1 = {
@@ -3074,7 +3074,7 @@
 161429 = {
 	name="Riwal"
 	dynasty=559
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=5652
 	1072.1.1 = {
@@ -3088,7 +3088,7 @@
 161430 = {
 	name="Alan"
 	dynasty=559
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=5652
 	1074.1.1 = {
@@ -3493,7 +3493,7 @@
 	name="Avice"
 	female=yes
 	dynasty=1029042 #
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=161281 # source?
 	mother=161283
@@ -3508,7 +3508,7 @@
 	name="Adela"
 	female=yes
 	dynasty=101754
-	religion="orthodox"
+	religion="catholic"
 	culture="norman"
 	father=158
 	mother=159742
@@ -3877,7 +3877,7 @@
 }
 159703 = {
 	name="Rudalt"
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	dynasty=1029103 #de Rieux
 	father=159702
@@ -3890,7 +3890,7 @@
 }
 159704 = {
 	name="Iocilin"
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	dynasty=1029103 #de Rieux
 	father=159703
@@ -3903,7 +3903,7 @@
 }
 159705 = {
 	name="Raoul"
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	dynasty=1029103 #de Rieux
 	father=159703
@@ -3916,7 +3916,7 @@
 }
 159706 = {
 	name="Alan"
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	dynasty=1029103 #de Rieux
 	father=159705
@@ -3929,7 +3929,7 @@
 }
 159707 = {
 	name="Guéthenoc"
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	dynasty=1029103 #de Rieux
 	father=159704
@@ -4771,7 +4771,7 @@
 180048 = {
 	name="Alain"
 	dynasty=3134
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	1009.1.1={
 		birth=yes
@@ -4783,7 +4783,7 @@
 180049 = {
 	name="Flaad"
 	dynasty=3134
-	religion="orthodox"
+	religion="catholic"
 	culture="breton"
 	father=180048
 	1038.1.1={

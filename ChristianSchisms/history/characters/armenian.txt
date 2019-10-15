@@ -3993,9 +3993,9 @@
 	1299.1.1={
 		trait="blinded"
 	}
-	#converted to orthodoxism
+	#converted to catholicism
 	1299.3.4={
-		religion="orthodox"
+		religion="catholic"
 	} 
 	1307.11.7={
 		death="1307.11.7"
@@ -4884,7 +4884,7 @@
 	}
 }
 159229 = { 
-	name="Hovhannes" # John VII, orthodoxos of Caucasian Albania
+	name="Hovhannes" # John VII, Catholicos of Caucasian Albania
 	dynasty=1029023
 	religion="miaphysite"
 	culture="armenian"
@@ -4898,7 +4898,7 @@
 	}
 }
 159230 = { 
-	name="Hovhannes" # John VIII, orthodoxos of Caucasian Albania
+	name="Hovhannes" # John VIII, Catholicos of Caucasian Albania
 	dynasty=1029023
 	religion="miaphysite"
 	culture="armenian"

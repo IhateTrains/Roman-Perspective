@@ -4832,7 +4832,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="greek"
 	trait="charitable"
 	trait="scholarly_theologian"
@@ -4852,7 +4852,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="greek"
 	trait="chaste"
 	trait="wroth"
@@ -6799,7 +6799,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="frankish"
 	trait="deceitful"
 	trait="flamboyant_schemer"
@@ -7151,7 +7151,7 @@
 	1305.1.1={
 		name="Teodoro"
 		culture=italian
-		religion=orthodox
+		religion=catholic
 	}
 	1311.1.1={
 		add_spouse = 463555
@@ -11512,7 +11512,7 @@
 31448 = {
 	name="Ioannes" 
 	dynasty=7215 #Orsini
-	religion="orthodox"
+	religion="catholic"
 	culture="greek"
 	father=31442
 	1320.1.1={
@@ -11542,7 +11542,7 @@
 31443 = {
 	name="Nikephoros" #duke of Epirus
 	dynasty=7215 #Orsini
-	religion="orthodox"
+	religion="catholic"
 	culture="greek"
 	father=31441
 	mother=125731
@@ -11557,7 +11557,7 @@
 	name="Tomaida"
 	female=yes
 	dynasty=7215 #Orsini
-	religion="orthodox"
+	religion="catholic"
 	culture="greek"
 	father=31441
 	mother=125731
@@ -11592,7 +11592,7 @@
 
 96102 = {
 	name="Mauros"
-	religion="orthodox"
+	religion="catholic"
 	culture="greek"
 	1056.1.1={
 		birth="1056.1.1"
@@ -12515,7 +12515,7 @@
 		birth="1267.1.1"
 	}
 	1283.1.1={
-		religion=orthodox
+		religion=catholic
 	}
 	1295.1.1={
 		death="1295.1.1"
@@ -20284,7 +20284,7 @@
 		birth=yes
 	}
 	1273.1.1={
-		religion=orthodox
+		religion=catholic
 	}
 	1318.1.1={
 		death=yes

@@ -55,7 +55,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="scholarly_theologian"
 	father=235113 #Gonariu
@@ -72,7 +72,7 @@
 144251 = {
 	name="Costantìnu" #I
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 20326
 	mother=235105 #Vera Salusiu
@@ -89,7 +89,7 @@
 144252 = {
 	name="Marianu" #II
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144251
 	mother=235102 #Giorgia Salusiu de Lacon
@@ -106,7 +106,7 @@
 144253 = {
 	name="Costantìnu" #II
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144252
 	mother=235142 #Preciosa de Lacon Zori of Arborea
@@ -128,7 +128,7 @@
 	name="Marianna"
 	dynasty=1040098 #Torchitoriu de Ugunale
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144253
 	mother=235231 #Sardinia de Thori (Zori)
@@ -148,7 +148,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="cynical"
 	trait="strong"
@@ -167,7 +167,7 @@
 	# daughter of Salusio III, Giudice of Cagliari, wife of Tedice della Gherardesca
 	female=yes
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144253
 	mother=235231 #Sardinia de Thori (Zori)
@@ -187,7 +187,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="envious"
 	trait="fortune_builder"
@@ -203,7 +203,7 @@
 144527 = {
 	name="Orsocorre" #I
 	dynasty=1040103 #de Lacon Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 20325
 	1030.1.1 = {
@@ -219,7 +219,7 @@
 144528 = {
 	name="Orsocorre" #II
 	dynasty=1040103 #de Lacon Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235140 #Torbinu of Arborea
 	mother=235215 #Anna de Zori of Gallura
@@ -236,7 +236,7 @@
 144529 = {
 	name="Comita" #II
 	dynasty=1040103 #de Lacon Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144528
 	mother=235139 #Maria de Orrubu
@@ -255,7 +255,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="ambitious"
 	trait="flamboyant_schemer"
@@ -282,7 +282,7 @@
 	name="Sinispella"
 	dynasty=794
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=71631
 	mother=235194 #Pellegrina de Lacon Gunale of Torres
@@ -301,7 +301,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="lustful"
 	trait="duelist"
@@ -329,7 +329,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="greedy"
 	trait="envious"
@@ -354,7 +354,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="ambitious"
 	trait="charismatic_negotiator"
@@ -381,7 +381,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="just"
 	trait="charitable"
@@ -405,7 +405,7 @@
 144531 = {
 	name="Guglielmu" #II of Cagliari
 	dynasty=794
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=71634
 	mother=144530
@@ -420,7 +420,7 @@
 144532 = {
 	name="Chiano" #John of Cagliari
 	dynasty=794
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144531
 	1235.1.1 = {
@@ -434,7 +434,7 @@
 144533 = {
 	name="Marianu" #II
 	dynasty=1040106 #Bas Serra
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=71636
 	mother=235157 #Sardinia de Salanis
@@ -449,7 +449,7 @@
 144534 = {
 	name="Chiano"
 	dynasty=1040106 #Bas Serra
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144533
 	trait="lustful"
@@ -472,7 +472,7 @@
 144535 = {
 	name="Andria"
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="bastard"
 	father=144534
@@ -488,7 +488,7 @@
 144536 = {
 	name="Marianu" #III
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="bastard"
 	trait="lustful"
@@ -511,7 +511,7 @@
 	name="Ugu" #II
 	#AKA Hugh
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="bastard"
 	trait="lustful"
@@ -532,7 +532,7 @@
 	name="Perdu" #III
 	#AKA Peter
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144537
 	mother=235162 #Benedetta de Kerki
@@ -549,7 +549,7 @@
 144525 = {
 	name="Gonariu" #II
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235183 #Costantìnu I of Torres
 	mother=235186 #Marcusa de Gunale
@@ -572,7 +572,7 @@
 144526 = {
 	name="Perdu" #Peter I of Cagliari
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144525
 	mother=235032 #Maria da Parlascio of Pisa
@@ -592,7 +592,7 @@
 	# daughter of Torchitorio III, Giudice of Cagliari, wife of Eldizio Visconti
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144526
 	mother=144524
@@ -608,7 +608,7 @@
 	# wife of Barisone II, Giudice of Gallura
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235193 #Barusone II of Torres
 	mother=235151 #Preziosa de Orrubu
@@ -626,7 +626,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="craven"
 	trait="cynical"
@@ -654,7 +654,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="deceitful"
 	trait="quick"
@@ -680,7 +680,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="humble"
 	trait="gregarious"
@@ -703,7 +703,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="just"
 	trait="kind"
@@ -724,7 +724,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="just"
 	trait="chaste"
@@ -747,7 +747,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="diligent"
 	trait="quick"
@@ -766,7 +766,7 @@
 	# wife of Ubaldo II Visconti
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=71147
 	mother=235017 #Agnesia of Massa
@@ -783,7 +783,7 @@
 	name="Costantìnu"
 	# Constantine III, Giudice of Gallura
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235230 #Izocor
 	mother=235225 #Maria Spanu
@@ -804,7 +804,7 @@
 	name="Barusone"
 	# Barisone II, Giudice of Gallura
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=180409
 	mother=235152 #Elena de Lacon Serra of Arborea
@@ -823,7 +823,7 @@
 	# Giudicessa of Gallura, 1203-1217, wife of Lamberto Visconti
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=180410
 	mother=180413
@@ -985,7 +985,7 @@
 235101 = {
 	name="Armannu"
 	dynasty=1040097 #Salusiu de Lacon
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235100 #Basili
 	1015.1.1 = {
@@ -999,7 +999,7 @@
 	name="Giorgia"
 	female=yes
 	dynasty=1040097 #Salusiu de Lacon
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235101 #Armannu
 	1050.1.1 = {
@@ -1042,7 +1042,7 @@
 	name="Vera"
 	female=yes
 	dynasty=1040097 #Salusiu de Lacon
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235104 #Marianu I
 	mother=235110 #Bibiana Torchitoriu de Ugunale
@@ -1163,7 +1163,7 @@
 235114 = {
 	name="Pedru"
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 20326
 	mother=235105 #Vera Salusiu
@@ -1177,7 +1177,7 @@
 235115 = {
 	name="Serighe"
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 20326
 	mother=235105 #Vera Salusiu
@@ -1191,7 +1191,7 @@
 235116 = {
 	name="Orsocorre"
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 20326
 	mother=235105 #Vera Salusiu
@@ -1205,7 +1205,7 @@
 235117 = {
 	name="Gonariu"
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 20326
 	mother=235105 #Vera Salusiu
@@ -1219,7 +1219,7 @@
 235118 = {
 	name="Torbinu"
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 20326
 	mother=235105 #Vera Salusiu
@@ -1239,7 +1239,7 @@
 	name="Elena"
 	female=yes
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144251
 	mother=235102 #Giorgia Salusiu de Lacon
@@ -1253,7 +1253,7 @@
 235120 = {
 	name="Ittocorre"
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144251
 	mother=235102 #Giorgia Salusiu de Lacon
@@ -1268,7 +1268,7 @@
 	name="Vera"
 	female=yes
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144251
 	mother=235102 #Giorgia Salusiu de Lacon
@@ -1282,7 +1282,7 @@
 235122 = {
 	name="Serighe"
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144251
 	mother=235102 #Giorgia Salusiu de Lacon
@@ -1296,7 +1296,7 @@
 235123 = {
 	name="Orsocorre"
 	dynasty=1040098 #Torchitoriu de Ugunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144251
 	mother=235102 #Giorgia Salusiu de Lacon
@@ -1423,7 +1423,7 @@
 235132 = {
 	name="Barusone" #I of Arborea and Torres
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235129 #Gonariu I of Arborea and Torres
 	996.1.1 = {
@@ -1465,7 +1465,7 @@
 235135 = {
 	name="Dominigu"
 	dynasty=1040102 #de Orrubu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235133 #Baldu de Orrubu
 	1009.1.1 = {
@@ -1495,7 +1495,7 @@
 	name="Nivata"
 	female=yes
 	dynasty=1040102 #de Orrubu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235135 #Dominigu de Orrubu
 	1029.1.1 = {
@@ -1508,7 +1508,7 @@
 235138 = {
 	name="Costantìnu"
 	dynasty=1040102 #de Orrubu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235135 #Dominigu de Orrubu
 	1038.1.1 = {
@@ -1522,7 +1522,7 @@
 	name="Maria"
 	female=yes
 	dynasty=1040102 #de Orrubu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235138 #Costantìnu de Orrubu
 	1061.1.1 = {
@@ -1535,7 +1535,7 @@
 235140 = {
 	name="Torbinu"
 	dynasty=1040103 #de Lacon Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144527
 	mother=235137 #Nivata de Orrubu
@@ -1552,7 +1552,7 @@
 235141 = {
 	name="Comita"
 	dynasty=1040103 #de Lacon Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144527
 	mother=235137 #Nivata de Orrubu
@@ -1567,7 +1567,7 @@
 	name="Preciosa"
 	female=yes
 	dynasty=1040103 #de Lacon Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father= 235140 #Torbinu of Arborea
 	mother=235215 #Anna de Zori of Gallura
@@ -1582,7 +1582,7 @@
 	name="Elena"
 	female=yes
 	dynasty=1040103 #de Lacon Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father = 144529
 	1094.1.1 = {
@@ -1596,7 +1596,7 @@
 235144 = {
 	name="Gonariu" #II
 	dynasty=794
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	1090.1.1 = {
 		birth=yes
@@ -1611,7 +1611,7 @@
 235145 = {
 	name="Costantìnu" #III
 	dynasty=794
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235144 #Gonariu II
 	mother=235143 #Elena de Lacon Zori
@@ -1629,7 +1629,7 @@
 	name="Elena"
 	female=yes
 	dynasty=794
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235144 #Gonariu II
 	mother=235143 #Elena de Lacon Zori
@@ -1643,7 +1643,7 @@
 235147 = {
 	name="Comita" #III
 	dynasty=794
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235145 #Costantìnu I
 	mother=235232 #Anna de Zori of Gallura
@@ -1660,7 +1660,7 @@
 235148 = {
 	name="Izocor"
 	dynasty=1040102 #de Orrubu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235138 #Costantìnu de Orrubu
 	1091.1.1 = {
@@ -1673,7 +1673,7 @@
 235149 = {
 	name="Patriziu"
 	dynasty=1040102 #de Orrubu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235148 #Izocor de Orrubu
 	1114.1.1 = {
@@ -1687,7 +1687,7 @@
 	name="Elena"
 	female=yes
 	dynasty=1040102 #de Orrubu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235148 #Izocor de Orrubu
 	1122.1.1 = {
@@ -1701,7 +1701,7 @@
 	name="Preziosa"
 	female=yes
 	dynasty=1040102 #de Orrubu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235149 #Patriziu de Orrubu
 	1134.1.1 = {
@@ -1715,7 +1715,7 @@
 	name="Elena" #first wife of Constantine III of Gallura
 	female=yes
 	dynasty=794
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235147 #Comita III
 	mother=235150 #Elena de Orrubu
@@ -1729,7 +1729,7 @@
 235153 = {
 	name="Orsocorre" #III
 	dynasty=794
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235145 #Costantìnu III
 	mother=235232 #Anna de Zori of Gallura
@@ -1743,7 +1743,7 @@
 235154 = {
 	name="Barusone"
 	dynasty=794
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=71631
 	mother=235194 #Pellegrina de Lacon Gunale of Torres
@@ -1758,7 +1758,7 @@
 	name="Susanna"
 	dynasty=794
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=71631
 	mother=71623 #Agalbursa
@@ -1773,7 +1773,7 @@
 	name="Maria" #Mother of William III of Cagliari
 	female=yes
 	dynasty=794
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=71634
 	mother=144530
@@ -1788,7 +1788,7 @@
 	name="Sardinia" #second wife of Peter II, mother of Marianu II
 	female=yes
 	dynasty=1040105 #de Salanis
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	1212.1.1 = {
 		birth=yes
@@ -1801,7 +1801,7 @@
 	name="Luna"
 	female=yes
 	dynasty=1040106 #Bas Serra
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144533
 	1250.1.1 = {
@@ -1815,7 +1815,7 @@
 	name="Barusone"
 	female=yes
 	dynasty=1040106 #Bas Serra
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="bastard"
 	father=144533
@@ -1830,7 +1830,7 @@
 	name="Joanna"
 	female=yes
 	dynasty=1040106 #Bas Serra
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144533
 	1290.1.1 = {
@@ -1844,7 +1844,7 @@
 	name="Padulesa" #lover of Marianu III of Arborea
 	female=yes
 	dynasty=1040100 #de Serra
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="lustful"
 	1277.1.1={
@@ -1858,7 +1858,7 @@
 	name="Benedetta" #wife of Hugh II of Arborea
 	female=yes
 	dynasty=1040107 #de Kerki
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	1304.1.1={
 		birth=yes
@@ -1870,7 +1870,7 @@
 235163 = {
 	name="Marianu" #IV the Great of Arborea
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="strong"
 	trait="brave"
@@ -1893,7 +1893,7 @@
 235164 = {
 	name="Bonaventuru" #Bonaventure
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144537
 	mother=235162 #Benedetta de Kerki
@@ -1907,7 +1907,7 @@
 235165 = {
 	name="Franku" #Francis
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144537
 	mother=235162 #Benedetta de Kerki
@@ -1922,7 +1922,7 @@
 	name="Maria"
 	female=yes
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144537
 	mother=235162 #Benedetta de Kerki
@@ -1936,7 +1936,7 @@
 235167 = {
 	name="Larentu" #Lawrence
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	trait="bastard"
 	father=144537
@@ -1954,7 +1954,7 @@
 235168 = {
 	name="Chiano" #John
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144537
 	mother=235162 #Benedetta de Kerki
@@ -1968,7 +1968,7 @@
 235169 = {
 	name="Nigola" #Nicholas
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144537
 	mother=235162 #Benedetta de Kerki
@@ -1983,7 +1983,7 @@
 	name="Angiolesa"
 	female=yes
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144537
 	mother=235162 #Benedetta de Kerki
@@ -1998,7 +1998,7 @@
 	name="Preciosa"
 	female=yes
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144537
 	mother=235162 #Benedetta de Kerki
@@ -2012,7 +2012,7 @@
 235172 = {
 	name="Ugu" #III
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235163 #Marianu IV of Arborea
 	mother=72295
@@ -2027,7 +2027,7 @@
 	name="Benedetta"
 	female=yes
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235172 #Ugu II
 	1364.1.1 = {
@@ -2041,7 +2041,7 @@
 	name="Elianora" #Eleanor
 	female=yes
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235163 #Marianu IV of Arborea
 	mother=72295
@@ -2056,7 +2056,7 @@
 	name="Beatrìci" #Beatrice
 	female=yes
 	dynasty=1040108 #Cappai de Bas
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235163 #Marianu IV of Arborea
 	mother=72295
@@ -2137,7 +2137,7 @@
 235181 = {
 	name="Andria Tanca" # of Torres
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235132 #Barusone I of Arborea and Torres
 	mother=235134 #Preziosa de Orrubu
@@ -2151,7 +2151,7 @@
 235182 = {
 	name="Marianu" #I of Torres
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235181 #Andria Tanca
 	1042.1.1 = {
@@ -2164,7 +2164,7 @@
 235183 = {
 	name="Costantìnu" #I of Torres
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235182 #Marianu I
 	1067.1.1 = {
@@ -2185,7 +2185,7 @@
 235184 = {
 	name="Istevene"
 	dynasty=1042015 #de Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235180 #Comita II
 	1020.1.1 = {
@@ -2198,7 +2198,7 @@
 235185 = {
 	name="Paulu"
 	dynasty=1042015 #de Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235184 #Istevene
 	1050.1.1 = {
@@ -2212,7 +2212,7 @@
 	name="Marcusa"
 	female=yes
 	dynasty=1042015 #de Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235185 #Paulu
 	1080.1.1 = {
@@ -2225,7 +2225,7 @@
 235187 = {
 	name="Saltaro"
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235183 #Costantìnu I of Torres
 	mother=235186 #Marcusa de Gunale
@@ -2239,7 +2239,7 @@
 235188 = {
 	name="Ittocorre"
 	dynasty=1040109 #Gambella
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	1070.1.1 = {
 		birth=yes
@@ -2251,7 +2251,7 @@
 235189 = {
 	name="Bassu"
 	dynasty=1040101 #de Athen
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235131 #Tocode
 	mother=235130 #Giorgia de Lacon Gunale
@@ -2265,7 +2265,7 @@
 235190 = {
 	name="Corràdu"
 	dynasty=1040101 #de Athen
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235189 #Bassu
 	1051.1.1 = {
@@ -2278,7 +2278,7 @@
 235191 = {
 	name="Saltaro"
 	dynasty=1040101 #de Athen
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235190 #Corràdu
 	1075.1.1 = {
@@ -2292,7 +2292,7 @@
 	name="Luisa"
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144526
 	mother=144524
@@ -2306,7 +2306,7 @@
 235193 = {
 	name="Barusone" #Barisone II of Torres
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144525 #Gonariu II
 	mother=235032 #Maria da Parlascio of Pisa
@@ -2324,7 +2324,7 @@
 	name="Pellegrina" #wife of Barisone II of Arborea
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144525 #Gonariu II
 	mother=235032 #Maria da Parlascio of Pisa
@@ -2339,7 +2339,7 @@
 	name="Sardinia" #second wife of Constantine III of Gallura
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144525 #Gonariu II
 	mother=235032 #Maria da Parlascio of Pisa
@@ -2353,7 +2353,7 @@
 235196 = {
 	name="Ittocorre"
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144525 #Gonariu II
 	mother=235032 #Maria da Parlascio of Pisa
@@ -2367,7 +2367,7 @@
 235197 = {
 	name="Comita"
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=144525 #Gonariu II
 	mother=235032 #Maria da Parlascio of Pisa
@@ -2381,7 +2381,7 @@
 235198 = {
 	name="Costantìnu" #Costantìnu II of Torres
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235193 #Barusone II of Torres
 	mother=235151 #Preziosa de Orrubu
@@ -2401,7 +2401,7 @@
 235199 = {
 	name="Ittocorre"
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235193 #Barusone II of Torres
 	mother=235151 #Preziosa de Orrubu
@@ -2415,7 +2415,7 @@
 235200 = {
 	name="Pelegrine"
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235193 #Barusone II of Torres
 	mother=235151 #Preziosa de Orrubu
@@ -2430,7 +2430,7 @@
 	name="Susanna" #wife of a Andrea Doria
 	female = yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235193 #Barusone II of Torres
 	mother=235151 #Preziosa de Orrubu
@@ -2445,7 +2445,7 @@
 	name="Preziosa"
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=71146
 	mother=71632
@@ -2460,7 +2460,7 @@
 	name="Bina" #wife of Peter I of Arborea and Hugh of Capraia
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235199 #Ittocorre de Lacon Gunale, son of Barusone II
 	1172.1.1={
@@ -2473,7 +2473,7 @@
 235204 = {
 	name="Pretu"
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235200 #Pelegrine
 	1175.1.1 = {
@@ -2487,7 +2487,7 @@
 	name="Preziosa" #wife of Niccolo Doria
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235204 #Pretu
 	1208.1.1 = {
@@ -2608,7 +2608,7 @@
 	name="Costantìnu"
 	# Constantine I, Giudice of Gallura
 	dynasty=1040104 #de Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235213 #Baldu
 	1037.1.1={
@@ -2622,7 +2622,7 @@
 	name="Anna" #wife of Torbinu of Arborea
 	female=yes
 	dynasty=1040104 #de Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235213 #Baldu
 	1043.1.1={
@@ -2635,7 +2635,7 @@
 235216 = {
 	name="Torchitoriu"
 	dynasty=1040104 #de Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235214 #Constantine I of Gallura
 	1051.1.1 = {
@@ -2652,7 +2652,7 @@
 	name="Francesca" #wife of Arrigo II of Cinarca
 	female=yes
 	dynasty=1040104 #de Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235214 #Constantine I of Gallura
 	1070.1.1 = {
@@ -2665,7 +2665,7 @@
 235218 = {
 	name="Saltaro"
 	dynasty=1040104 #de Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235216 #Torchitoriu
 	1078.1.1 = {
@@ -2679,7 +2679,7 @@
 	name="Subia" #wife of Constantine II Spanu of Gallura
 	female=yes
 	dynasty=1040104 #de Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235218 #Saltaro
 	1093.1.1 = {
@@ -2693,7 +2693,7 @@
 	name="Padulesa" #of Gallura
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235182 #Marianu I of Torres
 	1075.1.1 = {
@@ -2706,7 +2706,7 @@
 235221 = {
 	name="Ittocorre" #of Gallura
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235182 #Marianu I of Torres
 	1072.1.1 = {
@@ -2719,7 +2719,7 @@
 235222 = {
 	name="Costantìnu" #Constantine II Spanu
 	dynasty=1040110 #Spanu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	1090.1.1 = {
 		birth=yes
@@ -2734,7 +2734,7 @@
 235223 = {
 	name="Comita" #Comita Spanu
 	dynasty=1040110 #Spanu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235222 #Costantìnu Spanu
 	mother=235219 #Subia
@@ -2752,7 +2752,7 @@
 	name="Giulia"
 	female=yes
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235221 #Ittocorre
 	1105.1.1 = {
@@ -2766,7 +2766,7 @@
 	name="Maria"
 	female=yes
 	dynasty=1040110 #Spanu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235223 #Comita Spanu
 	mother=235224 #Giulia
@@ -2780,7 +2780,7 @@
 235226 = {
 	name="Comita"
 	dynasty=1040110 #Spanu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235223 #Comita Spanu
 	mother=235224 #Giulia
@@ -2795,7 +2795,7 @@
 	name="Elena"
 	female=yes
 	dynasty=1040110 #Spanu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235223 #Comita Spanu
 	mother=235224 #Giulia
@@ -2809,7 +2809,7 @@
 235228 = {
 	name="Furatu"
 	dynasty=1040110 #Spanu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235223 #Comita Spanu
 	mother=235224 #Giulia
@@ -2823,7 +2823,7 @@
 235229 = {
 	name="Costantìnu" #acting judge of Arborea in 1199
 	dynasty=1040110 #Spanu
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235223 #Comita Spanu
 	mother=235224 #Giulia
@@ -2840,7 +2840,7 @@
 235230 = {
 	name="Izocor"
 	dynasty=1040099 #de Lacon Gunale
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235221 #Ittocorre
 	1117.1.1 = {
@@ -2857,7 +2857,7 @@
 	name="Sardinia"
 	female=yes
 	dynasty=1040104 #de Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235216 #Torchitoriu
 	mother=235220 #Padulesa de Lacon Gunale
@@ -2872,7 +2872,7 @@
 	name="Anna"
 	female=yes
 	dynasty=1040104 #de Zori
-	religion="orthodox"
+	religion="catholic"
 	culture="sardinian"
 	father=235218 #Saltaro
 	1110.1.1 = {

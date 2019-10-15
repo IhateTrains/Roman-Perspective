@@ -212,7 +212,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="slothful"
 	trait="charitable"
@@ -236,7 +236,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="thrifty_clerk"
 	father=122
@@ -260,7 +260,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="tough_soldier"
 	trait="brave"
@@ -301,7 +301,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="cynical"
 	trait="martial_cleric"
@@ -336,7 +336,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="charitable"
 	trait="chaste"
@@ -364,7 +364,7 @@
 	diplomacy=3
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="tough_soldier"
 	father=122
@@ -387,7 +387,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="tough_soldier"
 	father=122
@@ -411,7 +411,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="wroth"
 	trait="chaste"
@@ -468,7 +468,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="wroth"
 	trait="martial_cleric"
@@ -491,7 +491,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="arbitrary"
 	trait="proud"
@@ -569,7 +569,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="proud"
 	trait="gluttonous"
@@ -591,7 +591,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="lustful"
 	trait="greedy"
@@ -629,7 +629,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="patient"
 	trait="thrifty_clerk"
@@ -653,7 +653,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="hunchback"
 	trait="thrifty_clerk"
@@ -678,7 +678,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="martial_cleric"
 	father=122
@@ -720,7 +720,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="martial_cleric"
 	father=122
@@ -740,7 +740,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="thrifty_clerk"
 	father=120
@@ -762,7 +762,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="fair"
 	trait="fortune_builder"
@@ -781,7 +781,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="patient"
 	trait="brave"
@@ -874,7 +874,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="scholarly_theologian"
 	father=188
@@ -917,7 +917,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="temperate"
 	trait="wroth"
@@ -960,7 +960,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="charismatic_negotiator"
 	father=192
@@ -980,7 +980,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="brave"
 	trait="tough_soldier"
@@ -1002,7 +1002,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="deceitful"
 	trait="underhanded_rogue"
@@ -1028,7 +1028,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="zealous"
 	trait="martial_cleric"
@@ -1050,7 +1050,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="humble"
 	trait="scholarly_theologian"
@@ -1069,7 +1069,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="twin"
 	father=122
@@ -1100,7 +1100,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="twin"
 	father=122
@@ -1145,7 +1145,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="mastermind_theologian"
 	995.1.1={
@@ -1163,7 +1163,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="arbitrary"
 	trait="hunchback"
@@ -1183,7 +1183,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="envious"
 	trait="humble"
@@ -1209,7 +1209,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="skilled_tactician"
 	father=5640
@@ -1233,7 +1233,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="greedy"
 	trait="brave"
@@ -1261,7 +1261,7 @@
 #	diplomacy=5
 #	intrigue=8
 #	stewardship=4
-#	religion="orthodox"
+#	religion="catholic"
 #	culture="saxon"
 #	trait="craven"
 #	trait="tough_soldier"
@@ -1281,7 +1281,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="arbitrary"
 	trait="brave"
@@ -1330,7 +1330,7 @@
 	name="Hextilda"
 	female = yes 
 	dynasty=745
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father= 7396
 	mother= 7388
@@ -1345,7 +1345,7 @@
 7396 = {
 	name="Uhtred"
 	dynasty=745
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father= 198
 	mother= 317
@@ -1417,7 +1417,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=82002
 	1040.1.2={
@@ -1453,7 +1453,7 @@
 	diplomacy=9
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="charitable"
 	trait="scholarly_theologian"
@@ -1472,7 +1472,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	1028.1.1={
 		birth="1028.1.1"
@@ -1491,7 +1491,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=82057
 	1065.1.2={
@@ -1509,7 +1509,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="amateurish_plotter"
 	father=120
@@ -1530,7 +1530,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="wroth"
 	trait="brave"
@@ -1552,7 +1552,7 @@
 	diplomacy=9
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="skilled_tactician"
 	trait="deceitful"
@@ -1576,7 +1576,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="thrifty_clerk"
 	1046.1.2={
@@ -1758,7 +1758,7 @@
 
 129058={
 	name="Samson"
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="lustful"
 	1056.1.1={
@@ -1771,7 +1771,7 @@
 
 151014 = {
 	name="Arnold"
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="trusting"
 	trait="detached_priest"
@@ -1785,7 +1785,7 @@
 
 129059 = {
 	name="Theulf"
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="greedy"
 	1056.1.1 = {
@@ -1801,7 +1801,7 @@
 
 32703  = {
 	name="Edmund"
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="martial_cleric"
 	1060.1.1 = {
@@ -1818,7 +1818,7 @@
 161260 = {
 	name="Ælfwine"
 	dynasty=490
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="legit_bastard"
 	trait="chaste"
@@ -1887,7 +1887,7 @@
 	name="Ælfgifu" #real name unknown
 	female=yes
 	dynasty=744
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=188
 	mother=161261
@@ -1901,7 +1901,7 @@
 
 161265 = {
 	name="Æthelgar" 
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	1010.1.1={
 		birth="1010.1.1"
@@ -1917,7 +1917,7 @@
 161266 = {
 	name="Siward"
 	dynasty=744 
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=161265
 	mother=161264
@@ -1932,7 +1932,7 @@
 161267 = {
 	name="Ealdred"
 	dynasty=744 
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=161265
 	mother=161264
@@ -1947,7 +1947,7 @@
 161268 = {
 	name="Halden"
 	dynasty=744
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=190
 	1035.1.1={
@@ -1962,7 +1962,7 @@
 	name="Ældgyth"
 	female = yes
 	dynasty=744
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=192
 	1025.1.1={
@@ -1976,7 +1976,7 @@
 161270 = {
 	name="Ligulf" 
 	dynasty=562
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	1030.1.1={
 		birth="1030.1.1"
@@ -1992,7 +1992,7 @@
 161271 = {
 	name="Uhtred"
 	dynasty=562
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=161270
 	mother=161269
@@ -2007,7 +2007,7 @@
 161272 = {
 	name="Morcar" 
 	dynasty=562
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=161270
 	mother=161269
@@ -2022,7 +2022,7 @@
 161273 = {
 	name="Ligulf" 
 	dynasty=562
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=161271
 	1066.1.1={
@@ -2037,7 +2037,7 @@
 	name="Gytha" 
 	female=yes
 	dynasty=756
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=120
 	mother=101534
@@ -2115,7 +2115,7 @@
 	name="Godgifu"
 	#AKA Lady Godiva
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	1002.1.1={
 		birth="1002.1.1"
@@ -2128,7 +2128,7 @@
 161280 = {
 	name="Ælgifu"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	1020.1.1={
 		birth="1020.1.1"
@@ -2145,7 +2145,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=40418
 	mother=161274
@@ -2161,7 +2161,7 @@
 	name="Adelisa"
 	female=yes
 	dynasty=745
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father= 198
 	mother= 317
@@ -2177,7 +2177,7 @@
 167002 = {
 	name="Hacon"
 	dynasty=756
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="legit_bastard"
 	father=128
@@ -2195,7 +2195,7 @@
 167003 = {
 	name="Ælfgar"
 	dynasty=756
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	trait="chaste"
 	trait="detached_priest"
@@ -2216,7 +2216,7 @@
 	name="Ælfgifu"
 	female=yes
 	dynasty=756
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	father=120
 	mother=101534
@@ -2405,7 +2405,7 @@
 }
 159470 = {
 	name="Godwine"  #Godwyn
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	dynasty=100031 #of Cornwall
 	father=159465
@@ -2418,7 +2418,7 @@
 }
 159471 = {
 	name="Hereberht" 
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	dynasty=100031
 	father=159470
@@ -6691,7 +6691,7 @@
 
 188917 = { # Bishop of York
 	name="Ealdred"
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	learning = 7
 	diplomacy = 8
@@ -6791,7 +6791,7 @@
 
 214047 = { # Bishop of Selsey
 	name="Æthelric"
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	learning = 8
 	1020.1.1={
@@ -6830,7 +6830,7 @@
 
 214050 = { # Bishop of Rochester
 	name="Siward"
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	learning = 8
 	1021.1.1={
@@ -7108,7 +7108,7 @@
 }
 252074 = {
 	name="Æthelric" #Bishop of Durham
-	religion="orthodox"
+	religion="catholic"
 	culture="saxon"
 	learning = 8
 	1013.1.1={

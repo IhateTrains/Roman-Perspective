@@ -6,7 +6,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="scholarly_theologian"
 	father=101543
@@ -27,7 +27,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="charitable"
 	trait="temperate"
@@ -49,7 +49,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="brave"
@@ -74,7 +74,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	trait="martial_cleric"
@@ -96,7 +96,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="martial_cleric"
@@ -118,7 +118,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	trait="hunchback"
@@ -141,7 +141,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="just"
 	trait="flamboyant_schemer"
@@ -161,7 +161,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion=orthodox
+	religion=catholic
 	culture=norwegian
 	trait=just
 	trait=zealous
@@ -242,7 +242,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="greedy"
 	trait="honest"
@@ -268,7 +268,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="thrifty_clerk"
 	father=102531
@@ -288,7 +288,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="charitable"
 	trait="kind"
@@ -316,7 +316,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102531
 	mother=633
@@ -337,7 +337,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="just"
@@ -360,7 +360,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="zealous"
 	trait="hunchback"
@@ -386,7 +386,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="lisp"
@@ -413,7 +413,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="scholarly_theologian"
 	1038.1.2={
@@ -431,7 +431,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norse"
 	trait="charitable"
 	trait="temperate"
@@ -458,7 +458,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="envious"
 	trait="fortune_builder"
@@ -479,7 +479,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="patient"
 	trait="temperate"
@@ -504,7 +504,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="wroth"
 	trait="underhanded_rogue"
@@ -526,7 +526,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="flamboyant_schemer"
 	father=102553
@@ -547,7 +547,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="chaste"
 	trait="honest"
@@ -568,7 +568,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="craven"
 	trait="skilled_tactician"
@@ -588,7 +588,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="envious"
@@ -612,7 +612,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="martial_cleric"
@@ -637,7 +637,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="just"
 	trait="temperate"
@@ -662,7 +662,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="scholarly_theologian"
 	father=102567
@@ -682,7 +682,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102568
 	mother=101522
@@ -701,7 +701,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="just"
 	trait="amateurish_plotter"
@@ -721,7 +721,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="patient"
 	trait="flamboyant_schemer"
@@ -740,7 +740,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="cynical"
 	trait="lisp"
@@ -762,7 +762,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="ill"
 	trait="thrifty_clerk"
@@ -778,7 +778,7 @@
 144248 = {
 	name="Ogmund"
 	dynasty=455
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102547
 	mother=102506
@@ -793,7 +793,7 @@
 144250 = {
 	name="Jon"
 	dynasty=101706
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=202021
 	1215.1.1={
@@ -807,7 +807,7 @@
 144632 = {
 	name="Teitur"
 	dynasty=101891
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father = 20579
 	1041.1.1={
@@ -821,7 +821,7 @@
 144633 = {
 	name="Hallur"
 	dynasty=101891
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father = 144632
 	1075.1.1={
@@ -835,7 +835,7 @@
 144647 = {
 	name="Gissur"
 	dynasty=101891
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=202012
 	1208.1.1={
@@ -854,7 +854,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="tough_soldier"
@@ -873,7 +873,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="zealous"
 	trait="martial_cleric"
@@ -892,7 +892,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="skilled_tactician"
 	1039.1.1={
@@ -910,7 +910,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="skilled_tactician"
 	1039.1.1={
@@ -928,7 +928,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="zealous"
 	trait="martial_cleric"
@@ -947,7 +947,7 @@
 	diplomacy=2
 	intrigue=10
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="deceitful"
 	trait="greedy"
@@ -967,7 +967,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="tough_soldier"
 	1150.1.1={
@@ -985,7 +985,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="slothful"
 	trait="honest"
@@ -1007,7 +1007,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="brave"
 	trait="skilled_tactician"
@@ -1026,7 +1026,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="temperate"
 	trait="amateurish_plotter"
@@ -1045,7 +1045,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="zealous"
 	#trait="cynical"
@@ -1068,7 +1068,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="tough_soldier"
 	1150.1.1={
@@ -1086,7 +1086,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="arbitrary"
 	trait="cynical"
@@ -1106,7 +1106,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="martial_cleric"
 	1150.1.1={
@@ -1124,7 +1124,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="brave"
 	trait="skilled_tactician"
@@ -1143,7 +1143,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="deceitful"
 	trait="underhanded_rogue"
@@ -1163,7 +1163,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="charitable"
 	trait="patient"
@@ -1184,7 +1184,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="envious"
 	trait="skilled_tactician"
@@ -1203,7 +1203,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="thrifty_clerk"
@@ -1222,7 +1222,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="scholarly_theologian"
 	1101.1.1={
@@ -1241,7 +1241,7 @@
 	diplomacy=6
 	intrigue=9
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="chaste"
 	trait="proud"
@@ -1263,7 +1263,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="gluttonous"
@@ -1285,7 +1285,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="envious"
 	trait="skilled_tactician"
@@ -1308,7 +1308,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	trait="tough_soldier"
@@ -1329,7 +1329,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="deceitful"
 	trait="tough_soldier"
@@ -1351,7 +1351,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="amateurish_plotter"
 	father=202024
@@ -1372,7 +1372,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="patient"
 	trait="just"
@@ -1401,7 +1401,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="amateurish_plotter"
 	1130.1.1={
@@ -1419,7 +1419,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="scholarly_theologian"
 	father = 20581
@@ -1442,7 +1442,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="legit_bastard"
 	trait="amateurish_plotter"
@@ -1463,7 +1463,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	trait="honest"
@@ -1487,7 +1487,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="bastard"
 	trait="honest"
@@ -1511,7 +1511,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	trait="tough_soldier"
@@ -1535,7 +1535,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="amateurish_plotter"
 	1155.1.1={
@@ -1553,7 +1553,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=202030
 	mother=202506
@@ -1572,7 +1572,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="temperate"
 	trait="humble"
@@ -1594,7 +1594,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="charismatic_negotiator"
@@ -1617,7 +1617,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="charismatic_negotiator"
 	father=202034 # Skule Bårdsson
@@ -1636,7 +1636,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="honest"
 	trait="tough_soldier"
@@ -1663,7 +1663,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="charismatic_negotiator"
 	1119.1.1={
@@ -1681,7 +1681,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="amateurish_plotter"
 	1128.1.1={
@@ -1700,7 +1700,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="amateurish_plotter"
 	father=202040
@@ -1720,7 +1720,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="clubfooted"
 	trait="tough_soldier"
@@ -1747,7 +1747,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="tough_soldier"
@@ -1771,7 +1771,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="proud"
 	trait="tough_soldier"
@@ -1792,7 +1792,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="proud"
 	trait="diligent"
@@ -1812,7 +1812,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="cynical"
@@ -1840,7 +1840,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="legit_bastard"
 	trait="gluttonous"
@@ -1862,7 +1862,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="tough_soldier"
 	father=202500
@@ -1882,7 +1882,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="chaste"
 	trait="greedy"
@@ -1905,7 +1905,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="envious"
 	trait="gluttonous"
@@ -1929,7 +1929,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	father=202500
@@ -1950,7 +1950,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="proud"
 	trait="lustful"
@@ -1972,7 +1972,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="gregarious"
 	trait="tough_soldier"
@@ -1993,7 +1993,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=202503
 	1200.1.1={
@@ -2012,7 +2012,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="charismatic_negotiator"
@@ -2035,7 +2035,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="gluttonous"
 	trait="legit_bastard"
@@ -2059,7 +2059,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="legit_bastard"
@@ -2084,7 +2084,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="hunchback"
 	trait="tough_soldier"
@@ -2109,7 +2109,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="harelip"
 	trait="lustful"
@@ -2132,7 +2132,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="legit_bastard"
 	trait="tough_soldier"
@@ -2153,7 +2153,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="ill"
 	trait="flamboyant_schemer"
@@ -2173,7 +2173,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="zealous"
 	trait="wroth"
@@ -2194,7 +2194,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="just"
 	trait="proud"
@@ -2216,7 +2216,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="temperate"
 	trait="diligent"
@@ -2238,7 +2238,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="flamboyant_schemer"
@@ -2257,7 +2257,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="greedy"
 	trait="arbitrary"
@@ -2279,7 +2279,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="martial_cleric"
 	father=20580
@@ -2299,7 +2299,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="temperate"
 	trait="lustful"
@@ -2322,7 +2322,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="just"
 	trait="grey_eminence"
@@ -2350,7 +2350,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="greedy"
 	trait="zealous"
@@ -2378,7 +2378,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="greedy"
 	trait="proud"
@@ -2406,7 +2406,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=5788
 	1095.1.1={
@@ -2428,7 +2428,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=220036
 	1095.1.1={
@@ -2447,7 +2447,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=220023
 	mother=220025
@@ -2467,7 +2467,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	trait="martial_cleric"
@@ -2487,7 +2487,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102538
 	mother=220035
@@ -2507,7 +2507,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=220036
 	1097.1.2={
@@ -2528,7 +2528,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="cynical"
 	trait="amateurish_plotter"
@@ -2549,7 +2549,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="wroth"
 	trait="tough_soldier"
@@ -2571,7 +2571,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="wroth"
 	trait="thrifty_clerk"
@@ -2593,7 +2593,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=220022
 	mother=220047
@@ -2613,7 +2613,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lunatic"
 	trait="brave"
@@ -2648,7 +2648,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="zealous"
 	trait="amateurish_plotter"
@@ -2670,7 +2670,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="brave"
 	trait="legit_bastard"
@@ -2692,7 +2692,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="legit_bastard"
 	trait="thrifty_clerk"
@@ -2709,7 +2709,7 @@
 	name="Magnus" # Magnus The Blind IV of Norway 
 	# AKA: Magnus Sigurdsson
 	dynasty=499
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="legit_bastard"
 	trait="amateurish_plotter"
@@ -2734,7 +2734,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="brave"
 	trait="tough_soldier"
@@ -2755,7 +2755,7 @@
 	diplomacy=9
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="charismatic_negotiator"
@@ -2778,7 +2778,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="flamboyant_schemer"
 	1021.1.1={
@@ -2797,7 +2797,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="tough_soldier"
@@ -2818,7 +2818,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="honest"
 	trait="tough_soldier"
@@ -2841,7 +2841,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="temperate"
 	trait="amateurish_plotter"
@@ -2859,7 +2859,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="tough_soldier"
 	1050.1.1={
@@ -2878,7 +2878,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="martial_cleric"
 	father=450661
@@ -2899,7 +2899,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	trait="skilled_tactician"
@@ -2923,7 +2923,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="legit_bastard"
 	trait="martial_cleric"
@@ -2944,7 +2944,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="envious"
 	trait="proud"
@@ -2968,7 +2968,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="slothful"
@@ -2994,7 +2994,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="skilled_tactician"
 	1260.1.2={
@@ -3017,7 +3017,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="martial_cleric"
 	1260.1.2={
@@ -3036,7 +3036,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="honest"
 	trait="amateurish_plotter"
@@ -3058,7 +3058,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="patient"
 	trait="hunchback"
@@ -3084,7 +3084,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="flamboyant_schemer"
 	1290.1.2={
@@ -3104,7 +3104,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="envious"
 	trait="thrifty_clerk"
@@ -3127,7 +3127,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="chaste"
 	trait="envious"
@@ -3150,7 +3150,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="honest"
 	trait="envious"
@@ -3175,7 +3175,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="just"
@@ -3197,7 +3197,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="flamboyant_schemer"
 	father=450781
@@ -3221,7 +3221,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	trait="amateurish_plotter"
@@ -3244,7 +3244,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="diligent"
 	trait="scholarly_theologian"
@@ -3265,7 +3265,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="amateurish_plotter"
 	father=450784
@@ -3286,7 +3286,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="just"
 	trait="humble"
@@ -3311,7 +3311,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="proud"
 	trait="flamboyant_schemer"
@@ -3331,7 +3331,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="tough_soldier"
 	father=450780
@@ -3353,7 +3353,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=450780
 	mother=450783
@@ -3374,7 +3374,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="amateurish_plotter"
@@ -3396,7 +3396,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="patient"
 	trait="cynical"
@@ -3422,7 +3422,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="charismatic_negotiator"
 	1228.1.2={
@@ -3445,7 +3445,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="flamboyant_schemer"
 	1248.1.2={
@@ -3464,7 +3464,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="envious"
@@ -3487,7 +3487,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	trait="tough_soldier"
@@ -3509,7 +3509,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="cynical"
 	trait="scholarly_theologian"
@@ -3534,7 +3534,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="amateurish_plotter"
 	1300.1.2={
@@ -3553,7 +3553,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="charitable"
 	trait="tough_soldier"
@@ -3575,7 +3575,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="martial_cleric"
 	father=450805
@@ -3596,7 +3596,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="patient"
 	trait="amateurish_plotter"
@@ -3619,7 +3619,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="deceitful"
 	trait="wroth"
@@ -3642,7 +3642,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="craven"
 	trait="martial_cleric"
@@ -3665,7 +3665,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="humble"
 	trait="wroth"
@@ -3689,7 +3689,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="clubfooted"
 	trait="martial_cleric"
@@ -3714,7 +3714,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="envious"
 	trait="martial_cleric"
@@ -3737,7 +3737,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="patient"
 	trait="zealous"
@@ -3758,7 +3758,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="flamboyant_schemer"
@@ -3778,7 +3778,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="amateurish_plotter"
 	father=452600
@@ -3799,7 +3799,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="scholarly_theologian"
 	father=452600
@@ -3821,7 +3821,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="scholarly_theologian"
 	father=452600
@@ -3842,7 +3842,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="scholarly_theologian"
 	father=452600
@@ -3863,7 +3863,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="slothful"
 	trait="martial_cleric"
@@ -3885,7 +3885,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="kind"
 	trait="proud"
@@ -3908,7 +3908,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="wroth"
 	trait="thrifty_clerk"
@@ -3931,7 +3931,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="proud"
 	trait="lisp"
@@ -3952,7 +3952,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="patient"
 	trait="thrifty_clerk"
@@ -3977,7 +3977,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="charitable"
 	trait="proud"
@@ -3998,7 +3998,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="charismatic_negotiator"
 	1300.1.2={
@@ -4020,7 +4020,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="martial_cleric"
 	father=452620
@@ -4041,7 +4041,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="just"
 	trait="honest"
@@ -4062,7 +4062,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="patient"
 	trait="greedy"
@@ -4085,7 +4085,7 @@
 	diplomacy=9
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="flamboyant_schemer"
 	father=5793
@@ -4107,7 +4107,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="underhanded_rogue"
 	father=5793
@@ -4129,7 +4129,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="clubfooted"
 	trait="martial_cleric"
@@ -4153,7 +4153,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="brave"
 	trait="tough_soldier"
@@ -4181,7 +4181,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="clubfooted"
 	trait="martial_cleric"
@@ -4199,7 +4199,7 @@
 7349 = {
 	name="Erlend"
 	dynasty=461
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=7351
 	1114.1.1={
@@ -4213,7 +4213,7 @@
 7350 = {
 	name="Pål"
 	dynasty=461
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=220036
 	1094.1.1={
@@ -4227,7 +4227,7 @@
 7351 = {
 	name="Harald"
 	dynasty=461
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=220036
 	1094.1.1={
@@ -4242,7 +4242,7 @@
 	name="Magnus"
 	#AKA Saint Magnus
 	dynasty=461
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="lustful"
 	trait="lisp"
@@ -4260,7 +4260,7 @@
 7392 = {
 	name="Magnus"
 	dynasty=556
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=220046
 	1195.1.1={
@@ -4276,7 +4276,7 @@
 7393 = {
 	name="Ragnall"
 	dynasty=556
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=220046
 	1194.1.1={
@@ -4290,7 +4290,7 @@
 7394 = {
 	name="Harald"
 	dynasty=556
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=220046
 	1193.1.1={
@@ -4308,7 +4308,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=5788
 	1094.1.1={
@@ -4326,7 +4326,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83244
 	1069.1.1={
@@ -4344,7 +4344,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83240
 	1102.1.1={
@@ -4362,7 +4362,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83240
 	1104.1.1={
@@ -4380,7 +4380,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83241
 	1124.1.1={
@@ -4398,7 +4398,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	1041.1.1={
 		birth="1041.1.1"
@@ -4415,7 +4415,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83244
 	1072.1.1={
@@ -4433,7 +4433,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83245
 	1093.1.1={
@@ -4451,7 +4451,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83246
 	1114.1.1={
@@ -4469,7 +4469,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83246
 	1133.1.1={
@@ -4487,7 +4487,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83241 
 	1131.1.1={
@@ -4500,7 +4500,7 @@
 
 151013 = {
 	name="Svend" #Nordmand
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="quick"
 	trait="martial_cleric"
@@ -4519,7 +4519,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83366
 	mother=83369
@@ -4538,7 +4538,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83370
 	1066.1.1={
@@ -4556,7 +4556,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83371
 	1097.1.1={
@@ -4574,7 +4574,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=83372
 	1133.1.1={
@@ -4588,7 +4588,7 @@
 143129 = {
 	name="Austmod"
 	dynasty=444
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father = 102575
 	1050.1.1={
@@ -4602,7 +4602,7 @@
 143130 = {
 	name="Austmod"
 	dynasty=444
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father = 143129
 	1110.1.1={
@@ -4616,7 +4616,7 @@
 161125 = {
 	name="Inge"
 	dynasty=1030031
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="legit_bastard"
 	father=202051
@@ -4631,7 +4631,7 @@
 161126 = {
 	name="Erling"
 	dynasty=1030031
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="legit_bastard"
 	father=202051
@@ -4647,7 +4647,7 @@
 	name="Ragnhild"
 	female=yes
 	dynasty=2033
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=202040
 	mother=202041
@@ -4663,7 +4663,7 @@
 	name="Rangrid"
 	female=yes
 	dynasty=2033
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	mother=161127
 	1157.1.1={
@@ -4679,7 +4679,7 @@
 	name="Ingebjorg"
 	female=yes
 	dynasty=1030031
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=202051
 	mother=161128
@@ -4695,7 +4695,7 @@
 	name="Margret"
 	female=yes
 	dynasty=1030031
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=202051
 	mother=161128
@@ -4710,7 +4710,7 @@
 161124 = {
 	name="Asulf"
 	dynasty=2033
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=125
 	1075.1.1={
@@ -4727,7 +4727,7 @@
 161297 = {
 	name="Erling"
 	dynasty=461
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102539
 	mother=161327
@@ -4743,7 +4743,7 @@
 	name="Gunhild"
 	female=yes
 	dynasty=461
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102539
 	mother=161327
@@ -4759,7 +4759,7 @@
 	name="Cecilia"
 	female=yes
 	dynasty=461
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102539
 	mother=161327
@@ -4775,7 +4775,7 @@
 	name="Jaddvor"
 	female=yes
 	dynasty=461
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="bastard"
 	father=102539
@@ -4791,7 +4791,7 @@
 	name="Thora"
 	female=yes
 	dynasty=1043303
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=161326
 	1040.1.1={
@@ -4806,7 +4806,7 @@
 	name="Ragnhild"
 	female = yes
 	dynasty=499
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="legit_bastard"
 	father=202511
@@ -4822,7 +4822,7 @@
 	name="Kristina" #Sverresdotter
 	female = yes
 	dynasty=499
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=202500
 	mother=200506 #Margaret of Sweden
@@ -4838,7 +4838,7 @@
 	name="Kristina" #Christina of Norway
 	female = yes
 	dynasty=499
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=202509 # Håkon Håkonsson
 	mother=202035 # Margareta Skulesdotter
@@ -4853,7 +4853,7 @@
 170007 = {
 	name="Håkon" # Håkon the Young 
 	dynasty=499
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=202509 # Håkon Håkonsson
 	mother=202035 # Margareta Skulesdotter
@@ -4874,7 +4874,7 @@
 170008 = {
 	name="Sverre" # Son of Håkon the Young 
 	dynasty=499
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=170007 # Håkon the Young
 	mother=30605 # Rikissa Birgersdotter
@@ -4890,7 +4890,7 @@
 	name="Ingeborg" #Ingeborg Eriksdottir
 	female = yes
 	dynasty=499
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=6906 # Erik Prästhatare
 	mother=453061 # Isabel Bruce
@@ -4905,7 +4905,7 @@
 166050 = {
 	name="Bjolan"
 	dynasty=1040005
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=166047
 	1003.1.1={
@@ -4919,7 +4919,7 @@
 183902 = {
 	name="Ogmund"
 	dynasty=453
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102553
 	mother=102557
@@ -4934,7 +4934,7 @@
 183903 = {
 	name="Finn"
 	dynasty=453
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102553
 	mother=102557
@@ -4949,7 +4949,7 @@
 183904 = {
 	name="Thord"
 	dynasty=453
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102553
 	mother=102557
@@ -4965,7 +4965,7 @@
 	name="Ragna"
         female=yes
 	dynasty=455
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=102547
 	mother=102506
@@ -4980,7 +4980,7 @@
 183906 = {
 	name="Munan"
 	dynasty=455
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=144248
 	1100.1.1={
@@ -4995,7 +4995,7 @@
 	name="Astrid"
         female=yes
 	dynasty=455
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=144248
 	1102.1.1={
@@ -5010,7 +5010,7 @@
 	name="Ragnhild"
         female=yes
 	dynasty=756
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=125
 	1074.1.1={
@@ -5025,7 +5025,7 @@
 	name="Sigrid"
         female=yes
 	dynasty=2033
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=161124
         mother=102558
@@ -5040,7 +5040,7 @@
 183910 = {
 	name="Svein"
 	dynasty=1030031
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	1048.1.1={
 		birth="1048.1.1"
@@ -5056,7 +5056,7 @@
 183911 = {
 	name="Orm"
 	dynasty=1030031
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=183910
 	mother=183905
@@ -5077,7 +5077,7 @@
 183912 = {
 	name="Ogmund"
 	dynasty=1030031
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=183911
 	mother=183908
@@ -5092,7 +5092,7 @@
 183913 = {
 	name="Ragnhild"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	1088.1.1={
 		birth="1088.1.1"
@@ -5104,7 +5104,7 @@
 194313 = {
 	name="Arnvid"
 	dynasty=1045068 # av Rogen
-	religion=orthodox
+	religion=catholic
 	culture=norwegian
 	1191.1.1 = {
 			birth = yes
@@ -5116,7 +5116,7 @@
 194314 = {
 	name="Haldor"
 	dynasty=1045069 # av Bergen
-	religion=orthodox
+	religion=catholic
 	culture=norwegian
 	1198.1.1 = {
 			birth = yes
@@ -5128,7 +5128,7 @@
 194315 = {
 	name="Haldor"
 	dynasty=1045070 # av Eidsborg
-	religion=orthodox
+	religion=catholic
 	culture=norwegian
 	1198.1.1 = {
 			birth = yes
@@ -5140,7 +5140,7 @@
 194316 = {
 	name="Torgil"
 	dynasty=1045071 # av Finnmark
-	religion=orthodox
+	religion=catholic
 	culture=norwegian
 	1196.1.1 = {
 			birth = yes
@@ -5152,7 +5152,7 @@
 194317 = {
 	name="Ragnar"
 	dynasty=1045072 # av Røst
-	religion=orthodox
+	religion=catholic
 	culture=norwegian
 	1196.1.1 = {
 			birth = yes
@@ -5165,7 +5165,7 @@
 188876 = {
 	name="Godred"
 	dynasty=556 # Crovan
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	father=7392
 	trait=legit_bastard
@@ -5180,7 +5180,7 @@
 214083 = {
 	name = "Mar"
 	dynasty = 1043504
-	religion = orthodox
+	religion = catholic
 	culture = norse
 	father=214082
 	1005.1.1 = {
@@ -5194,7 +5194,7 @@
 214084 = {
 	name = "Thormod"
 	dynasty = 1043504
-	religion = orthodox
+	religion = catholic
 	culture = norse
 	father=214082
 	1008.1.1 = {
@@ -5208,7 +5208,7 @@
 214085 = {
 	name = "Torfi"
 	dynasty = 1043504
-	religion = orthodox
+	religion = catholic
 	culture = norse
 	father=214082
 	1011.1.1 = {
@@ -5222,7 +5222,7 @@
 214086 = {
 	name = "Sigurd"
 	dynasty = 1043504
-	religion = orthodox
+	religion = catholic
 	culture = norse
 	father=214083
 	1035.1.1 = {
@@ -5236,7 +5236,7 @@
 214087 = {
 	name = "Hamal"
 	dynasty = 1043504
-	religion = orthodox
+	religion = catholic
 	culture = norse
 	father=214083
 	1040.1.1 = {
@@ -5250,7 +5250,7 @@
 214088 = {
 	name = "Gudmund"
 	dynasty = 1043504
-	religion = orthodox
+	religion = catholic
 	culture = norse
 	father=214087
 	1065.1.1 = {
@@ -5264,7 +5264,7 @@
 214089 = {
 	name = "Thormod"
 	dynasty = 1043504
-	religion = orthodox
+	religion = catholic
 	culture = norse
 	father=214088
 	1090.1.1 = {
@@ -5278,7 +5278,7 @@
 280002 = {
 	name = "Anund"
 	dynasty = 1062035
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	1028.1.1 = {
 		birth = yes
@@ -5291,7 +5291,7 @@
 280003 = {
 	name = "Arne"
 	dynasty = 1062035
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280002
 	1057.1.1 = {
@@ -5304,7 +5304,7 @@
 280004 = {
 	name = "Gudbrand"
 	dynasty = 1062035
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280003
 	1094.1.1 = {
@@ -5317,7 +5317,7 @@
 280005 = {
 	name = "Anund"
 	dynasty = 1062035
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280004
 	1130.1.1 = {
@@ -5330,7 +5330,7 @@
 280006 = {
 	name = "Thormod"
 	dynasty = 1062035
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280005
 	1166.1.1 = {
@@ -5343,7 +5343,7 @@
 280007 = {
 	name = "Arne"
 	dynasty = 1062035
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280006
 	1201.1.1 = {
@@ -5356,7 +5356,7 @@
 280008 = {
 	name = "Thormod"
 	dynasty = 1062035
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280007
 	1242.1.1 = {
@@ -5369,7 +5369,7 @@
 280009 = {
 	name = "Anund"
 	dynasty = 1062035
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280008
 	1283.1.1 = {
@@ -5383,7 +5383,7 @@
 	name = "Ingeborg"
 	female = yes
 	dynasty = 1062038
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	1042.1.1 = {
 		birth = yes
@@ -5396,7 +5396,7 @@
 280013 = {
 	name = "Trond"
 	dynasty = 1062038
-	religion = orthodox	
+	religion = catholic	
 	culture = norwegian
 	mother = 280012
 	1073.1.1 = {
@@ -5410,7 +5410,7 @@
 280014 = {
 	name = "Arne"
 	dynasty = 1062038
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280013
 	1115.1.1 = {
@@ -5424,7 +5424,7 @@
 280015 = {
 	name = "Einar"
 	dynasty = 1062038
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280014
 	1152.1.1 = {
@@ -5438,7 +5438,7 @@
 280016 = {
 	name = "Trond"
 	dynasty = 1062038
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280015
 	1198.1.1 = {
@@ -5451,7 +5451,7 @@
 280017 = {
 	name = "Einar"
 	dynasty = 1062038
-	religion = orthodox
+	religion = catholic
 	culture = norwegian
 	father = 280016
 	1250.1.1 = {

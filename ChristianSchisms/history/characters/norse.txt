@@ -133,7 +133,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	father=5791
 	986.1.2={
@@ -152,7 +152,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	father=5792
 	1026.1.2={
@@ -1092,7 +1092,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="underhanded_rogue"
 	1000.1.2={
@@ -1159,7 +1159,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="scholarly_theologian"
 	father=100508
@@ -1328,7 +1328,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="chaste"
 	trait="martial_cleric"
@@ -1353,7 +1353,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="lustful"
 	trait="kind"
@@ -1376,7 +1376,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="kind"
 	trait="tough_soldier"
@@ -1595,7 +1595,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="amateurish_plotter"
 	father=101505 #Svend Tveskæg
@@ -1776,7 +1776,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="honest"
 	trait="underhanded_rogue"
@@ -1822,7 +1822,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="just"
 	trait="scholarly_theologian"
@@ -1930,7 +1930,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="envious"
 	trait="scholarly_theologian"
@@ -1950,7 +1950,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="just"
 	trait="humble"
@@ -1977,7 +1977,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="norwegian"
 	trait="proud"
 	trait="fortune_builder"
@@ -2280,7 +2280,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="kind"
 	trait="amateurish_plotter"
@@ -2353,7 +2353,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="diligent"
 	trait="martial_cleric"
@@ -2485,7 +2485,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="temperate"
 	trait="underhanded_rogue"
@@ -2814,7 +2814,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="patient"
 	trait="greedy"
@@ -3565,7 +3565,7 @@
 161326 = {
 	name="Sumarli"
 	dynasty=1043303
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	father=161325
 	1000.1.1={
@@ -4128,7 +4128,7 @@
 	name="Ingrid"
 	#placeholder 
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	1010.1.1 = {
 		birth="1010.1.1"
@@ -4444,7 +4444,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait="charismatic_negotiator"
 	trait="wroth"
@@ -4491,7 +4491,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait = "twin"
 	trait = "shy"
@@ -4512,7 +4512,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait = "twin"
 	trait = "fair"
@@ -4534,7 +4534,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	father=451001 #Röde Orm
 	mother=451000 #Ylva
@@ -4553,7 +4553,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture=norse
 	trait = "brave"
 	trait = "skilled_tactician"
@@ -7034,7 +7034,7 @@
 214082 = {
 	name = "Hamal"
 	dynasty = 1043504
-	religion = orthodox
+	religion = catholic
 	culture = norse
 	father=214081
 	980.1.1 = {

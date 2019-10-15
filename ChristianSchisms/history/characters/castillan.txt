@@ -5,7 +5,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="naive_appeaser"
 	1053.1.1 = {
@@ -27,7 +27,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="charitable"
 	trait="flamboyant_schemer"
@@ -49,7 +49,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="cynical"
 	trait="craven"
@@ -77,7 +77,7 @@
 	father=108560
 	mother=108592
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1015.1.1={
@@ -102,7 +102,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="wroth"
 	trait="cynical"
@@ -125,7 +125,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="amateurish_plotter"
 	father=106060
@@ -145,7 +145,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="brave"
 	trait="tough_soldier"
@@ -166,7 +166,7 @@
 	diplomacy=7
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="diligent"
 	trait="patient"
@@ -221,7 +221,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="chaste"
 	trait="cynical"
@@ -243,7 +243,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="lustful"
 	trait="flamboyant_schemer"
@@ -272,7 +272,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="content"
 	trait="naive_appeaser"
@@ -299,7 +299,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="temperate"
 	trait="skilled_tactician"
@@ -318,7 +318,7 @@
 107571 = {
 	name="Goto"
 	female = yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="naive_appeaser"
 	1060.1.1 = {
@@ -336,7 +336,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="envious"
 	trait="honest"
@@ -358,7 +358,7 @@
 	diplomacy=6
 	intrigue=3
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="diligent"
 	trait="patient"
@@ -407,7 +407,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="honest"
 	trait="underhanded_rogue"
@@ -427,7 +427,7 @@
 	name="Teresa"
 	female = yes
 	dynasty=12298
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="craven"
 	trait="underhanded_rogue"
@@ -448,7 +448,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="diligent"
 	trait="honest"
@@ -511,7 +511,7 @@
 107630 = {
 	name="Rodrigo"
 	dynasty=12298
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="amateurish_plotter"
 	1000.1.1 = {
@@ -550,7 +550,7 @@
 	father=107642
 	mother=70101
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1037.1.1={
@@ -612,7 +612,7 @@
 	father=107642
 	mother=70099
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1046.1.1={
@@ -634,7 +634,7 @@
 	father=107640
 	mother=70102
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1070.1.1={
@@ -653,7 +653,7 @@
 	father=107640
 	mother=70102
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1074.1.1={
@@ -672,7 +672,7 @@
 	father=107640
 	mother=70102
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1072.1.1={
@@ -691,7 +691,7 @@
 	father=107660
 	mother=107689
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	995.1.1={
@@ -811,7 +811,7 @@
 
 	father=107684
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	980.1.1={
@@ -829,7 +829,7 @@
 	name="Elvira"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	995.1.1={
@@ -848,7 +848,7 @@
 	father=107686
 	mother=107687
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1017.1.1={
@@ -886,7 +886,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="patient"
 	trait="deceitful"
@@ -949,7 +949,7 @@
 	diplomacy=6
 	intrigue=9
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="lustful"
 	trait="wroth"
@@ -968,7 +968,7 @@
 108510 = {
 	name="Diego"
 	dynasty=402
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="tough_soldier"
 	father=70092
@@ -987,7 +987,7 @@
 108512 = {
 	name="Rodrigo"
 	dynasty=402
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="tough_soldier"
 	father=108510
@@ -1006,7 +1006,7 @@
 108514 = {
 	name="Fernando"
 	dynasty=402
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="amateurish_plotter"
 	father=108510
@@ -1029,7 +1029,7 @@
 	name="Jimena"
 	female = yes
 	dynasty=402
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="wroth"
 	trait="thrifty_clerk"
@@ -1089,7 +1089,7 @@
 	name="Nuñadona"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	982.1.1={
@@ -1260,7 +1260,7 @@
 	diplomacy=8
 	intrigue=2
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="honest"
 	trait="wroth"
@@ -1291,7 +1291,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="flamboyant_schemer"
 	father=110510
@@ -1320,7 +1320,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	trait="deceitful"
@@ -1346,7 +1346,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="scholarly_theologian"
 	father=110510
@@ -1367,7 +1367,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="charitable"
 	trait="thrifty_clerk"
@@ -1389,7 +1389,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="proud"
 	trait="underhanded_rogue"
@@ -1414,7 +1414,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="patient"
 	trait="underhanded_rogue"
@@ -1435,7 +1435,7 @@
 	father=110510
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1042.1.1={
@@ -1465,7 +1465,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "orthodox"
+	religion = "catholic"
 	culture = "castillan"
 	trait = "bastard"
 	father = 108500
@@ -1480,7 +1480,7 @@
 
 144614  = {
 	name="Gilbert"
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1150.1.1 = {
 		birth="1150.1.1"
@@ -1497,7 +1497,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="tough_soldier"
 	1150.1.1 = {
@@ -1515,7 +1515,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="greedy"
 	trait="tough_soldier"
@@ -1562,7 +1562,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="temperate"
 	trait="brave"
@@ -1585,7 +1585,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="greedy"
 	trait="naive_appeaser"
@@ -1607,7 +1607,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="underhanded_rogue"
 	father=207500
@@ -1631,7 +1631,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="charismatic_negotiator"
 	father=207500
@@ -1652,7 +1652,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="wroth"
 	trait="brave"
@@ -1680,7 +1680,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="tough_soldier"
 	father=207500
@@ -1703,7 +1703,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=107570
 	mother=107571
@@ -1725,7 +1725,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207541
 	mother=207550
@@ -1753,7 +1753,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="just"
 	trait="amateurish_plotter"
@@ -1778,7 +1778,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="thrifty_clerk"
 	father=207540
@@ -1798,7 +1798,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="lustful"
 	trait="thrifty_clerk"
@@ -1822,7 +1822,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="tough_soldier"
 	father=207539
@@ -1845,7 +1845,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="deceitful"
 	#trait="honest"
@@ -1870,7 +1870,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="just"
 	trait="humble"
@@ -1895,7 +1895,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="stutter"
 	trait="deceitful"
@@ -1922,7 +1922,7 @@
 207650 = {
 	name="Rodrigo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=107570
 	mother=107571
@@ -1940,7 +1940,7 @@
 207651 = {
 	name="Guiomar"
 	female = yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1140.1.1 = {
 		birth="1140.1.1"
@@ -1953,7 +1953,7 @@
 207652 = {
 	name="Rodrigo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207650
 	mother=71375
@@ -1971,7 +1971,7 @@
 207653 = {
 	name="Pedro"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207650
 	mother=71375
@@ -1990,7 +1990,7 @@
 	name="Elvira"
 	female = yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=207539
@@ -2006,7 +2006,7 @@
 207655 = {
 	name="Fernando"
 	dynasty=8781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=207539
@@ -2025,7 +2025,7 @@
 207656 = {
 	name="Manrique"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207541
 	mother=207550
@@ -2041,7 +2041,7 @@
 	name="María"
 	female = yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207541
 	mother=207550
@@ -2056,7 +2056,7 @@
 207658 = {
 	name="Guillermo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207541
 	mother=207550
@@ -2076,7 +2076,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="honest"
 	trait="amateurish_plotter"
@@ -2103,7 +2103,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	trait="humble"
@@ -2126,7 +2126,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="humble"
 	trait="amateurish_plotter"
@@ -2147,7 +2147,7 @@
 	diplomacy=5
 	intrigue=2
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="slothful"
 	trait="charitable"
@@ -2188,7 +2188,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="thrifty_clerk"
 	father=208500
@@ -2208,7 +2208,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="proud"
 	trait="diligent"
@@ -2226,7 +2226,7 @@
 208530 = {
 	name="Pedro"
 	dynasty=101884
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="kind"
 	trait="zealous"
@@ -2248,7 +2248,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="gluttonous"
 	trait="lustful"
@@ -2271,7 +2271,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="temperate"
 	trait="charitable"
@@ -2293,7 +2293,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=208550
 	mother=207661
@@ -2314,7 +2314,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="amateurish_plotter"	
 	trait="proud"
@@ -2341,7 +2341,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="humble"
 	trait="gluttonous"
@@ -2364,7 +2364,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="gluttonous"
 	trait="amateurish_plotter"
@@ -2382,7 +2382,7 @@
 	name="Elvira"
 	female = yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207650
 	mother=71375
@@ -2402,7 +2402,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="proud"
 	trait="gluttonous"
@@ -2418,7 +2418,7 @@
 224003={
 	name="Martín"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -2449,7 +2449,7 @@
 232021={
 	name="Diego"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=mastermind_theologian
@@ -2470,7 +2470,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="thrifty_clerk"
 	father=207510
@@ -2490,7 +2490,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457500
@@ -2510,7 +2510,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="humble"
 	trait="scholarly_theologian"
@@ -2529,7 +2529,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	1275.1.1={
@@ -2559,7 +2559,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="chaste"
 	trait="charitable"
@@ -2589,7 +2589,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="lunatic"
 	trait="just"
@@ -2611,7 +2611,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="humble"
 	trait="tough_soldier"
@@ -2632,7 +2632,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="slothful"
 	trait="cynical"
@@ -2666,7 +2666,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	trait="paranoid"
 	trait="arbitrary"
 	trait="deceitful"
@@ -2692,7 +2692,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	trait="ill"
@@ -2714,7 +2714,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	trait="tough_soldier"
@@ -2738,7 +2738,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	trait="ambitious"
@@ -2768,7 +2768,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="brilliant_strategist"
 	father=457530
@@ -2792,7 +2792,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="flamboyant_schemer"
 	father=457520
@@ -2812,7 +2812,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="greedy"
 	trait="honest"
@@ -2840,7 +2840,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="greedy"
 	trait="deceitful"
@@ -2868,7 +2868,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="naive_appeaser"
 	father=457531
@@ -2889,7 +2889,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="patient"
 	trait="amateurish_plotter"
@@ -2911,7 +2911,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="lustful"
 	trait="diligent"
@@ -2934,7 +2934,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="temperate"
 	trait="flamboyant_schemer"
@@ -2965,7 +2965,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="slothful"
 	trait="brave"
@@ -2990,7 +2990,7 @@
 	father=457541
 	mother=455422
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1270.1.2={
@@ -3031,7 +3031,7 @@
 	father=457542
 	mother=200096
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1291.1.2={
@@ -3052,7 +3052,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="arbitrary"
 	father=457550
@@ -3072,7 +3072,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=457550
@@ -3092,7 +3092,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="gluttonous"
 	trait="tough_soldier"
@@ -3114,7 +3114,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="thrifty_clerk"
 	father=457550
@@ -3133,7 +3133,7 @@
 	father=457542
 	mother=200096
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1295.1.1={
@@ -3150,7 +3150,7 @@
 457556={
 	name="Alfonso"
 	dynasty=77
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	trait="bastard"
 	father=457542
@@ -3178,7 +3178,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="arbitrary"
 	trait="thrifty_clerk"
@@ -3200,7 +3200,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="zealous"
 	trait="flamboyant_schemer"
@@ -3222,7 +3222,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="scholarly_theologian"
 	father=457580
@@ -3241,7 +3241,7 @@
 	father=457540
 	mother=460611
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1260.5.15={
@@ -3275,7 +3275,7 @@
 	father=457561
 	mother=33368
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1283.1.1={
@@ -3300,7 +3300,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="patient"
 	trait="thrifty_clerk"
@@ -3323,7 +3323,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="kind"
 	trait="bastard"
@@ -3345,7 +3345,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="lisp"
 	trait="tough_soldier"
@@ -3368,7 +3368,7 @@
 	father=457580
 	mother=457680
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1314.1.1={
@@ -3389,7 +3389,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="flamboyant_schemer"
 	father=457562
@@ -3413,7 +3413,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="humble"
 	trait="wroth"
@@ -3437,7 +3437,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="patient"
 	trait="flamboyant_schemer"
@@ -3464,7 +3464,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="charitable"
 	trait="tough_soldier"
@@ -3495,7 +3495,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="honest"
 	trait="inbred"
@@ -3517,7 +3517,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="fortune_builder"
 	father=457621
@@ -3547,7 +3547,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="scholarly_theologian"
 	father=457630
@@ -3567,7 +3567,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="hunchback"
 	trait="midas_touched"
@@ -3588,7 +3588,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	trait="tough_soldier"
@@ -3607,7 +3607,7 @@
 457634 = {
 	name="Inés"
 	female = yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1300.1.1 = {
 		birth="1300.1.1"
@@ -3624,7 +3624,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="humble"
 	trait="tough_soldier"
@@ -3644,7 +3644,7 @@
 
 	father=457620
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1238.1.1={
@@ -3666,7 +3666,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="thrifty_clerk"
 	father=457620
@@ -3685,7 +3685,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="tough_soldier"
 	father=208500
@@ -3718,7 +3718,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="charitable"
 	trait="amateurish_plotter"
@@ -3743,7 +3743,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="greedy"
 	trait="amateurish_plotter"
@@ -3764,7 +3764,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="greedy"
 	trait="tough_soldier"
@@ -3796,7 +3796,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="lustful"
 	trait="flamboyant_schemer"
@@ -3817,7 +3817,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="patient"
 	trait="cynical"
@@ -3842,7 +3842,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="patient"
 	trait="kind"
@@ -3868,7 +3868,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="chaste"
 	trait="patient"
@@ -3891,7 +3891,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="underhanded_rogue"
 	father=457663
@@ -3912,7 +3912,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="thrifty_clerk"
 	father=457660
@@ -3933,7 +3933,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="humble"
 	father=73087
@@ -3953,7 +3953,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	trait="gluttonous"
@@ -3975,7 +3975,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="proud"
 	trait="bastard"
@@ -3997,7 +3997,7 @@
 	father=72544
 	mother=72031
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1286.1.1={
@@ -4016,7 +4016,7 @@
 	father=72544
 	mother=72031
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1280.1.1={
@@ -4034,7 +4034,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="arbitrary"
 	trait="scholarly_theologian"
@@ -4049,7 +4049,7 @@
 458004={
 	name="Berenguel"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=mastermind_theologian
@@ -4065,7 +4065,7 @@
 458005 = {
 	name="Gonzalo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207544
 	mother=72891
@@ -4084,7 +4084,7 @@
 	diplomacy=6
 	intrigue=9
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="wroth"
 	trait="martial_cleric"
@@ -4124,7 +4124,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73130
 	trait="proud"
@@ -4146,7 +4146,7 @@
 	name="María"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1264.1.1={
@@ -4165,7 +4165,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="diligent"
 	trait="arbitrary"
@@ -4188,7 +4188,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="lustful"
 	trait="diligent"
@@ -4210,7 +4210,7 @@
 	father=458007
 	mother=458008
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1283.1.1={
@@ -4228,7 +4228,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="diligent"
 	trait="honest"
@@ -4252,7 +4252,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="charitable"
 	trait="honest"
@@ -4277,7 +4277,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="kind"
 	trait="just"
@@ -4303,7 +4303,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="slothful"
 	trait="deceitful"
@@ -4326,7 +4326,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="wroth"
 	trait="thrifty_clerk"
@@ -4347,7 +4347,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="craven"
 	trait="thrifty_clerk"
@@ -4368,7 +4368,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="wroth"
 	trait="tough_soldier"
@@ -4389,7 +4389,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="arbitrary"
 	trait="thrifty_clerk"
@@ -4411,7 +4411,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="tough_soldier"
 	father=458021
@@ -4427,7 +4427,7 @@
 458031 = {
 	name="Diego"
 	dynasty=8748
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71417
 	mother=71416
@@ -4442,7 +4442,7 @@
 458032 = {
 	name="Menendo"
 	dynasty=8748
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=458031
 	1328.1.1={
@@ -4461,7 +4461,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="craven"
 	trait="indulgent_wastrel"
@@ -4484,7 +4484,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="honest"
 	trait="zealous"
@@ -4552,7 +4552,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="craven"
 	trait="scholar"
@@ -4577,7 +4577,7 @@
 	diplomacy=3
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="ambitious"
 	trait="brave"
@@ -4602,7 +4602,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="charitable"
 	trait="gregarious"
@@ -4625,7 +4625,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="proud"
 	trait="temperate"
@@ -4648,7 +4648,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="charitable"
 	trait="gardener"
@@ -4670,7 +4670,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="diligent"
 	trait="honest"
@@ -4692,7 +4692,7 @@
 	name="Fronilda"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1030.1.1={
@@ -4714,7 +4714,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="fair"
 	trait="mystic"
@@ -4736,7 +4736,7 @@
 	father=70038
 	mother=70039
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1050.1.1={
@@ -4754,7 +4754,7 @@
 	father=70038
 	mother=70039
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=detached_priest
@@ -4774,7 +4774,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="slothful"
 	trait="greedy"
@@ -4799,7 +4799,7 @@
 	father=70031
 	mother=70113
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1030.1.1={
@@ -4820,7 +4820,7 @@
 	name="Sancha"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1032.1.1={
@@ -4838,7 +4838,7 @@
 	diplomacy=3
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="humble"
 	trait="honest"
@@ -4886,7 +4886,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="humble"
 	trait="chaste"
@@ -4908,7 +4908,7 @@
 	diplomacy=6
 	intrigue=3
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="proud"
 	trait="arbitrary"
@@ -4953,7 +4953,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="greedy"
 	trait="zealous"
@@ -4974,7 +4974,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="just"
 	trait="honest"
@@ -5001,7 +5001,7 @@
 	diplomacy=7
 	intrigue=3
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="patient"
 	trait="diligent"
@@ -5028,7 +5028,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="craven"
 	trait="gregarious"
@@ -5077,7 +5077,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="mystic"
 	trait="charitable"
@@ -5094,7 +5094,7 @@
 	name="Elvira"
 	female=yes
 	dynasty=402
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="cynical"
 	trait="proud"
@@ -5116,7 +5116,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="greedy"
 	trait="brave"
@@ -5140,7 +5140,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="hunter"
 	trait="patient"
@@ -5165,7 +5165,7 @@
 	name="Toda"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1030.1.1={
@@ -5183,7 +5183,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="temperate"
 	trait="brave"
@@ -5207,7 +5207,7 @@
 	father=70094
 	mother=70095
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1057.1.1={
@@ -5225,7 +5225,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="quick"
 	trait="naive_appeaser"
@@ -5250,7 +5250,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="mystic"
 	trait="honest"
@@ -5273,7 +5273,7 @@
 	father=107642
 	mother=70099
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1045.1.1={
@@ -5291,7 +5291,7 @@
 	name="Mayor"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1019.1.1={
@@ -5306,7 +5306,7 @@
 	name="Eylo"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1050.1.1={
@@ -5324,7 +5324,7 @@
 	father=107640
 	mother=70102
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1067.1.1={
@@ -5342,7 +5342,7 @@
 	father=107640
 	mother=70102
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1066.1.1={
@@ -5360,7 +5360,7 @@
 	name="Sol"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1055.1.1={
@@ -5400,7 +5400,7 @@
 
 	father=70106
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1043.1.1={
@@ -5422,7 +5422,7 @@
 	father=73035
 	mother=73036
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1058.1.1={
@@ -5440,7 +5440,7 @@
 	father=70107
 	mother=70108
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1075.1.1={
@@ -5458,7 +5458,7 @@
 	father=70107
 	mother=70108
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1086.1.1={
@@ -5499,7 +5499,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="poet"
 	trait="charitable"
@@ -5526,7 +5526,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="zealous"
 	trait="mystic"
@@ -5548,7 +5548,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="just"
 	father=207510
@@ -5568,7 +5568,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="brave"
 	trait="duelist"
@@ -5597,7 +5597,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="brave"
 	trait="hunter"
@@ -5636,7 +5636,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="chaste"
 	trait="scholar"
@@ -5703,7 +5703,7 @@
 	father=70250
 	mother=70251
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1011.1.1={
@@ -5742,7 +5742,7 @@
 	name="Sancha"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1029.1.1={
@@ -5761,7 +5761,7 @@
 	father=70252
 	mother=70253
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1032.1.1={
@@ -5780,7 +5780,7 @@
 	father=70252
 	mother=70253
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1034.1.1={
@@ -5799,7 +5799,7 @@
 	father=70252
 	mother=70253
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1036.1.1={
@@ -5818,7 +5818,7 @@
 	father=70252
 	mother=70253
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1038.1.1={
@@ -5836,7 +5836,7 @@
 	father=70252
 	mother=70253
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1040.1.1={
@@ -5855,7 +5855,7 @@
 	father=70252
 	mother=70253
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1042.1.1={
@@ -5873,7 +5873,7 @@
 	father=70252
 	mother=70254
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1048.1.1={
@@ -5894,7 +5894,7 @@
 	father=70252
 	mother=70254
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1050.1.1={
@@ -5912,7 +5912,7 @@
 	father=70252
 	mother=70254
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1052.1.1={
@@ -5930,7 +5930,7 @@
 	father=70250
 	mother=70251
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1013.1.1={
@@ -5950,7 +5950,7 @@
 
 	father=107641
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1000.1.1={
@@ -5967,7 +5967,7 @@
 
 	father=70265
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1030.1.1={
@@ -5984,7 +5984,7 @@
 
 	father=70265
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1032.1.1={
@@ -6002,7 +6002,7 @@
 
 	father=70265
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	
 	1034.1.1={
@@ -6060,7 +6060,7 @@
 	name="Eylo"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1064.1.1={
@@ -6074,7 +6074,7 @@
 71321 = {
 	name="Sancho"
 	dynasty=436
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=70034
 	mother=71320
@@ -6090,7 +6090,7 @@
 	name="Urraca"
 	dynasty=436
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=70034
 	mother=71320
@@ -6105,7 +6105,7 @@
 71323 = {
 	name="Nuño"
 	dynasty=8738
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1040.1.1 = {
 		birth="1040.1.1"
@@ -6121,7 +6121,7 @@
 71324 = {
 	name="Fernando"
 	dynasty=8738
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71323
 	mother=70040
@@ -6136,7 +6136,7 @@
 71325 = {
 	name="Pelayo"
 	dynasty=436
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=70041
 	trait="bastard"
@@ -6153,7 +6153,7 @@
 	name="María"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1060.1.1={
@@ -6168,7 +6168,7 @@
 	name="Elvira"
 	dynasty=436
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=70046
 	mother=71326
@@ -6184,7 +6184,7 @@
 	name="Sancha"
 	dynasty=436
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=70046
 	mother=71326
@@ -6199,7 +6199,7 @@
 71329 = {
 	name="Álvaro"
 	dynasty=8740
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1070.1.1 = {
 		birth="1070.1.1"
@@ -6219,7 +6219,7 @@
 	father=71329
 	mother=71328
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1098.1.1={
@@ -6233,7 +6233,7 @@
 71331 = {
 	name="Rodrigo"
 	dynasty=8740
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71329
 	mother=71328
@@ -6249,7 +6249,7 @@
 	name="Sancha"
 	dynasty=8740
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71329
 	mother=71328
@@ -6264,7 +6264,7 @@
 71339 = {
 	name="Rodrigo"
 	dynasty=8779
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=70050
 	mother=70033
@@ -6281,7 +6281,7 @@
 	name="Guina"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1066.1.1={
@@ -6296,7 +6296,7 @@
 	name="María"
 	dynasty=402
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=108514
 	mother=71355
@@ -6312,7 +6312,7 @@
 71355 = {
 	name="Anderquina"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1070.1.1 = {
 		birth="1070.1.1"
@@ -6325,7 +6325,7 @@
 71357 = {
 	name="Diego"
 	dynasty=8744
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1062.1.1 = {
 		birth="1062.1.1"
@@ -6342,7 +6342,7 @@
 	name="Toda"
 	dynasty=8744
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71357
 	mother=71356
@@ -6357,7 +6357,7 @@
 71360 = {
 	name="Álvaro"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=106050
 	mother=106016
@@ -6373,7 +6373,7 @@
 	name="Elvira"
 	dynasty=437
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=106050
 	mother=106016
@@ -6388,7 +6388,7 @@
 71362 = {
 	name="Fernando"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=106050
 	mother=106016
@@ -6404,7 +6404,7 @@
 	name="Mayor"
 	dynasty=437
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=106050
 	mother=106016
@@ -6419,7 +6419,7 @@
 71364 = {
 	name="García"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=106050
 	mother=71359
@@ -6438,7 +6438,7 @@
 	name="Tegridia"
 	dynasty=8620
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=70098
 	mother=72364
@@ -6453,7 +6453,7 @@
 71372 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -6468,7 +6468,7 @@
 71374 = {
 	name="Sancho"
 	dynasty=442
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=108500
@@ -6488,7 +6488,7 @@
 	name="Sancha"
 	dynasty=442
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=108500
 	mother=71373
@@ -6503,7 +6503,7 @@
 71376 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -6518,7 +6518,7 @@
 71377 = {
 	name="Fernando"
 	dynasty=8746
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71378
 	1094.1.1 = {
@@ -6538,7 +6538,7 @@
 71378 = {
 	name="Fernando"
 	dynasty=8746
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1068.1.1 = {
 		birth="1068.1.1"
@@ -6552,7 +6552,7 @@
 	name="Sancha"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=298
 	mother=207660
@@ -6567,7 +6567,7 @@
 71380 = {
 	name="Beltrán"
 	dynasty=8780
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=71592
@@ -6586,7 +6586,7 @@
 	name="Sancha"
 	dynasty=8780
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71380
 	mother=207654
@@ -6601,7 +6601,7 @@
 71382 = {
 	name="Pedro"
 	dynasty=8781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207655
 	mother=72417
@@ -6618,7 +6618,7 @@
 	name="Leonor"
 	dynasty=8781
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207655
 	mother=72417
@@ -6633,7 +6633,7 @@
 71385 = {
 	name="Ramón"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207500
 	mother=210511
@@ -6648,7 +6648,7 @@
 71386 = {
 	name="García"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207500
 	mother=210511
@@ -6663,7 +6663,7 @@
 71387 = {
 	name="Alfonso"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207500
 	mother=210511
@@ -6678,7 +6678,7 @@
 71388 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207500
 	mother=221529
@@ -6694,7 +6694,7 @@
 	name="Estefanía"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=207500
@@ -6710,7 +6710,7 @@
 	name="Eylo"
 	dynasty=8747
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71391
 	mother=107644
@@ -6725,7 +6725,7 @@
 71391 = {
 	name="Álvar"
 	dynasty=8747
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1069.1.1 = {
 		birth="1069.1.1"
@@ -6742,7 +6742,7 @@
 	name="Urraca"
 	dynasty=8747
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71391
 	mother=107644
@@ -6757,7 +6757,7 @@
 71402 = {
 	name="Sancho"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207510
 	mother=204512
@@ -6773,7 +6773,7 @@
 	name="Sancha"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207510
 	mother=204512
@@ -6788,7 +6788,7 @@
 71404 = {
 	name="Enrique"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207510
 	mother=204512
@@ -6803,7 +6803,7 @@
 71405 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207510
 	mother=204512
@@ -6819,7 +6819,7 @@
 	name="Mafalda"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207510
 	mother=204512
@@ -6835,7 +6835,7 @@
 	name="Constanza"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=207510
@@ -6851,7 +6851,7 @@
 71408 = {
 	name="García"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=208500
@@ -6867,7 +6867,7 @@
 71409 = {
 	name="Alfonso"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=208500
@@ -6887,7 +6887,7 @@
 71410 = {
 	name="Sancho"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=208500
@@ -6910,7 +6910,7 @@
 71412 = {
 	name="Diego"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71410
 	mother=71411
@@ -6928,7 +6928,7 @@
 71413 = {
 	name="Teresa"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1211.1.1 = {
 		birth="1211.1.1"
@@ -6941,7 +6941,7 @@
 71414 = {
 	name="Juan"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71412
 	mother=71413
@@ -6956,7 +6956,7 @@
 71415 = {
 	name="Diego"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71412
 	mother=71413
@@ -6975,7 +6975,7 @@
 	name="Juana"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71415
 	mother=72016
@@ -6990,7 +6990,7 @@
 71417 = {
 	name="Rodrigo"
 	dynasty=8748
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71420
 	1265.1.1 = {
@@ -7008,7 +7008,7 @@
 	name="María"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71410
 	mother=71411
@@ -7023,7 +7023,7 @@
 71421 = {
 	name="Sancho"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=208500
@@ -7038,7 +7038,7 @@
 71422 = {
 	name="Juan"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71421
 	1221.1.1 = {
@@ -7053,7 +7053,7 @@
 	name="María"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71421
 	1223.1.1 = {
@@ -7068,7 +7068,7 @@
 	name="Sancha"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=457650
@@ -7084,7 +7084,7 @@
 71425 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457650
 	mother=209504
@@ -7100,7 +7100,7 @@
 	name="Dulce"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457650
 	mother=209504
@@ -7116,7 +7116,7 @@
 	name="Mafalda"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207544
 	mother=72891
@@ -7131,7 +7131,7 @@
 71428 = {
 	name="Fernando"
 	dynasty=782
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457660
 	mother=71427
@@ -7147,7 +7147,7 @@
 	name="Blanca"
 	dynasty=782
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457660
 	mother=71427
@@ -7163,7 +7163,7 @@
 	name="Teresa"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207547
 	mother=71965
@@ -7179,7 +7179,7 @@
 	name="Juana"
 	dynasty=782
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457660
 	mother=71430
@@ -7194,7 +7194,7 @@
 71432 = {
 	name="Juan"
 	dynasty=782
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	trait="mastermind_theologian"
@@ -7215,7 +7215,7 @@
 	name="Teresa"
 	dynasty=782
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457660
@@ -7231,7 +7231,7 @@
 	name="Urraca"
 	dynasty=782
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457660
@@ -7252,7 +7252,7 @@
 	mother=142447
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1233.1.1={
@@ -7272,7 +7272,7 @@
 	mother=142447
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1235.1.1={
@@ -7287,7 +7287,7 @@
 	name="Juana"
 	dynasty=782
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457660
@@ -7302,7 +7302,7 @@
 71438 = {
 	name="Pedro"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -7317,7 +7317,7 @@
 71439 = {
 	name="Alfonso"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71438
 	1215.1.1 = {
@@ -7331,7 +7331,7 @@
 71440 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=71438
@@ -7347,7 +7347,7 @@
 	name="Urraca"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -7362,7 +7362,7 @@
 71442 = {
 	name="Rodrigo"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -7382,7 +7382,7 @@
 	name="Aldonza"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71442
 	mother=72182
@@ -7397,7 +7397,7 @@
 71444 = {
 	name="Juan"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71442
 	mother=72182
@@ -7413,7 +7413,7 @@
 	name="Aldonza"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -7430,7 +7430,7 @@
 	name="Teresa"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -7446,7 +7446,7 @@
 71447 = {
 	name="Juan"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=71376
@@ -7467,7 +7467,7 @@
 71448 = {
 	name="Juan"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71447
 	mother=72410
@@ -7482,7 +7482,7 @@
 71449 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71447
 	mother=72410
@@ -7498,7 +7498,7 @@
 	name="Sancha"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -7514,7 +7514,7 @@
 	name="María"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -7529,7 +7529,7 @@
 71452 = {
 	name="Martín"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -7545,7 +7545,7 @@
 	name="Urraca"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=457650
@@ -7561,7 +7561,7 @@
 	name="Leonor"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457650
 	mother=457651
@@ -7576,7 +7576,7 @@
 71455 = {
 	name="Fadrique"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457620
 	mother=30200
@@ -7596,7 +7596,7 @@
 	female=yes
 	dynasty=681
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	father=71455
@@ -7613,7 +7613,7 @@
 71458 = {
 	name="Alonso"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71455
 	trait="bastard"
@@ -7628,7 +7628,7 @@
 71461 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457620
 	mother=30200
@@ -7643,7 +7643,7 @@
 71462 = {
 	name="Alfonso"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71461
 	trait="bastard"
@@ -7659,7 +7659,7 @@
 	name="Leonor"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457620
 	mother=30200
@@ -7675,7 +7675,7 @@
 	name="Berenguela"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=457620
@@ -7691,7 +7691,7 @@
 71465 = {
 	name="Enrique"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457620
 	mother=30200
@@ -7709,7 +7709,7 @@
 71466 = {
 	name="Enrique"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71465
 	trait="bastard"
@@ -7724,7 +7724,7 @@
 71467 = {
 	name="Enrique"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71466
 	1280.1.1={
@@ -7742,7 +7742,7 @@
 	name="Inés"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71465
 	trait="bastard"
@@ -7757,7 +7757,7 @@
 71469 = {
 	name="Juan"
 	dynasty=8749
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1280.1.1 = {
 		birth="1280.1.1"
@@ -7773,7 +7773,7 @@
 71470 = {
 	name="Felipe"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457620
 	mother=30200
@@ -7797,7 +7797,7 @@
 71471 = {
 	name="Felipe"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71470
 	mother=72213
@@ -7812,7 +7812,7 @@
 71472 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71470
 	trait="bastard"
@@ -7827,7 +7827,7 @@
 71473 = {
 	name="Alfonso"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71470
 	trait="bastard"
@@ -7843,7 +7843,7 @@
 	name="Beatriz"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71470
 	trait="bastard"
@@ -7858,7 +7858,7 @@
 71475 = {
 	name="Sancho"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=457620
@@ -7875,7 +7875,7 @@
 	name="Constanza"
 	female=yes
 	dynasty=7024
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457621
 	mother=460612
@@ -7890,7 +7890,7 @@
 71477 = {
 	name="Alfonso"
 	dynasty=7024
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457621
 	mother=460612
@@ -7905,7 +7905,7 @@
 71478 = {
 	name="Fernando"
 	dynasty=7024
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457621
 	trait="bastard"
@@ -7920,7 +7920,7 @@
 71479 = {
 	name="Enrique"
 	dynasty=7024
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457621
 	trait="bastard"
@@ -7936,7 +7936,7 @@
 	name="Blanca"
 	dynasty=7024
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457621
 	trait="bastard"
@@ -7952,7 +7952,7 @@
 	name="Beatriz"
 	female=yes
 	dynasty=7024
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457633
 	mother=457634
@@ -7968,7 +7968,7 @@
 	name="Inés"
 	female=yes
 	dynasty=7024
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457633
 	mother=457634
@@ -7983,7 +7983,7 @@
 71483 = {
 	name="Fernando"
 	dynasty=7024
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="mastermind_theologian"
 	father=457633
@@ -8000,7 +8000,7 @@
 	name="Beatriz"
 	female=yes
 	dynasty=7024
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457630
 	mother=460564
@@ -8015,7 +8015,7 @@
 71486 = {
 	name="Luis"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457620
 	#mother=Jeanne Dammartin
@@ -8034,7 +8034,7 @@
 	name="Berenguela"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71486
 	mother=72585
@@ -8049,7 +8049,7 @@
 71488 = {
 	name="Luis"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71486
 	mother=72585
@@ -8068,7 +8068,7 @@
 	father=457620
 	#mother=Jeanne Dammartin
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1244.1.1={
@@ -8083,7 +8083,7 @@
 	name="Berenguela"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=457540
@@ -8103,7 +8103,7 @@
 	father=457542
 	mother=200096
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -8119,7 +8119,7 @@
 71493 = {
 	name="Alfonso"
 	dynasty=77
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457550
 	mother=458009
@@ -8135,7 +8135,7 @@
 	name="María"
 	female=yes
 	dynasty=77
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457550
 	mother=458009
@@ -8151,7 +8151,7 @@
 	name="Blanca"
 	female=yes
 	dynasty=77
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457550
 	mother=458009
@@ -8167,7 +8167,7 @@
 	name="María"
 	female=yes
 	dynasty=77
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457550
 	mother=458009
@@ -8187,7 +8187,7 @@
 	father=457542
 	mother=200096
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1293.1.1 = {
@@ -8202,7 +8202,7 @@
 	name="Beatriz"
 	dynasty=77
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457550
 	mother=459515
@@ -8217,7 +8217,7 @@
 71499 = {
 	name="Alfonso"
 	dynasty=77
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457555
 	mother=459515
@@ -8233,7 +8233,7 @@
 	name="María"
 	female=yes
 	dynasty=77
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457555
 	trait="bastard"
@@ -8248,7 +8248,7 @@
 71501 = {
 	name="Alfonso"
 	dynasty=77
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457555
 	trait="bastard"
@@ -8268,7 +8268,7 @@
 	father=457542
 	mother=200096
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1305.1.1={
@@ -8284,7 +8284,7 @@
 	female=yes
 	dynasty=77
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	father=457542
@@ -8301,7 +8301,7 @@
 71504 = {
 	name="Fernando"
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72644
 	mother=72766
@@ -8324,7 +8324,7 @@
 	father=457542
 	mother=200096
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1309.1.1={
@@ -8338,7 +8338,7 @@
 71510 = {
 	name="Juan"
 	dynasty=779
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457590
 	mother=459504
@@ -8353,7 +8353,7 @@
 71511 = {
 	name="Alfonso"
 	dynasty=779
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457590
 	mother=459504
@@ -8369,7 +8369,7 @@
 	name="Isabel"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457540
 	mother=460611
@@ -8385,7 +8385,7 @@
 	name="Violante"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457540
 	mother=460611
@@ -8400,7 +8400,7 @@
 71514 = {
 	name="Jaime"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457540
 	mother=460611
@@ -8416,7 +8416,7 @@
 	name="Leonor"
 	female=yes
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457540
 	mother=460611
@@ -8432,7 +8432,7 @@
 	name="Berenguela"
 	female=yes
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457540
 	mother=71451
@@ -8452,7 +8452,7 @@
 	father=457540
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1243.1.1={
@@ -8470,7 +8470,7 @@
 	name="Isabel"
 	dynasty=782
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71517
 	mother=71429
@@ -8486,7 +8486,7 @@
 	name="Mafalda"
 	dynasty=782
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71517
 	mother=71429
@@ -8502,7 +8502,7 @@
 	name="Urraca"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457540
 	trait="bastard"
@@ -8517,7 +8517,7 @@
 71521 = {
 	name="Martín"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	trait="scholarly_theologian"
@@ -8533,7 +8533,7 @@
 71522 = {
 	name="Alfonso"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457530
 	mother=457666
@@ -8548,7 +8548,7 @@
 71523 = {
 	name="Enrique"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457530
 	mother=457666
@@ -8563,7 +8563,7 @@
 71524 = {
 	name="Felipe"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457530
 	mother=457666
@@ -8581,7 +8581,7 @@
 71525 = {
 	name="Alfonso"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457530
 	trait="bastard"
@@ -8600,7 +8600,7 @@
 	name="María"
 	dynasty=681
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457520
 	mother=459511
@@ -8615,7 +8615,7 @@
 71527 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457500
 	mother=459502
@@ -8630,7 +8630,7 @@
 71528 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457500
 	mother=73146
@@ -8646,7 +8646,7 @@
 71529 = {
 	name="Tello"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457500
 	mother=73146
@@ -8662,7 +8662,7 @@
 71530 = {
 	name="Fernando"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71455
 	trait="bastard"
@@ -8677,7 +8677,7 @@
 71532 = {
 	name="Pedro"
 	dynasty=442
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=70231
 	mother=127036
@@ -8692,7 +8692,7 @@
 71541 = {
 	name="Diego"
 	dynasty=407
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=107590
 	mother=108519
@@ -8708,7 +8708,7 @@
 	name="Elvira"
 	dynasty=407
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=107590
 	mother=108519
@@ -8723,7 +8723,7 @@
 71546 = {
 	name="Gómez"
 	dynasty=8603
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72836
 	mother=72837
@@ -8741,7 +8741,7 @@
 71547 = {
 	name="García"
 	dynasty=8603
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71546
 	mother=71363
@@ -8756,7 +8756,7 @@
 71548 = {
 	name="Pelayo"
 	dynasty=8603
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71546
 	mother=71363
@@ -8771,7 +8771,7 @@
 71549 = {
 	name="Diego"
 	dynasty=8603
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71546
 	mother=71363
@@ -8787,7 +8787,7 @@
 	name="Urraca"
 	dynasty=8603
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71546
 	mother=71363
@@ -8806,7 +8806,7 @@
 	father=110515
 	mother=71580
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1067.1.1={
@@ -8824,7 +8824,7 @@
 	father=110515
 	mother=71580
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1068.1.1={
@@ -8845,7 +8845,7 @@
 	father=71583
 	mother=71584
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1099.1.1={
@@ -8864,7 +8864,7 @@
 	father=110515
 	mother=71587
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1072.1.1={
@@ -8879,7 +8879,7 @@
 	name="Isabel"
 	dynasty=442
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=70231
 	mother=127036
@@ -8894,7 +8894,7 @@
 71591 = {
 	name="Fernando"
 	dynasty=442
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=110500
 	mother=71589
@@ -8909,7 +8909,7 @@
 71592 = {
 	name="García"
 	dynasty=442
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	trait="detached_priest"
@@ -8929,7 +8929,7 @@
 	father=200106
 	mother=200107
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1293.1.1={
@@ -8947,7 +8947,7 @@
 	name="Teresa"
 	dynasty=8685
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71735
 	1310.1.1 = {
@@ -8961,7 +8961,7 @@
 71735 = {
 	name="Blasco"
 	dynasty=8685
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1279.1.1 = {
 		birth="1279.1.1"
@@ -8974,7 +8974,7 @@
 71736 = {
 	name="Blasco"
 	dynasty=8685
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71735
 	1308.1.1 = {
@@ -8995,7 +8995,7 @@
 	father=200106
 	mother=200107
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1280.1.1={
@@ -9012,7 +9012,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="just"
 	trait="humble"
@@ -9033,7 +9033,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="tough_soldier"
 	trait="diligent"
@@ -9058,7 +9058,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=85026
 	mother=85028
@@ -9077,7 +9077,7 @@
 	diplomacy=4
 	intrigue=9
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="deceitful"
 	trait="elusive_shadow"
@@ -9092,7 +9092,7 @@
 71949 = {
 	name="Nuño"
 	dynasty=12114
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72901
 	mother=72898
@@ -9111,7 +9111,7 @@
 	name="María"
 	dynasty=7033
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71743
 	mother=71742
@@ -9126,7 +9126,7 @@
 71980 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1284.1.1 = {
 		birth="1284.1.1"
@@ -9139,7 +9139,7 @@
 71983 = {
 	name="Leonor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1318.1.1 = {
 		birth="1318.1.1"
@@ -9152,7 +9152,7 @@
 71999 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1160.1.1 = {
 		birth="1160.1.1"
@@ -9165,7 +9165,7 @@
 72007 = {
 	name="Berenguela"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1230.1.1 = {
 		birth="1230.1.1"
@@ -9178,7 +9178,7 @@
 72013 = {
 	name="Sancha"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1275.1.1 = {
 		birth="1275.1.1"
@@ -9191,7 +9191,7 @@
 72073 = {
 	name="Eslonza"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1067.1.1 = {
 		birth="1067.1.1"
@@ -9204,7 +9204,7 @@
 72167 = {
 	name="Sancha"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1111.1.1 = {
 		birth="1111.1.1"
@@ -9217,7 +9217,7 @@
 72169 = {
 	name="Fernando"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72161
 	mother=72168
@@ -9244,7 +9244,7 @@
 	female=yes
 	father=72161
 	mother=72168
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1145.1.1 = {
 		birth="1145.1.1"
@@ -9261,7 +9261,7 @@
 	father=73062
 	mother=72864
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1131.1.1={
@@ -9278,7 +9278,7 @@
 72172 = {
 	name="Fernando"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72169
 	mother=71956
@@ -9299,7 +9299,7 @@
 72173 = {
 	name="Inés"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1188.1.1 = {
 		birth="1188.1.1"
@@ -9312,7 +9312,7 @@
 72174 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1190.1.1 = {
 		birth="1190.1.1"
@@ -9325,7 +9325,7 @@
 72175 = {
 	name="Rodrigo"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72172
 	mother=72174
@@ -9346,7 +9346,7 @@
 72176 = {
 	name="Sancha"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1212.1.1 = {
 		birth="1212.1.1"
@@ -9360,7 +9360,7 @@
 	name="Teresa"
 	dynasty=12165
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72906
 	mother=72914
@@ -9375,7 +9375,7 @@
 72178 = {
 	name="Ramiro"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72175
 	mother=72176
@@ -9390,7 +9390,7 @@
 72179 = {
 	name="Rodrigo"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72175
 	mother=72176
@@ -9405,7 +9405,7 @@
 72180 = {
 	name="Fernando"
 	dynasty=101701
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72175
 	mother=72176
@@ -9423,7 +9423,7 @@
 72181 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1243.1.1 = {
 		birth="1243.1.1"
@@ -9437,7 +9437,7 @@
 	name="Inés"
 	dynasty=101701
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72175
 	mother=72177
@@ -9452,7 +9452,7 @@
 72202 = {
 	name="Leonor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1300.1.1 = {
 		birth="1300.1.1"
@@ -9466,7 +9466,7 @@
 	name="Leonor"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207547
 	mother=71965
@@ -9481,7 +9481,7 @@
 72364 = {
 	name="Sancha"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1060.1.1 = {
 		birth="1060.1.1"
@@ -9494,7 +9494,7 @@
 72365 = {
 	name="Osorio"
 	dynasty=8620
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=70098
 	mother=72364
@@ -9513,7 +9513,7 @@
 	name="Aldonza"
 	dynasty=8620
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72365
 	mother=72360
@@ -9529,7 +9529,7 @@
 	name="Constanza"
 	dynasty=8620
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72365
 	mother=72360
@@ -9544,7 +9544,7 @@
 72369 = {
 	name="Fernando"
 	dynasty=8620
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72365
 	mother=72360
@@ -9559,7 +9559,7 @@
 72370 = {
 	name="Gonzalo"
 	dynasty=8620
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72365
 	mother=72360
@@ -9577,7 +9577,7 @@
 72371 = {
 	name="Marina"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1149.1.1 = {
 		birth="1149.1.1"
@@ -9591,7 +9591,7 @@
 	name="Jimena"
 	dynasty=8620
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72365
 	mother=72360
@@ -9606,7 +9606,7 @@
 72373 = {
 	name="Rodrigo"
 	dynasty=8620
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72365
 	mother=72360
@@ -9621,7 +9621,7 @@
 72374 = {
 	name="Rodrigo"
 	dynasty=8620
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72373
 	1190.1.1 = {
@@ -9635,7 +9635,7 @@
 72375 = {
 	name="Rodrigo"
 	dynasty=8620
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72374
 	1232.1.1 = {
@@ -9650,7 +9650,7 @@
 	name="Sancha"
 	dynasty=8620
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72365
 	mother=72360
@@ -9665,7 +9665,7 @@
 72377 = {
 	name="Rodrigo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72966
 	mother=72981
@@ -9691,7 +9691,7 @@
 	father=72567
 	mother=72425
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1182.10.12={
@@ -9706,7 +9706,7 @@
 	name="Elvira"
 	dynasty=8620
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72365
 	mother=72360
@@ -9721,7 +9721,7 @@
 72398 = {
 	name="Fernando"
 	dynasty=100189
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72396
 	trait=bastard
@@ -9737,7 +9737,7 @@
 	name="Marina"
 	dynasty=100189
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72398
 	1174.1.1 = {
@@ -9751,7 +9751,7 @@
 72400 = {
 	name="Velasco"
 	dynasty=100189
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72398
 	1176.1.1 = {
@@ -9765,7 +9765,7 @@
 72401 = {
 	name="Pedro"
 	dynasty=100189
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72398
 	1178.1.1 = {
@@ -9779,7 +9779,7 @@
 72416 = {
 	name="Juan"
 	dynasty=12143
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72475
 	mother=72477
@@ -9797,7 +9797,7 @@
 72417 = {
 	name="Guiomar"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1120.1.1 = {
 		birth="1120.1.1"
@@ -9810,7 +9810,7 @@
 72418 = {
 	name="Rodrigo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207652
 	mother=207651
@@ -9826,7 +9826,7 @@
 	name="Sancha"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207652
 	mother=207651
@@ -9842,7 +9842,7 @@
 	name="Teresa"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=107570
@@ -9863,7 +9863,7 @@
 	father=107570
 	mother=107571
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1084.1.1={
@@ -9878,7 +9878,7 @@
 	name="Visclavara"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=107570
 	mother=107571
@@ -9894,7 +9894,7 @@
 	name="María"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=107570
 	mother=107571
@@ -9910,7 +9910,7 @@
 	name="Mafalda"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207541
 	mother=207550
@@ -9926,7 +9926,7 @@
 	name="Mayor"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207541
 	mother=207550
@@ -9942,7 +9942,7 @@
 	name="Sancha"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207541
 	mother=207550
@@ -9958,7 +9958,7 @@
 	name="Ermengarda"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207541
 	mother=207550
@@ -9973,7 +9973,7 @@
 72428 = {
 	name="Mafalda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1177.1.1 = {
 		birth="1177.1.1"
@@ -9986,7 +9986,7 @@
 72429 = {
 	name="García"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207540
 	mother=206511
@@ -10001,7 +10001,7 @@
 72448 = {
 	name="Pedro"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=457540
 	mother=460611
@@ -10019,7 +10019,7 @@
 72449 = {
 	name="Sancho"
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72448
 	mother=72447
@@ -10035,7 +10035,7 @@
 	name="Constanza"
 	female=yes
 	dynasty=681
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=457540
@@ -10051,7 +10051,7 @@
 72469 = {
 	name="Rodrigo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207540
 	mother=72428
@@ -10069,7 +10069,7 @@
 72471 = {
 	name="Pedro"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72469
 	mother=72470
@@ -10087,7 +10087,7 @@
 72472 = {
 	name="Rodrigo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72469
 	mother=72470
@@ -10103,7 +10103,7 @@
 	name="Milia"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72469
 	mother=72470
@@ -10118,7 +10118,7 @@
 72474 = {
 	name="Nuño"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207540
 	mother=72428
@@ -10133,7 +10133,7 @@
 72475 = {
 	name="García"
 	dynasty=12143
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1180.1.1 = {
 		birth="1180.1.1"
@@ -10152,7 +10152,7 @@
 72476 = {
 	name="Teresa"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1185.1.1 = {
 		birth="1185.1.1"
@@ -10165,7 +10165,7 @@
 72477 = {
 	name="Mayor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1200.1.1 = {
 		birth="1200.1.1"
@@ -10178,7 +10178,7 @@
 72478 = {
 	name="Alfonso"
 	dynasty=12143
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72475
 	mother=72477
@@ -10196,7 +10196,7 @@
 72479 = {
 	name="Juan"
 	dynasty=12143
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72478
 	mother=71436
@@ -10212,7 +10212,7 @@
 	name="Mayor"
 	female=yes
 	dynasty=12143
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72478
 	mother=71436
@@ -10227,7 +10227,7 @@
 72481 = {
 	name="Pedro"
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72624
 	1250.1.1 = {
@@ -10245,7 +10245,7 @@
 72482 = {
 	name="Diego"
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72481
 	mother=72480
@@ -10261,7 +10261,7 @@
 	name="Marina"
 	female=yes
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=72481
@@ -10278,7 +10278,7 @@
 	name="Marina"
 	female=yes
 	dynasty=12143
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72475
 	mother=72477
@@ -10297,7 +10297,7 @@
 	father=72475
 	mother=72476
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1207.1.1={
@@ -10318,7 +10318,7 @@
 	father=72485
 	mother=72473
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1246.1.1={
@@ -10339,7 +10339,7 @@
 	father=72486
 	mother=72487
 	
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1270.1.1={
@@ -10356,7 +10356,7 @@
 72489 = {
 	name="Teresa"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1280.1.1 = {
 		birth="1280.1.1"
@@ -10373,7 +10373,7 @@
 	father=72488
 	mother=72489
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1300.1.1={
@@ -10394,7 +10394,7 @@
 	father=72488
 	mother=72489
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -10410,7 +10410,7 @@
 72492 = {
 	name="Urraca"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1307.1.1 = {
 		birth="1307.1.1"
@@ -10427,7 +10427,7 @@
 	father=72490
 	mother=72492
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1326.1.1={
@@ -10445,7 +10445,7 @@
 	father=72490
 	mother=72492
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -10465,7 +10465,7 @@
 	father=72490
 	mother=72492
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1330.1.1={
@@ -10483,7 +10483,7 @@
 	father=72490
 	mother=72492
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1332.1.1={
@@ -10501,7 +10501,7 @@
 	father=72490
 	mother=72492
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1334.1.1={
@@ -10519,7 +10519,7 @@
 	father=72490
 	mother=72492
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1336.1.1={
@@ -10537,7 +10537,7 @@
 	father=72486
 	mother=72487
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1272.1.1={
@@ -10554,7 +10554,7 @@
 72500 = {
 	name="Juana"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1280.1.1 = {
 		birth="1280.1.1"
@@ -10572,7 +10572,7 @@
 	father=72499
 	mother=72500
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1300.1.1={
@@ -10591,7 +10591,7 @@
 	father=72486
 	mother=72487
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1274.1.1={
@@ -10605,7 +10605,7 @@
 72503 = {
 	name="Pedro"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207544
 	mother=72891
@@ -10620,7 +10620,7 @@
 72504 = {
 	name="Gómez"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207544
 	mother=72891
@@ -10635,7 +10635,7 @@
 72505 = {
 	name="Manrique"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207544
 	mother=72891
@@ -10650,7 +10650,7 @@
 72506 = {
 	name="Guillén"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207544
 	mother=72891
@@ -10665,7 +10665,7 @@
 72507 = {
 	name="Rodrigo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72504
 	1241.1.1 = {
@@ -10683,7 +10683,7 @@
 	name="Mayor"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72507
 	mother=72508
@@ -10698,7 +10698,7 @@
 72510 = {
 	name="Álvar"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207539
 	mother=71359
@@ -10714,7 +10714,7 @@
 	name="Mayor"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207539
 	mother=71359
@@ -10729,7 +10729,7 @@
 72512 = {
 	name="Rodrigo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207539
 	mother=71359
@@ -10745,7 +10745,7 @@
 	name="María"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207539
 	mother=71359
@@ -10761,7 +10761,7 @@
 	name="Milia"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207539
 	mother=71359
@@ -10776,7 +10776,7 @@
 72515 = {
 	name="Mayor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1190.1.1 = {
 		birth="1190.1.1"
@@ -10789,7 +10789,7 @@
 72516 = {
 	name="Fernando"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207548
 	mother=72515
@@ -10804,7 +10804,7 @@
 72517 = {
 	name="Álvar"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207548
 	mother=72515
@@ -10823,7 +10823,7 @@
 	name="Teresa"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="bastard"
 	father=72517
@@ -10839,7 +10839,7 @@
 	name="Sancha"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207548
 	mother=72515
@@ -10855,7 +10855,7 @@
 	name="Benita"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207548
 	mother=72515
@@ -10871,7 +10871,7 @@
 	name="Teresa"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207548
 	mother=72515
@@ -10886,7 +10886,7 @@
 72522 = {
 	name="Rodrigo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207546
 	trait="bastard"
@@ -10905,7 +10905,7 @@
 	name="Sancha"
 	female=yes
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72917
 	mother=72924
@@ -10920,7 +10920,7 @@
 72524 = {
 	name="Fernando"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72522
 	mother=72523
@@ -10935,7 +10935,7 @@
 72525 = {
 	name="Diego"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72522
 	mother=72523
@@ -10950,7 +10950,7 @@
 72526 = {
 	name="Sancho"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72522
 	mother=72523
@@ -10965,7 +10965,7 @@
 72527 = {
 	name="Benito"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72526
 	1260.1.1 = {
@@ -10983,7 +10983,7 @@
 	name="Teresa"
 	dynasty=12148
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1266.1.1 = {
 		birth="1266.1.1"
@@ -10996,7 +10996,7 @@
 72529 = {
 	name="Juan"
 	dynasty=12148
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72527
 	mother=72528
@@ -11012,7 +11012,7 @@
 	name="María"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72522
 	mother=72523
@@ -11028,7 +11028,7 @@
 	name="Sancha"
 	female=yes
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72522
 	mother=72523
@@ -11043,7 +11043,7 @@
 72532 = {
 	name="Fernando"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207546
 	trait="bastard"
@@ -11058,7 +11058,7 @@
 72533 = {
 	name="Nuño"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72532
 	#mother=Teresa de Villalobos
@@ -11077,7 +11077,7 @@
 	name="Juana"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72533
 	mother=72004
@@ -11092,7 +11092,7 @@
 72535 = {
 	name="Juan"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72533
 	mother=72004
@@ -11108,7 +11108,7 @@
 	name="Teresa"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72532
 	#mother=Teresa de Villalobos
@@ -11123,7 +11123,7 @@
 72537 = {
 	name="Nuño"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207546
 	trait="bastard"
@@ -11138,7 +11138,7 @@
 72538 = {
 	name="Gonzalo"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207546
 	trait="bastard"
@@ -11154,7 +11154,7 @@
 	name="Teresa"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207545
 	mother=208551
@@ -11170,7 +11170,7 @@
 	name="María"
 	dynasty=776
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=207545
@@ -11186,7 +11186,7 @@
 72541 = {
 	name="Nuño"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207547
 	mother=71965
@@ -11205,7 +11205,7 @@
 72542 = {
 	name="Diego"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207547
 	mother=71965
@@ -11220,7 +11220,7 @@
 72543 = {
 	name="Fernando"
 	dynasty=776
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=207547
 	mother=71965
@@ -11237,7 +11237,7 @@
 	dynasty=776
 	father=72541
 	mother=71433
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	1244.1.1={
 		birth=yes
@@ -11268,7 +11268,7 @@
 	father=72544
 	mother=71574
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1261.1.1={
@@ -11284,7 +11284,7 @@
 	dynasty=776
 	father=72544
 	mother=72031
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	1276.1.1={
 		birth=yes
@@ -11307,7 +11307,7 @@
 	father=72544
 	mother=72031
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1284.1.1={
@@ -11321,7 +11321,7 @@
 72552 = {
 	name="Urraca"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1062.1.1 = {
 		birth="1062.1.1"
@@ -11338,7 +11338,7 @@
 	father=70261
 	mother=72552
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1081.1.1={
@@ -11359,7 +11359,7 @@
 	father=72553
 	mother=71534
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1139.1.1={
@@ -11383,7 +11383,7 @@
 	father=72553
 	mother=71534
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1140.1.1={
@@ -11401,7 +11401,7 @@
 	father=72553
 	mother=71534
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1141.1.1={
@@ -11420,7 +11420,7 @@
 	father=72553
 	mother=71534
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1142.1.1={
@@ -11439,7 +11439,7 @@
 	father=72553
 	mother=71534
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1143.1.1={
@@ -11453,7 +11453,7 @@
 72559 = {
 	name="Sancho"
 	dynasty=12140
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1135.1.1 = {
 		birth="1135.1.1"
@@ -11469,7 +11469,7 @@
 72560 = {
 	name="Rodrigo"
 	dynasty=12140
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72559
 	mother=72558
@@ -11484,7 +11484,7 @@
 72561 = {
 	name="Estefanía"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1150.1.1 = {
 		birth="1150.1.1"
@@ -11501,7 +11501,7 @@
 	father=70261
 	mother=72552
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1083.1.1={
@@ -11520,7 +11520,7 @@
 	father=70261
 	mother=72552
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1085.1.1={
@@ -11539,7 +11539,7 @@
 	father=70261
 	mother=72552
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1087.1.1={
@@ -11553,7 +11553,7 @@
 72566={
 	name="Gonzalo"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1080.1.1={
@@ -11574,7 +11574,7 @@
 	father=72566
 	mother=72564
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1111.1.1={
@@ -11601,7 +11601,7 @@
 	father=72567
 	mother=72425
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1175.1.1={
@@ -11622,7 +11622,7 @@
 	father=72567
 	mother=72514
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1142.1.1={
@@ -11640,7 +11640,7 @@
 	father=72567
 	mother=72425
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1177.1.1={
@@ -11658,7 +11658,7 @@
 	father=72567
 	mother=72514
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1146.1.1={
@@ -11676,7 +11676,7 @@
 	father=72567
 	mother=72425
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1179.1.1={
@@ -11695,7 +11695,7 @@
 	father=72567
 	mother=72514
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1148.1.1={
@@ -11714,7 +11714,7 @@
 	father=72567
 	mother=72425
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1171.1.1={
@@ -11732,7 +11732,7 @@
 	father=72568
 	mother=73109
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1200.1.1={
@@ -11753,7 +11753,7 @@
 	father=72568
 	mother=73109
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -11773,7 +11773,7 @@
 	father=72568
 	mother=73109
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1204.1.1={
@@ -11794,7 +11794,7 @@
 	father=72568
 	mother=73109
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1206.1.1={
@@ -11812,7 +11812,7 @@
 	father=72577
 	mother=72996
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1221.1.1={
@@ -11830,7 +11830,7 @@
 	father=72577
 	mother=72996
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1223.1.1={
@@ -11852,7 +11852,7 @@
 	father=72577
 	mother=72996
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1225.1.1={
@@ -11866,7 +11866,7 @@
 72582 = {
 	name="Gómez"
 	dynasty=12149
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1220.1.1 = {
 		birth="1220.1.1"
@@ -11882,7 +11882,7 @@
 72583 = {
 	name="Mencía"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1228.1.1 = {
 		birth="1228.1.1"
@@ -11899,7 +11899,7 @@
 	father=72580
 	mother=72583
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1246.1.1={
@@ -11918,7 +11918,7 @@
 	father=72580
 	mother=72583
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1248.1.1={
@@ -11936,7 +11936,7 @@
 	father=72580
 	mother=72583
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1250.1.1={
@@ -11957,7 +11957,7 @@
 	father=72580
 	mother=72583
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1252.1.1={
@@ -11975,7 +11975,7 @@
 	father=72580
 	mother=72583
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1254.1.1={
@@ -11993,7 +11993,7 @@
 	father=72580
 	mother=72583
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1256.1.1={
@@ -12007,7 +12007,7 @@
 72590={
 	name="Sancha"
 	female=yes
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	1254.1.1={
 		birth="1254.1.1"
@@ -12025,7 +12025,7 @@
 	father=72586
 	mother=72590
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1271.1.1={
@@ -12043,7 +12043,7 @@
 	father=72586
 	mother=72534
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1273.1.1={
@@ -12064,7 +12064,7 @@
 	father=72586
 	mother=72590
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1275.1.1={
@@ -12083,7 +12083,7 @@
 	father=72586
 	mother=72590
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1277.1.1={
@@ -12102,7 +12102,7 @@
 	father=72586
 	mother=72590
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1279.1.1={
@@ -12116,7 +12116,7 @@
 72596 = {
 	name="Berenguela"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1280.1.1 = {
 		birth="1280.1.1"
@@ -12129,7 +12129,7 @@
 72597 = {
 	name="Arias"
 	dynasty=8612
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1270.1.1 = {
 		birth="1270.1.1"
@@ -12145,7 +12145,7 @@
 72598 = {
 	name="Rodrigo"
 	dynasty=12150
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1275.1.1 = {
 		birth="1275.1.1"
@@ -12165,7 +12165,7 @@
 	father=72575
 	mother=71398
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1217.1.1={
@@ -12187,7 +12187,7 @@
 	father=72599
 	mother=72990
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1245.1.1={
@@ -12205,7 +12205,7 @@
 	father=72575
 	mother=71398
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1218.1.1={
@@ -12219,7 +12219,7 @@
 72602 = {
 	name="Rodrigo"
 	dynasty=8630
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72575
 	mother=71398
@@ -12244,7 +12244,7 @@
 	father=72575
 	mother=71398
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1220.1.1={
@@ -12265,7 +12265,7 @@
 	father=72575
 	mother=71398
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1221.1.1={
@@ -12283,7 +12283,7 @@
 	father=72575
 	mother=71398
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1222.1.1={
@@ -12302,7 +12302,7 @@
 	father=72575
 	mother=71398
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1223.1.1={
@@ -12321,7 +12321,7 @@
 	father=72575
 	mother=71398
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1224.1.1={
@@ -12340,7 +12340,7 @@
 	father=72575
 	mother=71398
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1225.1.1={
@@ -12359,7 +12359,7 @@
 	father=72575
 	mother=71398
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1226.1.1={
@@ -12373,7 +12373,7 @@
 72611 = {
 	name="Gil"
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72602
 	mother=72017
@@ -12391,7 +12391,7 @@
 72612 = {
 	name="Lope"
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72602
 	mother=72017
@@ -12409,7 +12409,7 @@
 72613 = {
 	name="Rodrigo"
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72602
 	mother=72017
@@ -12427,7 +12427,7 @@
 72614 = {
 	name="Fernando"
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=72602
@@ -12444,7 +12444,7 @@
 	name="Teresa"
 	female=yes
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72602
 	mother=72017
@@ -12460,7 +12460,7 @@
 	name="Inés"
 	dynasty=7011
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72602
 	mother=72017
@@ -12476,7 +12476,7 @@
 	name="Constanza"
 	female=yes
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72602
 	mother=72017
@@ -12492,7 +12492,7 @@
 	name="Mayor"
 	female=yes
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72602
 	mother=72017
@@ -12508,7 +12508,7 @@
 	name="Marquesa"
 	dynasty=7011
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72602
 	mother=72017
@@ -12523,7 +12523,7 @@
 72620 = {
 	name="Pedro"
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72621
 	mother=72763
@@ -12541,7 +12541,7 @@
 72621 = {
 	name="Diego"
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72622
 	mother=72623
@@ -12559,7 +12559,7 @@
 72622 = {
 	name="Gómez"
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1180.1.1 = {
 		birth="1180.1.1"
@@ -12575,7 +12575,7 @@
 72623 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1200.1.1 = {
 		birth="1200.1.1"
@@ -12588,7 +12588,7 @@
 72624 = {
 	name="Nuño"
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72622
 	mother=72623
@@ -12603,7 +12603,7 @@
 72625 = {
 	name="Nuño"
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72621
 	mother=72763
@@ -12621,7 +12621,7 @@
 72626 = {
 	name="Álvaro"
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72621
 	mother=72763
@@ -12640,7 +12640,7 @@
 	name="Teresa"
 	dynasty=781
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72626
 	mother=72776
@@ -12656,7 +12656,7 @@
 	name="Elvira"
 	female=yes
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72621
 	mother=72763
@@ -12671,7 +12671,7 @@
 72629 = {
 	name="Diego"
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72620
 	mother=72616
@@ -12686,7 +12686,7 @@
 72630 = {
 	name="Alfonso"
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72620
 	mother=72616
@@ -12702,7 +12702,7 @@
 	name="Berenguela"
 	dynasty=781
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72620
 	mother=72616
@@ -12718,7 +12718,7 @@
 	name="Mayor"
 	female=yes
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72629
 	1321.1.1={
@@ -12733,7 +12733,7 @@
 	name="Sancha"
 	female=yes
 	dynasty=781
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72629
 	1323.1.1={
@@ -12747,7 +12747,7 @@
 72634 = {
 	name="Rodrigo"
 	dynasty=12152
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1270.1.1 = {
 		birth="1270.1.1"
@@ -12763,7 +12763,7 @@
 72635 = {
 	name="Diego"
 	dynasty=12153
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1276.1.1 = {
 		birth="1276.1.1"
@@ -12780,7 +12780,7 @@
 	name="María"
 	female=yes
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72613
 	mother=457676
@@ -12795,7 +12795,7 @@
 72637 = {
 	name="Lope"
 	dynasty=7035
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1290.1.1 = {
 		birth="1290.1.1"
@@ -12811,7 +12811,7 @@
 72638 = {
 	name="Rodrigo"
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72612
 	mother=72631
@@ -12830,7 +12830,7 @@
 	name="Teresa"
 	female=yes
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72612
 	mother=72631
@@ -12846,7 +12846,7 @@
 	name="Mayor"
 	female=yes
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72612
 	mother=72631
@@ -12862,7 +12862,7 @@
 	name="Marquesa"
 	female=yes
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72612
 	mother=72631
@@ -12877,7 +12877,7 @@
 72642 = {
 	name="Teresa"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1319.1.1 = {
 		birth="1319.1.1"
@@ -12890,7 +12890,7 @@
 72643 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1269.1.1 = {
 		birth="1269.1.1"
@@ -12903,7 +12903,7 @@
 72644 = {
 	name="Rodrigo"
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72611
 	mother=72643
@@ -12921,7 +12921,7 @@
 72645 = {
 	name="Andrés"
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=72611
@@ -12937,7 +12937,7 @@
 72646 = {
 	name="Gil"
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72644
 	mother=72766
@@ -12953,7 +12953,7 @@
 	name="María"
 	female=yes
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72644
 	mother=72766
@@ -12968,7 +12968,7 @@
 72648 = {
 	name="Fernando"
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71504
 	mother=71503
@@ -12984,7 +12984,7 @@
 	name="Blanca"
 	female=yes
 	dynasty=7011
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71504
 	mother=71503
@@ -12999,7 +12999,7 @@
 72658 = {
 	name="Pedro"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71364
 	mother=71365
@@ -13014,7 +13014,7 @@
 72659 = {
 	name="Gómez"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71364
 	mother=71365
@@ -13032,7 +13032,7 @@
 72660 = {
 	name="Ordoño"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=71364
@@ -13048,7 +13048,7 @@
 72661 = {
 	name="Gonzalo"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71364
 	mother=71365
@@ -13063,7 +13063,7 @@
 72662 = {
 	name="García"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71364
 	mother=71365
@@ -13081,7 +13081,7 @@
 72663 = {
 	name="Rodrigo"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71364
 	mother=71365
@@ -13097,7 +13097,7 @@
 	name="Mayor"
 	female=yes
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71364
 	mother=71365
@@ -13113,7 +13113,7 @@
 	name="Sancha"
 	female=yes
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71364
 	mother=71365
@@ -13129,7 +13129,7 @@
 	name="María"
 	female=yes
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71364
 	mother=71365
@@ -13145,7 +13145,7 @@
 	name="Juana"
 	female=yes
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71364
 	mother=71365
@@ -13160,7 +13160,7 @@
 72668 = {
 	name="Gonzalo"
 	dynasty=7026
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1135.1.1 = {
 		birth="1135.1.1"
@@ -13176,7 +13176,7 @@
 72669 = {
 	name="Fernando"
 	dynasty=7026
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72668
 	mother=72664
@@ -13191,7 +13191,7 @@
 72670 = {
 	name="Pedro"
 	dynasty=7026
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72668
 	mother=72664
@@ -13206,7 +13206,7 @@
 72671 = {
 	name="Rodrigo"
 	dynasty=7026
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72668
 	mother=72664
@@ -13221,7 +13221,7 @@
 72672 = {
 	name="Nuño"
 	dynasty=7026
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72668
 	mother=72664
@@ -13236,7 +13236,7 @@
 72673 = {
 	name="Gómez"
 	dynasty=7026
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72668
 	mother=72664
@@ -13252,7 +13252,7 @@
 	name="Inés"
 	female=yes
 	dynasty=7026
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72668
 	mother=72664
@@ -13267,7 +13267,7 @@
 72675 = {
 	name="Gil"
 	dynasty=7026
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72670
 	1190.1.1 = {
@@ -13281,7 +13281,7 @@
 72676 = {
 	name="Gonzalo"
 	dynasty=7026
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72670
 	1192.1.1 = {
@@ -13296,7 +13296,7 @@
 	name="Inés"
 	female=yes
 	dynasty=7026
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72670
 	1194.1.1 = {
@@ -13310,7 +13310,7 @@
 72679 = {
 	name="Leonor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1149.1.1 = {
 		birth="1149.1.1"
@@ -13323,7 +13323,7 @@
 72680 = {
 	name="Rodrigo"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72662
 	mother=72679
@@ -13338,7 +13338,7 @@
 72682 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1160.1.1 = {
 		birth="1160.1.1"
@@ -13351,7 +13351,7 @@
 72683 = {
 	name="Gonzalo"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72659
 	mother=72682
@@ -13369,7 +13369,7 @@
 72684 = {
 	name="Juan"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72659
 	mother=72682
@@ -13387,7 +13387,7 @@
 72685 = {
 	name="Pedro"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72659
 	mother=72682
@@ -13402,7 +13402,7 @@
 72686 = {
 	name="Fernando"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72659
 	mother=72682
@@ -13417,7 +13417,7 @@
 72687 = {
 	name="García"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=72659
@@ -13434,7 +13434,7 @@
 	name="Urraca"
 	dynasty=12143
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72475
 	mother=72477
@@ -13449,7 +13449,7 @@
 72689 = {
 	name="Gómez"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72683
 	mother=73015
@@ -13467,7 +13467,7 @@
 72690 = {
 	name="Juan"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=72683
@@ -13490,7 +13490,7 @@
 	name="Elvira"
 	dynasty=437
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72683
 	mother=73015
@@ -13505,7 +13505,7 @@
 72692 = {
 	name="Lope"
 	dynasty=12155
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1205.1.1 = {
 		birth="1205.1.1"
@@ -13521,7 +13521,7 @@
 72693 = {
 	name="Gil"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	female=yes
 	father=72689
@@ -13539,7 +13539,7 @@
 72694 = {
 	name="Nuño"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	mother=72693
 	1282.1.1 = {
@@ -13556,7 +13556,7 @@
 72695 = {
 	name="Aldonza"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1282.1.1 = {
 		birth="1282.1.1"
@@ -13569,7 +13569,7 @@
 72696 = {
 	name="Álvaro"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72694
 	mother=72695
@@ -13587,7 +13587,7 @@
 72697 = {
 	name="Pedro"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72694
 	mother=72695
@@ -13602,7 +13602,7 @@
 72698 = {
 	name="Nuño"
 	dynasty=437
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72694
 	mother=72695
@@ -13618,7 +13618,7 @@
 	name="Juana"
 	dynasty=437
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72694
 	mother=72695
@@ -13634,7 +13634,7 @@
 	name="María"
 	dynasty=437
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72694
 	mother=72695
@@ -13649,7 +13649,7 @@
 72701 = {
 	name="Diego"
 	dynasty = 402
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=108514
 	mother=71355
@@ -13664,7 +13664,7 @@
 72702 = {
 	name="Muño"
 	dynasty = 402
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=108514
 	mother=71355
@@ -13680,7 +13680,7 @@
 	name="Sancha"
 	dynasty = 402
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=108514
 	mother=71355
@@ -13696,7 +13696,7 @@
 	name="Jimena"
 	dynasty = 402
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=108514
 	mother=71355
@@ -13712,7 +13712,7 @@
 	name="Aldonza"
 	dynasty = 402
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=108514
 	mother=71355
@@ -13727,7 +13727,7 @@
 72706 = {
 	name="Gontroda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1050.1.1 = {
 		birth="1050.1.1"
@@ -13740,7 +13740,7 @@
 72707 = {
 	name="Álvaro"
 	dynasty = 12156
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1081.1.1 = {
 		birth="1081.1.1"
@@ -13756,7 +13756,7 @@
 72708={
 	name="Pedro"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1090.1.1={
@@ -13777,7 +13777,7 @@
 	father=72708
 	mother=72704
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1130.1.1={
@@ -13799,7 +13799,7 @@
 	father=72709
 	mother=72738
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1149.1.1={
@@ -13817,7 +13817,7 @@
 	father=72709
 	mother=72738
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1150.1.1={
@@ -13835,7 +13835,7 @@
 	father=72709
 	mother=72738
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1152.1.1={
@@ -13854,7 +13854,7 @@
 	father=72709
 	mother=72738
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1154.1.1={
@@ -13872,7 +13872,7 @@
 	father=72709
 	mother=72738
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1155.1.1={
@@ -13890,7 +13890,7 @@
 	father=72709
 	mother=72738
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1157.1.1={
@@ -13904,7 +13904,7 @@
 72716 = {
 	name="Sancho"
 	dynasty = 402
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72701
 	1120.1.1 = {
@@ -13921,7 +13921,7 @@
 
 	father=72701
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1122.1.1={
@@ -13936,7 +13936,7 @@
 	name="Mayor"
 	dynasty = 402
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72701
 	1124.1.1 = {
@@ -13951,7 +13951,7 @@
 	name="Sancha"
 	dynasty = 402
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72701
 	1126.1.1 = {
@@ -13965,7 +13965,7 @@
 72723 = {
 	name="Diego"
 	dynasty = 12159
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1050.1.1 = {
 		birth="1050.1.1"
@@ -13982,7 +13982,7 @@
 	name="Gotina"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1068.1.1={
@@ -13996,7 +13996,7 @@
 72725 = {
 	name="Pedro"
 	dynasty = 12159
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72723
 	mother=72724
@@ -14014,7 +14014,7 @@
 72726 = {
 	name="Fernando"
 	dynasty = 12159
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72723
 	mother=72724
@@ -14029,7 +14029,7 @@
 72727 = {
 	name="Facundo"
 	dynasty = 12159
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72723
 	mother=72724
@@ -14045,7 +14045,7 @@
 	name="Gontroda"
 	dynasty = 12159
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72723
 	mother=72724
@@ -14060,7 +14060,7 @@
 72729 = {
 	name="Rodrigo"
 	dynasty = 12159
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72723
 	mother=72724
@@ -14075,7 +14075,7 @@
 72730 = {
 	name="Ordoño"
 	dynasty = 12159
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72725
 	mother=71350
@@ -14093,7 +14093,7 @@
 72731 = {
 	name="Diego"
 	dynasty = 12159
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72725
 	mother=71350
@@ -14114,7 +14114,7 @@
 72732 = {
 	name="Gonzalo"
 	dynasty = 12159
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72725
 	mother=71350
@@ -14135,7 +14135,7 @@
 72733 = {
 	name="Rodrigo"
 	dynasty = 12159
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72725
 	mother=71350
@@ -14154,7 +14154,7 @@
 	name="Gontroda"
 	dynasty = 12159
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72725
 	mother=71350
@@ -14170,7 +14170,7 @@
 	name="Urraca"
 	dynasty = 12159
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72725
 	mother=71350
@@ -14186,7 +14186,7 @@
 	name="Sancha"
 	dynasty = 12159
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72725
 	mother=71350
@@ -14202,7 +14202,7 @@
 	name="Estefanía"
 	dynasty = 12159
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72725
 	mother=71350
@@ -14218,7 +14218,7 @@
 	name="María"
 	dynasty = 12159
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72725
 	mother=71350
@@ -14233,7 +14233,7 @@
 72739 = {
 	name="Sancha"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1112.1.1 = {
 		birth="1112.1.1"
@@ -14246,7 +14246,7 @@
 72740 = {
 	name="Pelayo"
 	dynasty = 12159
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72730
 	mother=72739
@@ -14261,7 +14261,7 @@
 72741 = {
 	name="Juliana"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1113.1.1 = {
 		birth="1113.1.1"
@@ -14274,7 +14274,7 @@
 72742 = {
 	name="Sancha"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1140.1.1 = {
 		birth="1140.1.1"
@@ -14287,7 +14287,7 @@
 72743 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1114.1.1 = {
 		birth="1114.1.1"
@@ -14300,7 +14300,7 @@
 72744 = {
 	name="Gutierre"
 	dynasty = 12160
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1100.1.1 = {
 		birth="1100.1.1"
@@ -14316,7 +14316,7 @@
 72745 = {
 	name="Sebastián"
 	dynasty = 12160
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72744
 	mother=72734
@@ -14331,7 +14331,7 @@
 72746 = {
 	name="Diego"
 	dynasty = 12160
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72744
 	mother=72734
@@ -14350,7 +14350,7 @@
 	name="Aldonza"
 	dynasty = 12160
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72744
 	mother=72734
@@ -14365,7 +14365,7 @@
 72748 = {
 	name="Gutierre"
 	dynasty = 12160
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72745
 	1159.1.1 = {
@@ -14379,7 +14379,7 @@
 72749 = {
 	name="Sebastián"
 	dynasty = 12160
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72748
 	1190.1.1 = {
@@ -14393,7 +14393,7 @@
 72750 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1132.1.1 = {
 		birth="1132.1.1"
@@ -14406,7 +14406,7 @@
 72751 = {
 	name="Sancho"
 	dynasty = 12160
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72746
 	mother=72750
@@ -14425,7 +14425,7 @@
 	father=72746
 	mother=72750
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1150.1.1={
@@ -14440,7 +14440,7 @@
 	name="María"
 	dynasty = 12160
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72746
 	mother=72750
@@ -14456,7 +14456,7 @@
 	name="Elvira"
 	dynasty = 12160
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72746
 	mother=72750
@@ -14472,7 +14472,7 @@
 	name="Velsquita"
 	dynasty = 12160
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72746
 	mother=72750
@@ -14487,7 +14487,7 @@
 72756 = {
 	name="Elvira"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1134.1.1 = {
 		birth="1134.1.1"
@@ -14501,7 +14501,7 @@
 	name="Rodrigo"
 	dynasty = 401
 	trait="detached_priest"
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72731
 	mother=72756
@@ -14516,7 +14516,7 @@
 72758 = {
 	name="Álvaro"
 	dynasty = 401
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72731
 	mother=72756
@@ -14534,7 +14534,7 @@
 72759 = {
 	name="Ordoño"
 	dynasty = 401
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72758
 	mother=72992
@@ -14549,7 +14549,7 @@
 72760 = {
 	name="Pedro"
 	dynasty = 401
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72758
 	mother=72992
@@ -14567,7 +14567,7 @@
 72761 = {
 	name="Alfonso"
 	dynasty = 401
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72758
 	mother=72992
@@ -14585,7 +14585,7 @@
 72762 = {
 	name="Álvaro"
 	dynasty = 401
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72758
 	mother=72992
@@ -14604,7 +14604,7 @@
 	name="Mayor"
 	dynasty = 401
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72758
 	mother=72992
@@ -14620,7 +14620,7 @@
 	name="Nicor"
 	dynasty = 401
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72758
 	mother=72992
@@ -14635,7 +14635,7 @@
 72765 = {
 	name="Juan"
 	dynasty = 12161
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1200.1.1 = {
 		birth="1200.1.1"
@@ -14652,7 +14652,7 @@
 	name="Teresa"
 	dynasty = 401
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72761
 	mother=72530
@@ -14667,7 +14667,7 @@
 72767 = {
 	name="Juana"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1230.1.1 = {
 		birth="1230.1.1"
@@ -14681,7 +14681,7 @@
 	name="Teresa"
 	dynasty = 401
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72762
 	mother=72767
@@ -14696,7 +14696,7 @@
 72769 = {
 	name="Pedro"
 	dynasty = 401
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72760
 	mother=72531
@@ -14714,7 +14714,7 @@
 72770 = {
 	name="Rodrigo"
 	dynasty = 401
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72760
 	mother=72531
@@ -14732,7 +14732,7 @@
 72771 = {
 	name="Mencía"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1262.1.1 = {
 		birth="1262.1.1"
@@ -14745,7 +14745,7 @@
 72772 = {
 	name="Juana"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1263.1.1 = {
 		birth="1263.1.1"
@@ -14758,7 +14758,7 @@
 72773 = {
 	name="Rodrigo"
 	dynasty = 401
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72770
 	mother=72772
@@ -14777,7 +14777,7 @@
 	name="Sancha"
 	female=yes
 	dynasty = 401
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72770
 	mother=72772
@@ -14793,7 +14793,7 @@
 	name="Teresa"
 	female=yes
 	dynasty = 401
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72770
 	mother=72772
@@ -14808,7 +14808,7 @@
 72776 = {
 	name="Teresa"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1250.1.1 = {
 		birth="1250.1.1"
@@ -14821,7 +14821,7 @@
 72783 = {
 	name="Pedro"
 	dynasty = 12162
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1070.1.1 = {
 		birth="1070.1.1"
@@ -14837,7 +14837,7 @@
 72784 = {
 	name="Juan"
 	dynasty = 12162
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72783
 	mother=72780
@@ -14853,7 +14853,7 @@
 	name="Sancha"
 	female=yes
 	dynasty=12180
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73066
 	mother=73063
@@ -14871,7 +14871,7 @@
 
 	father=200076
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1048.1.1={
@@ -14888,7 +14888,7 @@
 72837 = {
 	name="Elvira"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1056.1.1 = {
 		birth="1056.1.1"
@@ -14905,7 +14905,7 @@
 	father=72836
 	mother=72837
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1073.1.1={
@@ -14922,7 +14922,7 @@
 72839 = {
 	name="Martín"
 	dynasty=8603
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72836
 	mother=72837
@@ -14941,7 +14941,7 @@
 	father=72838
 	mother=72835
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1116.1.1={
@@ -14959,7 +14959,7 @@
 	name="Aldonza"
 	female=yes
 	dynasty=8603
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=72838
@@ -14976,7 +14976,7 @@
 	name="Teresa"
 	female=yes
 	dynasty=8603
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72838
 	mother=72835
@@ -14992,7 +14992,7 @@
 	name="Elvira"
 	female=yes
 	dynasty=8603
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72838
 	mother=72835
@@ -15007,7 +15007,7 @@
 72844 = {
 	name="Fernando"
 	dynasty=8603
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72838
 	mother=72835
@@ -15026,7 +15026,7 @@
 	father=72840
 	mother=200078
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1145.1.1={
@@ -15045,7 +15045,7 @@
 	father=72840
 	mother=200078
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1147.1.1={
@@ -15060,7 +15060,7 @@
 	name="Fronilda"
 	female=yes
 	dynasty=12167
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72870
 	mother=72938
@@ -15075,7 +15075,7 @@
 72867 = {
 	name="Gómez"
 	dynasty=12167
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72868
 	mother=72869
@@ -15093,7 +15093,7 @@
 72868 = {
 	name="Nuño"
 	dynasty=12167
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1040.1.1 = {
 		birth="1040.1.1"
@@ -15109,7 +15109,7 @@
 72869 = {
 	name="Sancha"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1051.1.1 = {
 		birth="1051.1.1"
@@ -15122,7 +15122,7 @@
 72870 = {
 	name="Fernando"
 	dynasty=12167
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72868
 	mother=72869
@@ -15140,7 +15140,7 @@
 72871 = {
 	name="Fernando"
 	dynasty=12167
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72867
 	mother=72866
@@ -15156,7 +15156,7 @@
 	name="María"
 	female=yes
 	dynasty=12167
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72867
 	mother=72866
@@ -15171,7 +15171,7 @@
 72873 = {
 	name="Fernando"
 	dynasty=12168
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1100.1.1 = {
 		birth="1100.1.1"
@@ -15187,7 +15187,7 @@
 72874 = {
 	name="Pelayo"
 	dynasty=12168
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72873
 	mother=72872
@@ -15206,7 +15206,7 @@
 	name="Varela"
 	dynasty=12168
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72873
 	mother=72872
@@ -15221,7 +15221,7 @@
 72876 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1160.1.1 = {
 		birth="1160.1.1"
@@ -15234,7 +15234,7 @@
 72880 = {
 	name="Elvira"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1120.1.1 = {
 		birth="1120.1.1"
@@ -15247,7 +15247,7 @@
 72892 = {
 	name="Diego"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1015.1.1 = {
 		birth="1015.1.1"
@@ -15263,7 +15263,7 @@
 72893 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1020.1.1 = {
 		birth="1020.1.1"
@@ -15276,7 +15276,7 @@
 72894 = {
 	name="Fruela"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72892
 	mother=72893
@@ -15294,7 +15294,7 @@
 72895 = {
 	name="Antonino"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72892
 	mother=72893
@@ -15310,7 +15310,7 @@
 	name="Constanza"
 	female=yes
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72894
 	mother=70135
@@ -15325,7 +15325,7 @@
 72897 = {
 	name="Diego"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72894
 	mother=70135
@@ -15341,7 +15341,7 @@
 	name="María"
 	female=yes
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72894
 	mother=70135
@@ -15356,7 +15356,7 @@
 72899 = {
 	name="Ramiro"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72894
 	mother=70135
@@ -15384,7 +15384,7 @@
 	name="Estefanía"
 	dynasty=12165
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72897
 	1130.1.1 = {
@@ -15398,7 +15398,7 @@
 72901 = {
 	name="Menendo"
 	dynasty=12114
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1083.1.1={
 		birth="1083.1.1"
@@ -15415,7 +15415,7 @@
 	name="Mayor"
 	dynasty=12114
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72901
 	mother=72898
@@ -15430,7 +15430,7 @@
 72903 = {
 	name="Inés"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1106.1.1 = {
 		birth="1106.1.1"
@@ -15443,7 +15443,7 @@
 72904 = {
 	name="Sancha"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1117.1.1 = {
 		birth="1117.1.1"
@@ -15456,7 +15456,7 @@
 72905 = {
 	name="Diego"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72899
 	mother=72903
@@ -15474,7 +15474,7 @@
 72906 = {
 	name="Fruela"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72899
 	mother=72903
@@ -15495,7 +15495,7 @@
 72907 = {
 	name="García"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72899
 	mother=72904
@@ -15511,7 +15511,7 @@
 	name="Estefanía"
 	female=yes
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72899
 	mother=72904
@@ -15527,7 +15527,7 @@
 	name="Inés"
 	female=yes
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=72905
@@ -15543,7 +15543,7 @@
 72913 = {
 	name="Rodrigo"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72905
 	mother=71943
@@ -15558,7 +15558,7 @@
 72914 = {
 	name="Sancha"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1177.1.1 = {
 		birth="1177.1.1"
@@ -15571,7 +15571,7 @@
 72915 = {
 	name="Nuño"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72906
 	mother=72914
@@ -15586,7 +15586,7 @@
 72916 = {
 	name="Ramiro"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72906
 	mother=72914
@@ -15604,7 +15604,7 @@
 72917 = {
 	name="Diego"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72906
 	mother=72914
@@ -15623,7 +15623,7 @@
 	name="María"
 	dynasty=12165
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72906
 	mother=72914
@@ -15638,7 +15638,7 @@
 72919 = {
 	name="Rodrigo"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72906
 	mother=72914
@@ -15653,7 +15653,7 @@
 72920 = {
 	name="Bernardo"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72906
 	mother=72914
@@ -15668,7 +15668,7 @@
 72921 = {
 	name="Gonzalo"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72916
 	mother=73007
@@ -15687,7 +15687,7 @@
 	name="Teresa"
 	dynasty=12165
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72916
 	mother=73007
@@ -15703,7 +15703,7 @@
 	name="Aldonza"
 	dynasty=12165
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=72916
@@ -15719,7 +15719,7 @@
 72924 = {
 	name="Aldonza"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1190.1.1 = {
 		birth="1190.1.1"
@@ -15732,7 +15732,7 @@
 72925 = {
 	name="Ramiro"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72917
 	mother=72924
@@ -15750,7 +15750,7 @@
 72926 = {
 	name="Rodrigo"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72917
 	mother=72924
@@ -15765,7 +15765,7 @@
 72927 = {
 	name="Diego"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72925
 	mother=72536
@@ -15784,7 +15784,7 @@
 	name="María"
 	female=yes
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72925
 	mother=72536
@@ -15799,7 +15799,7 @@
 72930 = {
 	name="Leonor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1260.1.1 = {
 		birth="1260.1.1"
@@ -15812,7 +15812,7 @@
 72931 = {
 	name="Juan"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72927
 	mother=72930
@@ -15828,7 +15828,7 @@
 	name="Inés"
 	female=yes
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72927
 	mother=72930
@@ -15843,7 +15843,7 @@
 72933 = {
 	name="Rodrigo"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72927
 	mother=72930
@@ -15861,7 +15861,7 @@
 72934 = {
 	name="Rodrigo"
 	dynasty=12169
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1275.1.1 = {
 		birth="1275.1.1"
@@ -15874,7 +15874,7 @@
 72935 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1292.1.1 = {
 		birth="1292.1.1"
@@ -15887,7 +15887,7 @@
 72936 = {
 	name="Diego"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72933
 	mother=72935
@@ -15902,7 +15902,7 @@
 72937 = {
 	name="Ramiro"
 	dynasty=12165
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72933
 	mother=72935
@@ -15917,7 +15917,7 @@
 72938 = {
 	name="Mayor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1093.1.1 = {
 		birth="1093.1.1"
@@ -15930,7 +15930,7 @@
 72949 = {
 	name="Bernat"
 	dynasty=12178
-	religion="orthodox"
+	religion="catholic"
 	culture="occitan"
 	trait="scholarly_theologian"
 	1060.1.1 = {
@@ -15944,7 +15944,7 @@
 72950={
 	name="Esteban"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -15960,7 +15960,7 @@
 72951={
 	name="Guillén"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -15976,7 +15976,7 @@
 72952={
 	name="Martín"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -15992,7 +15992,7 @@
 72953={
 	name="Pedro"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -16008,7 +16008,7 @@
 72954={
 	name="Suero"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -16024,7 +16024,7 @@
 72955={
 	name="Alfonso"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -16040,7 +16040,7 @@
 72956={
 	name="Pedro"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -16056,7 +16056,7 @@
 72957={
 	name="Gonzalo"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -16072,7 +16072,7 @@
 72958={
 	name="Diego"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -16088,7 +16088,7 @@
 72959={
 	name="Rodrigo"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -16104,7 +16104,7 @@
 72960={
 	name="Pedro"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=scholarly_theologian
@@ -16120,7 +16120,7 @@
 72961 = {
 	name="Tello"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1012.1.1 = {
 		birth="1012.1.1"
@@ -16133,7 +16133,7 @@
 72962 = {
 	name="Fernando"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72961
 	1040.1.1 = {
@@ -16147,7 +16147,7 @@
 72963 = {
 	name="Tello"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72962
 	1075.1.1 = {
@@ -16164,7 +16164,7 @@
 72964 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1089.1.1 = {
 		birth="1089.1.1"
@@ -16177,7 +16177,7 @@
 72965 = {
 	name="Fernando"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72963
 	mother=72964
@@ -16192,7 +16192,7 @@
 72966 = {
 	name="Gutierre"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72963
 	mother=72964
@@ -16211,7 +16211,7 @@
 	name="Urraca"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72963
 	mother=72964
@@ -16226,7 +16226,7 @@
 72968 = {
 	name="Fernando"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72962
 	1077.1.1 = {
@@ -16240,7 +16240,7 @@
 72969 = {
 	name="Tello"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72961
 	1042.1.1 = {
@@ -16257,7 +16257,7 @@
 72970 = {
 	name="Mayor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1048.1.1 = {
 		birth="1048.1.1"
@@ -16270,7 +16270,7 @@
 72971 = {
 	name="Diego"
 	dynasty=12179
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1100.1.1 = {
 		birth="1100.1.1"
@@ -16286,7 +16286,7 @@
 72972 = {
 	name="Bosón"
 	dynasty=12179
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72971
 	mother=72967
@@ -16305,7 +16305,7 @@
 	name="Mayor"
 	female=yes
 	dynasty=12179
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72971
 	mother=72967
@@ -16320,7 +16320,7 @@
 72974 = {
 	name="Urraca"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1134.1.1 = {
 		birth="1134.1.1"
@@ -16333,7 +16333,7 @@
 72975 = {
 	name="Diego"
 	dynasty=12179
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72972
 	mother=72974
@@ -16348,7 +16348,7 @@
 72976 = {
 	name="Martín"
 	dynasty=12179
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72972
 	mother=72974
@@ -16363,7 +16363,7 @@
 72977 = {
 	name="Pedro"
 	dynasty=12179
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72972
 	mother=72974
@@ -16378,7 +16378,7 @@
 72978 = {
 	name="Domingo"
 	dynasty=12179
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72972
 	mother=72974
@@ -16394,7 +16394,7 @@
 	name="María"
 	female=yes
 	dynasty=12179
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72972
 	mother=72974
@@ -16410,7 +16410,7 @@
 	name="Mayor"
 	dynasty=12179
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72972
 	mother=72974
@@ -16425,7 +16425,7 @@
 72981 = {
 	name="Urraca"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1114.1.1 = {
 		birth="1114.1.1"
@@ -16438,7 +16438,7 @@
 72982 = {
 	name="Álvar"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72966
 	mother=72981
@@ -16453,7 +16453,7 @@
 72983 = {
 	name="Pedro"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72966
 	mother=72981
@@ -16471,7 +16471,7 @@
 72984 = {
 	name="Diego"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72983
 	mother=72979
@@ -16486,7 +16486,7 @@
 72985 = {
 	name="Fernando"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72983
 	mother=72979
@@ -16501,7 +16501,7 @@
 72986 = {
 	name="Gonzalo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72377
 	mother=73106
@@ -16522,7 +16522,7 @@
 72987 = {
 	name="Gutierre"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=72377
@@ -16538,7 +16538,7 @@
 72988 = {
 	name="Álvar"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72377
 	mother=73106
@@ -16556,7 +16556,7 @@
 72989 = {
 	name="Fernando"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72988
 	mother=73110
@@ -16575,7 +16575,7 @@
 	name="Toda"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72989
 	mother=72997
@@ -16592,7 +16592,7 @@
 	dynasty=7025
 	father=72377
 	mother=73106
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 	1169.1.1={
 		birth=yes
@@ -16613,7 +16613,7 @@
 	father=72991
 	mother=142039
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1195.1.1={
@@ -16627,7 +16627,7 @@
 72993 = {
 	name="Nuño"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72377
 	mother=73106
@@ -16642,7 +16642,7 @@
 72994 = {
 	name="Rodrigo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72377
 	mother=73106
@@ -16660,7 +16660,7 @@
 72995 = {
 	name="Inés"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1178.1.1 = {
 		birth="1178.1.1"
@@ -16674,7 +16674,7 @@
 	name="María"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72994
 	mother=72995
@@ -16690,7 +16690,7 @@
 	name="Teresa"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72994
 	mother=72995
@@ -16706,7 +16706,7 @@
 	name="Teresa"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72377
 	mother=73106
@@ -16722,7 +16722,7 @@
 	name="Elvira"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72377
 	mother=73106
@@ -16737,7 +16737,7 @@
 73000 = {
 	name="Marquesa"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1196.1.1 = {
 		birth="1196.1.1"
@@ -16750,7 +16750,7 @@
 73001 = {
 	name="Rodrigo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=72419
@@ -16774,7 +16774,7 @@
 73002 = {
 	name="Gonzalo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=72419
@@ -16792,7 +16792,7 @@
 73003 = {
 	name="Teresa"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1199.1.1 = {
 		birth="1199.1.1"
@@ -16805,7 +16805,7 @@
 73004 = {
 	name="Rodrigo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73002
 	mother=73003
@@ -16820,7 +16820,7 @@
 73005 = {
 	name="Gonzalo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73002
 	mother=73003
@@ -16836,7 +16836,7 @@
 	name="María"
 	dynasty=7025
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=72419
@@ -16852,7 +16852,7 @@
 	name="Aldonza"
 	dynasty=7025
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=72419
@@ -16868,7 +16868,7 @@
 	name="Elvira"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=72419
@@ -16884,7 +16884,7 @@
 	name="Sancha"
 	dynasty=7025
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=72419
@@ -16900,7 +16900,7 @@
 	name="Brígida"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="detached_priest"
 	father=72986
@@ -16916,7 +16916,7 @@
 73011 = {
 	name="Pedro"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=73000
@@ -16935,7 +16935,7 @@
 	father=72986
 	mother=73000
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1216.1.1={
@@ -16949,7 +16949,7 @@
 73013 = {
 	name="Nuño"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=73000
@@ -16965,7 +16965,7 @@
 	name="María"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=73000
@@ -16981,7 +16981,7 @@
 	name="Leonor"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=73000
@@ -16997,7 +16997,7 @@
 	name="Inés"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=73000
@@ -17013,7 +17013,7 @@
 	name="Mayor"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=73000
@@ -17029,7 +17029,7 @@
 	name="Berenguela"
 	dynasty=7025
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=72986
 	mother=73000
@@ -17044,7 +17044,7 @@
 73019 = {
 	name="Mayor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1202.1.1 = {
 		birth="1202.1.1"
@@ -17057,7 +17057,7 @@
 73020 = {
 	name="Gonzalo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73001
 	mother=73019
@@ -17076,7 +17076,7 @@
 	name="Mencía"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73001
 	mother=73019
@@ -17092,7 +17092,7 @@
 	name="Inés"
 	female=yes
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73001
 	mother=71970
@@ -17107,7 +17107,7 @@
 73023 = {
 	name="Gonzalo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73020
 	mother=72628
@@ -17122,7 +17122,7 @@
 73024 = {
 	name="Rodrigo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73020
 	mother=72628
@@ -17141,7 +17141,7 @@
 	name="Elvira"
 	dynasty=7025
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73020
 	mother=72628
@@ -17156,7 +17156,7 @@
 73026 = {
 	name="Berenguela"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1269.1.1 = {
 		birth="1269.1.1"
@@ -17169,7 +17169,7 @@
 73027 = {
 	name="Gonzalo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73024
 	mother=73026
@@ -17187,7 +17187,7 @@
 73028 = {
 	name="Gonzalo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73027
 	mother=72699
@@ -17202,7 +17202,7 @@
 73029 = {
 	name="Rodrigo"
 	dynasty=7025
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73027
 	mother=72699
@@ -17221,7 +17221,7 @@
 	father=73020
 	mother=72628
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1270.1.1={
@@ -17242,7 +17242,7 @@
 
 	father=73030
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1287.1.1={
@@ -17313,7 +17313,7 @@
 
 	father=73033
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1030.1.1={
@@ -17331,7 +17331,7 @@
 	name="Elvira"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1039.1.1={
@@ -17349,7 +17349,7 @@
 	father=73035
 	mother=73036
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1056.1.1={
@@ -17370,7 +17370,7 @@
 	father=73037
 	mother=200170
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1076.1.1={
@@ -17389,7 +17389,7 @@
 	father=73037
 	mother=200170
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1078.1.1={
@@ -17403,7 +17403,7 @@
 73040 = {
 	name="Marina"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1086.1.1={
 		birth="1086.1.1"
@@ -17420,7 +17420,7 @@
 	father=73034
 	mother=73044
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1039.1.1={
@@ -17437,7 +17437,7 @@
 73043 = {
 	name="Rodrigo"
 	dynasty = 8779
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73034
 	mother=73044
@@ -17455,7 +17455,7 @@
 73044 = {
 	name="Elvira"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1021.1.1={
 		birth="1021.1.1"
@@ -17468,7 +17468,7 @@
 73045 = {
 	name="Toda"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1031.1.1={
 		birth=yes
@@ -17481,7 +17481,7 @@
 73046 = {
 	name="Aldonza"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1064.1.1={
 		birth="1064.1.1"
@@ -17494,7 +17494,7 @@
 73049 = {
 	name="Jimena"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1030.1.1={
 		birth="1030.1.1"
@@ -17511,7 +17511,7 @@
 	father=73041
 	mother=73049
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1056.1.1={
@@ -17532,7 +17532,7 @@
 	father=73041
 	mother=73049
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1058.1.1={
@@ -17549,7 +17549,7 @@
 73052 = {
 	name="Anderquina"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1064.1.1={
 		birth="1064.1.1"
@@ -17562,7 +17562,7 @@
 73053 = {
 	name="Urraca"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1064.1.1={
 		birth="1064.1.1"
@@ -17579,7 +17579,7 @@
 	father=73051
 	mother=73053
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1081.1.1={
@@ -17603,7 +17603,7 @@
 	father=73051
 	mother=73053
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1082.1.1={
@@ -17621,7 +17621,7 @@
 	father=73051
 	mother=73053
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1083.1.1={
@@ -17639,7 +17639,7 @@
 	father=73051
 	mother=73053
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1085.1.1={
@@ -17658,7 +17658,7 @@
 	father=73051
 	mother=73053
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1086.1.1={
@@ -17677,7 +17677,7 @@
 	father=73051
 	mother=73053
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1088.1.1={
@@ -17696,7 +17696,7 @@
 	father=73051
 	mother=73053
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1089.1.1={
@@ -17715,7 +17715,7 @@
 	father=73054
 	mother=72898
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1131.1.1={
@@ -17733,7 +17733,7 @@
 	father=73041
 	mother=73049
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1090.1.1={
@@ -17755,7 +17755,7 @@
 	father=73041
 	mother=73049
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1062.1.1={
@@ -17774,7 +17774,7 @@
 	father=73041
 	mother=73049
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1064.1.1={
@@ -17793,7 +17793,7 @@
 	father=73041
 	mother=73049
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1066.1.1={
@@ -17807,7 +17807,7 @@
 73066 = {
 	name="Gonzalo"
 	dynasty = 12180
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1056.1.1={
 		birth="1056.1.1"
@@ -17823,7 +17823,7 @@
 73067 = {
 	name="Pedro"
 	dynasty = 12180
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73066
 	mother=73063
@@ -17838,7 +17838,7 @@
 73068 = {
 	name="Rodrigo"
 	dynasty = 12180
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73066
 	mother=73063
@@ -17854,7 +17854,7 @@
 	name="Cristina"
 	female=yes
 	dynasty = 12180
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73066
 	mother=73063
@@ -17873,7 +17873,7 @@
 	father=72171
 	mother=72170
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1162.1.1={
@@ -17891,7 +17891,7 @@
 	father=72171
 	mother=72170
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1163.1.1={
@@ -17909,7 +17909,7 @@
 	father=72171
 	mother=72170
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1165.1.1={
@@ -17930,7 +17930,7 @@
 	father=72171
 	mother=72170
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1166.1.1={
@@ -17951,7 +17951,7 @@
 	father=72171
 	mother=72170
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1168.1.1={
@@ -17969,7 +17969,7 @@
 	father=72171
 	mother=72170
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=detached_priest
@@ -17990,7 +17990,7 @@
 	father=72171
 	mother=72170
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=detached_priest
@@ -18006,7 +18006,7 @@
 73077 = {
 	name="Sancha"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1173.1.1={
 		birth="1173.1.1"
@@ -18023,7 +18023,7 @@
 	father=73072
 	mother=73077
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1191.1.1={
@@ -18041,7 +18041,7 @@
 	father=73072
 	mother=73077
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1192.1.1={
@@ -18059,7 +18059,7 @@
 	father=73073
 	mother=72998
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1191.1.1={
@@ -18077,7 +18077,7 @@
 	father=73073
 	mother=72998
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1193.1.1={
@@ -18095,7 +18095,7 @@
 	father=73073
 	mother=72998
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1194.10.19={
@@ -18113,7 +18113,7 @@
 73083 = {
 	name="Fernando"
 	dynasty = 7003
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73082
 	mother=71445
@@ -18128,7 +18128,7 @@
 73084 = {
 	name="Juan"
 	dynasty = 7003
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73082
 	mother=71445
@@ -18143,7 +18143,7 @@
 73085 = {
 	name="Rodrigo"
 	dynasty = 7003
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=73082
@@ -18171,7 +18171,7 @@
 73086 = {
 	name="Pedro"
 	dynasty = 7003
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73082
 	mother=71445
@@ -18186,7 +18186,7 @@
 73087 = {
 	name="Pedro"
 	dynasty = 7003
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73083
 	1256.1.1={
@@ -18203,7 +18203,7 @@
 73088 = {
 	name="Gutierre"
 	dynasty = 7003
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73083
 	1257.1.1={
@@ -18217,7 +18217,7 @@
 73090 = {
 	name="Fernando"
 	dynasty = 7003
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73087
 	1301.1.1={
@@ -18231,7 +18231,7 @@
 73091 = {
 	name="Rodrigo"
 	dynasty = 7003
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73087
 	1302.1.1={
@@ -18249,7 +18249,7 @@
 
 	father=73087
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1305.1.1={
@@ -18264,7 +18264,7 @@
 	name="Urraca"
 	female=yes
 	dynasty = 7003
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73087
 	1307.1.1={
@@ -18278,7 +18278,7 @@
 73094 = {
 	name="Sancho"
 	dynasty = 8748
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71417
 	mother=71416
@@ -18293,7 +18293,7 @@
 73095 = {
 	name="Pedro"
 	dynasty = 8748
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=71417
@@ -18310,7 +18310,7 @@
 	name="María"
 	female=yes
 	dynasty = 8748
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71417
 	mother=71416
@@ -18326,7 +18326,7 @@
 	name="Elvira"
 	female=yes
 	dynasty = 8748
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71417
 	mother=71416
@@ -18342,7 +18342,7 @@
 	name="Teresa"
 	female=yes
 	dynasty = 8748
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=71417
 	mother=71416
@@ -18358,7 +18358,7 @@
 	name="Munio"
 	dynasty=7010
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1045.1.1={
@@ -18372,7 +18372,7 @@
 73100 = {
 	name="Rodrigo"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73099
 	1098.1.1={
@@ -18389,7 +18389,7 @@
 73101 = {
 	name="Mayor"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1124.1.1={
 		birth="1124.1.1"
@@ -18402,7 +18402,7 @@
 73102 = {
 	name="Pedro"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73100
 	mother=73101
@@ -18423,7 +18423,7 @@
 73103 = {
 	name="Álvar"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73100
 	mother=73101
@@ -18441,7 +18441,7 @@
 73104 = {
 	name="Fernando"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73100
 	mother=73101
@@ -18460,7 +18460,7 @@
 	name="Urraca"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73100
 	mother=73101
@@ -18476,7 +18476,7 @@
 	name="María"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73100
 	mother=73101
@@ -18492,7 +18492,7 @@
 	name="Teresa"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73100
 	mother=73101
@@ -18507,7 +18507,7 @@
 73108 = {
 	name="Fernando"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73103
 	mother=72395
@@ -18523,7 +18523,7 @@
 	name="Mayor"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73103
 	mother=72395
@@ -18539,7 +18539,7 @@
 	name="Toda"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73103
 	mother=72395
@@ -18558,7 +18558,7 @@
 	father=73102
 	mother=72574
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1187.9.1={
@@ -18575,7 +18575,7 @@
 73112 = {
 	name="Guillén"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73102
 	mother=72574
@@ -18593,7 +18593,7 @@
 73113 = {
 	name="Fernando"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73102
 	mother=72574
@@ -18609,7 +18609,7 @@
 73114 = {
 	name="Teobaldo"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73102
 	mother=72574
@@ -18625,7 +18625,7 @@
 	name="Elvira"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73102
 	mother=72574
@@ -18641,7 +18641,7 @@
 	name="Teresa"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73102
 	mother=72574
@@ -18657,7 +18657,7 @@
 	name="Sancha"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73102
 	mother=72574
@@ -18673,7 +18673,7 @@
 	name="María"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait=detached_priest
 	father=73102
@@ -18690,7 +18690,7 @@
 	name="Juana"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73113
 	1210.1.1={
@@ -18708,7 +18708,7 @@
 	father=73111
 #	mother=142087
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1205.1.1={
@@ -18726,7 +18726,7 @@
 	name="Urraca"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1212.1.1={
@@ -18744,7 +18744,7 @@
 	father=73120
 	mother=73121
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1231.1.1={
@@ -18761,7 +18761,7 @@
 73123 = {
 	name="Pedro"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73122
 	mother=72928
@@ -18779,7 +18779,7 @@
 73124 = {
 	name="Juan"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73122
 	mother=72928
@@ -18798,7 +18798,7 @@
 	name="Sancha"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73122
 	mother=72928
@@ -18814,7 +18814,7 @@
 	name="Sancha"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73123
 	mother=73149
@@ -18829,7 +18829,7 @@
 73127 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1276.1.1={
 		birth="1276.1.1"
@@ -18842,7 +18842,7 @@
 73128 = {
 	name="Pedro"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73124
 	mother=73127
@@ -18857,7 +18857,7 @@
 73129 = {
 	name="Juan"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73124
 	mother=73127
@@ -18872,7 +18872,7 @@
 73130 = {
 	name="Pedro"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73112
 	mother=73006
@@ -18896,7 +18896,7 @@
 73131 = {
 	name="Nuño"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73112
 	mother=73006
@@ -18915,7 +18915,7 @@
 	name="María"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73112
 	mother=73006
@@ -18930,7 +18930,7 @@
 73133 = {
 	name="Álvar"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73131
 	mother=72600
@@ -18948,7 +18948,7 @@
 73134 = {
 	name="Pedro"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73133
 	mother=71520
@@ -18966,7 +18966,7 @@
 73135 = {
 	name="Álvar"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73133
 	mother=71520
@@ -18985,7 +18985,7 @@
 	name="Teresa"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73133
 	mother=71520
@@ -19000,7 +19000,7 @@
 73137 = {
 	name="Fernando"
 	dynasty = 12182
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1280.1.1={
 		birth="1280.1.1"
@@ -19016,7 +19016,7 @@
 73138 = {
 	name="Aldonza"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1285.1.1={
 		birth="1285.1.1"
@@ -19029,7 +19029,7 @@
 73139 = {
 	name="María"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1292.1.1={
 		birth="1292.1.1"
@@ -19042,7 +19042,7 @@
 73140 = {
 	name="Álvar"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73134
 	mother=71502
@@ -19057,7 +19057,7 @@
 73141 = {
 	name="Teresa"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1252.1.1={
 		birth="1252.1.1"
@@ -19070,7 +19070,7 @@
 73142 = {
 	name="Álvaro"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73130
 	mother=73141
@@ -19085,7 +19085,7 @@
 73143 = {
 	name="Pedro"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73142
 	1289.1.1={
@@ -19102,7 +19102,7 @@
 73144 = {
 	name="Álvaro"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73142
 	1291.1.1={
@@ -19119,7 +19119,7 @@
 73145 = {
 	name="Alfonso"
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=73143
@@ -19142,7 +19142,7 @@
 	name="Leonor"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73143
 	mother=73139
@@ -19157,7 +19157,7 @@
 73147 = {
 	name="Urraca"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1300.1.1={
 		birth="1300.1.1"
@@ -19171,7 +19171,7 @@
 	name="Teresa"
 	female=yes
 	dynasty = 7010
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=73144
 	mother=73147
@@ -19186,7 +19186,7 @@
 73149 = {
 	name="Inés"
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1277.1.1={
 		birth="1277.1.1"
@@ -19199,7 +19199,7 @@
 73151 = {
 	name="Fernando"
 	dynasty = 12183
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	1118.1.1={
@@ -19219,7 +19219,7 @@
 73153 = {
 	name="Nuño"
 	dynasty = 7020
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	1137.1.1={
@@ -19245,7 +19245,7 @@
 73154 = {
 	name="Rodrigo"
 	dynasty = 12184
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	1157.1.1={
@@ -19271,7 +19271,7 @@
 73155={
 	name="Rodrigo"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -19299,7 +19299,7 @@
 73156 = {
 	name="Martín"
 	dynasty = 7021
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	1168.1.1={
@@ -19328,7 +19328,7 @@
 73158 = {
 	name="Martín"
 	dynasty = 12186
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	1182.1.1={
@@ -19360,7 +19360,7 @@
 73159={
 	name="Gómez"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -19397,7 +19397,7 @@
 73160={
 	name="Fernando"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -19434,7 +19434,7 @@
 73161={
 	name="Pedro"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -19459,7 +19459,7 @@
 73162 = {
 	name="Diego"
 	dynasty = 12187
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	1240.1.1={
@@ -19485,7 +19485,7 @@
 73163 = {
 	name="García"
 	dynasty = 7022
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	1243.1.1={
@@ -19514,7 +19514,7 @@
 73164={
 	name="Diego"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -19530,7 +19530,7 @@
 73165={
 	name="Arias"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -19552,7 +19552,7 @@
 73167={
 	name="Fernando"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -19577,7 +19577,7 @@
 73169={
 	name="Gonzalo"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -19605,7 +19605,7 @@
 73171 = {
 	name="Suero"
 	dynasty = 12191
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=73175
@@ -19635,7 +19635,7 @@
 73172 = {
 	name="Rodrigo"
 	dynasty = 12191
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	trait="martial_cleric"
 	father=73175
@@ -19668,7 +19668,7 @@
 73173={
 	name="Fernando"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -19699,7 +19699,7 @@
 73174={
 	name="Suero"
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=martial_cleric
@@ -19733,7 +19733,7 @@
 73175 = {
 	name="Pedro"
 	dynasty = 12191
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1240.1.1={
 		birth="1240.1.1"
@@ -19747,7 +19747,7 @@
 	name="Tello" 
 	#Tel Perez de Menezes
 	dynasty=400 #de Menezes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1150.1.1={
 		birth="1150.1.1"
@@ -19764,7 +19764,7 @@
 	name="Jimena" 
 	#Ximena Ordoñez
 	female = yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	1150.1.1={
 		birth="1150.1.1"
@@ -19778,7 +19778,7 @@
 	name="Tello" 
 	#Tel Alfonso de Menezes
 	dynasty=400 #de Menezes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=142042
 	mother=72999
@@ -19794,7 +19794,7 @@
 	name="Alfonso" 
 	#Alfonso Tellez de Menezes
 	dynasty=400 #de Menezes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=142042
 	mother=72999
@@ -19814,7 +19814,7 @@
 	#Mor Alfonso de Menezes
 	female = yes
 	dynasty=400 #de Menezes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=142042
 	mother=72999
@@ -19831,7 +19831,7 @@
 	#Teresa Alfonso de Menezes
 	female = yes
 	dynasty=400 #de Menezes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=142042
 	mother=72999
@@ -19847,7 +19847,7 @@
 	name="Constanza" #Constanza Alfonso de Menezes
 	female = yes
 	dynasty=400 #de Menezes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=142317
 	mother=72816
@@ -19863,7 +19863,7 @@
 	name="Teresa" #Teresa Alfonso de Menezes
 	female = yes
 	dynasty=400 #de Menezes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=142317
 	mother=72816
@@ -19882,7 +19882,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="portuguese"
 	trait="honest"
 	trait="humble"
@@ -19901,7 +19901,7 @@
 142325 = {
 	name="Alfonso" #Alfonso Tellez de Menezes
 	dynasty=400 #de Menezes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father=142317
 	mother=72816
@@ -19922,7 +19922,7 @@
 	father=71583
 	mother=71584
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1097.1.1={
@@ -19940,7 +19940,7 @@
 	father=110515
 	mother=71587
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1070.1.1={
@@ -19956,7 +19956,7 @@
 
 	father=200079
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1000.1.1={
@@ -19974,7 +19974,7 @@
 	father=72840
 	mother=200078
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1143.1.1={
@@ -19989,7 +19989,7 @@
 	name="María"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1125.1.1={
@@ -20023,7 +20023,7 @@
 	father=72475
 	mother=72476
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1209.1.1={
@@ -20038,7 +20038,7 @@
 	name="Beatriz"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1210.1.1={
@@ -20057,7 +20057,7 @@
 	father=72475
 	mother=72477
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1229.1.1={
@@ -20075,7 +20075,7 @@
 	father=72475
 	mother=72477
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1224.1.1={
@@ -20094,7 +20094,7 @@
 	father=72475
 	mother=72477
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=detached_priest
@@ -20114,7 +20114,7 @@
 	father=72475
 	mother=72477
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1228.1.1={
@@ -20132,7 +20132,7 @@
 	father=70107
 	mother=70108
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1079.1.1={
@@ -20151,7 +20151,7 @@
 	father=70107
 	mother=70108
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1081.1.1={
@@ -20170,7 +20170,7 @@
 	father=72478
 	mother=71436
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	trait=detached_priest
@@ -20190,7 +20190,7 @@
 	father=72475
 	mother=72476
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1205.1.1={
@@ -20208,7 +20208,7 @@
 	name="Lope"
 	dynasty=7033
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1252.1.1={
@@ -20226,7 +20226,7 @@
 	name="María"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=castillan
 
 	1260.1.1={
@@ -20238,7 +20238,7 @@
 }
 194451 = {
 	name="Sancho"
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 
 	1000.2.7={
@@ -20254,7 +20254,7 @@
 194452 = {
 	name="Alicia"
 	female = yes
-	religion="orthodox"
+	religion="catholic"
 	culture="castillan"
 	father = 194451
 	

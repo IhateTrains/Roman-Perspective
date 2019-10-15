@@ -5,7 +5,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="brave"
 	trait="skilled_tactician"
@@ -65,7 +65,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=1005 #Ualgarg mac Néill
@@ -84,7 +84,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=1003 #Tigernán mac Ualgairg
@@ -103,7 +103,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="proud"
 	trait="tough_soldier"
@@ -124,7 +124,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="proud"
 	trait="tough_soldier"
@@ -146,7 +146,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charitable"
 	trait="thrifty_clerk"
@@ -166,7 +166,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="thrifty_clerk"
 	father=1010
@@ -187,7 +187,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charitable"
 	trait="kind"
@@ -212,7 +212,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="gluttonous"
 	trait="flamboyant_schemer"
@@ -232,7 +232,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=1015
@@ -252,7 +252,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=1015
 	mother=1016
@@ -271,7 +271,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="envious"
 	trait="skilled_tactician"
@@ -295,7 +295,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="proud"
 	trait="amateurish_plotter"
@@ -314,7 +314,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=1020
@@ -334,7 +334,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="gluttonous"
 	trait="tough_soldier"
@@ -714,7 +714,7 @@
 	diplomacy=4
 	intrigue=3
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="deceitful"
 	father=131516
@@ -736,7 +736,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=131517
@@ -755,7 +755,7 @@
 	diplomacy=4
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="proud"
 	father=131517
@@ -858,7 +858,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="temperate"
 	trait="stutter"
@@ -879,7 +879,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="deceitful"
 	trait="just"
@@ -901,7 +901,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="deceitful"
 	trait="scholarly_theologian"
@@ -920,7 +920,7 @@
 	diplomacy=6
 	intrigue=2
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charitable"
 	trait="fortune_builder"
@@ -940,7 +940,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father = 7285
@@ -959,7 +959,7 @@
 	diplomacy=2
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=214007
@@ -978,7 +978,7 @@
 	diplomacy=3
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="kind"
 	trait="clubfooted"
@@ -1002,7 +1002,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=214022 #Tigearnan Mór Ua Ruairc
@@ -1022,7 +1022,7 @@
 	diplomacy=9
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="diligent"
 	trait="skilled_tactician"
@@ -1042,7 +1042,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="proud"
 	trait="thrifty_clerk"
@@ -1061,7 +1061,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father = 7287 #Domnall mac Ualgairg
@@ -1081,7 +1081,7 @@
 	diplomacy=4
 	intrigue=2
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="just"
 	trait="misguided_warrior"
@@ -1105,7 +1105,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="temperate"
 	trait="cynical"
@@ -1125,7 +1125,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="diligent"
 	trait="charitable"
@@ -1147,7 +1147,7 @@
 	diplomacy=4
 	intrigue=2
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="lustful"
 	trait="gluttonous"
@@ -1170,7 +1170,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="gluttonous"
 	trait="humble"
@@ -1190,7 +1190,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="kind"
 	trait="humble"
@@ -1213,7 +1213,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="skilled_tactician"
 	father=214510 #Ruaidrí mac Toirrdelbaig
@@ -1232,7 +1232,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="slothful"
 	trait="kind"
@@ -1253,7 +1253,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="clubfooted"
 	trait="inbred"
@@ -1274,7 +1274,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="patient"
 	trait="tough_soldier"
@@ -1294,7 +1294,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charitable"
 	trait="martial_cleric"
@@ -1314,7 +1314,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="skilled_tactician"
 	trait="lustful"
@@ -1334,7 +1334,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="slothful"
 	trait="tough_soldier"
@@ -1358,7 +1358,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="underhanded_rogue"
 	1115.1.2={
@@ -1377,7 +1377,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="diligent"
 	trait="kind"
@@ -1398,7 +1398,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="stutter"
 	trait="flamboyant_schemer"
@@ -1420,7 +1420,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="wroth"
 	trait="scholarly_theologian"
@@ -1441,7 +1441,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="patient"
 	trait="flamboyant_schemer"
@@ -1465,7 +1465,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="slothful"
 	trait="scholarly_theologian"
@@ -1486,7 +1486,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="honest"
 	trait="amateurish_plotter"
@@ -1507,7 +1507,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="martial_cleric"
 	father=214580
@@ -1527,7 +1527,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="cynical"
 	trait="brave"
@@ -1549,7 +1549,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charitable"
 	trait="skilled_tactician"
@@ -1570,7 +1570,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="lisp"
 	trait="scholarly_theologian"
@@ -1590,7 +1590,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="amateurish_plotter"
 	father = 913 #Diarmait son of Toirrdelbach
@@ -1613,7 +1613,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="skilled_tactician"
 	father=214610
@@ -1632,7 +1632,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="wroth"
 	trait="craven"
@@ -1653,7 +1653,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="proud"
 	trait="hunchback"
@@ -1674,7 +1674,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="cynical"
 	trait="gluttonous"
@@ -1696,7 +1696,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="cynical"
 	trait="stutter"
@@ -1718,7 +1718,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="diligent"
 	1105.1.2={
@@ -1736,7 +1736,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="bastard"
 	1165.1.2={
@@ -1754,7 +1754,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=14
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1166.1.2={
 		birth="1166.1.2"
@@ -1771,7 +1771,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="honest"
 	1166.1.2={
@@ -1790,7 +1790,7 @@
 	diplomacy=2
 	intrigue=2
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1186.1.2={
 		birth="1186.1.2"
@@ -1809,7 +1809,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="honest"
 	1131.1.1={
@@ -1828,7 +1828,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charismatic_negotiator"
 	trait="temperate"
@@ -1849,7 +1849,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1107.1.1={
 		birth="1107.1.1"
@@ -1866,7 +1866,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="underhanded_rogue"
 	1042.1.2={
@@ -1884,7 +1884,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="brave"
 	trait="proud"
@@ -1905,7 +1905,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="honest"
 	trait="flamboyant_schemer"
@@ -1924,7 +1924,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="honest"
 	trait="wroth"
@@ -1946,7 +1946,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="humble"
 	trait="envious"
@@ -1968,7 +1968,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=454205
@@ -1988,7 +1988,7 @@
 	diplomacy=5
 	intrigue=9
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="chaste"
 	trait="tough_soldier"
@@ -2008,7 +2008,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="deceitful"
 	trait="proud"
@@ -2029,7 +2029,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="greedy"
 	trait="arbitrary"
@@ -2053,7 +2053,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=83562
@@ -2072,7 +2072,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="greedy"
 	trait="just"
@@ -2093,7 +2093,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="humble"
 	trait="lustful"
@@ -2115,7 +2115,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="proud"
 	trait="temperate"
@@ -2135,7 +2135,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=454160
 	mother=454164
@@ -2155,7 +2155,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="lustful"
 	trait="flamboyant_schemer"
@@ -2174,7 +2174,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="envious"
 	trait="skilled_tactician"
@@ -2193,7 +2193,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charitable"
 	trait="brave"
@@ -2218,7 +2218,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="proud"
 	trait="zealous"
@@ -2279,7 +2279,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="wroth"
 	#trait="patient"
@@ -2300,7 +2300,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="wroth"
 	trait="proud"
@@ -2323,7 +2323,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="temperate"
 	trait="kind"
@@ -2345,7 +2345,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="martial_cleric"
 	father = 6115 #Domnall abbot of Clonard
@@ -2369,7 +2369,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="harelip"
 	trait="amateurish_plotter"
@@ -2388,7 +2388,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charitable"
 	trait="tough_soldier"
@@ -2409,7 +2409,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=924
 	mother=925
@@ -2428,7 +2428,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="chaste"
 	trait="amateurish_plotter"
@@ -2632,7 +2632,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=6202
 	994.1.2={
@@ -2650,7 +2650,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="cynical"
 	trait="charismatic_negotiator"
@@ -2670,7 +2670,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="honest"
 	trait="patient"
@@ -2691,7 +2691,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="brave"
 	trait="thrifty_clerk"
@@ -2711,7 +2711,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="slothful"
 	trait="brave"
@@ -2733,7 +2733,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="kind"
 	trait="flamboyant_schemer"
@@ -2753,7 +2753,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="humble"
 	trait="zealous"
@@ -2774,7 +2774,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=6210
 	1065.1.2={
@@ -2793,7 +2793,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 7194 #Murchad son of Domnall
 	1100.1.1={
@@ -2811,7 +2811,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 7194 #Murchad son of Domnall
 	1117.1.1={
@@ -2829,7 +2829,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 7193 #Domnall son of Murchad
 	1124.1.1={
@@ -2847,7 +2847,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 7194 #Now Murchad son of Domnall
 	1101.1.1={
@@ -2865,7 +2865,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 6117 #Domnall son of Flann son of abbot Domnall
 	1082.1.1={
@@ -3458,7 +3458,7 @@
 7281 = {
 	name="Ruaidri"
 	dynasty=550
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=7282
 	1122.1.1={
@@ -3472,7 +3472,7 @@
 7282 = {
 	name="Eochaid"
 	dynasty=550
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=6205
 	1082.1.1={
@@ -3486,7 +3486,7 @@
 7283 = {
 	name="Nial"
 	dynasty=550
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=6205
 	1071.1.1={
@@ -3500,7 +3500,7 @@
 7280 = {
 	name="Áed"
 	dynasty=550
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=6205
 	1070.1.1={
@@ -3518,7 +3518,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 131518
 	1091.1.1={
@@ -3532,7 +3532,7 @@
 7286 = {
 	name="Donnchad"
 	dynasty=101675
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="brave"
 	trait="skilled_tactician"
@@ -3554,7 +3554,7 @@
 	stewardship=5
 	trait="clubfooted"
 	trait="hunchback"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father= 1005 #Ualgarg mac Néill
 	1048.1.1={
@@ -3568,7 +3568,7 @@
 7288 = {
 	name="Conchobar"
 	dynasty=695
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 913 #Diarmait son of Toirrdelbach
 	1102.1.1={
@@ -3586,7 +3586,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1105.1.2={
 		birth="1105.1.2"
@@ -3603,7 +3603,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83000
 	1149.1.2={
@@ -3621,7 +3621,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83001
 	1190.1.2={
@@ -3639,7 +3639,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83002
 	1230.1.2={
@@ -3660,7 +3660,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83003
 	1270.1.2={
@@ -3678,7 +3678,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83003
 	1272.1.2={
@@ -3697,7 +3697,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83003
 	1273.1.2={
@@ -3716,7 +3716,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83004
 	1295.1.2={
@@ -3734,7 +3734,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83007
 	1325.1.2={
@@ -3753,7 +3753,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83007
 	1323.1.2={
@@ -3771,7 +3771,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83005
 	1299.1.2={
@@ -3789,7 +3789,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83010
 	1326.7.2={
@@ -3807,7 +3807,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83005
 	1301.1.2={
@@ -3826,7 +3826,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83005
 	1325.1.2={
@@ -3844,7 +3844,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83005
 	1305.1.2={
@@ -3862,7 +3862,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83006
 	1299.1.2={
@@ -3946,7 +3946,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=900 #Brian Bóruma
@@ -4030,7 +4030,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charismatic_negotiator"
 	father=905  #Tadg mac Briain High-King of Ireland
@@ -4055,7 +4055,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="arbitrary"
 	trait="zealous"
@@ -4078,7 +4078,7 @@
 	diplomacy=4
 	intrigue=2
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="amateurish_plotter"
 	1010.1.1={
@@ -4118,7 +4118,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="just"
 	trait="flamboyant_schemer"
@@ -4141,7 +4141,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="skilled_tactician"
 	father=910
@@ -4161,7 +4161,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="wroth"
 	trait="flamboyant_schemer"
@@ -4182,7 +4182,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=906 #Toirrdelbach Ua Briain High-King of Ireland
@@ -4203,7 +4203,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="flamboyant_schemer"
 	1020.1.2={
@@ -4301,7 +4301,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="gluttonous"
 	trait="tough_soldier"
@@ -4321,7 +4321,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="lustful"
 	trait="thrifty_clerk"
@@ -4344,7 +4344,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="martial_cleric"
 	father=922
@@ -4364,7 +4364,7 @@
 	diplomacy=3
 	intrigue=3
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="lustful"
 	trait="honest"
@@ -4392,7 +4392,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="cynical"
 	trait="amateurish_plotter"
@@ -4412,7 +4412,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1031.1.2={
@@ -4430,7 +4430,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=939
@@ -4449,7 +4449,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="underhanded_rogue"
 	father=927
@@ -4468,7 +4468,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="harelip"
 	trait="thrifty_clerk"
@@ -4488,7 +4488,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="flamboyant_schemer"
 	father=927
@@ -4508,7 +4508,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="thrifty_clerk"
 	father=927
@@ -4855,7 +4855,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 131518
 	1088.1.1={
@@ -4873,7 +4873,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 131518
 	1086.1.1={
@@ -4891,7 +4891,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1179.1.1={
 		birth="1179.1.1"
@@ -4908,7 +4908,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1183.1.1={
 		birth="1183.1.1"
@@ -5161,7 +5161,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=83027
@@ -5180,7 +5180,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=83027
@@ -5199,7 +5199,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=83028
@@ -5219,7 +5219,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83030
 	1084.1.1={
@@ -5238,7 +5238,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83031
 	1125.1.1={
@@ -5256,7 +5256,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=83031
@@ -5431,7 +5431,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83041
 	1032.1.1={
@@ -5449,7 +5449,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83041
 	1034.1.1={
@@ -5467,7 +5467,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83041
 	1036.1.1={
@@ -5524,7 +5524,7 @@
 	diplomacy=3
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83042
 	1056.1.1={
@@ -5543,7 +5543,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83043
 	1059.1.1={
@@ -5561,7 +5561,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83047
 	1079.1.1={
@@ -5579,7 +5579,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83047
 	1090.1.1={
@@ -5597,7 +5597,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83049
 	1132.1.1={
@@ -5615,7 +5615,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83050
 	1125.1.1={
@@ -5633,7 +5633,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83050
 	1128.1.1={
@@ -5651,7 +5651,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83050
 	1133.1.1={
@@ -5670,7 +5670,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="ambitious"
 	trait="fortune_builder"
@@ -5690,7 +5690,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charismatic_negotiator"
 	trait="cynical"
@@ -5711,7 +5711,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="misguided_warrior"
 	father=83056
@@ -5730,7 +5730,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83056
 	1210.1.1={
@@ -5748,7 +5748,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83056
 	1215.1.1={
@@ -5766,7 +5766,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="craven"
 	father=83054
@@ -5785,7 +5785,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="greedy"
 	trait="lustful"
@@ -5806,7 +5806,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="amateurish_plotter"
 	trait="humble"
@@ -5828,7 +5828,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83061
 	1290.1.1={
@@ -5846,7 +5846,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83061
 	1292.1.1={
@@ -5864,7 +5864,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83061
 	1293.1.1={
@@ -5882,7 +5882,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83061
 	1299.1.1={
@@ -5900,7 +5900,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83061
 	1305.1.1={
@@ -5918,7 +5918,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83061
 	1309.1.1={
@@ -5936,7 +5936,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83063
 	1325.1.1={
@@ -5954,7 +5954,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83063
 	1327.1.1={
@@ -5972,7 +5972,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83065
 	1336.1.1={
@@ -5990,7 +5990,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83070
 	1347.1.1={
@@ -6009,7 +6009,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="humble"
 	trait="amateurish_plotter"
@@ -6048,7 +6048,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="clubfooted"
 	trait="craven"
@@ -6070,7 +6070,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="craven"
 	trait="harelip"
@@ -6090,7 +6090,7 @@
 	diplomacy=6
 	intrigue=3
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83075
 	1072.1.1={
@@ -6108,7 +6108,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="slothful"
 	father=83076
@@ -6127,7 +6127,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="diligent"
 	father=83077
@@ -6146,7 +6146,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="brave"
 	trait="proud"
@@ -6166,7 +6166,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="brave"
 	trait="tough_soldier"
@@ -6186,7 +6186,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="cynical"
 	trait="honest"
@@ -6207,7 +6207,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=83080
@@ -6226,7 +6226,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83081
 	trait="ambitious"
@@ -6250,7 +6250,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83081
 	1213.1.1={
@@ -6268,7 +6268,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83081
 	1214.1.1={
@@ -6287,7 +6287,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83081
 	1201.1.1={
@@ -6305,7 +6305,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83082
 	1222.1.1={
@@ -6323,7 +6323,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83082
 	1227.1.1={
@@ -6341,7 +6341,7 @@
 	diplomacy=6
 	intrigue=9
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83087
 	1250.1.1={
@@ -6359,7 +6359,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="hunchback"
 	father=83087
@@ -6378,7 +6378,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83089
 	1283.1.1={
@@ -6396,7 +6396,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83089
 	1285.1.1={
@@ -6414,7 +6414,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83091
 	1314.1.1={
@@ -6432,7 +6432,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83091
 	1319.1.1={
@@ -6450,7 +6450,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83093
 	1330.1.1={
@@ -6468,7 +6468,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83094
 	1336.1.1={
@@ -6486,7 +6486,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83083
 	trait="lustful"
@@ -6506,7 +6506,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83083
 	1245.1.1={
@@ -6524,7 +6524,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83097
 	1272.1.1={
@@ -6542,7 +6542,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83097
 	1275.1.1={
@@ -6560,7 +6560,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83097
 	1279.1.1={
@@ -6578,7 +6578,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83097
 	1284.1.1={
@@ -6596,7 +6596,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83097
 	1289.1.1={
@@ -6614,7 +6614,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83102
 	1315.1.1={
@@ -6632,7 +6632,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83102
 	1323.1.1={
@@ -6650,7 +6650,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83102
 	1328.1.1={
@@ -6668,7 +6668,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=140002
 	1120.1.1={
@@ -6686,7 +6686,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83107
 	1140.1.1={
@@ -6704,7 +6704,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="wroth"
 	father=214008
@@ -6723,7 +6723,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="gluttonous"
 	father=214008
@@ -6742,7 +6742,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="humble"
 	trait="temperate"
@@ -6762,7 +6762,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83109
 	1156.1.1={
@@ -6780,7 +6780,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="humble"
 	trait="temperate"
@@ -6875,7 +6875,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83117
 	1021.1.1={
@@ -6893,7 +6893,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83118
 	1041.1.2={
@@ -6911,7 +6911,7 @@
 	diplomacy=4
 	intrigue=3
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83119
 	1071.1.2={
@@ -6929,7 +6929,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83120
 	1131.1.1={
@@ -7061,7 +7061,7 @@
 	diplomacy=9
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83130
 	1028.1.2={
@@ -7192,7 +7192,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83137
 	1038.1.2={
@@ -7269,7 +7269,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=6119 #Máel Sechlainn Bán
@@ -7289,7 +7289,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=6118 #Murchad son of Flann
 	1049.1.2={
@@ -7308,7 +7308,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83143 #Donnchad son of Murchad
 	1075.11.2={
@@ -7327,7 +7327,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 6117 #Domnall son of Flann son of abbot Domnall
 	1063.1.1={
@@ -7346,7 +7346,7 @@
 	diplomacy=2
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 6117 #Domnall son of Flann son of abbot Domnall
 	1065.1.1={
@@ -7365,7 +7365,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 6117 #Domnall son of Flann son of abbot Domnall
 	1085.1.1={
@@ -7384,7 +7384,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 6117 #Domnall son of Flann son of abbot Domnall
 	1088.1.1={
@@ -7402,7 +7402,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 6117 #Domnall son of Flann son of abbot Domnall
 	1090.1.1={
@@ -7420,7 +7420,7 @@
 	diplomacy=5
 	intrigue=2
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 83145 #Muirchertach son of Domnall
 	1099.1.1={
@@ -7438,7 +7438,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 83145 #Muirchertach son of Domnall
 	1102.1.1={
@@ -7456,7 +7456,7 @@
 	diplomacy=2
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 83146 #Donnchad son of Domnall
 	1120.1.1={
@@ -7475,7 +7475,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 83149
 	1113.1.1={
@@ -7493,7 +7493,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 83149 #Máel-Sechlainn son of Domnall
 	1114.7.1={
@@ -7511,7 +7511,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 83153 #Domnall Bregach son of Máel-Sechlainn
 	1143.1.1={
@@ -7529,7 +7529,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 7193 #Domnall son of Murchad
 	1119.1.1={
@@ -7548,7 +7548,7 @@
 	diplomacy=3
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 7193 #Domnall son of Murchad
 	1122.1.1={
@@ -7567,7 +7567,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 7193 #Domnall son of Murchad
 	1127.1.1={
@@ -7586,7 +7586,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 7194 #Murchad son of Domnall
 	1115.1.1={
@@ -8110,7 +8110,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=923
 	1055.1.1={
@@ -8128,7 +8128,7 @@
 	diplomacy=3
 	intrigue=3
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=924
 	mother=925
@@ -8147,7 +8147,7 @@
 	diplomacy=3
 	intrigue=3
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=924
 	mother=925
@@ -8166,7 +8166,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83189
 	1080.1.1={
@@ -8184,7 +8184,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=6166
 	1090.1.1={
@@ -8202,7 +8202,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=6166
 	1112.1.1={
@@ -8223,7 +8223,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83191
 	1101.1.1={
@@ -8241,7 +8241,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214555
 	mother=83234
@@ -8260,7 +8260,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83195
 	1221.1.1={
@@ -8278,7 +8278,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83195
 	1223.1.1={
@@ -8296,7 +8296,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214550
 	mother=214551
@@ -8315,7 +8315,7 @@
 	diplomacy=3
 	intrigue=6
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214550
 	mother=214551
@@ -8334,7 +8334,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83193
 	mother=83233
@@ -8356,7 +8356,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83196
 	1268.1.1={
@@ -8374,7 +8374,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83197
 	1263.1.1={
@@ -8392,7 +8392,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83202
 	1302.7.1={
@@ -8410,7 +8410,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83203
 	1330.1.1={
@@ -8428,7 +8428,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83203
 	1333.1.1={
@@ -8446,7 +8446,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83201
 	1299.1.1={
@@ -8464,7 +8464,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83206
 	1324.1.1={
@@ -8482,7 +8482,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83206
 	1327.1.1={
@@ -8501,7 +8501,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83226
 	1150.1.1={
@@ -8576,7 +8576,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83212
 	1013.1.1={
@@ -8594,7 +8594,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=1022
 	1071.1.1={
@@ -8612,7 +8612,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83214
 	1091.1.1={
@@ -8630,7 +8630,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83214
 	1097.1.1={
@@ -8648,7 +8648,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83216
 	1123.1.1={
@@ -8666,7 +8666,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83215
 	1125.1.1={
@@ -8684,7 +8684,7 @@
 	diplomacy=3
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83218
 	1142.1.1={
@@ -8702,7 +8702,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83211 #parentage speculative
 	1038.1.1={
@@ -8720,7 +8720,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83220
 	1062.1.1={
@@ -8738,7 +8738,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83220
 	1064.1.1={
@@ -8756,7 +8756,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83222
 	1085.1.1={
@@ -8774,7 +8774,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83222
 	1088.1.1={
@@ -8792,7 +8792,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83222 #Speculative
 	1090.1.1={
@@ -8810,7 +8810,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83236
 	1128.1.1={
@@ -8828,7 +8828,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83226
 	1152.1.1={
@@ -8846,7 +8846,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83226
 	1171.1.1={
@@ -8865,7 +8865,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214550
 	1169.1.1={
@@ -8883,7 +8883,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83237
 	1101.1.1={
@@ -8901,7 +8901,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83230
 	1120.1.1={
@@ -8919,7 +8919,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83230
 	1122.1.1={
@@ -8938,7 +8938,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83230
 	1128.1.1={
@@ -8957,7 +8957,7 @@
 	diplomacy=3
 	intrigue=5
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83230
 	1135.1.1={
@@ -8975,7 +8975,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83236
 	1120.1.1={
@@ -8993,7 +8993,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1088.1.1={
 		birth="1088.1.1"
@@ -9010,7 +9010,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1065.1.1={
 		birth="1065.1.1"
@@ -9027,7 +9027,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="just"
 	trait="skilled_tactician"
@@ -9054,7 +9054,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="zealous"
 	father=907
@@ -9096,7 +9096,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83251
 	1025.1.1={
@@ -9114,7 +9114,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83251
 	1027.1.1={
@@ -9132,7 +9132,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83252
 	1049.1.1={
@@ -9150,7 +9150,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83252
 	1055.1.1={
@@ -9168,7 +9168,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83252
 	1058.1.1={
@@ -9186,7 +9186,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83252
 	1063.1.1={
@@ -9204,7 +9204,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83257
 	1121.1.1={
@@ -9222,7 +9222,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83257
 	1124.1.1={
@@ -9240,7 +9240,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83257
 	1126.1.1={
@@ -9258,7 +9258,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83258
 	1150.1.1={
@@ -9276,7 +9276,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83258
 	1153.1.1={
@@ -9294,7 +9294,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83256
 	1109.1.1={
@@ -9312,7 +9312,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83255
 	1102.1.1={
@@ -9332,7 +9332,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83255
 	1117.1.1={
@@ -9350,7 +9350,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83265
 	1136.1.1={
@@ -9368,7 +9368,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83271
 	1163.1.1={
@@ -9386,7 +9386,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83267
 	1180.1.1={
@@ -9404,7 +9404,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83267
 	1185.1.1={
@@ -9422,7 +9422,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83267
 	1187.1.1={
@@ -9440,7 +9440,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214610
 	1142.1.1={
@@ -9458,7 +9458,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214600
 	1185.1.1={
@@ -9476,7 +9476,7 @@
 	diplomacy=3
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83272
 	1220.1.1={
@@ -9494,7 +9494,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83272
 	1223.1.1={
@@ -9512,7 +9512,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83272
 	1231.1.1={
@@ -9530,7 +9530,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83272
 	1239.1.1={
@@ -9548,7 +9548,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214601
 	1202.1.1={
@@ -9566,7 +9566,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83277
 	1232.1.1={
@@ -9584,7 +9584,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214602
 	1232.1.1={
@@ -9602,7 +9602,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214602
 	1236.1.1={
@@ -9621,7 +9621,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214602
 	1239.1.1={
@@ -9640,7 +9640,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83281
 	1287.1.1={
@@ -9660,7 +9660,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83282
 	1305.1.1={
@@ -9679,7 +9679,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83283
 	1336.1.1={
@@ -9697,7 +9697,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83279
 	1280.1.1={
@@ -9715,7 +9715,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83279
 	1283.1.1={
@@ -9733,7 +9733,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83285
 	1297.1.1={
@@ -9751,7 +9751,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83285
 	1300.1.1={
@@ -9769,7 +9769,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83288
 	1325.1.1={
@@ -9787,7 +9787,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83288
 	1328.1.1={
@@ -9805,7 +9805,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83288
 	1331.1.1={
@@ -9823,7 +9823,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83276
 	1282.1.1={
@@ -9841,7 +9841,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83276
 	1279.1.1={
@@ -9859,7 +9859,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83292
 	1311.1.1={
@@ -9877,7 +9877,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83292
 	1315.1.1={
@@ -9895,7 +9895,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="cynical"
 	trait="lustful"
@@ -9995,7 +9995,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 913 #Diarmait son of Toirrdelbach
 	1104.1.1={
@@ -10013,7 +10013,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	father = 913 #Diarmait son of Toirrdelbach
@@ -10032,7 +10032,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214590
 	1138.1.1={
@@ -10050,7 +10050,7 @@
 	diplomacy=5
 	intrigue=2
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214590
 	1142.1.1={
@@ -10068,7 +10068,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214583 #Donnchad Cairprech mac Domnaill
 	1189.1.1={
@@ -10086,7 +10086,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214583 #Donnchad Cairprech mac Domnaill
 	1192.1.1={
@@ -10104,7 +10104,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214583 #Donnchad Cairprech mac Domnaill
 	1195.1.1={
@@ -10122,7 +10122,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83340 #Conchobar na Siudaine
 	1235.1.1={
@@ -10140,7 +10140,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83340 #Conchobar na Siudaine
 	1238.1.1={
@@ -10158,7 +10158,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83340 #Conchobar na Siudaine
 	1240.1.1={
@@ -10176,7 +10176,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83343 #Brian Ruad mac Conchobair
 	1259.1.1={
@@ -10194,7 +10194,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83343 #Brian Ruad mac Conchobair
 	1261.1.1={
@@ -10212,7 +10212,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83343 #Brian Ruad mac Conchobair
 	1263.1.1={
@@ -10230,7 +10230,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83344 #Donnchad mac Briain Ruaid
 	1278.1.1={
@@ -10248,7 +10248,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83345 #Domnall mac Briain Ruaid
 	1282.1.1={
@@ -10266,7 +10266,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83345 #Domnall mac Briain Ruaid
 	1286.1.1={
@@ -10284,7 +10284,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83349 #Brian Bán
 	1312.1.1={
@@ -10302,7 +10302,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=454140 #Toirrdelbach mac Taidg
 	1282.1.1={
@@ -10357,7 +10357,7 @@
 	diplomacy=6
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83353
 	1050.1.1={
@@ -10375,7 +10375,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=902 #Donnchad son Brian Bóruma
@@ -10394,7 +10394,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=902 #Donnchad son Brian Bóruma
@@ -10413,7 +10413,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=83355 #Murchad son of Donnchad son of Brian Bóruma
@@ -10432,7 +10432,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=83356 #Lorcán son of Donnchad
@@ -10451,7 +10451,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="tough_soldier"
 	father=83356 #Lorcán son of Donnchad
@@ -10470,7 +10470,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=912 #Tadg son of Toirrdelbach
 	1070.1.1={
@@ -10488,7 +10488,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=912 #Tadg son of Toirrdelbach
 	1072.1.1={
@@ -10506,7 +10506,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 83334 #Tadg Gláe
 	1126.1.1={
@@ -10542,7 +10542,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father = 83368
 	1002.1.1={
@@ -10561,7 +10561,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charitable"
 	trait="indulgent_wastrel"
@@ -11933,7 +11933,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="skilled_tactician"
 	father = 911 #Ruaidrí na Saide Buide
@@ -11952,7 +11952,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="skilled_tactician"
 	father = 911 #Ruaidrí na Saide Buide
@@ -11971,7 +11971,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214520 #Toirrdelbach mac Ruaidrí
 	1110.1.1={
@@ -11989,7 +11989,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214520 #Toirrdelbach mac Ruaidrí
 	1126.1.1={
@@ -12007,7 +12007,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214520 #Toirrdelbach mac Ruaidrí
 	1128.1.1={
@@ -12025,7 +12025,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214520 #Toirrdelbach mac Ruaidrí
 	trait="skilled_tactician"
@@ -12044,7 +12044,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214520 #Toirrdelbach mac Ruaidrí
 	1145.1.1={
@@ -12062,7 +12062,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214520 #Toirrdelbach mac Ruaidrí
 	1147.1.1={
@@ -12080,7 +12080,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214520 #Toirrdelbach mac Ruaidrí
 	1149.1.1={
@@ -12098,7 +12098,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charitable"
 	trait="martial_cleric"
@@ -12118,7 +12118,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83462 #Cathal Crobderg
 	trait="skilled_tactician"
@@ -12137,7 +12137,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83462 #Cathal Crobderg
 	trait="skilled_tactician"
@@ -12156,7 +12156,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214501 #Toirrdelbach mac Ruaidrí
 	1201.1.1={
@@ -12174,7 +12174,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214501 #Toirrdelbach mac Ruaidrí
 	1203.1.1={
@@ -12192,7 +12192,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83461 #Áed Dall
 	1148.1.1={
@@ -12210,7 +12210,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83461 #Áed Dall
 	1150.1.1={
@@ -12228,7 +12228,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83461 #Áed Dall
 	1152.1.1={
@@ -12246,7 +12246,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="zealous"
 	trait="mastermind_theologian"
@@ -12266,7 +12266,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83473
 	1179.1.1={
@@ -12284,7 +12284,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83473
 	1180.1.1={
@@ -12302,7 +12302,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83475
 	1198.1.1={
@@ -12320,7 +12320,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="chaste"
 	trait="mastermind_theologian"
@@ -12340,7 +12340,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83463 #Brian Luignech
 	1171.1.1={
@@ -12358,7 +12358,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83479
 	1201.1.1={
@@ -12376,7 +12376,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83480
 	1246.1.1={
@@ -12394,7 +12394,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83481
 	1279.1.1={
@@ -12415,7 +12415,7 @@
 	diplomacy=3
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83482 #Domnall mac Taidg Ua Conchobair
 	1296.1.1={
@@ -12433,7 +12433,7 @@
 	diplomacy=3
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83482 #Domnall mac Taidg Ua Conchobair
 	1297.1.1={
@@ -12451,7 +12451,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83482 #Domnall mac Taidg Ua Conchobair
 	1298.1.1={
@@ -12469,7 +12469,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83484 #Cathal of Ua Conchobair Sligig lord of Cairbre
 	1315.1.1={
@@ -12487,7 +12487,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83484 #Cathal of Ua Conchobair Sligig lord of Cairbre
 	1317.1.1={
@@ -12505,7 +12505,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83484 #Cathal of Ua Conchobair Sligig lord of Cairbre
 	1319.1.1={
@@ -12523,7 +12523,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83485 #Muirchertach mac Domnaill Ua Conchobair Sligig lord of Cairbre
 	1318.1.1={
@@ -12541,7 +12541,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83464 #Magnus mac Toirrdelbaigh Ua Conchobair
 	1168.1.1={
@@ -12559,7 +12559,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="charitable"
 	trait="martial_cleric"
@@ -12579,7 +12579,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83465 #Muirchertach Muimnech
 	1188.1.1={
@@ -12597,7 +12597,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83465 #Muirchertach Muimnech
 	1190.1.1={
@@ -12615,7 +12615,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="martial_cleric"
 	father=83465 #Muirchertach Muimnech
@@ -12634,7 +12634,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83492 #Magnus mac Muirchertaig Ua Conchobair
 	1218.1.1={
@@ -12652,7 +12652,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="martial_cleric"
 	father=83492 #Magnus mac Muirchertaig Ua Conchobair
@@ -12671,7 +12671,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83493 #Conchobar Ruad Ua Conchobair
 	1220.1.1={
@@ -12689,7 +12689,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83493 #Conchobar Ruad Ua Conchobair
 	1223.1.1={
@@ -12707,7 +12707,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83497 ##Cathal Ruad Ua Conchobair
 	1251.1.1={
@@ -12726,7 +12726,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83497 ##Cathal Ruad Ua Conchobair
 	1253.1.1={
@@ -12744,7 +12744,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83497 ##Cathal Ruad Ua Conchobair
 	1258.1.1={
@@ -12762,7 +12762,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83500 #Áed Bréifnech king of Connaught 
 	1282.1.1={
@@ -12780,7 +12780,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83500 #Áed Bréifnech king of Connaught 
 	1285.1.1={
@@ -12798,7 +12798,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83468 #Fedlimid mac Cathail Chrobdeirg
 	trait="skilled_tactician"
@@ -12817,7 +12817,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83468 #Fedlimid mac Cathail Chrobdeirg
 	trait="skilled_tactician"
@@ -12837,7 +12837,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83467 #Áed mac Cathail Chrobdeirg
 	trait="hunchback"
@@ -12856,7 +12856,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="lisp"
 	father=83467 #Áed mac Cathail Chrobdeirg
@@ -12875,7 +12875,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83467 #Áed mac Cathail Chrobdeirg
 	trait="lisp"
@@ -12894,7 +12894,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83467 #Áed mac Cathail Chrobdeirg
 	trait="greedy"
@@ -12914,7 +12914,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83467 #Áed mac Cathail Chrobdeirg
 	1222.1.1={
@@ -12932,7 +12932,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83509 #Toirrdelbach mac Áeda Ua Conchobair king of Connaught
 	trait="greedy"
@@ -12952,7 +12952,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83507 #Cathal Dall
 	1246.1.1={
@@ -12970,7 +12970,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83508 #Ruaidrí mac Áeda Ua Conchobair
 	trait="lisp"
@@ -12989,7 +12989,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83513 #Eógan mac Ruaidrí Ua Conchobair
 	1255.1.1={
@@ -13007,7 +13007,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83513 #Eógan mac Ruaidrí Ua Conchobair
 	1257.1.1={
@@ -13025,7 +13025,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83514 #Donnchad mac Eógain
 	1275.1.1={
@@ -13043,7 +13043,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83515 #Áed mac Eógain king of Connaught
 	1277.1.1={
@@ -13064,7 +13064,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83515 #Áed mac Eógain king of Connaught
 	1278.1.1={
@@ -13082,7 +13082,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83515 #Áed mac Eógain king of Connaught
 	1279.1.1={
@@ -13103,7 +13103,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83517 #Fedlimid king of Connaught progenitor of Ua Connchobar Ruad
 	1309.1.1={
@@ -13121,7 +13121,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83519 #Toirrdelbach king of Connaught progenitor of Ua Connchobar Donn
 	1308.1.1={
@@ -13139,7 +13139,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83519 #Toirrdelbach king of Connaught progenitor of Ua Connchobar Donn
 	1311.1.1={
@@ -13433,7 +13433,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214022 #Tigearnan Mór Ua Ruairc
 	mother=83159
@@ -13452,7 +13452,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="detached_priest"
 	father=214022 #Tigearnan Mór Ua Ruairc
@@ -13472,7 +13472,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214027 #Ualgarg son of Cathal Liath
 	1202.1.1={
@@ -13490,7 +13490,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214027 #Ualgarg son of Cathal Liath
 	1204.1.1={
@@ -13508,7 +13508,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83540 #Áed son of Ualgarg son of Cathal Liath
 	1237.1.1={
@@ -13526,7 +13526,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=214028 #Domnall son of Cathal Liath
 	1195.1.1={
@@ -13544,7 +13544,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83543 #Tigernán son of Domnall son of Cathal Liath
 	1215.1.1={
@@ -13562,7 +13562,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83544 #Conchobar son of Tigernán Ua Ruairc
 	1234.1.1={
@@ -13580,7 +13580,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83544 #Conchobar son of Tigernán Ua Ruairc
 	1236.1.1={
@@ -13598,7 +13598,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83544 #Conchobar son of Tigernán Ua Ruairc
 	1238.1.1={
@@ -13616,7 +13616,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=1004 #Domnall mac Tigernáin
 	1097.1.1={
@@ -13634,7 +13634,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=1004 #Domnall mac Tigernáin
 	1099.1.1={
@@ -13652,7 +13652,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83549 #Gilla-Braite mac Domnaill maic Tigernáin
 	1117.1.1={
@@ -13670,7 +13670,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83550 #Áed son of Gilla-Braite
 	1156.1.1={
@@ -13688,7 +13688,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83551 #Donnchad son of Áed son of Gilla-Braite
 	1198.1.1={
@@ -13706,7 +13706,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83552 #Cathal Riabach son of Donnchad
 	1218.1.1={
@@ -13724,7 +13724,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83553 #Art son of Cathal Riabach son of Donnchad
 	1245.1.1={
@@ -13742,7 +13742,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83548 #Fergal son of Domnall son Tigernán
 	1140.1.1={
@@ -13760,7 +13760,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83548 #Fergal son of Domnall son Tigernán
 	1142.1.1={
@@ -13778,7 +13778,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83548 #Fergal son of Domnall son Tigernán
 	1144.1.1={
@@ -13796,7 +13796,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83548 #Fergal son of Domnall son Tigernán
 	1146.1.1={
@@ -13814,7 +13814,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83558 #Congalach son of Fergal
 	1187.1.1={
@@ -13832,7 +13832,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83559 #Niall son of Congalach son of Fergal
 	1211.1.1={
@@ -13850,7 +13850,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83557 #Domnall son of Fergal
 	1181.1.1={
@@ -13868,7 +13868,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="lustful"
 	trait="tough_soldier"
@@ -13888,7 +13888,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83561 #Art son of Domnall son of Fergal
 	1204.1.1={
@@ -13906,7 +13906,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83561 #Art son of Domnall son of Fergal
 	1207.1.1={
@@ -13924,7 +13924,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83562 #Amlaíb mac Airt
 	1244.7.1={
@@ -13942,7 +13942,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83562 #Amlaíb mac Airt
 	1245.7.1={
@@ -13960,7 +13960,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83562 #Amlaíb mac Airt
 	1246.7.1={
@@ -13978,7 +13978,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83562 #Amlaíb mac Airt
 	1248.7.1={
@@ -13996,7 +13996,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=454160 #Ualgarg mac Domnaill
 	mother=454164
@@ -14015,7 +14015,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=454160 #Ualgarg mac Domnaill
 	mother=454164
@@ -14034,7 +14034,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=454160 #Ualgarg mac Domnaill
 	mother=454164
@@ -14053,7 +14053,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=454160 #Ualgarg mac Domnaill
 	mother=454164
@@ -14598,7 +14598,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="flamboyant_schemer"
 	trait = legit_bastard
@@ -15558,7 +15558,7 @@
 166074 = {
 	name="Tadg"
 	dynasty=9216
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166073
 	1011.1.1={
@@ -15572,7 +15572,7 @@
 166075 = {
 	name="Máel Ruanaid"
 	dynasty=9216
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166074
 	1044.1.1={
@@ -15587,7 +15587,7 @@
 	name="Tadg"
 	# AKA: Tadg Mor
 	dynasty=9216
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166075
 	1065.1.1={
@@ -15601,7 +15601,7 @@
 166077 = {
 	name="Máel Sechlainn"
 	dynasty=9216
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166076
 	1082.1.1={
@@ -15615,7 +15615,7 @@
 166078 = {
 	name="Diarmait"
 	dynasty=9216
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166076
 	1099.1.1={
@@ -15629,7 +15629,7 @@
 166079 = {
 	name="Muirgius"
 	dynasty=9216
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166076
 	1124.1.1={
@@ -15643,7 +15643,7 @@
 166080 = {
 	name="Conchobar"
 	dynasty=9216
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166078
 	1140.1.1={
@@ -15660,7 +15660,7 @@
 166081 = {
 	name="Tomaltach"
 	dynasty=9216
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166080
 	1159.1.1={
@@ -15677,7 +15677,7 @@
 166082 = {
 	name="Cathal Carrach"
 	dynasty=9216
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166081
 	1177.1.1={
@@ -15694,7 +15694,7 @@
 166083 = {
 	name="Diarmait"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166082
 	1194.1.1={
@@ -15708,7 +15708,7 @@
 166084 = {
 	name="Cormac"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166083
 	1210.1.1={
@@ -15722,7 +15722,7 @@
 166085 = {
 	name="Muirchertach"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166084
 	1227.1.1={
@@ -15736,7 +15736,7 @@
 166086 = {
 	name="Tadg"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166085
 	1244.1.1={
@@ -15750,7 +15750,7 @@
 166087 = {
 	name="Diarmait Mideach"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166086
 	1260.1.1={
@@ -15764,7 +15764,7 @@
 166088 = {
 	name="Cathal"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166087
 	1276.1.1={
@@ -15778,7 +15778,7 @@
 166089 = {
 	name="Máel Ruanaid"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166088
 	1293.1.1={
@@ -15792,7 +15792,7 @@
 166090 = {
 	name="Tomaltach gCear"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166089
 	1311.1.1={
@@ -15806,7 +15806,7 @@
 166091 = {
 	name="Conchobar"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166090
 	1327.1.1={
@@ -15820,7 +15820,7 @@
 166333 = {
 	name="Fergal"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166090
 	1343.1.1={
@@ -15834,7 +15834,7 @@
 166092 = {
 	name="Áed"
 	dynasty=692
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=166333
 	1359.1.1={
@@ -16396,7 +16396,7 @@
 	name="Bébinn"
 	female=yes
 	dynasty=695
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=900
 	mother=166123
@@ -20505,7 +20505,7 @@
 
 166406 = {
 	name="Robartach"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1002.1.1={
@@ -20518,7 +20518,7 @@
 
 166407 = {
 	name="Gilla-Críst"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1017.1.1={
@@ -20531,7 +20531,7 @@
 
 166408 = {
 	name="Mac-Meic-Báethéne"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1034.1.1={
@@ -20544,7 +20544,7 @@
 
 166409 = {
 	name="Domnall"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1056.1.1={
@@ -20557,7 +20557,7 @@
 
 166410 = {
 	name="Donnchad"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1047.1.1={
@@ -20570,7 +20570,7 @@
 
 166411 = {
 	name="Ferdomnach"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1063.1.1={
@@ -20583,7 +20583,7 @@
 
 166412 = {
 	name="Máel-Brigte"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1067.1.1={
@@ -20596,7 +20596,7 @@
 
 166413 = {
 	name="Conaing"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1080.1.1={
@@ -20609,7 +20609,7 @@
 
 166414 = {
 	name="Gilla-Adamnáin"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1077.1.1={
@@ -20622,7 +20622,7 @@
 
 166415 = {
 	name="Gilla-Meic-Liac"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1109.1.1={
@@ -20635,7 +20635,7 @@
 
 166416 = {
 	name="Muiredach"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1083.1.1={
@@ -20648,7 +20648,7 @@
 
 166417 = {
 	name="Flaithbertach"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1116.1.1={
@@ -20661,7 +20661,7 @@
 
 166418 = {
 	name="Gilla-Meic-Liac"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1152.1.1={
@@ -20674,7 +20674,7 @@
 
 166419 = {
 	name="Gilla-Críst"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1158.1.1={
@@ -20687,7 +20687,7 @@
 
 166420 = {
 	name="Fonachtan"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1164.1.1={
@@ -20700,7 +20700,7 @@
 
 166421 = {
 	name="Flann"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1187.1.1={
@@ -20713,7 +20713,7 @@
 
 166422 = {
 	name="Muichertach"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	trait="scholarly_theologian"
 	1178.1.1={
@@ -20727,7 +20727,7 @@
 184097 = {
 	name="Ruaidrí"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184106
 	1162.1.1={
@@ -20743,7 +20743,7 @@
 184098 = {
 	name="Muiredach"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184106
 	1164.1.1={
@@ -20756,7 +20756,7 @@
 184099 = {
 	name="Rudhraighe"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184098
 	1190.1.1={
@@ -20769,7 +20769,7 @@
 184100 = {
 	name="Áed" #Mor
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184098
 	1192.1.1={
@@ -20782,7 +20782,7 @@
 184101 = {
 	name="Morogh"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184100
 	1220.1.1={
@@ -20795,7 +20795,7 @@
 184102 = {
 	name="Ruaidrí"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184100
 	1222.1.1={
@@ -20808,7 +20808,7 @@
 184103 = {
 	name="Áed" #Made up
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184102
 	1250.1.1={
@@ -20821,7 +20821,7 @@
 184104 = {
 	name="Brian"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184103
 	1320.1.1={
@@ -20834,7 +20834,7 @@
 184105 = {
 	name="Áed"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184104
 	1350.1.1={
@@ -20847,7 +20847,7 @@
 184106 = {
 	name="Áed"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184108
 	1140.1.1={
@@ -20860,7 +20860,7 @@
 184107 = {
 	name="Conchobar"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184106
 	1160.1.1={
@@ -20873,7 +20873,7 @@
 184108 = {
 	name="Ruaidrí"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184118
 	1120.1.1={
@@ -20925,7 +20925,7 @@
 184112 = {
 	name="Amalgaid"
 	dynasty=1042816
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184111
 	1025.1.1={
@@ -20941,7 +20941,7 @@
 184113 = {
 	name="Cathal"
 	#mac Tigernán
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1010.1.1={
 		birth="1010.1.1"
@@ -20953,7 +20953,7 @@
 184114 = {
 	name="Áed"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=83118
 	1039.1.1={
@@ -20967,7 +20967,7 @@
 	name="Murchad"
 	 #'Mac', name lost but might be him since there was a Brian mac Murchad later
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184114
 	1060.1.1={
@@ -20980,7 +20980,7 @@
 184116 = {
 	name="Brian"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184115 #guess
 	1080.1.1={
@@ -20993,7 +20993,7 @@
 184117 = {
 	name="Muiredach"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184115 #guess
 	1082.1.1={
@@ -21006,7 +21006,7 @@
 184118 = {
 	name="Conchobar"
 	dynasty=9204
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=184117
 	1100.1.1={
@@ -23486,7 +23486,7 @@
 214923={
 	name="Leathlobhar"
 	dynasty=1040153
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1021.1.1={
 		birth=yes
@@ -23499,7 +23499,7 @@
 214925={
 	name="Aodh"
 	dynasty=1040154
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1035.1.1={
 		birth=yes
@@ -23512,7 +23512,7 @@
 214926={
 	name="Cucaisill"
 	dynasty=14113
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1060.1.1={
 		birth=yes
@@ -23525,7 +23525,7 @@
 214927={
 	name="Gilla-Críst"
 	dynasty=1040155
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1060.1.1={
 		birth=yes
@@ -23536,7 +23536,7 @@
 }
 252044 = {
 	name="Cellach"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1157.1.1={
 		birth=yes
@@ -23547,7 +23547,7 @@
 }
 252045 = {
 	name="Amhalgaid" #O Fearghail
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1175.1.1={
 		birth=yes
@@ -23558,7 +23558,7 @@
 }
 252046 = {
 	name="Flann" #fictional placeholder
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1234.1.1={
 		birth=yes
@@ -23569,7 +23569,7 @@
 }
 252047 = {
 	name="Fionnlagh"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1270.1.1={
 		birth=yes
@@ -23580,7 +23580,7 @@
 }
 252048 = {
 	name="Peadar"
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1292.1.1={
 		birth=yes
@@ -23699,7 +23699,7 @@
 260486 = {
 	name = "Dunchadh"
 	dynasty = 1062200
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	1013.1.1 = {
 		birth = yes
@@ -23711,7 +23711,7 @@
 260487 = {
 	name = "Aed"
 	dynasty = 1062200
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260486
 	1051.1.1 = {
@@ -23724,7 +23724,7 @@
 260488 = {
 	name = "Tadhg"
 	dynasty = 1062200
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260487
 	1089.1.1 = {
@@ -23737,7 +23737,7 @@
 260489 = {
 	name = "Conchobar"
 	dynasty = 1062200
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260488
 	1108.1.1 = {
@@ -23750,7 +23750,7 @@
 260490 = {
 	name = "Murrough"
 	dynasty = 1062200
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260488
 	1115.1.1 = {
@@ -23763,7 +23763,7 @@
 260491 = {
 	name = "Domnall"
 	dynasty = 1062200
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260489
 	1141.1.1 = {
@@ -23776,7 +23776,7 @@
 260492 = {
 	name = "Conchobar"
 	dynasty = 1062201
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260491
 	1188.1.1 = {
@@ -23789,7 +23789,7 @@
 260493 = {
 	name = "Maine Mor"
 	dynasty = 1062201
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260492
 	1224.1.1 = {
@@ -23802,7 +23802,7 @@
 260494 = {
 	name = "Domnall"
 	dynasty = 1062201
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260492
 	1215.1.1 = {
@@ -23815,7 +23815,7 @@
 260495 = {
 	name = "Donnchad"
 	dynasty = 1062201
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 250494
 	1248.1.1 = {
@@ -23828,7 +23828,7 @@
 260496 = {
 	name = "Gilbert"
 	dynasty = 1062201
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260494
 	1270.1.1 = {
@@ -23841,7 +23841,7 @@
 260497 = {
 	name = "Tadhg"
 	dynasty = 1062201
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260494
 	1275.1.1 = {
@@ -23854,7 +23854,7 @@
 260498 = {
 	name = "Conchobar"
 	dynasty = 1062201
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260494
 	1278.1.1 = {
@@ -23867,7 +23867,7 @@
 260499 = {
 	name = "Aed"
 	dynasty = 1062201
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260494
 	1280.1.1 = {
@@ -23880,7 +23880,7 @@
 260500 = {
 	name = "Ruaidri"
 	dynasty = 1062201
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260499
 	1305.1.1 = {
@@ -23905,7 +23905,7 @@
 260502 = {
 	name = "Muirchertach"
 	dynasty = 1062203
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	1035.1.1 = {
 		birth = yes
@@ -23917,7 +23917,7 @@
 260503 = {
 	name = "Domnall Find"
 	dynasty = 1062202
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260502
 	1069.1.1 = {
@@ -23930,7 +23930,7 @@
 260504 = {
 	name = "Mac Aodh"
 	dynasty = 1062202
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260502
 	1071.1.1 = {
@@ -23943,7 +23943,7 @@
 260505 = {
 	name = "Amhlaidbh"
 	dynasty = 1062202
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260503
 	1091.1.1 = {
@@ -23956,7 +23956,7 @@
 260506 = {
 	name = "Mac Domhnaill"
 	dynasty = 1062202
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260503
 	1093.1.1 = {
@@ -23969,7 +23969,7 @@
 260507 = {
 	name = "Aodh"
 	dynasty = 1062202
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260502
 	1075.1.1 = {
@@ -23982,7 +23982,7 @@
 260508 = {
 	name = "An Cosnmaidh"
 	dynasty = 1062202
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260507
 	1109.1.1 = {
@@ -23995,7 +23995,7 @@
 260509 = {
 	name = "Taichleach"
 	dynasty = 1062202
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260508
 	1130.1.1 = {
@@ -24008,7 +24008,7 @@
 260510 = {
 	name = "Donnchadh"
 	dynasty = 1062203
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260509
 	1156.1.1 = {
@@ -24021,7 +24021,7 @@
 260511 = {
 	name = "Maelruanaidh"
 	dynasty = 1062203
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260509
 	1161.1.1 = {
@@ -24034,7 +24034,7 @@
 260512 = {
 	name = "Brian Dearg"
 	dynasty = 1062203
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260510
 	1201.1.1 = {
@@ -24047,7 +24047,7 @@
 260513 = {
 	name = "Taichlech"
 	dynasty = 1062203
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260511
 	1215.1.1 = {
@@ -24060,7 +24060,7 @@
 260514 = {
 	name = "Conchobair"
 	dynasty = 1062203
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260513
 	1240.1.1 = {
@@ -24073,7 +24073,7 @@
 260515 = {
 	name = "Sén-Brian"
 	dynasty = 1062203
-	religion = orthodox
+	religion = catholic
 	culture = irish
 	father = 260514
 	1275.1.1 = {
@@ -24613,7 +24613,7 @@
 	name="Echmhar" #name unknown
 	father=252114
 	dynasty=105917
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1012.1.1={
 		birth=yes
@@ -24626,7 +24626,7 @@
 	name="Diarmait" #name unknown
 	father=252115
 	dynasty=105917
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1038.1.1={
 		birth=yes
@@ -24639,7 +24639,7 @@
 	name="Murchad" #name unknown
 	father=252116
 	dynasty=105917
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1056.1.1={
 		birth=yes
@@ -24652,7 +24652,7 @@
 	name="Aedh" #name unknown
 	father=252117
 	dynasty=105917
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1077.1.1={
 		birth=yes
@@ -24664,7 +24664,7 @@
 252119 = {
 	name="Auliffe Mór"
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	1095.1.1={
 		birth=yes
@@ -24676,7 +24676,7 @@
 252120 = {
 	name="Aed"
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252119
 	1115.1.1={
@@ -24689,7 +24689,7 @@
 252121 = {
 	name="Muirchertach"
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252119
 	1117.1.1={
@@ -24702,7 +24702,7 @@
 252122 = {
 	name="Murchad"
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252119
 	1118.1.1={
@@ -24715,7 +24715,7 @@
 252123 = {
 	name="Cathal"
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252119
 	1120.1.1={
@@ -24728,7 +24728,7 @@
 252124 = {
 	name="Conchobar"
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252119
 	1122.1.1={
@@ -24741,7 +24741,7 @@
 252125 = {
 	name="Domnall"
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252119
 	1124.1.1={
@@ -24754,7 +24754,7 @@
 252126 = {
 	name="Tadg" #unknown name
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252124
 	1150.1.1={
@@ -24767,7 +24767,7 @@
 252127 = {
 	name="Aoch na Meidhe"
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252126
 	1175.1.1={
@@ -24780,7 +24780,7 @@
 252128 = {
 	name="Séafra"
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252127
 	1196.1.1={
@@ -24793,7 +24793,7 @@
 252129 = {
 	name="Aed" #name unknown
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252128
 	1220.1.1={
@@ -24806,7 +24806,7 @@
 252130 = {
 	name="Toirrdelbach" #name unknown
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252129
 	1243.1.1={
@@ -24819,7 +24819,7 @@
 252131 = {
 	name="Cathal" #name unknown
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252130
 	1275.1.1={
@@ -24832,7 +24832,7 @@
 252132 = {
 	name="Murchad" #name unknown
 	dynasty=105918
-	religion="orthodox"
+	religion="catholic"
 	culture="irish"
 	father=252131
 	1297.1.1={

@@ -5,7 +5,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="lustful"
 	trait="tough_soldier"
@@ -28,7 +28,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="lustful"
 	trait="wroth"
@@ -62,7 +62,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="arbitrary"
 	trait="legit_bastard"
@@ -85,7 +85,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="kind"
@@ -111,7 +111,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="chaste"
 	trait="greedy"
@@ -132,7 +132,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="ambitious"
 	trait="zealous"
@@ -160,7 +160,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="cynical"
@@ -184,7 +184,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="gregarious"
 	trait="strong"
@@ -216,7 +216,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="martial_cleric"
@@ -236,7 +236,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="flamboyant_schemer"
@@ -257,7 +257,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="flamboyant_schemer"
@@ -278,7 +278,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	father=101515 #Svend Estridsson
@@ -297,7 +297,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="patient"
 	trait="legit_bastard"
@@ -325,7 +325,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="humble"
@@ -346,7 +346,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="honest"
 	trait="legit_bastard"
@@ -367,7 +367,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="clubfooted"
 	trait="legit_bastard"
@@ -388,7 +388,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="thrifty_clerk"
@@ -414,7 +414,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="strong"
 	trait="wroth"
@@ -445,7 +445,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="envious"
 	trait="wroth"
@@ -471,7 +471,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="scholarly_theologian"
 	father=101533 # Thorgil Sprakalegg
@@ -497,7 +497,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="greedy"
 	trait="skilled_tactician"
@@ -519,7 +519,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="temperate"
 	trait="thrifty_clerk"
@@ -539,7 +539,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="greedy"
 	trait="martial_cleric"
@@ -559,7 +559,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="honest"
 	trait="fair"
@@ -584,7 +584,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="greedy"
 	trait="flamboyant_schemer"
@@ -603,7 +603,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	father=101546 # Ragnar
@@ -623,7 +623,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="fair"
 	trait="kind"
@@ -646,7 +646,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	add_trait="twin"
 	trait="thrifty_clerk"
@@ -664,7 +664,7 @@
 	name="Cecilia" # AKA: Cecilia Knudsdatter
 	female=yes
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="thrifty_clerk"
 	add_trait="twin"
@@ -686,7 +686,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=200492
 	mother=200493
@@ -706,7 +706,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	father=201516
@@ -730,7 +730,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="gluttonous"
 	trait="amateurish_plotter"
@@ -753,7 +753,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="patient"
 	trait="amateurish_plotter"
@@ -772,7 +772,7 @@
 	diplomacy=3
 	intrigue=3
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="chaste"
 	trait="wroth"
@@ -798,7 +798,7 @@
 	diplomacy=7
 	intrigue=3
 	stewardship=11
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="lustful"
 	trait="diligent"
@@ -833,7 +833,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="fortune_builder"
 	father=201510
@@ -854,7 +854,7 @@
 	diplomacy=4
 	intrigue=3
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="amateurish_plotter"
 	father=201510
@@ -875,7 +875,7 @@
 	diplomacy=4
 	intrigue=3
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="scholarly_theologian"
 	father=201510
@@ -896,7 +896,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="thrifty_clerk"
 	father=201510
@@ -917,7 +917,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="thrifty_clerk"
 	father=201510 # Valdemar the Great of Denmark
@@ -938,7 +938,7 @@
 	diplomacy=7
 	intrigue=3
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="wroth"
 	trait="thrifty_clerk"
@@ -959,7 +959,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="chaste"
 	trait="brave"
@@ -983,7 +983,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="brave"
 	trait="proud"
@@ -1013,7 +1013,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="flamboyant_schemer"
 	father=101521
@@ -1033,7 +1033,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="martial_cleric"
 	father=201508
@@ -1053,7 +1053,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="diligent"
 	trait="proud"
@@ -1078,7 +1078,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="slothful"
 	trait="underhanded_rogue"
@@ -1100,7 +1100,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="proud"
@@ -1124,7 +1124,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="tough_soldier"
@@ -1147,7 +1147,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="tough_soldier"
@@ -1172,7 +1172,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="lustful"
 	trait="temperate"
@@ -1194,7 +1194,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="just"
 	trait="genius"
@@ -1222,7 +1222,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="zealous"
@@ -1250,7 +1250,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="wroth"
 	trait="gluttonous"
@@ -1272,7 +1272,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="chaste"
 	trait="charitable"
@@ -1298,7 +1298,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="honest"
 	trait="temperate"
@@ -1319,7 +1319,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="thrifty_clerk"
 	father=201521 # Esbern Snare
@@ -1339,7 +1339,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="underhanded_rogue"
 	father=101538
@@ -1361,7 +1361,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="proud"
@@ -1382,7 +1382,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="lustful"
@@ -1407,7 +1407,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="lustful"
 	trait="humble"
@@ -1430,7 +1430,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="kind"
 	trait="patient"
@@ -1452,7 +1452,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="proud"
 	trait="diligent"
@@ -1480,7 +1480,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="honest"
@@ -1503,7 +1503,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="wroth"
@@ -1526,7 +1526,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="proud"
@@ -1548,7 +1548,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="diligent"
@@ -1574,7 +1574,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="gluttonous"
 	trait="lustful"
@@ -1596,7 +1596,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="gluttonous"
 	trait="just"
@@ -1619,7 +1619,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="chaste"
 	trait="zealous"
@@ -1639,7 +1639,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="gluttonous"
 	trait="tough_soldier"
@@ -1660,7 +1660,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="gluttonous"
 	trait="thrifty_clerk"
@@ -1683,7 +1683,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="zealous"
 	trait="thrifty_clerk"
@@ -1701,7 +1701,7 @@
 	name="Valdemar"
 	dynasty=487
 	
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	
 	trait="martial_cleric"
@@ -1728,7 +1728,7 @@
 30313 = {
 	name="Jens"
 	dynasty=7112 #Grand
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="greedy"
 	trait="proud"
@@ -1745,7 +1745,7 @@
 	name="Margareta"
 	female = yes
 	dynasty=496 #af Sverker
-	religion="orthodox"
+	religion="catholic"
 	culture="swedish"
 	father=200604 #Sverker the Younger
 	mother=200605 #Benedicta Hvide
@@ -1761,7 +1761,7 @@
 	name="Katerina" 
 	female=yes
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=201513 # Knud Lavard
 	mother=222593
@@ -1776,7 +1776,7 @@
 30553 = {
 	name="Knud" #Rostock
 	dynasty=101893 #Niklotid
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=30551
 	mother=30549
@@ -1791,7 +1791,7 @@
 30554 = {
 	name="Valdemar" 
 	dynasty=101893 #Niklotid
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=30551
 	mother=30549
@@ -1807,7 +1807,7 @@
 	name="Karl" #duke of Flanders 1119-1127
 	# AKA: Karl Knudsson
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=101519 	# Knud the Holy of Denmark
 	mother=369	# Adele of Flandres
@@ -1826,7 +1826,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="scholarly_theologian"
 	1300.1.2={
@@ -1844,7 +1844,7 @@
 	diplomacy=9
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="diligent"
 	trait="martial_cleric"
@@ -1867,7 +1867,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="cynical"
 	trait="clubfooted"
@@ -1891,7 +1891,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="scholarly_theologian"
 	1290.1.2={
@@ -1913,7 +1913,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="greedy"
 	trait="brave"
@@ -1935,7 +1935,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="slothful"
 	trait="humble"
@@ -1957,7 +1957,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="brave"
 	trait="flamboyant_schemer"
@@ -1982,7 +1982,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="amateurish_plotter"
 	father=451510
@@ -2002,7 +2002,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="envious"
 	trait="amateurish_plotter"
@@ -2026,7 +2026,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="tough_soldier"
@@ -2050,7 +2050,7 @@
 	diplomacy=8
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	father=451514
@@ -2082,7 +2082,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="ambitious"
 	trait="gluttonous"
@@ -2110,7 +2110,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="hunchback"
 	trait="amateurish_plotter"
@@ -2131,7 +2131,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="zealous"
 	trait="clubfooted"
@@ -2157,7 +2157,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="lustful"
 	trait="brave"
@@ -2179,7 +2179,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="diligent"
 	trait="cynical"
@@ -2201,7 +2201,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="amateurish_plotter"
 	father=201501
@@ -2225,7 +2225,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="amateurish_plotter"
 	father=451524
@@ -2244,7 +2244,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	father=451524
@@ -2267,7 +2267,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	add_claim = k_denmark
@@ -2294,7 +2294,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	add_claim = k_denmark	
@@ -2318,7 +2318,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="brave"
 	trait="wroth"
@@ -2346,7 +2346,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="arbitrary"
@@ -2369,7 +2369,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="martial_cleric"
 	father=151011 # Jens Nielsen
@@ -2389,7 +2389,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="thrifty_clerk"
 	father=451801
@@ -2409,7 +2409,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="slothful"
 	trait="greedy"
@@ -2441,7 +2441,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="envious"
 	trait="humble"
@@ -2464,7 +2464,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="temperate"
 	trait="inbred"
@@ -2487,7 +2487,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	1279.1.2={
@@ -2506,7 +2506,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="amateurish_plotter"
 	father=451510
@@ -2523,7 +2523,7 @@
 	name="Sophie" 
 	female = yes
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=201501 # Valdemar Sejr
 	mother=91102
@@ -2559,7 +2559,7 @@
 	name="Margrethe" 
 	female=yes
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=451513 # Christoffer I
 	mother=451519
@@ -2573,7 +2573,7 @@
 31783 = {
 	name="Erik"
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=451520
 	mother=451521
@@ -2591,7 +2591,7 @@
 33272 = {
 	name="Valdemar" #duke of Slesvig
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=451524
 	mother=31765
@@ -2606,7 +2606,7 @@
 33273 = {
 	name="Abel" 
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=451524
 	mother=31765
@@ -2621,7 +2621,7 @@
 33274 = {
 	name="Erik" 
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=451527
 	mother=30495
@@ -2637,7 +2637,7 @@
 	name="Margarete" 
 	female=yes
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=451527
 	mother=30495
@@ -2652,7 +2652,7 @@
 33291 = {
 	name="Henrik"
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=451530
 	mother=33290
@@ -2666,7 +2666,7 @@
 33292 = {
 	name="Valdemar"
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=451530
 	mother=33290
@@ -2685,7 +2685,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	trait="zealous"
@@ -2710,7 +2710,7 @@
 34158 = {
 	name="Asser"
 	dynasty=1025000
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="detached_priest"
 	trait="temperate"
@@ -2727,7 +2727,7 @@
 34159 = {
 	name="Eskil"
 	dynasty=1025000
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="scholarly_theologian"
 	trait="quick"
@@ -2744,7 +2744,7 @@
 
 34161 = {
 	name="Peder" #Saxesen
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="scholarly_theologian"
 	trait="just"
@@ -2759,7 +2759,7 @@
 34162 = {
 	name="Uffe" #Thrugotsen
 	dynasty=1025000
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="martial_cleric"
 	trait="celibate"
@@ -2776,7 +2776,7 @@
 34163 = {
 	name="Jakob" #Erlandsen
 	dynasty=760
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="martial_cleric"
 	trait="just"
@@ -2795,7 +2795,7 @@
 34164 = {
 	name="Thrugot"
 	dynasty=1025001
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="martial_cleric"
 	1225.1.1={
@@ -2809,7 +2809,7 @@
 34165 = {
 	name="Johannes" #Dros
 	#AKA Jens Dros
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="detached_priest"
 	1245.1.1={
@@ -2823,7 +2823,7 @@
 34166 = {
 	name="Esger"
 	dynasty=1025002 #Juul
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="deceitful"
@@ -2839,7 +2839,7 @@
 34167 = {
 	name="Karl"
 	dynasty=760 #Galen
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="martial_cleric"
 	father=151008 # Erik Jensen
@@ -2854,7 +2854,7 @@
 34168 = {
 	name="Harald"
 	dynasty=7298
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1170.6.5={
 		birth="1170.6.5"
@@ -2867,7 +2867,7 @@
 34169 = {
 	name="Harald"
 	dynasty=7298
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=34168
 	1192.9.7={
@@ -2881,7 +2881,7 @@
 34170 = {
 	name="Harald"
 	dynasty=7298
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=34169
 	1210.9.11={
@@ -2895,7 +2895,7 @@
 34171 = {
 	name="Fredrik"
 	dynasty=7298
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=34170
 	1232.2.4={
@@ -2909,7 +2909,7 @@
 34172 = {
 	name="Erik"
 	dynasty=7298
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=34171
 	1251.9.5={
@@ -2923,7 +2923,7 @@
 34173 = {
 	name="Magnus"
 	dynasty=7298
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=34171
 	1252.4.22={
@@ -2938,7 +2938,7 @@
 	name="Elisabeth"
 	female=yes
 	dynasty=7298
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=34171
 	1271.1.17={
@@ -2953,7 +2953,7 @@
 	name="Maria"
 	female=yes
 	dynasty=7298
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=34171
 	1279.3.10={
@@ -2967,7 +2967,7 @@
 34176 = {
 	name="Håkon"
 	dynasty=7298
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=34172
 	1278.1.5={
@@ -2981,7 +2981,7 @@
 34177 = {
 	name="Erik"
 	dynasty=7298
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=34176
 	1302.10.2={
@@ -2995,7 +2995,7 @@
 151000 = {
 	name="Svend" #Thrugotsøn
 	dynasty=1025000
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="fortune_builder"
 	father=101542 # Thrugot Fagerskind Ulfssøn
@@ -3011,7 +3011,7 @@
 151001 = {
 	name="Svend"
 	dynasty=1025000
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="martial_cleric"
 	trait="zealous"
@@ -3027,7 +3027,7 @@
 151002 = {
 	name="Christiern"
 	dynasty=1025000
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	trait="wroth"
@@ -3044,7 +3044,7 @@
 	name="Cæcilie" #Herlufsdatter
 	female=yes
 	dynasty=482 #Hvide
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=151003 # Herlug
 	mother=201536 # Margrethe
@@ -3059,7 +3059,7 @@
 151005 = {
 	name="Erland" 
 	dynasty=760 #Galen
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1172.1.1 = {
 		birth="1172.1.1" 
@@ -3075,7 +3075,7 @@
 151006 = {
 	name="Jens" #Erlandsen
 	dynasty=760 #Galen
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="thrifty_clerk"
 	father=151005 # Erland Galen
@@ -3091,7 +3091,7 @@
 151007 = {
 	name = "Inger"
 	female = yes
-	religion = "orthodox"
+	religion = "catholic"
 	culture = "danish"
 	1215.1.1 = {
 		birth="1215.1.1"
@@ -3104,7 +3104,7 @@
 151008 = {
 	name="Erik" #Jensen
 	dynasty=760 #Galen
-	religion = "orthodox"
+	religion = "catholic"
 	culture = "danish"
 	father=151006 # Jens Erlandsen
 	mother=151007 # Inger
@@ -3119,7 +3119,7 @@
 151009 = {
 	name="Niels" #Erlandsen
 	dynasty=760 #Galen
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="fortune_builder"
 	trait="just"
@@ -3141,7 +3141,7 @@
 	name="Elisabeth" #Pedersdatter
 	female=yes
 	dynasty=1025003 #Ulfeldt
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=170022 # Peder Strangesen
 	mother=201525 # Ingeborg Esbernsdatter
@@ -3156,7 +3156,7 @@
 151011 = {
 	name="Jens" #Nielsen
 	dynasty=760 #Galen
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	father=151009 # Niels Erlandsen
@@ -3171,7 +3171,7 @@
 
 151003 = {
 	name="Herlug"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="misguided_warrior"
 	1153.1.1 = {
@@ -3190,7 +3190,7 @@
 
 151015 = {
 	name="Peder"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="scholarly_theologian"
 	1084.1.1 = {
@@ -3203,7 +3203,7 @@
 
 151016 = {
 	name="Rike"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="wroth"
 	trait="martial_cleric"
@@ -3217,7 +3217,7 @@
 
 151017 = {
 	name="Asser"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="zealous"
 	trait="craven"
@@ -3236,7 +3236,7 @@
 151018 = {
 	name="Peder" #Jacobsen
 	dynasty=482 #Hvide
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="zealous"
 	trait="scholarly_theologian"
@@ -3252,7 +3252,7 @@
 151019 = {
 	name="Toke" #Ebbesen
 	dynasty=482 #Hvide
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	father=201532 #Ebbe Skjalmsen
@@ -3267,7 +3267,7 @@
 151020 = {
 	name="Stig" #Tokesen
 	dynasty=482 #Hvide
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	father=151019 #Toke Ebbesen
@@ -3286,7 +3286,7 @@
 	name="Margrethe" #Knudsdatter
 	female=yes
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=201513 #Knud Lavard
 	1129.1.1 = {
@@ -3300,7 +3300,7 @@
 151022 = {
 	name="Niels" #Stigsen
 	dynasty=482 #Hvide
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="ambitious"
@@ -3318,7 +3318,7 @@
 151023 = {
 	name="Toke" #Skjalmsen
 	dynasty=482 #Hvide
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="fortune_builder"
@@ -3335,7 +3335,7 @@
 151024 = {
 	name="Skjalm" #Bang
 	dynasty=1025004 #Bang
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="tough_soldier"
 	father=151023 #Toke Skjalmsen
@@ -3350,7 +3350,7 @@
 151025 = {
 	name="Peder" #Bang
 	dynasty=1025004 #Bang
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="wroth"
 	trait="martial_cleric"
@@ -3365,7 +3365,7 @@
 
 151026 = {
 	name="Stig" 
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="detached_priest"
 	1247.1.1 = {
@@ -3378,7 +3378,7 @@
 
 151027 = {
 	name="Ingvar" 
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="detached_priest"
 	1250.1.1 = {
@@ -3392,7 +3392,7 @@
 151028 = {
 	name="Johannes" #Krag
 	#AKA Jens/Johan Krag
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charitable"
 	trait="martial_cleric"
@@ -3406,7 +3406,7 @@
 
 151029 = {
 	name="Oluf" 
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="martial_cleric"
 	1270.1.1 = {
@@ -3420,7 +3420,7 @@
 151030 = {
 	name="Jens" #Hind	
 	#AKA Johan Hind
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="trusting"
 	trait="martial_cleric"
@@ -3435,7 +3435,7 @@
 151031 = {
 	name="Jens"
 	#AKA Jens Nyborg
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="kind"
 	trait="scholarly_theologian"
@@ -3455,7 +3455,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="charismatic_negotiator"
 	father=151020 #Stig Tokesen
@@ -3471,7 +3471,7 @@
 93533 = {
 	name="Knud"
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	father=201501
@@ -3490,7 +3490,7 @@
 93535 = {
 	name="Erik"
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=93533
 	mother=93534
@@ -3505,7 +3505,7 @@
 93537 = {
 	name="Barnum"
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=93535
 	1260.1.1={
@@ -3519,7 +3519,7 @@
 93538 = {
 	name="Erik"
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=93537
 	1290.1.1={
@@ -3538,7 +3538,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="martial_cleric"
 	father=93533
@@ -3557,7 +3557,7 @@
 161736 = {
 	name="Valdemar"
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=201501
 	mother=96037
@@ -3578,7 +3578,7 @@
 161737 = {
 	name="Niels"
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	trait="legit_bastard"
 	father=201501
@@ -3596,7 +3596,7 @@
 161738 = {
 	name="Niels"
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=161737
 	mother=33268
@@ -3612,7 +3612,7 @@
 	name="Jutta"
 	female = yes
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=451510
 	mother=161739
@@ -3628,7 +3628,7 @@
 	name="Agnes"
 	female = yes
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=451510
 	mother=161739
@@ -3643,7 +3643,7 @@
 167019 = {
 	name="Hakon" #Sunnivasson Jyde
 	dynasty=100273 # Stibolt
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	mother=102525 #Sunniva Ragnhildsdatter
 	1100.1.1={ #utter guesswork
@@ -3659,7 +3659,7 @@
 170015 = {
 	name="Ragnvald" # son of the Danish Prince Henrik Skadelår
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=101532
 	mother=100554 #Ingrid Ragnvaldsdotter
@@ -3674,7 +3674,7 @@
 170016 = {
 	name="Knut" # son of the Danish Prince Henrik Skadelår
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=101532
 	mother=100554 #Ingrid Ragnvaldsdotter
@@ -3689,7 +3689,7 @@
 170017 = {
 	name="Buris" # son of the Danish Prince Henrik Skadelår
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=101532
 	mother=100554 #Ingrid Ragnvaldsdotter
@@ -3704,7 +3704,7 @@
 170018 = {
 	name="Jan" # son of the Danish Prince Henrik Skadelår
 	dynasty=487
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=101532
 	mother=100554 #Ingrid Ragnvaldsdotter
@@ -3719,7 +3719,7 @@
 170022 = {
 	name="Peder" #Peder Strangesen
 	dynasty=1025003 #Ulfeldt
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1170.1.1={
 		birth="1170.1.1"
@@ -3736,7 +3736,7 @@
 	name="Helena" # Helena Pedersdatter
 	female=yes
 	dynasty=1025003 #Ulfeldt
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=170022 # Peder Strangesen
 	mother=201525 # Ingeborg Esbernsdatter
@@ -3765,7 +3765,7 @@
 168643 = {
 	name="Torgils"
 	dynasty=9552
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=168642
 	1032.1.1 = {
@@ -3779,7 +3779,7 @@
 168644 = {
 	name="Hemming"
 	dynasty=9552
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	father=168642
 	1034.1.1 = {
@@ -3797,7 +3797,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	add_trait="legit_bastard"
 	add_trait="tough_soldier"
@@ -3818,7 +3818,7 @@
 	diplomacy=4
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	add_trait="twin"
 	add_trait="legit_bastard"
@@ -3840,7 +3840,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	add_trait="twin"
 	add_trait="legit_bastard"
@@ -3862,7 +3862,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	add_trait="legit_bastard"
 	add_trait="indulgent_wastrel"
@@ -3877,7 +3877,7 @@
 
 310000 = {
 	name = "Christian"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1030.1.1 = {
 		birth = yes
@@ -3888,7 +3888,7 @@
 }
 310001 = {
 	name = "Ulfketil"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1070.1.1 = {
 		birth = yes
@@ -3899,7 +3899,7 @@
 }
 310002 = {
 	name = "Eskil"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1115.1.1 = {
 		birth = yes
@@ -3910,7 +3910,7 @@
 }
 310003 = {
 	name = "Svend"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1135.1.1 = {
 		birth = yes
@@ -3921,7 +3921,7 @@
 }
 310004 = {
 	name = "Peder"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	dynasty = 1075000
 	father = 310007
@@ -3935,7 +3935,7 @@
 }
 310005 = {
 	name = "Skjalm"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	dynasty = 1075000
 	father = 310007
@@ -3949,7 +3949,7 @@
 }
 310006 = {
 	name = "Ebbe"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	dynasty = 1075000
 	father = 310007
@@ -3963,7 +3963,7 @@
 }
 310007 = {
 	name = "Vogn"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	dynasty = 1062000
 	1115.1.1 = {
@@ -3975,7 +3975,7 @@
 }
 310008 = {
 	name = "Peder"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1198.1.1 = {
 		birth = yes
@@ -3986,7 +3986,7 @@
 }
 310009 = {
 	name = "Peder"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1220.1.1 = {
 		birth = yes
@@ -3997,7 +3997,7 @@
 }
 310010 = {
 	name = "Tyge"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1231.1.1 = {
 		birth = yes
@@ -4008,7 +4008,7 @@
 }
 310011 = {
 	name = "Peder"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1242.1.1 = {
 		birth = yes
@@ -4019,7 +4019,7 @@
 }
 310012 = {
 	name = "Tyge"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1240.1.1 = {
 		birth = yes
@@ -4030,7 +4030,7 @@
 }
 310013 = {
 	name = "Jens"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1251.1.1 = {
 		birth = yes
@@ -4041,7 +4041,7 @@
 }
 310014 = {
 	name = "Esger"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1275.1.1 = {
 		birth = yes
@@ -4052,7 +4052,7 @@
 }
 310015 = {
 	name = "Esger"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1267.1.1 = {
 		birth = yes
@@ -4063,7 +4063,7 @@
 }
 310016 = {
 	name = "Svend"
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1291.1.1 = {
 		birth = yes
@@ -4075,7 +4075,7 @@
 310017 = {
 	name = "Ingerd"
 	female = yes
-	religion="orthodox"
+	religion="catholic"
 	culture="danish"
 	1120.1.1 = {
 		birth = yes

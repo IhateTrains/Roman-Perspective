@@ -2419,7 +2419,7 @@
 
 	father=73354
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1018.1.1={
@@ -2437,7 +2437,7 @@
 	father=73318
 	mother=73320
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1040.1.1={
@@ -2458,7 +2458,7 @@
 	father=73321
 	mother=73322
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1017.1.1={
@@ -2476,7 +2476,7 @@
 	name="Altruda"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1050.1.1={
@@ -2491,7 +2491,7 @@
 	name="Maria"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1020.1.1={
@@ -2509,7 +2509,7 @@
 	father=73323
 	mother=168453
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	995.1.1={
@@ -2527,7 +2527,7 @@
 	name="Altruda"
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1000.1.1={
@@ -2869,7 +2869,7 @@
 
 	father=73338
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1000.1.1={
@@ -2886,7 +2886,7 @@
 
 	father=73342
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1022.1.1={
@@ -2904,7 +2904,7 @@
 
 	father=73343
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1041.1.1={
@@ -2922,7 +2922,7 @@
 
 	father=73342
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1023.1.1={
@@ -2937,7 +2937,7 @@
 	name="Lando"
 	dynasty=12243
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1018.1.1={
@@ -2958,7 +2958,7 @@
 	father=73346
 	mother=73345
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1042.1.1={
@@ -2976,7 +2976,7 @@
 	father=73346
 	mother=73345
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1043.1.1={
@@ -2994,7 +2994,7 @@
 	father=73346
 	mother=73345
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1045.1.1={
@@ -3012,7 +3012,7 @@
 	father=73346
 	mother=73345
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1046.1.1={
@@ -3029,7 +3029,7 @@
 
 	father=73347
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1066.1.1={
@@ -3047,7 +3047,7 @@
 
 	father=73347
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1068.1.1={
@@ -3064,7 +3064,7 @@
 
 	father=73350
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1070.1.1={
@@ -3115,7 +3115,7 @@
 
 	father=73323
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	trait=humble
@@ -3357,7 +3357,7 @@
 	father=1116
 	mother=30854
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1035.1.1={
@@ -3376,7 +3376,7 @@
 	father=1116
 	mother=30854
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 	
 	trait=siege_leader
@@ -3408,7 +3408,7 @@
 	father=1116
 	mother=1117
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1032.1.1={
@@ -3426,7 +3426,7 @@
 
 	father=30856
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1034.1.1={
@@ -3445,7 +3445,7 @@
 	father=1116
 	mother=30854
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1050.1.1={
@@ -3462,7 +3462,7 @@
 
 	father=30857
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1012.1.1={
@@ -3495,7 +3495,7 @@
 	father=1116
 	mother=30854
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1036.1.1={
@@ -3513,7 +3513,7 @@
 	father=1116
 	mother=30854
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1037.1.1={
@@ -3531,7 +3531,7 @@
 	father=1116
 	mother=30854
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1038.1.1={
@@ -3549,7 +3549,7 @@
 	father=1116
 	mother=30854
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1039.1.1={
@@ -3565,7 +3565,7 @@
 	female=yes
 	dynasty=7186
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1044.1.1={
@@ -3800,7 +3800,7 @@
 
 	father=168425
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1005.1.1={
@@ -3820,7 +3820,7 @@
 
 	father=168425
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1010.1.1={
@@ -3835,7 +3835,7 @@
 	name=Maria
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1015.1.1={
@@ -3853,7 +3853,7 @@
 	father=168427
 	mother=168429
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1040.1.1={		
@@ -3871,7 +3871,7 @@
 	father=168427
 	mother=168429
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1042.1.1={		
@@ -3889,7 +3889,7 @@
 	father=168427
 	mother=168429
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1045.1.1={		
@@ -3907,7 +3907,7 @@
 	father=168431
 	trait=bastard
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1060.1.1={		
@@ -4284,7 +4284,7 @@
 
 	father=168455
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1015.1.1={		
@@ -4301,7 +4301,7 @@
 
 	father=168457
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1035.1.1={		
@@ -4318,7 +4318,7 @@
 
 	father=168457
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1037.1.1={		
@@ -4335,7 +4335,7 @@
 
 	father=168456
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1015.1.1={		
@@ -4352,7 +4352,7 @@
 
 	father=168460
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1035.1.1={		
@@ -4369,7 +4369,7 @@
 
 	father=168460
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1036.1.1={		
@@ -4387,7 +4387,7 @@
 
 	father=168460
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1037.1.1={		
@@ -4405,7 +4405,7 @@
 
 	father=168460
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1038.1.1={		
@@ -4423,7 +4423,7 @@
 
 	father=168460
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1039.1.1={		
@@ -4441,7 +4441,7 @@
 	father=168454
 	mother=168496
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1015.1.1={		
@@ -4481,7 +4481,7 @@
 	father=168454
 	mother=168496
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1019.1.1={		
@@ -4499,7 +4499,7 @@
 	father=168454
 	mother=168496
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1020.1.1={		
@@ -4517,7 +4517,7 @@
 	father=168454
 	mother=168496
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1025.1.1={		
@@ -4536,7 +4536,7 @@
 	father=168454
 	mother=168496
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1016.1.1={		
@@ -4553,7 +4553,7 @@
 
 	father=168469
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1040.1.1={		
@@ -4571,7 +4571,7 @@
 
 	father=168472
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1060.1.1={		
@@ -4606,7 +4606,7 @@
 
 	father=168466
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1032.1.1={		
@@ -4623,7 +4623,7 @@
 
 	father=168475
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1050.1.1={		
@@ -4808,7 +4808,7 @@
 
 	father=168486
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1020.1.1={		
@@ -4826,7 +4826,7 @@
 	name=Gaita
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1020.1.1={		
@@ -4844,7 +4844,7 @@
 	father=168487
 	mother=168488
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1040.1.1={		
@@ -4862,7 +4862,7 @@
 	father=168487
 	mother=168488
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1042.1.1={	
@@ -4880,7 +4880,7 @@
 	father=168487
 	mother=168488
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1044.1.1={		
@@ -4899,7 +4899,7 @@
 	father=168487
 	mother=168488
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1046.1.1={		
@@ -4968,7 +4968,7 @@
 
 	father=168470
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1045.1.1={		
@@ -4986,7 +4986,7 @@
 
 	father=168470
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1046.1.1={		
@@ -5000,7 +5000,7 @@
 73472={
 	name="Ulderit"
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	trait=detached_priest
@@ -5015,7 +5015,7 @@
 73474={
 	name="Rofrit"
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	trait=detached_priest
@@ -5031,7 +5031,7 @@
 73475={
 	name="Landolf"
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	trait=detached_priest
@@ -5047,7 +5047,7 @@
 73476={
 	name="Rofrit"
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	trait=detached_priest
@@ -5063,7 +5063,7 @@
 73477={
 	name="Landolf"
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	trait=detached_priest
@@ -5186,7 +5186,7 @@
 
 	father=200303
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	990.1.1={
@@ -5203,7 +5203,7 @@
 
 	father=200304
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1006.1.1={
@@ -5220,7 +5220,7 @@
 
 	father=200305
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1032.1.1={
@@ -5305,7 +5305,7 @@
 
 	father=200310
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1000.1.1={
@@ -5322,7 +5322,7 @@
 
 	father=200310
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1002.1.1={
@@ -5339,7 +5339,7 @@
 
 	father=200312
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1030.1.1={
@@ -5356,7 +5356,7 @@
 
 	father=200310
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1004.1.1={
@@ -5373,7 +5373,7 @@
 
 	father=200314
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1030.1.1={
@@ -5390,7 +5390,7 @@
 
 	father=200315
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1058.1.1={
@@ -5475,7 +5475,7 @@
 
 	father=200320
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1010.1.1={
@@ -5492,7 +5492,7 @@
 
 	father=200321
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1033.1.1={
@@ -5509,7 +5509,7 @@
 
 	father=200322
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1050.1.1={
@@ -5526,7 +5526,7 @@
 
 	father=30856
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1031.1.1={
@@ -5543,7 +5543,7 @@
 
 	father=30856
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1032.1.1={
@@ -5561,7 +5561,7 @@
 	name=Sichelgarda
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1060.1.1={
@@ -5578,7 +5578,7 @@
 
 	father=200325
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1057.1.1={
@@ -5595,7 +5595,7 @@
 
 	father=200325
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1059.1.1={
@@ -5614,7 +5614,7 @@
 	father=200325
 	mother=200326
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1081.1.1={
@@ -5631,7 +5631,7 @@
 
 	father=30856
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1033.1.1={
@@ -5648,7 +5648,7 @@
 
 	father=200331
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1058.1.1={
@@ -5686,7 +5686,7 @@
 	father=200333
 	mother=200334
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1041.1.1={
@@ -5707,7 +5707,7 @@
 	father=200335
 	mother=73344
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1060.1.1={
@@ -5724,7 +5724,7 @@
 
 	father=200336
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1084.1.1={
@@ -5741,7 +5741,7 @@
 
 	father=200337
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1110.1.1={
@@ -5758,7 +5758,7 @@
 
 	father=200338
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1133.1.1={
@@ -5775,7 +5775,7 @@
 
 	father=200336
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1086.1.1={
@@ -5793,7 +5793,7 @@
 
 	father=200336
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1088.1.1={
@@ -5811,7 +5811,7 @@
 	father=200335
 	mother=73344
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1062.1.1={
@@ -5828,7 +5828,7 @@
 
 	father=200342
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1084.1.1={
@@ -5845,7 +5845,7 @@
 
 	father=200342
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1086.1.1={
@@ -5862,7 +5862,7 @@
 
 	father=200342
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1088.1.1={
@@ -5880,7 +5880,7 @@
 
 	father=200342
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1090.1.1={
@@ -5898,7 +5898,7 @@
 	father=200335
 #	mother=7344
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1064.1.1={
@@ -5915,7 +5915,7 @@
 
 	father=200347
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1090.1.1={
@@ -5933,7 +5933,7 @@
 	father=200335
 	mother=73344
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1066.1.1={
@@ -5951,7 +5951,7 @@
 	father=200335
 	mother=73344
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1068.1.1={
@@ -5969,7 +5969,7 @@
 	father=200333
 	mother=200334
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1043.1.1={
@@ -5989,7 +5989,7 @@
 
 	father=200352
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1066.1.1={
@@ -6006,7 +6006,7 @@
 
 	father=200352
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1068.1.1={
@@ -6024,7 +6024,7 @@
 	father=200352
 	mother=200372
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1076.1.1={
@@ -6041,7 +6041,7 @@
 
 	father=200355
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1097.1.1={
@@ -6059,7 +6059,7 @@
 	name=Lolegrima
 	female=yes
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1100.1.1={
@@ -6077,7 +6077,7 @@
 	father=200356
 	mother=200357
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1120.1.1={
@@ -6096,7 +6096,7 @@
 	father=200352
 	mother=200372
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1078.1.1={
@@ -6114,7 +6114,7 @@
 	father=200333
 	mother=200334
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1045.1.1={
@@ -6135,7 +6135,7 @@
 	father=200360
 	mother=200392
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1071.1.1={
@@ -6154,7 +6154,7 @@
 	father=200360
 	mother=200392
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1073.1.1={
@@ -6172,7 +6172,7 @@
 	father=200333
 	mother=200334
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1047.1.1={
@@ -6191,7 +6191,7 @@
 	father=200333
 	mother=200334
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1049.1.1={
@@ -6210,7 +6210,7 @@
 	father=200333
 	mother=200334
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1051.1.1={
@@ -6227,7 +6227,7 @@
 
 	father=73340
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1007.1.1={
@@ -6244,7 +6244,7 @@
 
 	father=200367
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1031.1.1={
@@ -6261,7 +6261,7 @@
 
 	father=200368
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1055.1.1={
@@ -6278,7 +6278,7 @@
 
 	father=200369
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1090.1.1={
@@ -6296,7 +6296,7 @@
 
 	father=200368
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1057.1.1={
@@ -6314,7 +6314,7 @@
 
 	father=200368
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1059.1.1={
@@ -6331,7 +6331,7 @@
 
 	father=200367
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1050.1.1={
@@ -6365,7 +6365,7 @@
 
 	father=200374
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1006.1.1={
@@ -6382,7 +6382,7 @@
 
 	father=200375
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1031.1.1={
@@ -6399,7 +6399,7 @@
 
 	father=200376
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1055.1.1={
@@ -6416,7 +6416,7 @@
 
 	father=200374
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1007.1.1={
@@ -6433,7 +6433,7 @@
 
 	father=200378
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1030.1.1={
@@ -6450,7 +6450,7 @@
 
 	father=200379
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1054.1.1={
@@ -6467,7 +6467,7 @@
 
 	father=200380
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1077.1.1={
@@ -6484,7 +6484,7 @@
 
 	father=200380
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1079.1.1={
@@ -6501,7 +6501,7 @@
 
 	father=200380
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1081.1.1={
@@ -6518,7 +6518,7 @@
 
 	father=200380
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1083.1.1={
@@ -6535,7 +6535,7 @@
 
 	father=200379
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1056.1.1={
@@ -6552,7 +6552,7 @@
 
 	father=200385
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1079.1.1={
@@ -6569,7 +6569,7 @@
 
 	father=200385
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1081.1.1={
@@ -6620,7 +6620,7 @@
 
 	father=200389
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	987.1.1={
@@ -6637,7 +6637,7 @@
 
 	father=200390
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1018.1.1={
@@ -6655,7 +6655,7 @@
 
 	father=200391
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1045.1.1={
@@ -6672,7 +6672,7 @@
 
 	father=200390
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1020.1.1={
@@ -6690,7 +6690,7 @@
 
 	father=200393
 
-	religion=orthodox
+	religion=catholic
 	culture=lombard
 
 	1050.1.1={

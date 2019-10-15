@@ -51,7 +51,7 @@
 	diplomacy=4
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="serbian"
 	trait="scholarly_theologian"
 	trait="patient"
@@ -192,7 +192,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="serbian"
 	trait="wroth"
 	trait="humble"
@@ -1754,7 +1754,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="serbian"
 	trait="deceitful"
 	trait="stutter"
@@ -1777,7 +1777,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="serbian"
 	trait="wroth"
 	trait="temperate"

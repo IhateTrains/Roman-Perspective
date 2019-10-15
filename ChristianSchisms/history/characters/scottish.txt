@@ -165,7 +165,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="cynical"
 	trait="skilled_tactician"
@@ -190,7 +190,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="kind"
 	trait="proud"
@@ -212,7 +212,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="martial_cleric"
 	father=984
@@ -235,7 +235,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="arbitrary"
 	trait="harelip"
@@ -277,7 +277,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=5998
 	mother=5997
@@ -374,7 +374,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=6003
 	1010.1.2={
@@ -468,7 +468,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=6002
 	mother=6001
@@ -491,7 +491,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=6005
 	1030.1.2={
@@ -509,7 +509,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="flamboyant_schemer"
 	father=6006
@@ -530,7 +530,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charismatic_negotiator"
 	father=6006
@@ -550,7 +550,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	1039.1.2={
@@ -571,7 +571,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=6010
 	mother=6009
@@ -590,7 +590,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=6010
 	mother=6009
@@ -686,7 +686,7 @@
 	name="Bethoc"
 	female = yes 
 	dynasty=1687
-	religion="orthodox"
+	religion="catholic"
 	culture = "scottish"
 	father = 986
 	1079.1.1={
@@ -700,7 +700,7 @@
 7389 = {
 	name="Malcolm"
 	dynasty=100044
-	religion="orthodox"
+	religion="catholic"
 	culture = "scottish"
 	father = 7390
 	mother=220037
@@ -715,7 +715,7 @@
 7390 = {  	
 	name="Matad"
 	dynasty=100044
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=994
 	1096.1.1={
@@ -733,7 +733,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=220031
@@ -753,7 +753,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="craven"
 	trait="flamboyant_schemer"
@@ -776,7 +776,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	mother=4071
@@ -818,7 +818,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="skilled_tactician"
 	father=131001
@@ -842,7 +842,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="cynical"
 	trait="underhanded_rogue"
@@ -862,7 +862,7 @@
 	diplomacy=2
 	intrigue=1
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="just"
 	father=131002
@@ -883,7 +883,7 @@
 	diplomacy=3
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	1051.1.1={
@@ -960,7 +960,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=131103
@@ -979,7 +979,7 @@
 	diplomacy=3
 	intrigue=2
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=131104
 	1065.1.2={
@@ -997,7 +997,7 @@
 	diplomacy=1
 	intrigue=3
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=131104
 	1066.1.2={
@@ -1016,7 +1016,7 @@
 	diplomacy=1
 	intrigue=3
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="chaste"
 	father=166433
@@ -1036,7 +1036,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=984
 	mother=113
@@ -1056,7 +1056,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=984
 	mother=113
@@ -1080,7 +1080,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="skilled_tactician"
 	father=988
@@ -1100,7 +1100,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="proud"
 	trait="diligent"
@@ -1125,7 +1125,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="temperate"
@@ -1145,7 +1145,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="proud"
@@ -1168,7 +1168,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="temperate"
@@ -1190,7 +1190,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=202971
@@ -1211,7 +1211,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=202971
 	mother=202972
@@ -1230,7 +1230,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=202978
 	1120.1.1={
@@ -1248,7 +1248,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=131004
 	1100.1.1={
@@ -1267,7 +1267,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	trait="lustful"
@@ -1293,7 +1293,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="martial_cleric"
 	trait="chaste"
@@ -1315,7 +1315,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 83591
 	1199.1.1={
@@ -1333,7 +1333,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="chaste"
 	trait="slothful"
@@ -1356,7 +1356,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="gluttonous"
 	trait="wroth"
@@ -1377,7 +1377,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="greedy"
 	trait="temperate"
@@ -1403,7 +1403,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="tough_soldier"
@@ -1422,7 +1422,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="just"
 	trait="brave"
@@ -1444,7 +1444,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	father=202977
@@ -1463,7 +1463,7 @@
 	name="Alesta"
 	female = yes
 	dynasty=100042
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 203060 # Morgann of Mar
 	mother =203061
@@ -1482,7 +1482,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="chaste"
 	trait="skilled_tactician"
@@ -1506,7 +1506,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	trait="naive_appeaser"
@@ -1526,7 +1526,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203014
 	mother=203015
@@ -1545,7 +1545,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="lustful"
@@ -1570,7 +1570,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=203072
@@ -1590,7 +1590,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203072
 	1183.1.1={
@@ -1609,7 +1609,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	trait="flamboyant_schemer"
@@ -1630,7 +1630,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	father=203010
@@ -1650,7 +1650,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=203010
@@ -1666,7 +1666,7 @@
 203059 = {  	
 	name="Gillocher"
 	dynasty=100042
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="honest"
 	trait="tough_soldier"
@@ -1682,7 +1682,7 @@
 203060 = {  	
 	name="Morgan" # AKA: Morggan
 	dynasty=100042
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="honest"
 	trait="tough_soldier"
@@ -1706,7 +1706,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="envious"
 	trait="patient"
@@ -1728,7 +1728,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="greedy"
@@ -1752,7 +1752,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="wroth"
 	trait="proud"
@@ -1776,7 +1776,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="wroth"
 	trait="greedy"
@@ -1799,7 +1799,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="patient"
@@ -1822,7 +1822,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="tough_soldier"
@@ -1843,7 +1843,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="amateurish_plotter"
 	father = 20071
@@ -1862,7 +1862,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="chaste"
@@ -1885,7 +1885,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="proud"
 	trait="patient"
@@ -1908,7 +1908,7 @@
 	diplomacy=5
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="proud"
 	trait="greedy"
@@ -1931,7 +1931,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="honest"
 	trait="lustful"
@@ -1954,7 +1954,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="scholarly_theologian"
 	1150.1.2={
@@ -1974,7 +1974,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="chaste"
 	trait="temperate"
@@ -1997,7 +1997,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="slothful"
 	trait="tough_soldier"
@@ -2018,7 +2018,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="amateurish_plotter"
 	father=203511
@@ -2038,7 +2038,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="patient"
 	trait="skilled_tactician"
@@ -2063,7 +2063,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="martial_cleric"
 	father=203511
@@ -2083,7 +2083,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="skilled_tactician"
 	father=203511
@@ -2107,7 +2107,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=203542
@@ -2126,7 +2126,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="intricate_webweaver"
 	father = 203547
@@ -2149,7 +2149,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="intricate_webweaver"
 	father = 144947
@@ -2172,7 +2172,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="skilled_tactician"
 	father=203520
@@ -2193,7 +2193,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="zealous"
 	trait="martial_cleric"
@@ -2218,7 +2218,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203560
 	mother=203561
@@ -2237,7 +2237,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188870
 	1113.1.1={
@@ -2259,7 +2259,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="gluttonous"
 	trait="scholarly_theologian"
@@ -2279,7 +2279,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=220019
@@ -2299,7 +2299,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=220019
@@ -2319,7 +2319,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=220019
 	mother=220028
@@ -2339,7 +2339,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	trait="wroth"
@@ -2361,7 +2361,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="amateurish_plotter"
 	father=202977
@@ -2380,7 +2380,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	father=220020
@@ -2401,7 +2401,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=220020
@@ -2422,7 +2422,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	father=220020
@@ -2443,7 +2443,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="proud"
 	trait="charismatic_negotiator"
@@ -2463,7 +2463,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="skilled_tactician"
 	father=203520
@@ -2484,7 +2484,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203572
 	mother=230521
@@ -2504,7 +2504,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 230523
 	mother = 230522
@@ -2526,7 +2526,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 230524
 	mother = 230529
@@ -2546,7 +2546,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="arbitrary"
 	trait="envious"
@@ -2571,7 +2571,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=984
 	mother=113
@@ -2590,7 +2590,7 @@
 	diplomacy=2
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	1169.1.2={
@@ -2608,7 +2608,7 @@
 	diplomacy=9
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="honest"
 	trait="martial_cleric"
@@ -2627,7 +2627,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	trait="slothful"
@@ -2647,7 +2647,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=332019
@@ -2670,7 +2670,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="martial_cleric"
 	father=332019
@@ -2690,7 +2690,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="diligent"
 	father=332019
@@ -2710,7 +2710,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="cynical"
 	father=332019
@@ -2730,7 +2730,7 @@
 	diplomacy=5
 	intrigue=9
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="cynical"
 	1145.1.1={
@@ -2748,7 +2748,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="diligent"
 	trait="honest"
@@ -2768,7 +2768,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="deceitful"
 	trait="greedy"
@@ -2791,7 +2791,7 @@
 	diplomacy=8
 	intrigue=3
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="humble"
 	1163.1.1={
@@ -2809,7 +2809,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453055
@@ -2824,7 +2824,7 @@
 450820 = {  	
 	name="Malise" # the V, 8th Earl of Strathearn 
 	dynasty=9101
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="cynical"
@@ -2849,7 +2849,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="skilled_tactician"
 	father=82033
@@ -2876,7 +2876,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="martial_cleric"
 	1250.1.2={
@@ -2891,7 +2891,7 @@
 	name="Joan" # or Johanna
 	female = yes
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188926
 	1307.1.1={
@@ -2910,7 +2910,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="proud"
 	trait="martial_cleric"
@@ -2932,7 +2932,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="slothful"
 	trait="scholarly_theologian"
@@ -2954,7 +2954,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="gluttonous"
 	trait="thrifty_clerk"
@@ -2976,7 +2976,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="just"
 	trait="thrifty_clerk"
@@ -2998,7 +2998,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="greedy"
 	trait="thrifty_clerk"
@@ -3019,7 +3019,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453037
@@ -3039,7 +3039,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="wroth"
 	trait="tough_soldier"
@@ -3063,7 +3063,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="honest"
 	trait="stutter"
@@ -3088,7 +3088,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453020
@@ -3108,7 +3108,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453027
@@ -3128,7 +3128,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453041
@@ -3144,7 +3144,7 @@
 453009 = {  	
 	name="Colin" # Colin Og (the Young)
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	trait="brave"
@@ -3170,7 +3170,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="diligent"
 	trait="charitable"
@@ -3196,7 +3196,7 @@
 	diplomacy=4
 	intrigue=9
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="cynical"
 	trait="tough_soldier"
@@ -3220,7 +3220,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453022
@@ -3244,7 +3244,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="arbitrary"
 	trait="martial_cleric"
@@ -3264,7 +3264,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453023
@@ -3283,7 +3283,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father = 7367
@@ -3304,7 +3304,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="amateurish_plotter"
 	father=453023
@@ -3324,7 +3324,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="amateurish_plotter"
 	father=453023
@@ -3344,7 +3344,7 @@
 	diplomacy=8
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	father=453020
@@ -3364,7 +3364,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453028
@@ -3386,7 +3386,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453029
@@ -3405,7 +3405,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453030
@@ -3425,7 +3425,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father = 203013
@@ -3446,7 +3446,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="patient"
 	trait="flamboyant_schemer"
@@ -3465,7 +3465,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453030
@@ -3485,7 +3485,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453032
@@ -3507,7 +3507,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="tough_soldier"
@@ -3532,7 +3532,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="just"
 	trait="flamboyant_schemer"
@@ -3552,7 +3552,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	father=453034
@@ -3572,7 +3572,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	1290.1.1={
@@ -3593,7 +3593,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father = 7366
@@ -3615,7 +3615,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453038
@@ -3636,7 +3636,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="flamboyant_schemer"
 	father = 7359
@@ -3656,7 +3656,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453039
@@ -3680,7 +3680,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="amateurish_plotter"
 	father = 7294
@@ -3699,7 +3699,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7298
 	trait="proud"
@@ -3726,7 +3726,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="amateurish_plotter"
@@ -3748,7 +3748,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="amateurish_plotter"
@@ -3768,7 +3768,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="tough_soldier"
@@ -3791,7 +3791,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="legit_bastard"
 	trait="tough_soldier"
@@ -3812,7 +3812,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="amateurish_plotter"
@@ -3833,7 +3833,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="tough_soldier"
@@ -3857,7 +3857,7 @@
 	diplomacy=3
 	intrigue=6
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="patient"
@@ -3878,7 +3878,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	1255.1.1={
@@ -3897,7 +3897,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="temperate"
 	trait="flamboyant_schemer"
@@ -3919,7 +3919,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="diligent"
@@ -3942,7 +3942,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="tough_soldier"
@@ -3967,7 +3967,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="tough_soldier"
@@ -3986,7 +3986,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="honest"
 	trait="tough_soldier"
@@ -4007,7 +4007,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="proud"
 	trait="amateurish_plotter"
@@ -4022,7 +4022,7 @@
 453071 = {  	
 	name="Neil" # Sir Neil
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="tough_soldier"
@@ -4046,7 +4046,7 @@
 	name="Alice" # Alyse de Crawford
 	female = yes
 	dynasty=101601
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188951
 	1284.1.1={
@@ -4065,7 +4065,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="amateurish_plotter"
@@ -4082,7 +4082,7 @@
 453074 = {  	
 	name="Dugald"
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=453071
 	mother=453072
@@ -4097,7 +4097,7 @@
 453075 = {  	
 	name="John" # Earl of Atholl
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="humble"
 	trait="zealous"
@@ -4120,7 +4120,7 @@
 	# AKA: Helena Mor
 	female = yes
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188926
 	1300.1.1={
@@ -4134,7 +4134,7 @@
 453077 = {  	
 	name="Dugald"
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453009
@@ -4150,7 +4150,7 @@
 453078 = {  	
 	name="Archibald"
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="proud"
 	trait="tough_soldier"
@@ -4171,7 +4171,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="proud"
 	trait="tough_soldier"
@@ -4192,7 +4192,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	trait="honest"
@@ -4214,7 +4214,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="arbitrary"
 	trait="martial_cleric"
@@ -4235,7 +4235,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="brave"
@@ -4265,7 +4265,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="humble"
 	trait="amateurish_plotter"
@@ -4287,7 +4287,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="slothful"
 	trait="detached_priest"
@@ -4309,7 +4309,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="arbitrary"
 	trait="thrifty_clerk"
@@ -4331,7 +4331,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="patient"
 	trait="martial_cleric"
@@ -4353,7 +4353,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	trait="chaste"
@@ -4377,7 +4377,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	trait="proud"
@@ -4399,7 +4399,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	trait="humble"
@@ -4421,7 +4421,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	trait="thrifty_clerk"
@@ -4441,7 +4441,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="brave"
@@ -4463,7 +4463,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="intricate_webweaver"
 	father = 203546
@@ -4487,7 +4487,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="patient"
 	trait="amateurish_plotter"
@@ -4512,7 +4512,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="amateurish_plotter"
 	father=453512
@@ -4532,7 +4532,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="tough_soldier"
@@ -4557,7 +4557,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453038
@@ -4577,7 +4577,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=453515
@@ -4601,7 +4601,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="proud"
@@ -4624,7 +4624,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	father=453517
@@ -4644,7 +4644,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	trait="tough_soldier"
@@ -4668,7 +4668,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="envious"
 	trait="temperate"
@@ -4688,7 +4688,7 @@
 	diplomacy=2
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="temperate"
 	trait="brave"
@@ -4711,7 +4711,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="flamboyant_schemer"
@@ -4738,7 +4738,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="amateurish_plotter"
 	father=453030
@@ -4759,7 +4759,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="flamboyant_schemer"
 	1223.1.1={
@@ -4777,7 +4777,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="honest"
@@ -4799,7 +4799,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="proud"
 	trait="tough_soldier"
@@ -4819,7 +4819,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	father=453603
@@ -4838,7 +4838,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="honest"
 	trait="tough_soldier"
@@ -4859,7 +4859,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="tough_soldier"
@@ -4883,7 +4883,7 @@
 	diplomacy=3
 	intrigue=3
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="stutter"
 	trait="tough_soldier"
@@ -4904,7 +4904,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="just"
 	trait="envious"
@@ -4927,7 +4927,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="wroth"
 	trait="flamboyant_schemer"
@@ -4948,7 +4948,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="tough_soldier"
@@ -4970,7 +4970,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="martial_cleric"
@@ -4991,7 +4991,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	trait="lustful"
@@ -5018,7 +5018,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	trait="lustful"
@@ -5043,7 +5043,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="fortune_builder"
 	father=6902
@@ -5083,7 +5083,7 @@
 7289 = {  	
 	name="William"
 	dynasty=3125
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7290
 	1220.1.1={
@@ -5097,7 +5097,7 @@
 7279 = {  	
 	name="Colin" # Cailean Mór
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188920
 	mother = 188921
@@ -5117,7 +5117,7 @@
 7290 = {  	
 	name="Archibald"
 	dynasty=3125
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7291
 	1198.1.1={
@@ -5132,7 +5132,7 @@
 7291 = {  	
 	name="William"
 	dynasty=3125
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1150.1.1={
 		birth="1150.1.1"
@@ -5145,7 +5145,7 @@
 7294 = {  	
 	name="Alexander"
 	dynasty=101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7363
 	1260.1.1={
@@ -5159,7 +5159,7 @@
 7295 = {  	
 	name="John"
 	dynasty=101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7363
 	1259.1.1={
@@ -5175,7 +5175,7 @@
 	name="Jean"
 	female = yes
 	dynasty=101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203005
 	1192.1.1={
@@ -5190,7 +5190,7 @@
 7297 = {  	
 	name="William"
 	dynasty=100039
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 83593
 	mother = 203002
@@ -5208,7 +5208,7 @@
 7298 = {  	
 	name="William"
 	dynasty=100039
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7297
 	mother = 7296
@@ -5223,7 +5223,7 @@
 7342 = {  	
 	name="John"
 	dynasty = 101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7359
 	mother = 7365
@@ -5238,7 +5238,7 @@
 7343 = {  	
 	name="Magnus"
 	dynasty=20083
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7344
 	1285.1.1={
@@ -5252,7 +5252,7 @@
 7344 = {  	
 	name="John"
 	dynasty=20083
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7346
 	1255.1.1={
@@ -5267,7 +5267,7 @@
 	name="Maud"
 	female = yes
 	dynasty=20083
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7347
 	1226.1.1={
@@ -5281,7 +5281,7 @@
 7346 = {  	
 	name="Magnus"
 	dynasty=20083
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7347
 	1225.1.1={
@@ -5295,7 +5295,7 @@
 7347 = {  	
 	name="Gilbride"
 	dynasty=20083
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203080
 	1198.1.1={
@@ -5309,7 +5309,7 @@
 7359 = {  	
 	name="John"
 	dynasty=101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7361
 	mother=7360
@@ -5328,7 +5328,7 @@
 	name="Eleanor"
 	female=yes
 	dynasty=103
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=230523
 	mother=230522
@@ -5343,7 +5343,7 @@
 7361 = {  	
 	name="John"
 	dynasty=101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7362
 	1230.1.1={
@@ -5360,7 +5360,7 @@
 7362 = {  	
 	name="John"
 	dynasty=101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7358
 	1210.1.1={
@@ -5374,7 +5374,7 @@
 7363 = {  	
 	name="Alexander"
 	dynasty=101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203005
 	mother = 332001
@@ -5390,7 +5390,7 @@
 	name="Elspeth"
 	female = yes
 	dynasty=101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203005
 	mother = 332001
@@ -5407,7 +5407,7 @@
 7366 = {  	
 	name="David"
 	dynasty=3121
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7369
 	mother = 7370
@@ -5422,7 +5422,7 @@
 7367 = {  	
 	name="William"
 	dynasty=100042
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203062
 	1185.1.1={
@@ -5439,7 +5439,7 @@
 7369 = {  	
 	name="John"
 	dynasty=3121
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7386
 	1196.1.1={
@@ -5457,7 +5457,7 @@
 	name="Ada"
 	female = yes
 	dynasty=1687
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203520
 	mother=204681
@@ -5472,7 +5472,7 @@
 7383 = {  	
 	name="Patrick"
 	dynasty=371
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203573
 	mother=7384
@@ -5488,7 +5488,7 @@
 	name="Isabel"
 	female = yes
 	dynasty=100044
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7411
 	1163.1.1={
@@ -5503,7 +5503,7 @@
 	name="Forflissa"
 	female = yes
 	dynasty=100044
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7411
 	1164.1.1={
@@ -5517,7 +5517,7 @@
 7386 = {  	
 	name="David"
 	dynasty=3121
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203010
 	mother=203032
@@ -5532,7 +5532,7 @@
 7411 = {  	
 	name="Henry"
 	dynasty=100044
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7389
 	1143.1.1={
@@ -5546,7 +5546,7 @@
 7397 = {  	
 	name="Thomas"
 	dynasty=3146
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="tough_soldier"
@@ -5563,7 +5563,7 @@
 7398 = {  	
 	name="Malcolm"
 	dynasty=3121
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 203034
 	1210.1.1={
@@ -5578,7 +5578,7 @@
 7399 = {  	
 	name="Colban"
 	dynasty=3121
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7398
 	1244.1.1={
@@ -5592,7 +5592,7 @@
 7459 = {  	
 	name="John"
 	dynasty=1687
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203520
 	mother=204681
@@ -5612,7 +5612,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="brave"
 	trait="tough_soldier"
@@ -5636,7 +5636,7 @@
 	diplomacy=7
 	intrigue=8
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="intricate_webweaver"
 	father = 203547
@@ -5656,7 +5656,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="temperate"
 	1030.1.2={
@@ -5675,7 +5675,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82011
 	1058.1.2={
@@ -5695,7 +5695,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82012
 	trait="brave"
@@ -5715,7 +5715,7 @@
 	diplomacy=5
 	intrigue=9
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82013
 	1130.1.2={
@@ -5737,7 +5737,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="kind"
 	1131.1.2={
@@ -5755,7 +5755,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="martial_cleric"
 	father=82014
@@ -5778,7 +5778,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82014
 	mother=82015
@@ -5797,7 +5797,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82014
 	mother=82015
@@ -5817,7 +5817,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82016
 	mother=82019
@@ -5836,7 +5836,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82016
 	mother=82019
@@ -5855,7 +5855,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82016
 	mother=82019
@@ -5874,7 +5874,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82016
 	mother=82019
@@ -5893,7 +5893,7 @@
 	diplomacy=6
 	intrigue=3
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82016
 	mother=82019
@@ -5912,7 +5912,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82016
 	mother=82019
@@ -5932,7 +5932,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82016
 	mother=82019
@@ -5952,7 +5952,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82016
 	mother=82019
@@ -5972,7 +5972,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82016
 	mother=82019
@@ -5992,7 +5992,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82016
 	mother=82019
@@ -6011,7 +6011,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82023
 	1221.5.1={
@@ -6035,7 +6035,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82023
 	1224.1.1={
@@ -6054,7 +6054,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82023
 	1227.1.1={
@@ -6072,7 +6072,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82030
 	mother = 7345
@@ -6094,7 +6094,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	1297.1.1={
@@ -6113,7 +6113,7 @@
 	diplomacy=3
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="underhanded_rogue"
 	trait="drunkard"
@@ -6133,7 +6133,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="wroth"
 	trait="cynical"
@@ -6206,7 +6206,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="just"
 	trait="tough_soldier"
@@ -6230,7 +6230,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203022
 	1193.1.1={
@@ -6248,7 +6248,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	trait="bastard"
 	trait="scholarly_theologian"
 	culture="scottish"
@@ -6269,7 +6269,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=83300
 	1224.1.1={
@@ -6288,7 +6288,7 @@
 	diplomacy=4
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="arbitrary"
 	trait="bastard"
@@ -6363,7 +6363,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=6014
 	1097.1.1={
@@ -6381,7 +6381,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=83588
 	1115.1.1={
@@ -6402,7 +6402,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=83589 # might be his grandfather
 	mother=188871
@@ -6421,7 +6421,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=83590
 	1164.1.1={
@@ -6439,7 +6439,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1190.1.1={
 		birth="1190.1.1"
@@ -6455,7 +6455,7 @@
 144947 = {  	
 	name="William"
 	dynasty=3123
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 144948
 	1168.1.1={
@@ -6469,7 +6469,7 @@
 144948 = {  	
 	name="Robert"
 	dynasty=3123
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 144949
 	1138.1.1={
@@ -6489,7 +6489,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=984
 	mother=113
@@ -6512,7 +6512,7 @@
 	diplomacy=6
 	intrigue=8
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	father=220019
@@ -6533,7 +6533,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="honest"
 	trait="greedy"
@@ -6556,7 +6556,7 @@
 	diplomacy=5
 	intrigue=7
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="cynical"
 	trait="greedy"
@@ -6574,7 +6574,7 @@
 203011 = {
 	name="Alan"
 	dynasty=3134
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="skilled_tactician"
@@ -6598,7 +6598,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="thrifty_clerk"
 	father=203011
@@ -6618,7 +6618,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=203011
@@ -6639,7 +6639,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="arbitrary"
 	trait="thrifty_clerk"
@@ -6660,7 +6660,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203041
 	1105.1.1 = {
@@ -6681,7 +6681,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1208.1.1 = {
 		birth="1208.1.1"
@@ -6702,7 +6702,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="temperate"
 	trait="proud"
@@ -6721,7 +6721,7 @@
 	name="Ada"
 	female=yes
 	dynasty=103
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 230523
 	mother = 230522
@@ -6739,7 +6739,7 @@
 161375 = {  	
 	name="William"
 	dynasty=3122
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1150.1.1={
 		birth="1150.1.1"
@@ -6754,7 +6754,7 @@
 161376 = {  	
 	name="Walter"
 	dynasty=3122
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=161375
 	1170.1.1={
@@ -6770,7 +6770,7 @@
 161377 = {  	
 	name="William"
 	dynasty=3122
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=161376
 	1190.1.1={
@@ -6787,7 +6787,7 @@
 161378 = {  	
 	name="Walter"
 	dynasty=3122
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=161377
 	1221.1.1={
@@ -6803,7 +6803,7 @@
 161379 = {  	
 	name="William"
 	dynasty=3122
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=161375
 	1175.1.1={
@@ -6817,7 +6817,7 @@
 161380 = {  	
 	name="David"
 	dynasty=3122
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=161379
 	1200.1.1={
@@ -6833,7 +6833,7 @@
 161381 = {  	
 	name="David"
 	dynasty=3122
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=161380
 	1225.1.1={
@@ -6849,7 +6849,7 @@
 161382 = {  	
 	name="Alexander"
 	dynasty=3122
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=161381
 	1260.1.1={
@@ -6864,7 +6864,7 @@
 161383 = {  	
 	name="Hugh"
 	dynasty=103
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 230523
 	mother = 230522
@@ -6879,7 +6879,7 @@
 161384 = {  	
 	name="Alexander"
 	dynasty=103
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 230523
 	mother = 230522
@@ -6898,7 +6898,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="diligent"
 	trait="brave"
@@ -6920,7 +6920,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="humble"
 	trait="zealous"
@@ -6941,7 +6941,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="humble"
 	trait="envious"
@@ -6964,7 +6964,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1117.1.1={
 		birth="1117.1.1"
@@ -6985,7 +6985,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=232600
@@ -7006,7 +7006,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="diligent"
 	trait="underhanded_rogue"
@@ -7028,7 +7028,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="temperate"
 	father=232602
@@ -7048,7 +7048,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	father=232600
@@ -7068,7 +7068,7 @@
 	diplomacy=7
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=332002
 	1166.1.2={
@@ -7087,7 +7087,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	father=232600
@@ -7107,7 +7107,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="bastard"
 	father=232600
@@ -7126,7 +7126,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="scholarly_theologian"
 	father=203029
@@ -7149,7 +7149,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188888
 	1125.1.1={
@@ -7166,7 +7166,7 @@
 7358 = {
 	name="Richard"
 	dynasty=101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203005
 	1191.1.1={
@@ -7205,7 +7205,7 @@
 	diplomacy=8
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="gluttonous"
 	trait="tough_soldier"
@@ -7222,7 +7222,7 @@
 	name="Gilbert"
 	# AKA: Giolla-Bhrighde
 	dynasty=371
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="cynical"
 	trait="scholarly_theologian"
@@ -7245,7 +7245,7 @@
 203540 = {
 	name="Duncan" # Donnchadh of Carrick
 	dynasty=371
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=203550
@@ -7264,7 +7264,7 @@
 83122 = {
 	name="Colin"
 	dynasty=371
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203540
 	mother=203541
@@ -7286,7 +7286,7 @@
 	diplomacy=5
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=203550
@@ -7305,7 +7305,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lisp"
 	trait="detached_priest"
@@ -7325,7 +7325,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=83122
@@ -7345,7 +7345,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="flamboyant_schemer"
 	father=203560
@@ -7371,7 +7371,7 @@
 	diplomacy=6
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="quick"
 	trait="just"
@@ -7396,7 +7396,7 @@
 	diplomacy=7
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="gluttonous"
 	trait="flamboyant_schemer"
@@ -7420,7 +7420,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203570
 	mother=203571
@@ -7449,7 +7449,7 @@
 	diplomacy=6
 	intrigue=7
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203570
 	mother=203571
@@ -7468,7 +7468,7 @@
 	name="Helen"
 	female=yes
 	dynasty=371
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203572
 	mother=7428
@@ -7487,7 +7487,7 @@
 	diplomacy=4
 	intrigue=5
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="patient"
 	trait="charitable"
@@ -7508,7 +7508,7 @@
 	diplomacy=5
 	intrigue=8
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="tough_soldier"
@@ -7528,7 +7528,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=131525
@@ -7547,7 +7547,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=220027
@@ -7567,7 +7567,7 @@
 	diplomacy=5
 	intrigue=5
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="thrifty_clerk"
@@ -7587,7 +7587,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lisp"
 	trait="tough_soldier"
@@ -7609,7 +7609,7 @@
 	diplomacy=6
 	intrigue=4
 	stewardship=9
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="martial_cleric"
 	father=220027
@@ -7629,7 +7629,7 @@
 	diplomacy=6
 	intrigue=9
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=220027
@@ -7645,7 +7645,7 @@
 7278 = {
 	name="Ewan"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="charitable"
 	trait="thrifty_clerk"
@@ -7662,7 +7662,7 @@
 	name="Agnes"
 	female=yes
 	dynasty=101600
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7363
 	1259.1.1={
@@ -7677,7 +7677,7 @@
 	name="Mary"
 	female=yes
 	dynasty=9101
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=450821
 	mother=188933
@@ -7693,7 +7693,7 @@
 	name="Maud"
 	female=yes
 	dynasty=9101
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82033
 	mother=161655
@@ -7708,7 +7708,7 @@
 161658 = {  	
 	name="Gilbride"
 	dynasty=9101
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82033
 	mother=161655
@@ -7723,7 +7723,7 @@
 161659 = {  	
 	name="Robert"
 	dynasty=9101
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=82033
 	mother=161655
@@ -7742,7 +7742,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="lustful"
 	trait="underhanded_rogue"
@@ -7762,7 +7762,7 @@
 232598 = {
 	name="Gartnait"
 	dynasty=20085
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="martial_cleric"
 	father = 131006
@@ -7782,7 +7782,7 @@
 	diplomacy=4
 	intrigue=4
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="arbitrary"
 	trait="patient"
@@ -7799,7 +7799,7 @@
 167014 = {  	
 	name="Edward"
 	dynasty=1687
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=984
 	mother=113
@@ -7814,7 +7814,7 @@
 167015 = {  	
 	name="Edmund"
 	dynasty=1687
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=984
 	mother=113
@@ -7829,7 +7829,7 @@
 167016 = {  	
 	name="Ethelred"
 	dynasty=1687
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="clubfooted"
 	trait="celibate"
@@ -7847,7 +7847,7 @@
 167017 = {  	
 	name="Malcolm"
 	dynasty=1687
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="amateurish_plotter"
 	father=984
@@ -7863,7 +7863,7 @@
 167018 = {  	
 	name="Ladhmann"
 	dynasty=1687
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=992
 	1083.1.1={
@@ -7883,7 +7883,7 @@
 	diplomacy=4
 	intrigue=7
 	stewardship=8
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="flamboyant_schemer"
 	1042.1.2={
@@ -7901,7 +7901,7 @@
 	diplomacy=8
 	intrigue=5
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=85018
 	mother=967
@@ -7920,7 +7920,7 @@
 	diplomacy=5
 	intrigue=6
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="zealous"
 	trait="martial_cleric"
@@ -7942,7 +7942,7 @@
 	diplomacy=7
 	intrigue=6
 	stewardship=7
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="martial_cleric"
 	father=85018
@@ -7963,7 +7963,7 @@
 	diplomacy=8
 	intrigue=7
 	stewardship=4
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="deceitful"
 	trait="arbitrary"
@@ -7984,7 +7984,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=85018
 	mother=967
@@ -8002,7 +8002,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203018
 	1129.1.1={
@@ -8020,7 +8020,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203019
 	1106.1.1={
@@ -8039,7 +8039,7 @@
 	diplomacy=6
 	intrigue=5
 	stewardship=6
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203019
 	1118.1.1={
@@ -8058,7 +8058,7 @@
 	diplomacy=1
 	intrigue=3
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=131110
 	1001.1.1={
@@ -8374,7 +8374,7 @@
 	diplomacy=7
 	intrigue=5
 	stewardship=3
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="martial_cleric"
 	father=332019
@@ -8394,7 +8394,7 @@
 	diplomacy=6
 	intrigue=3
 	stewardship=5
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=332019
@@ -8410,7 +8410,7 @@
 183532 = {
 	name="William"
 	dynasty=25054
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=183531
 	1214.1.1={
@@ -8424,7 +8424,7 @@
 183533 = {
 	name="Peter"
 	dynasty=25054
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=183531
 	1217.1.1={
@@ -8438,7 +8438,7 @@
 180716 = {
 	name="Simon"
 	dynasty=3134
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=203041
 	mother=180782
@@ -8452,7 +8452,7 @@
 180717 = {
 	name="Robert"
 	dynasty=3134
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=180716
 	1150.1.1={
@@ -8614,7 +8614,7 @@
 188920 = {
 	name="Archibald" # Gilleasbaig of Menstrie
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188934
 	1215.1.1={
@@ -8632,7 +8632,7 @@
 	name="Affraic" # or Efrica, Afraig, Afraica, Efferick
 	female=yes
 	dynasty=371
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=83122 # he was possibly her brother
 	mother=83086 
@@ -8648,7 +8648,7 @@
 	name="Janet"
 	female=yes
 	dynasty=214012 # Saint-Clair
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188923
 	1245.1.1={
@@ -8662,7 +8662,7 @@
 188923 = {
 	name="John"
 	dynasty=214012 # Saint-Clair
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1218.1.1={
 		birth=yes
@@ -8676,7 +8676,7 @@
 	name="Maura" # name made up, possibly didn't exist
 	female=yes
 	dynasty=3121
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=202977
 	1152.1.1={
@@ -8690,7 +8690,7 @@
 188925 = {  	
 	name="Walter" # Walter Ballioch
 	dynasty=3134
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 203013
 	# mother = Beatrix of Angus
@@ -8705,7 +8705,7 @@
 188926 = {  	
 	name="John" 
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188925
 	mother = 188928
@@ -8720,7 +8720,7 @@
 188927 = {  	
 	name="Alexander" 
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188925
 	mother = 188928
@@ -8739,7 +8739,7 @@
 	name="Mary" 
 	female=yes
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188930
 	1226.1.1={
@@ -8757,7 +8757,7 @@
 	name="Isabel" 
 	female=yes
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188930
 	1222.1.1={
@@ -8771,7 +8771,7 @@
 188930 = {  	
 	name="Murdoch" # II (the younger)
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188932
 	1189.1.1={
@@ -8785,7 +8785,7 @@
 188931 = {  	
 	name="Murdoch" # I (the elder)
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188932
 	1184.1.1={
@@ -8799,7 +8799,7 @@
 188932 = {  	
 	name="Gilchrist"
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1144.1.1={
 		birth=yes
@@ -8812,7 +8812,7 @@
 188933 = {  	
 	name="Agnes" # first wife of Malise IV of Strathearn
 	female=yes
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1273.1.1={
 		birth=yes
@@ -8825,7 +8825,7 @@
 188934 = {
 	name="Dugald" # Campbell progenitor
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1185.1.1={
 		birth=yes
@@ -8838,7 +8838,7 @@
 188935 = {
 	name="Duncan" # Duncan Dubh
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	give_nickname=nick_the_black
 	father=188934
@@ -8853,7 +8853,7 @@
 188936 = {
 	name="Arthur" # founder of Arthur Campbells of Strachur
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188935
 	1248.1.1={
@@ -8867,7 +8867,7 @@
 188937 = {
 	name="Arthur"
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188936
 	1285.1.1={
@@ -8881,7 +8881,7 @@
 188938 = {
 	name="Iver"
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188936
 	1291.1.1={
@@ -8895,7 +8895,7 @@
 188939 = {
 	name="Arthur"
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188938
 	1320.1.1={
@@ -8909,7 +8909,7 @@
 188940 = {  	
 	name="Donald" # progenitor of Campbells of Loudon
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7279
 	mother = 188922
@@ -8927,7 +8927,7 @@
 188941 = {  	
 	name="Duncan"
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188940
 	mother = 188952 # possibly his spouse instead of mother
@@ -8942,7 +8942,7 @@
 188942 = {  	
 	name="Andrew"
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188941
 	1327.1.1={
@@ -8956,7 +8956,7 @@
 188943 = {  	
 	name="Dugald" # Laird of Menstrie in Clackmannanshire
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 7279
 	mother = 188922
@@ -8971,7 +8971,7 @@
 188944 = {  	
 	name="John"
 	dynasty=3128
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188943
 	1327.1.1={
@@ -8985,7 +8985,7 @@
 188945 = {  	
 	name="Alan" 
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188927
 	mother = 188947
@@ -9000,7 +9000,7 @@
 188946 = {  	
 	name="Murdoch" 
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188927
 	mother = 188947
@@ -9016,7 +9016,7 @@
 	name="Maud" # or Matilda
 	female=yes
 	dynasty=9101 # of Strathearn
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 82023
 	1245.1.1={
@@ -9031,7 +9031,7 @@
 	name="Mary" # the II
 	female=yes
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188953
 	1317.1.1={
@@ -9046,7 +9046,7 @@
 	name="Margaret"
 	female=yes
 	dynasty=214013 # Graham
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188950
 	mother = 188948
@@ -9061,7 +9061,7 @@
 188950 = {  	
 	name="John"
 	dynasty=214013 # Graham
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1306.1.1={
 		birth=yes
@@ -9077,7 +9077,7 @@
 188951 = {  	
 	name="Andrew"
 	dynasty=101601 # Crawford
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188955 # possibly
 	1260.1.1={
@@ -9092,7 +9092,7 @@
 	name="Susanna" 
 	female = yes
 	dynasty=101601 # Crawford
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188951
 	1282.1.1={
@@ -9106,7 +9106,7 @@
 188953 = {  	
 	name="Alan" # the II
 	dynasty=123 # de Menteith
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father = 188945
 	1299.1.1={
@@ -9120,7 +9120,7 @@
 188954 = {  	
 	name="Reginald"
 	dynasty=101601 # Crawford
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188955
 	1256.1.1={
@@ -9134,7 +9134,7 @@
 188955 = {  	
 	name="Hugh" # Sheriff of Ayr
 	dynasty=101601 # Crawford
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188961
 	1227.1.1={
@@ -9149,7 +9149,7 @@
 	name="Margaret"
 	female=yes
 	dynasty=101601 # Crawford
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188955
 	1250.1.1={
@@ -9163,7 +9163,7 @@
 188957 = {  	
 	name="Alan"
 	dynasty=3133 # Wallace
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1246.1.1={
 		birth=yes
@@ -9179,7 +9179,7 @@
 188958 = {  	
 	name="William"
 	dynasty=3133 # Wallace
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188957
 	mother=188956
@@ -9203,7 +9203,7 @@
 188959 = {  	
 	name="Malcolm"
 	dynasty=3133 # Wallace
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188957
 	mother=188956
@@ -9218,7 +9218,7 @@
 188960 = {  	
 	name="John"
 	dynasty=3133 # Wallace
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188957
 	mother=188956
@@ -9233,7 +9233,7 @@
 188961 = {  	
 	name="Hugh" # Sheriff of Ayr
 	dynasty=101601 # Crawford
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188962
 	mother=188963
@@ -9248,7 +9248,7 @@
 188962 = {  	
 	name="Reginald" # Sheriff of Ayr
 	dynasty=101601 # Crawford
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188964
 	1173.1.1={
@@ -9266,7 +9266,7 @@
 	name="Margaret" 
 	female=yes
 	dynasty=214014 # de Loudoun
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188965
 	1176.1.1={
@@ -9280,7 +9280,7 @@
 188964 = {  	
 	name="Gaulterus"
 	dynasty=101601 # Crawford
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1140.1.1={
 		birth=yes
@@ -9293,7 +9293,7 @@
 188965 = {  	
 	name="James" 
 	dynasty=214014 # de Loudoun
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188966
 	1150.1.1={
@@ -9307,7 +9307,7 @@
 188966 = {  	
 	name="Lambinus" 
 	dynasty=214014 # de Loudoun
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1123.1.1={
 		birth=yes
@@ -9320,7 +9320,7 @@
 188870 = {
 	name="Gilbride"
 	dynasty=25046 # Somhairle
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1089.1.1={
 		birth=yes
@@ -9334,7 +9334,7 @@
 	name="Effie" # first name unknown
 	female=yes
 	dynasty=25046 # Somhairle
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188870
 	1118.1.1={
@@ -9348,7 +9348,7 @@
 188872 = {
 	name="Olaf"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=232683
 	1176.1.1={
@@ -9362,7 +9362,7 @@
 188873 = {
 	name="Raynald"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=232683
 	1176.1.1={
@@ -9376,7 +9376,7 @@
 188874 = {
 	name="Alexander"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7278
 	1240.1.1={
@@ -9397,7 +9397,7 @@
 	name="Mary"
 	female=yes
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7278
 	1243.1.1={
@@ -9411,7 +9411,7 @@
 188877 = {
 	name="John"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188874
 	mother=188879
@@ -9429,7 +9429,7 @@
 188878 = {
 	name="Ewan"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188874
 	mother=188879
@@ -9445,7 +9445,7 @@
 	name="Malina" # name unknown
 	female=yes
 	dynasty=101600 # Comyn
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7362
 	1237.1.1={
@@ -9459,7 +9459,7 @@
 188880 = {
 	name="Ewan"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188877
 	1298.1.1={
@@ -9473,7 +9473,7 @@
 188881 = {
 	name="Alan"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188877
 	1300.1.1={
@@ -9487,7 +9487,7 @@
 188882 = {
 	name="Somhairle"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188877
 	1303.1.1={
@@ -9501,7 +9501,7 @@
 188883 = {
 	name="Alexander"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188877
 	1305.1.1={
@@ -9516,7 +9516,7 @@
 	name="Mary"
 	female=yes
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188877
 	1307.1.1={
@@ -9530,7 +9530,7 @@
 188885 = {
 	name="John"
 	dynasty=3109 # MacDougall
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=188881
 	1325.1.1={
@@ -9545,7 +9545,7 @@
 188886 = {
 	name="Alexander"
 	dynasty=3101 # MacDonald
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=7391
 	1275.1.1={
@@ -9562,7 +9562,7 @@
 188887 = {
 	name="Ruairi"
 	dynasty=25024 # Macruari
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=332013
 	1248.1.1={
@@ -9580,7 +9580,7 @@
 	diplomacy=2
 	intrigue=2
 	stewardship=1
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=220030
 	1219.1.1={
@@ -9598,7 +9598,7 @@
 	diplomacy=2
 	intrigue=2
 	stewardship=2
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	trait="tough_soldier"
 	father=220030
@@ -9613,7 +9613,7 @@
 216000 = {
 	name="Leod"
 	dynasty=3100 # MacLeods
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1208.1.1={
 		birth=yes
@@ -9626,7 +9626,7 @@
 216001 = {
 	name="Tormod"
 	dynasty=3100 # MacLeods
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=216000
 	1240.1.1={
@@ -9640,7 +9640,7 @@
 216002 = {
 	name="Malcolm"
 	dynasty=3100 # MacLeods
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=216001
 	1296.1.1={
@@ -9654,7 +9654,7 @@
 216003 = {
 	name="Leod"
 	dynasty=3100 # MacLeods
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=216001
 	1298.1.1={
@@ -9668,7 +9668,7 @@
 216004 = {
 	name="Godfrey"
 	dynasty=3100 # MacLeods
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=216001
 	1297.1.1={
@@ -9682,7 +9682,7 @@
 216005 = {
 	name="John"
 	dynasty=3100 # MacLeods
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=216002
 	1330.1.1={
@@ -9696,7 +9696,7 @@
 216006 = {
 	name="Tormod"
 	dynasty=3100 # MacLeods
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=216002
 	1333.1.1={
@@ -9710,7 +9710,7 @@
 216007 = {
 	name="Murdo"
 	dynasty=3100 # MacLeods
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=216002
 	1334.1.1={
@@ -9724,7 +9724,7 @@
 216008 = {
 	name="Malcolm"
 	dynasty=3100 # MacLeods
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=216002
 	1337.1.1={
@@ -9738,7 +9738,7 @@
 216009 = {
 	name="Iain"
 	dynasty=3132 # Grant
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=216011
 	1280.9.4={
@@ -9752,7 +9752,7 @@
 216010 = {
 	name="Patrick"
 	dynasty=3132 # Grant
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	father=216009
 	1312.1.28={
@@ -9766,7 +9766,7 @@
 216011 = {
 	name="Laurence"
 	dynasty=3132 # Grant
-	religion="orthodox"
+	religion="catholic"
 	culture="scottish"
 	1252.8.25={
 		birth=yes

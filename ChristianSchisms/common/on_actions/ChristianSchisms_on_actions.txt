@@ -15,3 +15,9 @@ on_five_year_pulse = {
 		GreatSchism.001
 	}
 }
+
+on_chronicle_start = {
+	events = {
+		GreatSchism.003
+	}
+}

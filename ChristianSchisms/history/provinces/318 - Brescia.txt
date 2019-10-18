@@ -20,6 +20,9 @@ religion = orthodox
 
 # History
 829.1.1 = { culture = italian }
+1054.1.1 = {
+	religion = catholic
+}
 #1115.7.24 = { capital = b_brescia }
 1173.1.1 = { capital = b_brescia }
 1220.1.1 = { capital = b_bergamo }

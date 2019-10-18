@@ -28,3 +28,6 @@ religion = slavic_pagan
 	b_oborniki = city
 	b_czarnkow = temple
 }
+1054.1.1 = {
+	religion = catholic
+}

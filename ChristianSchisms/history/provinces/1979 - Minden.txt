@@ -23,3 +23,6 @@ religion = norse_pagan
 803.1.1 = {
 	capital = b_minden 
 }
+1054.1.1 = {
+	religion = catholic
+}

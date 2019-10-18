@@ -20,3 +20,6 @@ religion = slavic_pagan
 	b_steyr = city
 	capital = b_losenstein
 }
+1054.1.1 = {
+	religion = catholic
+}

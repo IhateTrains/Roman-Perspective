@@ -21,6 +21,9 @@ culture = visigothic
 
 # History
 867.1.1 = { culture = occitan }
+1054.1.1 = {
+	religion = catholic
+}
 1150.1.1 = { religion = cathar }
 1187.1.1 = { b_lastours = castle }
-1244.3.16 = { religion = orthodox}
+1244.3.16 = { religion = catholic}

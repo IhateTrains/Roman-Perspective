@@ -24,6 +24,9 @@ religion = norse_pagan
 936.1.1 = {
 	capital = b_verden
 }
+1054.1.1 = {
+	religion = catholic
+}
 1066.1.1 = {
 	capital = b_rotenburg_verden
 }

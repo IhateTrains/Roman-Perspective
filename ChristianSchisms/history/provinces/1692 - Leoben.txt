@@ -21,3 +21,6 @@ religion = slavic_pagan
 	b_neuberg = temple
 	capital = b_eppenstein
 }
+1054.1.1 = {
+	religion = catholic
+}

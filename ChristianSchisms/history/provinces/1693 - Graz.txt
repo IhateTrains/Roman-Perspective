@@ -20,3 +20,6 @@ religion = slavic_pagan
 	b_radkersburg = temple
 	b_leibnitz = city
 }
+1054.1.1 = {
+	religion = catholic
+}

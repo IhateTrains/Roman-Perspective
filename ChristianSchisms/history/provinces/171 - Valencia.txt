@@ -29,5 +29,5 @@ religion = orthodox
 
 1251.1.1 = {
 	culture = catalan
-	religion = orthodox
+	religion = catholic
 }

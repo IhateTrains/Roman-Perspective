@@ -24,3 +24,6 @@ religion = slavic_pagan
 	b_cieszyn = castle
 	b_zywiec = city
 }
+1054.1.1 = {
+	religion = catholic
+}

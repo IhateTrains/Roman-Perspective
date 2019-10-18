@@ -25,5 +25,8 @@ religion = orthodox
 	culture = saxon
 	b_dunbar = castle
 }
+1054.1.1 = {
+	religion = catholic
+}
 1100.11.11 = { culture = english }
 1235.9.25 = { culture = scottish }

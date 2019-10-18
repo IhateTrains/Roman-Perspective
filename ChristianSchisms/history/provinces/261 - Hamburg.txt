@@ -26,6 +26,10 @@ religion = norse_pagan
 	culture = german
 	religion = orthodox
 }
+1054.1.1 = {
+	religion = catholic
+}
+
 1224.1.1 = { b_hamburg = city }
 1224.1.1 = { b_buxtehude = castle } 
 1224.1.1 = { remove_settlement = b_altona } 

@@ -19,5 +19,8 @@ culture = saxon
 religion = orthodox
 
 # History
+1054.1.1 = {
+	religion = catholic
+}
 1100.11.11 = { culture = english }
 1309.1.1 = { b_alnwick = castle }

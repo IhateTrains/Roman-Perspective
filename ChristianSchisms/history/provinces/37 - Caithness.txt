@@ -30,5 +30,8 @@ terrain = hills
 1030.1.1= {
 	b_thurso = castle
 }
+1054.1.1 = {
+	religion = catholic
+}
 1066.1.1= { culture = norwegian }
 1134.1.1= { culture = scottish }

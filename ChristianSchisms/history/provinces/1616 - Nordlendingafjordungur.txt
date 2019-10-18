@@ -36,3 +36,6 @@ terrain = arctic
 	b_husavik = castle
 	#b_husavik = ca_shipyard_1
 }
+1054.1.1 = {
+	religion = catholic
+}

@@ -24,6 +24,9 @@ culture = occitan
 936.1.1 = {
 	capital = b_luzech
 }
+1054.1.1 = {
+	religion = catholic
+}
 1066.1.1 ={
 	capital = b_agen
 }

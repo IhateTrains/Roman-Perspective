@@ -34,3 +34,6 @@ religion = tengri_pagan
 	b_maramarossziget = castle
 	b_nagykaroly = city 
 }
+1054.1.1 = {
+	religion = catholic
+}

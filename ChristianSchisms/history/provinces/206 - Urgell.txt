@@ -23,3 +23,6 @@ religion = orthodox
 952.1.1 = {
 	culture = catalan
 }
+1054.1.1 = {
+	religion = catholic
+}

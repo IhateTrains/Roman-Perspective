@@ -25,6 +25,7 @@ religion = orthodox
 	b_glasgow = city
 }
 1054.1.1 = {
+	religion = catholic
 	culture = scottish
 	b_lanark = castle 
 	capital = b_lanark

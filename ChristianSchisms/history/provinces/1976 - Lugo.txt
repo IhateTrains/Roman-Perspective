@@ -17,3 +17,6 @@ religion = orthodox
 931.1.1 = {
 	culture = portuguese
 }
+1054.1.1 = {
+	religion = catholic
+}

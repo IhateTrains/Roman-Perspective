@@ -26,3 +26,6 @@ religion = orthodox
 973.1.1 = {
 	capital = b_kempten
 }
+1054.1.1 = {
+	religion = catholic
+}

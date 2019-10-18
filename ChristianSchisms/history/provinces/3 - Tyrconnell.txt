@@ -25,3 +25,6 @@ terrain = hills
 	b_gartan = castle
 	b_donegal = city
 }
+1054.1.1 = {
+	religion = catholic
+}

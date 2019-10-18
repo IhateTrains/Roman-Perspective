@@ -26,7 +26,9 @@ religion = orthodox
 926.1.1 = {
 	culture = portuguese
 }
-
+1054.1.1 = {
+	religion = catholic
+}
 1066.1.1 = { 
 	b_braganza = ca_wall_1
 	b_braganza = ca_wall_2

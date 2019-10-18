@@ -29,3 +29,6 @@ religion = orthodox
 	b_blair_atholl = castle
 	b_pitlochry = city
 }
+1054.1.1 = {
+	religion = catholic
+}

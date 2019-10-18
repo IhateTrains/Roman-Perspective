@@ -28,4 +28,7 @@ religion = orthodox
 1000.1.1 = {
 	capital = b_frankopan
 }
+1054.1.1 = {
+	religion = catholic
+}
 1146.1.1 = { trade_post = b_contarini }

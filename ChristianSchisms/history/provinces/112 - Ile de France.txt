@@ -20,6 +20,9 @@ religion = orthodox
 
 # History
 790.1.1 = { culture = frankish }
+1054.1.1 = {
+	religion = catholic
+}
 1123.1.1  = { b_etampes = castle }
 1163.1.1 = { 
 	build_wonder = wonder_cathedral_notre_dame

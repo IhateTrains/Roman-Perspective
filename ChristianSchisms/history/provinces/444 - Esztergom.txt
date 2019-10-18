@@ -37,5 +37,8 @@ religion = tengri_pagan
 	b_komarom = castle
 	culture = hungarian 
 }
+1054.1.1 = {
+	religion = catholic
+}
 1187.1.1 = { b_tatabanya = castle }
 

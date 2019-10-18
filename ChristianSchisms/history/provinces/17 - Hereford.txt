@@ -27,4 +27,7 @@ religion = orthodox
 808.1.1 = { remove_settlement = b_clifford }
 809.1.1 = { b_st_ethelberts = temple }
 809.1.1 = { b_leominster = city }
+1054.1.1 = {
+	religion = catholic
+}
 1100.11.11 = { culture = english }

@@ -20,4 +20,7 @@ religion = orthodox
 
 # History
 790.1.1 = { culture = frankish }
+1054.1.1 = {
+	religion = catholic
+}
 1337.1.1 = { b_soissons = city }

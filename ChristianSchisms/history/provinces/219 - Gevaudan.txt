@@ -21,6 +21,9 @@ religion = orthodox
 
 # History
 867.1.1 = { culture = occitan }
+1054.1.1 = {
+	religion = catholic
+}
 1307.1.1   = {
 	capital = b_mende
 }

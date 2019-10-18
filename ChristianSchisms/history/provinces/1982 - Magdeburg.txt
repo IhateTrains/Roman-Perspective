@@ -20,5 +20,7 @@ religion = norse_pagan
 	b_mansfeld = city
 	b_haldensleben = castle
 }
-
+1054.1.1 = {
+	religion = catholic
+}
 1187.1.1= { b_haldensleben = city } 

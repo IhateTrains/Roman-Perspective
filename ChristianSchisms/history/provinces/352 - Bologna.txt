@@ -20,5 +20,8 @@ culture = italian
 religion = orthodox
 
 # History
+1054.1.1 = {
+	religion = catholic
+}
 1139.1.1 = { capital = b_bologna }
 1139.1.1 = { b_imola = city }

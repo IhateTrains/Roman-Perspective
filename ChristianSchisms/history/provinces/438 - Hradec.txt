@@ -28,4 +28,7 @@ religion = slavic_pagan
 	b_zleby = temple
 	religion = orthodox
 }
+1054.1.1 = {
+	religion = catholic
+}
 1081.1.1 = { b_kladsko = castle }

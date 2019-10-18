@@ -24,6 +24,9 @@ religion = orthodox
 769.1.1 = {
 	capital = b_split
 }
+1054.1.1 = {
+	religion = catholic
+}
 1066.1.1 = { 
 	culture = croatian
 	trade_post = b_dandolo 

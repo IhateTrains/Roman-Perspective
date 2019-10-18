@@ -27,7 +27,7 @@ religion = tengri_pagan
 }
 856.1.1 = {
 	culture = slovieni
-	religion = orthodox 
+	religion = orthodox
 }
 895.1.1 = {
 	remove_settlement = b_mohacs
@@ -41,5 +41,8 @@ religion = tengri_pagan
 	religion = orthodox
 	b_pecs = castle
 	b_mohacs = city
+}
+1054.1.1 = {
+	religion = catholic
 }
 1187.1.1 = { b_pecsvarad = castle } 

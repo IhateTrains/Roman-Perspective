@@ -23,5 +23,8 @@ religion = orthodox
 # History
 
 790.1.1 = { culture = dutch }
+1054.1.1 = {
+	religion = catholic
+}
 1187.1.1 = { b_male = castle }
 1337.1.1 = { b_oostende = city }

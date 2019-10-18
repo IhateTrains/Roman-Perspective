@@ -30,7 +30,9 @@ religion = slavic_pagan
 883.1.1 = { religion = orthodox }
 
 1009.1.1 = { b_sazava = temple }
-
+1054.1.1 = {
+	religion = catholic
+}
 
 1261.1.1 = { b_kolin = city }
 1291.1.1 = { 

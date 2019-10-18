@@ -28,6 +28,9 @@ religion = orthodox
 	b_cupar = castle
 	b_dunfermline = city
 }
+1054.1.1 = {
+	religion = catholic
+}
 1066.1.1 = { 
 	b_cupar = ca_keep_1
 	b_cupar = ca_training_grounds_1

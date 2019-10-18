@@ -24,3 +24,6 @@ religion = slavic_pagan
 	b_cakovec = city
 	b_ludbreg = temple
 }
+1054.1.1 = {
+	religion = catholic
+}

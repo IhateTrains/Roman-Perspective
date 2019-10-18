@@ -24,7 +24,9 @@ religion = orthodox
 	b_winchester = ca_militia_barracks_1
 	b_winchester = ca_wall_1
 }
-
+1054.1.1 = {
+	religion = catholic
+}
 1070.1.1 = { capital = b_st_swithun }
 1100.11.11 = { culture = english } 
 1187.1.1 = { b_andover = castle }

@@ -28,5 +28,5 @@ religion = orthodox
 
 1245.3.19 = { 
 	culture = castillan
-	religion = orthodox
+	religion = catholic
 }

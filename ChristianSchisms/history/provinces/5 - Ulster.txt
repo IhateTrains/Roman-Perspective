@@ -25,3 +25,6 @@ terrain = hills
 	b_downpatrick = castle
 	b_carrickfergus = city
 }
+1054.1.1 = {
+	religion = catholic
+}

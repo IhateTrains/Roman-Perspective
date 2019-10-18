@@ -22,6 +22,9 @@ religion = orthodox
 936.1.1 = {
 	capital = b_commacchio
 }
+1054.1.1 = {
+	religion = catholic
+}
 1066.1.1 = {
 	capital = b_ferrara
 }

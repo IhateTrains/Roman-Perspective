@@ -22,3 +22,6 @@ religion = orthodox
 937.7.14 = {
 	capital = b_regenstauf
 }
+1054.1.1 = {
+	religion = catholic
+}

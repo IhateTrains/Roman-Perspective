@@ -27,3 +27,6 @@ religion = slavic_pagan
 	b_zilina = city
 	b_turoc = temple
 }
+1054.1.1 = {
+	religion = catholic
+}

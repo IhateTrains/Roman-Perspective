@@ -33,3 +33,6 @@ religion = orthodox
 	b_machecoul = ct_shipyard_2
 	b_clisson = tp_shipyard_2
 }
+1054.1.1 = {
+	religion = catholic
+}

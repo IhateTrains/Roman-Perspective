@@ -19,3 +19,7 @@ religion = slavic_pagan
 	b_friedau = temple
 	capital = b_marburg_pettau
 }
+
+1054.1.1 = {
+	religion = catholic
+}

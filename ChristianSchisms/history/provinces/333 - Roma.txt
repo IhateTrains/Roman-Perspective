@@ -45,6 +45,9 @@ religion = orthodox
 	b_roma = tp_wall_2
 	b_roma = tp_town_1
 }
+1054.1.1 = {
+	religion = catholic
+}
 1091.1.1 = { trade_post = b_dappiano }
 1187.1.1 = { b_ostia = city }
 1285.1.1 = { trade_post = b_doria }

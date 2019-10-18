@@ -23,3 +23,6 @@ religion = orthodox
 	b_dunasead = castle
 	b_cork = city
 }
+1054.1.1 = {
+	religion = catholic
+}

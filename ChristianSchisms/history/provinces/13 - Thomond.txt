@@ -24,3 +24,6 @@ religion = orthodox
 	b_bunratty = castle
 	b_limerick = city
 }
+1054.1.1 = {
+	religion = catholic
+}

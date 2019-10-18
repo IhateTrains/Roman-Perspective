@@ -14,7 +14,7 @@ b_wyke = city
 
 # Misc
 culture = saxon
-religion = orthodox
+religion = catholic
 
 # History
 866.1.1 = {
@@ -24,6 +24,9 @@ religion = orthodox
 954.1.1 = {
 	culture = saxon 
 	religion = orthodox
+}
+1054.1.1 = {
+	religion = catholic
 }
 1100.11.11 = { culture = english }
 1330.1.1 = { b_hull = castle }

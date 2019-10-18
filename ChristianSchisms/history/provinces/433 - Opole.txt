@@ -25,4 +25,7 @@ religion = slavic_pagan
 	b_lubliniec = temple
 	b_kozle = city
 }
+1054.1.1 = {
+	religion = catholic
+}
 1250.1.1 = { culture = german } # German Settlers

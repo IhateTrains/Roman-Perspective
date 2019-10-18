@@ -17,7 +17,9 @@ religion = slavic_pagan
 	b_freistadt = city
 	religion = orthodox
 }
-
+1054.1.1 = {
+	religion = catholic
+}
 1066.1.1 = {
 	culture = german
 	capital = b_freistadt

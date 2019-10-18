@@ -26,3 +26,6 @@ religion = slavic_pagan
 	b_gorlice = city
 	capital = b_szczyrzycz
 }
+1054.1.1 = {
+	religion = catholic
+}

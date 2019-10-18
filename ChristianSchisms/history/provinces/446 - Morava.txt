@@ -29,7 +29,9 @@ religion = slavic_pagan
 	b_znojmo = castle
 	b_mikulov = city
 }
-
+1054.1.1 = {
+	religion = catholic
+}
 1103.1.1 = {
 	culture = bohemian
 }

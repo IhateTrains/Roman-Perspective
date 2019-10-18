@@ -25,3 +25,6 @@ terrain = hills
 	b_aileach = castle
 	b_coleraine = city
 }
+1054.1.1 = {
+	religion = catholic
+}

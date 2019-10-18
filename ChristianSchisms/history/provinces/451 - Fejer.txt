@@ -28,7 +28,7 @@ religion = tengri_pagan
 }
 856.1.1 = {
 	culture = slovieni
-	religion = orthodox 
+	religion = orthodox
 }
 895.1.1 = {
 	remove_settlement = b_mor
@@ -42,4 +42,7 @@ religion = tengri_pagan
 	religion = orthodox
 	b_sarbogard = castle
 	b_mor = city
+}
+1054.1.1 = {
+	religion = catholic
 }

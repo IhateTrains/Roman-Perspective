@@ -25,4 +25,7 @@ religion = orthodox
 850.1.1 = {
 	capital = b_liege
 }
+1054.1.1 = {
+	religion = catholic
+}
 1187.1.1 = { b_stavelot = temple }

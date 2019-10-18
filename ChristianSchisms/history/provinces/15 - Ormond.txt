@@ -24,3 +24,6 @@ religion = orthodox
 	b_waterford = castle
 	b_nenagh = city
 }
+1054.1.1 = {
+	religion = catholic
+}

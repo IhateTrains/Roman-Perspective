@@ -28,3 +28,6 @@ religion = orthodox
 	b_crieff = castle
 	b_auchterarder = city
 }
+1054.1.1 = {
+	religion = catholic
+}

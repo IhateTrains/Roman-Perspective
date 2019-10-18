@@ -24,3 +24,6 @@ religion = orthodox
 	b_leighlin = castle
 	b_wexford = city
 }
+1054.1.1 = {
+	religion = catholic
+}

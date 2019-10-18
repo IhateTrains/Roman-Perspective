@@ -21,7 +21,7 @@ religion = slavic_pagan
 
 # History
 842.1.1 = { 
-	religion = orthodox 
+	religion = orthodox
 	b_nyitra = castle
 	b_stbenedek = temple
 }
@@ -33,4 +33,7 @@ religion = slavic_pagan
 }
 950.1.1 = {
 	b_nyitra = castle
+}
+1054.1.1 = {
+	religion = catholic
 }

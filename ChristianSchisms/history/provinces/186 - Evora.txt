@@ -27,5 +27,5 @@ religion = orthodox
 
 1161.1.1 = {
 	culture = portuguese
-	religion = orthodox
+	religion = catholic
 }

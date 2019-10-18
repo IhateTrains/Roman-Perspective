@@ -15,4 +15,7 @@ religion = orthodox
 790.1.1 = { culture = frankish }
 750.1.1 = { capital = b_jouhe }
 986.1.1 = { capital = b_dole }
+1054.1.1 = {
+	religion = catholic
+}
 1092.1.1 = { b_saintylie = temple }

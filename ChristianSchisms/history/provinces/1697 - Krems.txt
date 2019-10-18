@@ -24,6 +24,9 @@ religion = slavic_pagan
 950.1.1 = {
 	b_gars = castle
 }
+1054.1.1 = {
+	religion = catholic
+}
 1101.1.1 = {
 	b_kuenring = castle
 	capital = b_kuenring

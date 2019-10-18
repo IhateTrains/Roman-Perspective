@@ -18,6 +18,9 @@ culture = italian
 religion = orthodox
 
 # History
+1054.1.1 = {
+	religion = catholic
+}
 1186.1.1 = { capital = b_siena }
 1326.1.1 = { b_montepulciano = castle }
 1326.1.1 = { capital = b_pienza }

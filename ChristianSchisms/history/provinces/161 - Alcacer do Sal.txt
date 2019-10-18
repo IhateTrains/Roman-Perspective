@@ -24,11 +24,13 @@ religion = orthodox
 	culture = andalusian_arabic
 	religion = sunni
 }
-
+1054.1.1 = {
+	religion = catholic
+}
 1211.1.1 = { trade_post = b_fieschi }
 
 1233.1.1 = { 
 	culture = portuguese
-	religion = orthodox
+	religion = catholic
 }
 

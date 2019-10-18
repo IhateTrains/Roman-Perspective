@@ -40,6 +40,9 @@ religion = slavic_pagan
 1030.1.1 = {
 	b_hodonin = city
 }
+1054.1.1 = {
+	religion = catholic
+}
 1103.1.1 = {
 	culture = bohemian
 }

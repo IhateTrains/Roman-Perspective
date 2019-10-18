@@ -15,3 +15,6 @@ religion = orthodox
 # History
 790.1.1 = { culture = frankish }
 
+1054.1.1 = {
+	religion = catholic
+}

@@ -17,6 +17,9 @@ religion = orthodox
 936.1.1 = {
 	capital = b_berg
 }
+1054.1.1 = {
+	religion = catholic
+}
 1174.1.1 = {
 	b_werth = castle
 }

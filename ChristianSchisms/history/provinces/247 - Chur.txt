@@ -21,3 +21,6 @@ culture = german
 religion = orthodox
 
 # History
+1054.1.1 = {
+	religion = catholic
+}

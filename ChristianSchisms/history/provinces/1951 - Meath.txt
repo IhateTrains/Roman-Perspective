@@ -17,3 +17,6 @@ religion = orthodox
 	capital = b_forradh
 	b_tara_meath = city
 }
+1054.1.1 = {
+	religion = catholic
+}

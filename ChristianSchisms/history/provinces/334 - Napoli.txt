@@ -21,7 +21,9 @@ religion = orthodox
 
 # History
 #867.1.1 = { trade_post = b_polkarios }
-900.1.1 = { religion = orthodox }
+1054.1.1 = {
+	religion = catholic
+}
 1092.1.1 = { trade_post = b_alliata }
 1154.4.1 = { culture = italian }
 1285.1.1  = { trade_post = b_spinola }

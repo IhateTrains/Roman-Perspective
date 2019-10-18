@@ -31,3 +31,6 @@ religion = slavic_pagan
 	b_abauj = castle
 	b_kassa = city
 }
+1054.1.1 = {
+	religion = catholic
+}

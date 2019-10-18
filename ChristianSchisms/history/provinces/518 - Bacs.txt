@@ -36,3 +36,6 @@ religion = tengri_pagan
 	b_bacs = castle
 	b_szintarev = city
 }
+1054.1.1 = {
+	religion = catholic
+}

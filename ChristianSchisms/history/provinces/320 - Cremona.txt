@@ -21,3 +21,6 @@ religion = orthodox
 
 # History
 1045.1.1 = { culture = italian }
+1054.1.1 = {
+	religion = catholic
+}

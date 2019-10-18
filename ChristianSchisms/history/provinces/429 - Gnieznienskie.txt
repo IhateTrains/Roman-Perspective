@@ -27,3 +27,6 @@ religion = slavic_pagan
 999.1.1 = {
 	capital = b_naklo
 }
+1054.1.1 = {
+	religion = catholic
+}

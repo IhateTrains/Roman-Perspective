@@ -24,5 +24,8 @@ religion = orthodox
 790.1.1 = { culture = dutch }
 900.1.1 = { remove_settlement = b_dorestad }
 900.1.1 = { b_gorinchem = city } 
+1054.1.1 = {
+	religion = catholic
+}
 1311.1.1 = { trade_post = b_warendorp }
 

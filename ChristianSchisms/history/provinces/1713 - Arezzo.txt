@@ -14,4 +14,7 @@ culture = italian
 religion = orthodox
 
 # History
+1054.1.1 = {
+	religion = catholic
+}
 1098.1.1 = { capital = b_arezzo }

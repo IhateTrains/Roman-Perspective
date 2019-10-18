@@ -21,6 +21,9 @@ religion = orthodox
 culture = occitan
 
 # History
+1054.1.1 = {
+	religion = catholic
+}
 1144.1.1 = { b_montauban = city }
 1150.1.1 = { religion = cathar }
-1244.3.16 = { religion = orthodox}
+1244.3.16 = { religion = catholic}

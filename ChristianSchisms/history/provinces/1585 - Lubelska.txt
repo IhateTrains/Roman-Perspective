@@ -23,3 +23,6 @@ religion = slavic_pagan
 	religion = orthodox
 	b_lublin = castle
 }
+1054.1.1 = {
+	religion = catholic
+}

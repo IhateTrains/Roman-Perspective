@@ -29,3 +29,6 @@ religion = slavic_pagan
 950.1.1 = {
 	b_klosterneuburg = castle
 }
+1054.1.1 = {
+	religion = catholic
+}

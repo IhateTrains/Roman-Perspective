@@ -25,3 +25,6 @@ religion = slavic_pagan
 	b_karlovac = city
 	b_sisak = temple
 }
+1054.1.1 = {
+	religion = catholic
+}

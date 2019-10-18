@@ -27,5 +27,5 @@ religion = orthodox
 
 1244.4.23 = {
 	culture = castillan
-	religion = orthodox
+	religion = catholic
 }

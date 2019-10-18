@@ -36,3 +36,6 @@ religion = orthodox
 }
 
 940.1.1 = { culture = castillan }
+1054.1.1 = {
+	religion = catholic
+}

@@ -42,7 +42,9 @@ religion = orthodox
 936.1.1 = {
 	culture = norman
 }
-
+1054.1.1 = {
+	religion = catholic
+}
 1066.1.1 = {
 	b_bayeux = ct_wall_1
 	b_bayeux = ct_wall_2

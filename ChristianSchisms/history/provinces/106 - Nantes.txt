@@ -33,3 +33,6 @@ religion = orthodox
 	b_guerande = ct_shipyard_2
 	b_redon = tp_shipyard_2
 }
+1054.1.1 = {
+	religion = catholic
+}

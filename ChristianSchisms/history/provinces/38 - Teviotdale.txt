@@ -24,6 +24,9 @@ religion = orthodox
 867.1.1 = {
 	b_jedburgh = castle
 }
+1054.1.1 = {
+	religion = catholic
+}
 1100.11.11 = { culture = english }
 1124.1.1 = { b_peebles = castle }
 1235.9.25 = { culture = scottish }

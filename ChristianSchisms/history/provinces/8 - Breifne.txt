@@ -24,3 +24,6 @@ religion = orthodox
 	b_dromahair = castle
 	b_cavan = city
 }
+1054.1.1 = {
+	religion = catholic
+}

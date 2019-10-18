@@ -24,3 +24,6 @@ religion = orthodox
 	b_killarney = city
 	max_settlements = 4
 }
+1054.1.1 = {
+	religion = catholic
+}

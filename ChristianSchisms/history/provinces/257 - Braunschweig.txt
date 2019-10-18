@@ -25,4 +25,8 @@ religion = norse_pagan
 	b_hildesheim = city
 	b_bielefeld = city
 }
+1054.1.1 = {
+	religion = catholic
+}
+
 1127.1.1 = { b_waldeck = castle }

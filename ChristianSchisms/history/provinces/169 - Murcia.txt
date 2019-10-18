@@ -29,5 +29,5 @@ religion = orthodox
 
 1281.1.1 = {
 	culture = castillan
-	religion = orthodox
+	religion = catholic
 }

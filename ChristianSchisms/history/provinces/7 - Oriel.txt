@@ -25,3 +25,6 @@ religion = orthodox
 	b_clones = castle
 	b_dundalk = city
 }
+1054.1.1 = {
+	religion = catholic
+}

@@ -17,4 +17,7 @@ religion = orthodox
 867.1.1 = {
 	capital = b_ciridale
 }
+1054.1.1 = {
+	religion = catholic
+}
 1066.1.1 = { culture = italian }

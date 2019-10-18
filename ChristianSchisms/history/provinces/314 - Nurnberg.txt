@@ -20,5 +20,8 @@ culture = german
 religion = orthodox
 
 # History
+1054.1.1 = {
+	religion = catholic
+}
 ## Nuremburg was Kaiserburg, inofficial capial
 1187.1.1 = { b_hohenburg = castle }

@@ -27,3 +27,6 @@ religion = slavic_pagan
 	b_dobsina = city
 	b_losonc = temple
 }
+1054.1.1 = {
+	religion = catholic
+}

@@ -25,6 +25,9 @@ religion = orthodox
 	culture = saxon 
 	religion = orthodox
 }
+1054.1.1 = {
+	religion = catholic
+}
 1100.11.11 = { culture = english }
 1187.1.1 = { b_pontefract = castle } 
 1330.1.1 = { remove_settlement = b_pontefract } 

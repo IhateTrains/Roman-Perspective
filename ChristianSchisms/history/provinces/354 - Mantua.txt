@@ -19,5 +19,8 @@ culture = italian
 religion = orthodox
 
 # History
+1054.1.1 = {
+	religion = catholic
+}
 1115.7.24 = { capital = b_castellucchio }
 1220.1.1 = { capital = b_mantua }

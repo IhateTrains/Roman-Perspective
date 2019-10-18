@@ -23,8 +23,7 @@ religion = orthodox
 	culture = andalusian_arabic
 	religion = sunni
 }
-
 1163.1.1 = {
 	culture = portuguese
-	religion = orthodox
+	religion = catholic
 }

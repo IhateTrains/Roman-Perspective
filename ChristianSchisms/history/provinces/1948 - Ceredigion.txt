@@ -20,4 +20,7 @@ religion = orthodox
 terrain = hills
 
 # History
+1054.1.1 = {
+	religion = catholic
+}
 1109.1.1 = { b_aberystwyth = castle }

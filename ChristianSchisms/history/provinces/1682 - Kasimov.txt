@@ -17,5 +17,8 @@ terrain = arctic
 # History
 #650.1.1 = {
 #	culture = russian
-#	religion = orthodox
+#	religion = catholic
 #}
+1054.1.1 = {
+	religion = catholic
+}

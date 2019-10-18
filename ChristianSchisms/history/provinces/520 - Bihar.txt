@@ -35,3 +35,6 @@ religion = tengri_pagan
 	b_bihar = castle
 	b_debrecen = city
 }
+1054.1.1 = {
+	religion = catholic
+}

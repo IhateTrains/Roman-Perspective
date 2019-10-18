@@ -26,3 +26,6 @@ religion = slavic_pagan
 	b_piotrkow = temple
 	b_przedborz = city
 }
+1054.1.1 = {
+	religion = catholic
+}

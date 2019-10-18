@@ -16,3 +16,6 @@ religion = orthodox
 	b_cruachu = castle
 	b_delbna = city
 }
+1054.1.1 = {
+	religion = catholic
+}

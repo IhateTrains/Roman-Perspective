@@ -24,4 +24,7 @@ religion = slavic_pagan
 	b_wroclaw = castle
 	b_legnica = city
 }
+1054.1.1 = {
+	religion = catholic
+}
 1250.1.1 = { culture = german }

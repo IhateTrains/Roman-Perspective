@@ -38,10 +38,11 @@ religion = orthodox
 
 898.1.1 = {
 	culture=italian
-	religion=orthodox
 }
 1000.1.1 = { culture = lombard }
-
+1054.1.1 = {
+	religion = catholic
+}
 1076.12.13={
 	remove_settlement=b_amalfi
 	b_tramonti=city

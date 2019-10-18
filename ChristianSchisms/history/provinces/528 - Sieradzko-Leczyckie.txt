@@ -27,6 +27,9 @@ religion = slavic_pagan
 	b_warszawa = city
 	b_lowicz = temple
 }
+1054.1.1 = {
+	religion = catholic
+}
 1150.1.1 = {
 	b_czersk = castle
 }

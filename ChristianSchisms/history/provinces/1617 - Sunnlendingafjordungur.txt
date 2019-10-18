@@ -37,3 +37,6 @@ terrain = arctic
 	culture = norwegian
 	religion = orthodox
 }
+1054.1.1 = {
+	religion = catholic
+}

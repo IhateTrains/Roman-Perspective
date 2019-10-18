@@ -38,7 +38,9 @@ religion = orthodox
 950.1.1 = {
 	culture = castillan
 }
-
+1054.1.1 = {
+	religion = catholic
+}
 1108.1.1 = { capital = b_norena }
 
 1108.1.1 = { b_oviedo = temple }

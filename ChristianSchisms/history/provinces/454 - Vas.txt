@@ -43,3 +43,6 @@ religion = slavic_pagan
 	b_szombathely = castle
 	b_vasvar = city
 }
+1054.1.1 = {
+	religion = catholic
+}

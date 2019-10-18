@@ -21,4 +21,7 @@ religion = orthodox
 
 # History
 790.1.1 = { culture = german }
+1054.1.1 = {
+	religion = catholic
+}
 1187.1.1 = { b_luneville = castle }

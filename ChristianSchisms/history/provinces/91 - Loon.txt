@@ -26,4 +26,7 @@ religion = orthodox
 	b_loon = castle
 	capital = b_loon
 }
+1054.1.1 = {
+	religion = catholic
+}
 1083.1.1 = { b_heinsberg = castle }

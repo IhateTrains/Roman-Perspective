@@ -28,3 +28,6 @@ religion = slavic_pagan
 	b_eperjes = city
 	b_kisszeben = temple
 }
+1054.1.1 = {
+	religion = catholic
+}

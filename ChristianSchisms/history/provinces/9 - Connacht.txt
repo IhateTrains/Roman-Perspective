@@ -25,3 +25,6 @@ terrain = hills
 	b_roscommon = castle
 	b_galway = city
 }
+1054.1.1 = {
+	religion = catholic
+}

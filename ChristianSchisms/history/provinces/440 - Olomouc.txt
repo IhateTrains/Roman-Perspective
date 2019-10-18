@@ -33,6 +33,9 @@ religion = slavic_pagan
 	b_svaty_kopecek = temple
 	b_prerov = castle
 }
+1054.1.1 = {
+	religion = catholic
+}
 1055.1.1 = {
 	culture = bohemian
 }

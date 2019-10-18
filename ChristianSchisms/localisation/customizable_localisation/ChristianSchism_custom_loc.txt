@@ -54,7 +54,7 @@ defined_text = {
 	use_first_valid = yes
 	text = {
 		trigger = {
-			ROOT = {
+			any_player = {
 				OR = {
 					rightful_religious_head_scope = { k_papal_state = { holder_scope = { character = PREVPREV } } } #Catholic or Orthodox allegiant to the Pope
 					religion = fraticelli

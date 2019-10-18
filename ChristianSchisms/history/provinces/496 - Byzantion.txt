@@ -88,6 +88,39 @@ religion = orthodox
 	b_pempton = ct_shipyard_2
 	b_pempton = ct_shipyard_3
 	b_pempton = ct_shipyard_4
+	effect = {
+		set_variable = {
+			which = "schism_tracker"
+			value = 0
+		}
+	}
+}
+
+800.12.25 = {
+	effect = {
+		change_variable = {
+			which = "schism_tracker"
+			value = 1
+		}
+	}
+}
+1000.1.1 = {
+	set_global_flag = eucharist_conflict
+	effect = {
+		change_variable = {
+			which = "schism_tracker"
+			value = 1
+		}
+	}
+}
+1014.1.1 = {
+	set_global_flag = filioque_adopted
+	effect = {
+		change_variable = {
+			which = "schism_tracker"
+			value = 1
+		}
+	}
 }
 
 1181.1.1 = { trade_post = b_ziani }

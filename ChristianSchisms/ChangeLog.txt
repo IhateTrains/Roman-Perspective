@@ -1,3 +1,4 @@
+2019-10-19 v0.1:
 - Merged e_byzantium and e_roman_empire tags. There's no reason to have two tags for the same state.
 - Added a new flag based on the Chi-Rho symbol for the Roman Empire. Integrated from the Project Augustus mod.
 - Added Michael III as the Roman Emperor in vanilla The Old Gods bookmark. Added a new bookmark called The Macedonian which focuses on Basil I. Integrated from the Project Augustus mod.
@@ -8,3 +9,5 @@
 - Made the Roman Empire hold Brindisi between 1067 and 1070, Taranto in 1067 and Otranto in 1068.
 - Added Stephen Pateranos, Catepan of Italy. Integrated from the Project Augustus mod.
 - Added Abulchares and Leo Perenos, Catepans of Italy.
+- Added an ability to mend the Chalcedonian and Nestorian schisms.
+- Added more requirements to forming the early HRE.

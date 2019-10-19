@@ -1,4 +1,4 @@
-# Christian-Schisms
+# Roman Perspective
 A mod for Crusader Kings 2.
 
 Credits:

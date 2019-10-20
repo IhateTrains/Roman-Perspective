@@ -1,3 +1,6 @@
+2019-10-20 v0.2:
+- CK2 3.3.0 compatibility.
+
 2019-10-19 v0.1:
 - Merged e_byzantium and e_roman_empire tags. There's no reason to have two tags for the same state.
 - Added a new flag based on the Chi-Rho symbol for the Roman Empire. Integrated from the Project Augustus mod.

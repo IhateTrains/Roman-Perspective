@@ -6715,7 +6715,7 @@
 }
 221100={
 	name=Adaloald
-	dynasty=1061087
+	dynasty=1062609
 	female=no
 	religion=orthodox
 	culture=lombard

@@ -244,6 +244,8 @@ character_event = {
 	id = GreatSchism.002
 	hide_window = yes
 	is_triggered_only = yes #on_startup on-action
+	
+	ai = no
 
 	immediate = {
 		e_roman_empire = { set_name = ROMAN_EMPIRE_DYNAMIC_NAME }

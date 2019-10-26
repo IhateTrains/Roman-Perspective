@@ -1,5 +1,6 @@
-unreleased:
-- Minor optimisation.
+2019-10-26 v0.3:
+- Minor event optimisation.
+- Fixed errors related to the emperor Michael III.
 
 2019-10-20 v0.2:
 - CK2 3.3.0 compatibility.

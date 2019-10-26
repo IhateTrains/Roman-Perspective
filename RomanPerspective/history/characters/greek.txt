@@ -8636,15 +8636,13 @@
 	}
 	866.9.24={
 		give_nickname = nick_the_drunkard
+	}
+	867.9.24={
 		death = {
 			death_reason = death_murder
 			killer = 1700 # Basil "the Macedonian"
 		}
 	}
-# The historical date, but since the bookmark starts on January 1, moved back.
-#	867.9.24={
-#		death="867.9.24"
-#	}
 }
 
 70491 = {

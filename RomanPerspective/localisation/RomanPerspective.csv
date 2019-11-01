@@ -22,3 +22,6 @@ ROMAN_EMPIRE_DYNAMIC_NAME;[GetByzantineRomanEmpire];Empire romain;Römisches Reic
 String_Byzantine_Empire;Empire of the Greeks;;;;;;;;;;;;;;x
 String_Roman_Empire;Roman Empire;;;;;;;;;;;;;;x
 GreatSchism.001.title;The Great Schism;;;;;;;;;;;;;;x
+#Landed titles
+d_seleukeia;Seleukeia;;;;;;;;;;;;;;x
+d_seleukeia_adj;Seleukeian;séleukéiane;Seleukisch;;Seleukeianense;;;;;;;;;x

@@ -1,0 +1,10 @@
+d_seleukeia = {
+	color={ 165 80 105 }
+	color2={ 255 255 255 }
+	
+	capital = 758 # Seleukeia
+	
+	culture = greek
+	
+	turkish = "Silifke"
+}

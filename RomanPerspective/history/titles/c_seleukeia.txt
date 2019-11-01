@@ -10,17 +10,18 @@
 850.1.1={
 	holder=145147
 }
+934.1.1 = {
+	de_jure_liege = d_seleukeia
+}
 936.1.1 = {
 	holder = 145153
-}
-965.1.1={
-	liege="d_armenia_minor"
 }
 1060.1.1={
 	holder=70440
 }
 1071.1.1={
 	holder=41589
+	liege="d_armenia_minor"
 }
 1072.1.1={
 	holder=41590
@@ -34,8 +35,15 @@
 1113.1.1={
 	holder=232578
 }
+1137.1.1 = {
+	liege = "e_roman_empire"
+}
 1149.1.1={
 	holder=232581
+}
+1151.1.1 = {
+	de_jure_liege = d_armenia_minor
+	liege = d_armenia_minor
 }
 1180.1.1={
 	holder=232592

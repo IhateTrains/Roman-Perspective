@@ -1,5 +1,6 @@
 next:
 - Fixed historical events prior to game start not impacting the Schism
+- Added a historical theme of Seleukeia, created sometime in the reign of Romanos I Lekapenos
 
 2019-10-26 v0.3:
 - Minor event optimisation.

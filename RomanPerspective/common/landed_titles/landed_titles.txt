@@ -7178,6 +7178,33 @@ e_roman_empire = {
 				b_marathon = {
 				}
 			}
+			
+			c_euboia = {
+				color={ 151 59 119 }
+				color2={ 255 255 20 }
+				
+				italian = "Negroponte"
+				turkish = "Egriboz"
+				
+				b_chalkis = {
+					italian = "Negroponte"
+					turkish = "Egriboz"
+				}
+				b_kymi = {
+				}
+				b_karystos = {
+				}
+				b_oreoi = {
+				}
+				b_artemisio = {
+				}
+				b_istiaia = {
+				}
+				b_lilantia = {
+				}
+				b_messapia = {
+				}
+			}
 		}
 		
 		d_achaia = {
@@ -7308,32 +7335,6 @@ e_roman_empire = {
 				b_kastraki = {
 				}
 				b_filoti = {
-				}
-			}
-			c_euboia = {
-				color={ 151 59 119 }
-				color2={ 255 255 20 }
-				
-				italian = "Negroponte"
-				turkish = "Egriboz"
-				
-				b_chalkis = {
-					italian = "Negroponte"
-					turkish = "Egriboz"
-				}
-				b_kymi = {
-				}
-				b_karystos = {
-				}
-				b_oreoi = {
-				}
-				b_artemisio = {
-				}
-				b_istiaia = {
-				}
-				b_lilantia = {
-				}
-				b_messapia = {
 				}
 			}
 		}

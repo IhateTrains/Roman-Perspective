@@ -5,6 +5,7 @@ next:
 - Added a Wikipedia link for Eudokia Makrembolitissa
 - Added a Wikipedia link for Andronikos Doukas, son of Constantine X
 - Added a Wikipedia link for Konstantios Doukas, son of Constantine X
+- Moved Euboia from the theme of Aegean Sea to the theme of Hellas
 
 2019-10-26 v0.3:
 - Minor event optimisation.

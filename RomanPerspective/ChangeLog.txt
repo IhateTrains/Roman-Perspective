@@ -2,6 +2,9 @@ next:
 - Fixed historical events prior to game start not impacting the Schism
 - Added a historical theme of Seleukeia, created sometime in the reign of Romanos I Lekapenos
 - Added a Wikipedia link for Nikephoros Phokas Barytrachelos and fixed his death date
+- Added a Wikipedia link for Eudokia Makrembolitissa
+- Added a Wikipedia link for Andronikos Doukas, son of Constantine X
+- Added a Wikipedia link for Konstantios Doukas, son of Constantine X
 
 2019-10-26 v0.3:
 - Minor event optimisation.

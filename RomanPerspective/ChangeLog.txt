@@ -1,3 +1,6 @@
+next:
+- Fixed historical events prior to game start not impacting the Schism
+
 2019-10-26 v0.3:
 - Minor event optimisation.
 - Fixed errors related to the emperor Michael III.

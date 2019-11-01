@@ -1,5 +1,13 @@
 10.1.1={
 	liege="e_roman_empire"
+	effect = {
+		496 = {
+			set_variable = {
+				which = "schism_tracker"
+				value = 0
+			}
+		}
+	}
 }
 38.1.1={
 	holder=70599
@@ -264,6 +272,16 @@
 784.12.25={
 	holder=145043
 }
+800.12.25 = {
+	effect = {
+		496 = {
+			change_variable = {
+				which = "schism_tracker" # coronation of Charlemagne
+				value = 1
+			}
+		}
+	}
+}
 806.2.18={
 	holder=70558
 }
@@ -332,6 +350,28 @@
 }
 1000.1.1={
 	holder=70544
+}
+1000.1.1 = {
+	set_global_flag = eucharist_conflict
+	effect = {
+		496 = {
+			change_variable = {
+				which = "schism_tracker"
+				value = 1
+			}
+		}
+	}
+}
+1014.1.1 = {
+	set_global_flag = filioque_adopted
+	effect = {
+		496 = {
+			change_variable = {
+				which = "schism_tracker"
+				value = 1
+			}
+		}
+	}
 }
 1019.7.1={
 	holder=70543

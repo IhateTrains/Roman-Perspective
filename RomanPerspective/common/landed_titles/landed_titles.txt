@@ -7337,6 +7337,32 @@ e_roman_empire = {
 				b_filoti = {
 				}
 			}
+			
+			c_chios = {
+				color={ 243 48 177 }
+				color2={ 255 255 20 }
+				
+				turkish = "Sisam"
+				
+				b_samos = {
+					turkish = "Sisam"
+				}
+				b_chios = {
+					turkish = "Sakiz"
+				}
+				b_tigani = {
+				}
+				b_marathokampos = {
+				}
+				b_ikaria = {
+				}
+				b_fourni = {
+				}
+				b_chrysostomos = {
+				}
+				b_pagondas = {
+				}
+			}
 		}
 		
 		d_krete = {
@@ -7810,31 +7836,6 @@ e_roman_empire = {
 				b_kydonia = {
 				}
 				b_erythrai = {
-				}
-			}
-			c_chios = {
-				color={ 243 48 177 }
-				color2={ 255 255 20 }
-				
-				turkish = "Sisam"
-				
-				b_samos = {
-					turkish = "Sisam"
-				}
-				b_chios = {
-					turkish = "Sakiz"
-				}
-				b_tigani = {
-				}
-				b_marathokampos = {
-				}
-				b_ikaria = {
-				}
-				b_fourni = {
-				}
-				b_chrysostomos = {
-				}
-				b_pagondas = {
 				}
 			}
 		}

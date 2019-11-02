@@ -1,12 +1,11 @@
 330.1.1={
-	liege="d_samos"
+	liege=d_aegean_islands
 }
 764.1.1={
 	holder=145833
 }
 865.1.1={
 	holder=145112
-	liege="d_aegean_islands"
 }
 936.1.1 = {
 	holder = 260816
@@ -29,7 +28,7 @@
 	holder=20518
 }
 1095.1.1={
-	liege="d_samos"
+	liege=d_aegean_islands
 }
 1108.1.1={
 	holder=215509

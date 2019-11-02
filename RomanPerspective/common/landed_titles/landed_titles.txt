@@ -6821,30 +6821,6 @@ e_roman_empire = {
 				b_arisbe = {
 				}
 			}
-			c_lesbos = {
-				color={ 153 61 121 }
-				color2={ 255 255 20 }
-				
-				turkish = "Midilli"
-				
-				b_mytilene = {
-					turkish = "Midilli"
-				}
-				b_mithymna = {
-				}
-				b_plomari = {
-				}
-				b_agiasos = {
-				}
-				b_eresos = {
-				}
-				b_kalloni = {
-				}
-				b_thasos = {
-				}
-				b_moudros = {
-				}
-			}
 		}
 		
 		d_thrace = {
@@ -7361,6 +7337,31 @@ e_roman_empire = {
 				b_chrysostomos = {
 				}
 				b_pagondas = {
+				}
+			}
+			
+			c_lesbos = {
+				color={ 153 61 121 }
+				color2={ 255 255 20 }
+				
+				turkish = "Midilli"
+				
+				b_mytilene = {
+					turkish = "Midilli"
+				}
+				b_mithymna = {
+				}
+				b_plomari = {
+				}
+				b_agiasos = {
+				}
+				b_eresos = {
+				}
+				b_kalloni = {
+				}
+				b_thasos = {
+				}
+				b_moudros = {
 				}
 			}
 		}

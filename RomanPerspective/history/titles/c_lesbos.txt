@@ -1,5 +1,5 @@
 330.1.1={
-	liege="d_abydos"
+	liege=d_aegean_islands
 }
 755.1.1={
 	holder=145820
@@ -9,24 +9,18 @@
 }
 936.1.1 = {
 	holder = 250803
-	liege = d_aegean_islands
 }
 1060.1.1={
 	holder=1733
-	liege = d_abydos
 }
 1070.1.1={
 	holder=20514
 }
 1090.1.1={
-	liege = "d_samos"
 	holder=34262
 }
 1092.1.1={
         holder=34264
-}
-1093.1.1={
-	liege="d_abydos"
 }
 1093.1.1={
 	holder = 20514

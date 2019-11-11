@@ -188,7 +188,7 @@ narrative_event = {
 			}
 			religion = catholic
 			holder_scope = {
-				religion = catholic
+				unsafe_religion = catholic
 				set_character_flag = schism_decided_side
 			}
 		}

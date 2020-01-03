@@ -1,0 +1,18 @@
+name = "Aghlabid Conquest of Sicily"
+
+casus_belli = {
+	actor = 163096 # Muhammed II of Aghlabids
+	recipient = 70490 # Michael III of the Roman Empire
+	casus_belli=religious
+	landed_title=d_sicily
+	date=867.1.1
+}
+
+867.1.1 = {
+	add_attacker = 163096
+	add_defender = 70490
+}
+867.9.24={
+	rem_attacker = 163096
+	rem_defender = 70490
+}

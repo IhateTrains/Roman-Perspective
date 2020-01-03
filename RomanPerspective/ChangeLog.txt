@@ -1,9 +1,10 @@
-next:
+2020-01-03 v0.5:
 - Tweaks to Orthodox organization
 - Added a historical Patriarch of Antioch between 1062 and 1075
 - Moved Chios from the theme of Samos to the theme of Aegean Sea
 - Moved Lesbos from the theme of Abydos to the theme of Aegean Sea
 - Fixed the conversion of holy order leaders
+- Fixed Aghlabid conquest of Sicily ending inconclusively in the Viking Age bookmark
 
 2019-11-01 v0.4:
 - Fixed historical events prior to game start not impacting the Schism
